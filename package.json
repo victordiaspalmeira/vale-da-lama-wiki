@@ -1,0 +1,18 @@
+{
+  "name": "wiki-vale-da-lama",
+  "version": "1.0.0",
+  "description": "Wiki estática da campanha Pathfinder 2e Remaster - Vale da Lama",
+  "private": true,
+  "scripts": {
+    "build": "quartz build",
+    "serve": "quartz build --serve",
+    "deploy": "quartz deploy"
+  },
+  "dependencies": {
+    "quartz": "^4.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
