@@ -1,6 +1,11 @@
-import { QuartzConfig } from "quartz"
-import { CrawlLinks } from "./quartz.plugins.ts" // placeholder, Quartz v4 uses internal plugins
+import { QuartzConfig } from "./quartz/cfg"
+import * as Plugin from "./quartz/plugins"
 
+/**
+ * Quartz 4 Configuration
+ *
+ * See https://quartz.jzhao.xyz/configuration for more information.
+ */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Wiki do Vale da Lama",
@@ -8,10 +13,13 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    baseUrl: "https://victordiaspalmeira.github.io/vale-da-lama-wiki",
+    locale: "pt-BR",
+    baseUrl: "victordiaspalmeira.github.io/vale-da-lama-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
+      fontOrigin: "googleFonts",
+      cdnCaching: true,
       typography: {
         header: "Source Sans Pro",
         body: "Source Sans Pro",
@@ -20,9 +28,10 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#fafaf8",
-          lightGray: "#e4e4e7",
-          darkGray: "#78716c",
-          dark: "#1c1917",
+          lightgray: "#e4e4e7",
+          gray: "#78716c",
+          darkgray: "#1c1917",
+          dark: "#0f0d0a",
           secondary: "#2a231e",
           tertiary: "#3d322b",
           highlight: "rgba(187, 147, 61, 0.15)",
@@ -30,37 +39,56 @@ const config: QuartzConfig = {
         },
         darkMode: {
           light: "#1a1612",
-          lightGray: "#3d322b",
-          darkGray: "#a8a29e",
-          dark: "#e4e4e7",
+          lightgray: "#3d322b",
+          gray: "#a8a29e",
+          darkgray: "#e4e4e7",
+          dark: "#fafaf8",
           secondary: "#4a3f34",
           tertiary: "#2a231e",
           highlight: "rgba(187, 147, 61, 0.25)",
           textHighlight: "#3e2f0d",
         },
       },
-      fontOrigin: "googleFonts",
-    },
-  },
-  localization: {
-    defaultLocale: "pt-BR",
-    locales: {
-      "pt-BR": {
-        direction: "ltr",
-        language: "pt-BR",
-        dateLocale: "pt-BR",
-      },
     },
   },
   plugins: {
     transformers: [
-      // Transformers padrão do Quartz v4
+      Plugin.FrontMatter(),
+      Plugin.CreatedModifiedDate({
+        priority: ["frontmatter", "git", "filesystem"],
+      }),
+      Plugin.SyntaxHighlighting({
+        theme: {
+          light: "github-light",
+          dark: "github-dark",
+        },
+        keepBackground: false,
+      }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.GitHubFlavoredMarkdown(),
+      Plugin.TableOfContents(),
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.Description(),
+      Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [],
-    emitters: [],
-    // CrawlLinks habilitado para wikilinks funcionarem entre pastas
-    // Em Quartz v4, o CrawlLinks é configurado via plugins emitters/filters
-    // Aqui deixamos a marcação para o build resolver corretamente
+    filters: [Plugin.RemoveDrafts()],
+    emitters: [
+      Plugin.AliasRedirects(),
+      Plugin.ComponentResources(),
+      Plugin.ContentPage(),
+      Plugin.FolderPage(),
+      Plugin.TagPage(),
+      Plugin.ContentIndex({
+        enableSiteMap: true,
+        enableRSS: true,
+      }),
+      Plugin.Assets(),
+      Plugin.Static(),
+      Plugin.Favicon(),
+      Plugin.NotFoundPage(),
+      // Comment out CustomOgImages to speed up build time
+      Plugin.CustomOgImages(),
+    ],
   },
 }
 
