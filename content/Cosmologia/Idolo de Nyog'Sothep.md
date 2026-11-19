@@ -11,31 +11,29 @@ aliases: ["Ídolo de Nyog'Sothep", "Ídolo de Madeira", "O Ídolo"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Relíquia sagrada de madeira</td></tr>
-    <tr><td><b>Forma</b></td><td>Mosca detalhada sobre a boca aberta de um sapo</td></tr>
-    <tr><td><b>Origem</b></td><td>Minas das <a href="../Geografia/Montanhas-do-Oeste" class="internal">Montanhas do Oeste</a></td></tr>
-    <tr><td><b>Local Atual</b></td><td><a href="../Geografia/Jardim-Dourado" class="internal">Jardim Dourado</a> (<a href="../Geografia/Raiz-Funda" class="internal">Raiz-Funda</a>)</td></tr>
-    <tr><td><b>Guarda</b></td><td>Ordem própria subordinada ao alto clero</td></tr>
-    <tr><td><b>Acesso</b></td><td>Apenas alto clero</td></tr>
-    <tr><td><b>Propriedade</b></td><td>Produz <a href="../Cosmologia/Musgo-Dourado" class="internal">Musgo Dourado</a></td></tr>
+    <tr><td><b>Praticantes</b></td><td>Alto clero dos <a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
+    <tr><td><b>Ligação Espiritual</b></td><td><a href="../Cosmologia/Nyog'Sothep" class="internal">Nyog'Sothep</a> (produz <a href="../Cosmologia/Musgo-Dourado" class="internal">Musgo Dourado</a>)</td></tr>
+    <tr><td><b>Local / Uso</b></td><td><a href="../Geografia/Jardim-Dourado" class="internal">Jardim Dourado</a> (<a href="../Geografia/Raiz-Funda" class="internal">Raiz-Funda</a>)</td></tr>
+    <tr><td><b>Status</b></td><td>Ativo (acesso restrito ao alto clero)</td></tr>
   </table>
 </div>
 
 # Ídolo de Nyog'Sothep
 
-## Descrição
-
 O **Ídolo de Nyog'Sothep** é a relíquia fundadora da fé dos [[Tribos/Masca-Musgo|Masca-Musgo]]: uma escultura antiga de madeira representando uma **mosca extremamente detalhada**, repousando sobre a **boca aberta de um sapo de madeira menos detalhado**.
 
+## Natureza e Funcionamento
 O ídolo produz pequenas quantidades de [[Cosmologia/Musgo Dourado|Musgo Dourado]] dentro de si e nos seus arredores.
 
-## História: A Descoberta nas Minas
-
+## Origem e Tradição
 Durante a era de escravidão sob os [[Tribos/Povo Dragão|Dragões Vermelhos]], os Goblins descobriram o ídolo em uma câmara escavada dentro das minas das [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]]. Ao mastigarem o Musgo Dourado que brotava da peça, receberam **intensas visões febris** que revelaram o caminho para se livrarem da escravidão eterna — dando início aos vinte anos de sabotagem com esporos e à [[Historia/A Grande Morte Lenta|Grande Morte Lenta]].
 
-## Situação Atual
-
+## Prática e Tabus
 Após a fuga e a Primeira Caçada Sagrada, a relíquia foi trazida para o [[Geografia/Vale da Lama|Vale da Lama]]. Hoje, o Ídolo permanece guardado no interior do **[[Geografia/Jardim Dourado|Jardim Dourado]]** em [[Geografia/Raiz-Funda|Raiz-Funda]], protegido por uma **ordem própria de guardas subordinada diretamente ao alto clero** (independente da guarda regular de [[NPCs/Varga|Varga]]) e acessível **apenas a membros do alto clero** (como o [[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]).
+
+## O que se Conta pelo Pântano
+*A preencher.*
 
 ---
 
-**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Geografia/Jardim Dourado|Jardim Dourado]], [[Historia/A Grande Morte Lenta|A Grande Morte Lenta]], [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]
+**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Musgo Dourado|Musgo Dourado]] | [[Geografia/Jardim Dourado|Jardim Dourado]] | [[Historia/A Grande Morte Lenta|A Grande Morte Lenta]] | [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]

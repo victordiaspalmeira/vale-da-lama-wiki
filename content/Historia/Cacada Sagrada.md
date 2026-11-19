@@ -11,31 +11,33 @@ aliases: ["Caçada Sagrada", "Primeira Caçada Sagrada", "Caçadas Sagradas"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Tradição histórica e rito de iniciação</td></tr>
-    <tr><td><b>Origem</b></td><td><a href="../Historia/A-Grande-Morte-Lenta" class="internal">Primeira Caçada Sagrada</a></td></tr>
-    <tr><td><b>Praticantes</b></td><td><a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
-    <tr><td><b>Liderança</b></td><td><a href="../NPCs/Kruk" class="internal">Kruk</a> (disputada por <a href="../NPCs/Grixa" class="internal">Grixa</a>)</td></tr>
-    <tr><td><b>Leis</b></td><td><a href="../Cosmologia/Lei-da-Troca" class="internal">Lei da Troca</a>, <a href="../Cosmologia/Codigo-de-Honra-do-Fogo" class="internal">Código do Fogo</a>, Ninhadas</td></tr>
+    <tr><td><b>Época / Duração</b></td><td>Desde o fim da <a href="../Historia/A-Grande-Morte-Lenta" class="internal">Grande Morte Lenta</a> (contínua)</td></tr>
+    <tr><td><b>Local</b></td><td><a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a></td></tr>
+    <tr><td><b>Participantes</b></td><td><a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a> (<a href="../NPCs/Kruk" class="internal">Kruk</a> / <a href="../NPCs/Grixa" class="internal">Grixa</a>)</td></tr>
+    <tr><td><b>Desfecho</b></td><td>Passagem dos jovens iniciados à vida adulta</td></tr>
   </table>
 </div>
 
 # A Caçada Sagrada
 
-## Descrição
-
 A **Caçada Sagrada** é o rito tradicional de provação e coleta dos [[Tribos/Masca-Musgo|Masca-Musgo]] no [[Geografia/Vale da Lama|Vale da Lama]]. Para jovens iniciados, completar uma caçada honrada marca sua passagem definitiva para a vida adulta dentro de [[Geografia/Raiz-Funda|Raiz-Funda]].
 
-## Origem: A Primeira Caçada Sagrada
-
+## Antecedentes
 A tradição nasceu ao final da **[[Historia/A Grande Morte Lenta|Grande Morte Lenta]]**. Após derrotarem os [[Tribos/Povo Dragão|Dragões Vermelhos]] na Batalha da Lua Nova, os Goblins abandonaram seus antigos lares nas [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] para perseguir e exterminar cada Dragão que havia fugido para o leste — culminando na queda da Matriarca nas águas do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
-## Leis da Caçada
-
+## O Decorrer dos Acontecimentos
 Toda expedição guiada por [[NPCs/Kruk|Kruk]] (Mestre dos Caçadores) ou [[NPCs/Grixa|Grixa]] deve obedecer a três princípios invioláveis:
 
 1. **Reciprocidade:** Respeitar a [[Cosmologia/Lei da Troca|Lei da Troca]], devolvendo o primeiro pedaço cru do coração da presa abatida ao musgo para honrar o ciclo.
 2. **Sem Fogo em Combate:** Jamais usar fogo, tochas ou magias incendiárias na caçada ([[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]).
 3. **Ninhadas vs. Territórios Sagrados:** Respeitar as [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|regras de desova]], nunca exterminando toda a prole de uma ninhada e jamais caçando em Territórios Sagrados de Desova.
 
+## Consequências
+*A preencher.*
+
+## Legado no Vale
+*A preencher.*
+
 ---
 
-**Veja também:** [[Historia/A Grande Morte Lenta|A Grande Morte Lenta]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[NPCs/Kruk|Kruk]], [[NPCs/Grixa|Grixa]], [[Deuses-Fera/Deus-Fera|Deus-Fera]]
+**Veja também:** [[Historia/A Grande Morte Lenta|A Grande Morte Lenta]] | [[Tribos/Masca-Musgo|Masca-Musgo]] | [[NPCs/Kruk|Kruk]] | [[NPCs/Grixa|Grixa]] | [[Deuses-Fera/Deus-Fera|Deus-Fera]]

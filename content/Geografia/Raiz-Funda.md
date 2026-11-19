@@ -13,32 +13,29 @@ aliases: ["Aldeia de Raiz-Funda", "Raiz-Funda"]
   <table>
     <tr><td><b>Tipo</b></td><td>Aldeia em Cogumelos Nodosos e palafitas</td></tr>
     <tr><td><b>Região</b></td><td>Setor Oeste do <a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a></td></tr>
-    <tr><td><b>Facção Dominante</b></td><td><a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
-    <tr><td><b>Liderança</b></td><td><a href="../NPCs/Sacerdote-Chefe-Malok" class="internal">Malok</a>, <a href="../NPCs/Vó-Mofo-Velho" class="internal">Vó Mofo-Velho</a>, <a href="../NPCs/Velho-Rói-Raiz" class="internal">Velho Rói-Raiz</a></td></tr>
-    <tr><td><b>Guarda</b></td><td><a href="../NPCs/Varga" class="internal">Varga (Capitã da Guarda)</a></td></tr>
-    <tr><td><b>Locais</b></td><td>Forja de Gnarl, Jardim Dourado, Casa do Ancião, Cais</td></tr>
+    <tr><td><b>Status</b></td><td>Ativo</td></tr>
+    <tr><td><b>Facção</b></td><td><a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
+    <tr><td><b>Devoção</b></td><td><a href="../Cosmologia/Nyog'Sothep" class="internal">Nyog'Sothep</a></td></tr>
+    <tr><td><b>Perigo</b></td><td>Médio para forasteiros (trilhas ocultas e armadilhas)</td></tr>
   </table>
 </div>
 
 # Raiz-Funda
 
-## Descrição
+**Raiz-Funda** é a aldeia principal dos [[Tribos/Masca-Musgo|Masca-Musgo]], erguida no coração do setor oeste do [[Geografia/Vale da Lama|Vale da Lama]].
 
-**Raiz-Funda** é a aldeia principal dos [[Tribos/Masca-Musgo|Masca-Musgo]], erguida no coração do setor oeste do [[Geografia/Vale da Lama|Vale da Lama]] entre as raízes colossais de um mangue ancestral e imensos **Cogumelos Nodosos**. A aldeia é feita primariamente de habitações escavadas no interior desses cogumelos gigantes, complementadas por palafitas tecidas com madeira de mangue, cipós trançados e tábuas impermeabilizadas com resina, todas interligadas por passarelas estreitas e pontes de corda suspensas sobre canais de lama profunda.
+## Geografia e Ambiente
+A aldeia foi erguida entre as raízes colossais de um mangue ancestral e imensos **Cogumelos Nodosos**. É feita primariamente de habitações escavadas no interior desses cogumelos gigantes, complementadas por palafitas tecidas com madeira de mangue, cipós trançados e tábuas impermeabilizadas com resina, todas interligadas por passarelas estreitas e pontes de corda suspensas sobre canais de lama profunda.
 
-## Defesas Naturais e Vigilância
+## História
+Fundada pelos sobreviventes da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] após a travessia das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] para o leste.
 
-- **Lama Espessa:** Ao redor da aldeia, o brejo não oferece apoio firme; quem desconhece as trilhas submersas marcadas por estacas de osso afunda rapidamente.
-- **Vigias nas Raízes:** Batedores sob comando de [[NPCs/Varga|Varga]] observam os arredores do alto das arcadas superiores, comunicando-se por assobios que imitam aves e anfíbios do pântano.
-- **Armadilhas de Brejo:** Redes de cipó trançado e estacas de osso ocultas sob a lâmina d'água nas abordagens periféricas.
-
-## Pontos de Interesse
+## Sociedade e Pontos de Interesse
 
 ### A Forja Periférica de Gnarl
 Localizada em uma ilhota de pedra e barro batido na borda externa da aldeia — isolada das raízes vivas e das casas de madeira para respeitar o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]. Ali, [[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]] mantém sua forja baixa cercada de água para trabalhar metal recuperado, além de fabricar armas de osso curado e madeira de mangue.
 
 ### O Jardim Dourado
-
 O santuário abobadado de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] no coração da aldeia, sob as arcadas de mangue, guardado pelos coveiros-sacerdotes [[NPCs/Irmãos Snakk e Drig|Snakk e Drig]]. Veja a página completa em [[Geografia/Jardim Dourado|O Jardim Dourado]].
 
 ### A Casa do Ancião
@@ -47,7 +44,7 @@ Uma estrutura ampla entrelaçada entre três raízes-mestras no nível intermedi
 ### O Cais das Jangadas e Oficinas
 Onde [[NPCs/Torg|Torg]] constrói e repara jangadas de fundo chato e [[NPCs/Birka|Birka]], a Mão-Ácida mantém seus tonéis de fermentação, curtume de peles e preparação alquímica.
 
-## Moradores e Líderes
+### Moradores e Líderes
 
 | Personagem | Função / Cargo | Área |
 |------------|----------------|------|
@@ -64,6 +61,14 @@ Onde [[NPCs/Torg|Torg]] constrói e repara jangadas de fundo chato e [[NPCs/Birk
 | [[NPCs/Velho Rói-Raiz\|Velho Rói-Raiz]] | Juiz das Disputas | Anciãos |
 | [[NPCs/Snikk\|Snikk]] | Curandeiro-Chefe | Cura |
 
+## Perigos e Recursos
+- **Lama Espessa:** Ao redor da aldeia, o brejo não oferece apoio firme; quem desconhece as trilhas submersas marcadas por estacas de osso afunda rapidamente.
+- **Vigias nas Raízes:** Batedores sob comando de [[NPCs/Varga|Varga]] observam os arredores do alto das arcadas superiores, comunicando-se por assobios que imitam aves e anfíbios do pântano.
+- **Armadilhas de Brejo:** Redes de cipó trançado e estacas de osso ocultas sob a lâmina d'água nas abordagens periféricas.
+
+## O que se Conta pelo Pântano
+*A preencher.*
+
 ---
 
-**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[Geografia/Jardim Dourado|Jardim Dourado]], [[Geografia/Vale da Lama|Vale da Lama]]
+**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Musgo Dourado|Musgo Dourado]] | [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] | [[Tribos/Masca-Musgo|Masca-Musgo]] | [[Geografia/Jardim Dourado|Jardim Dourado]] | [[Exilados/Exilados|Exilados]] | [[Geografia/Vale da Lama|Vale da Lama]]

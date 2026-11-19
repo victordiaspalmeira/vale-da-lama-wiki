@@ -180,7 +180,7 @@ a.internal.tag-link {
 
 .infobox {
   float: right;
-  width: 280px;
+  width: 330px;
   max-width: 100%;
   margin: 0 0 1rem 1.25rem;
   border: 1px solid var(--vale-border-dark);
@@ -211,6 +211,7 @@ a.internal.tag-link {
   display: block;
   width: 100%;
   height: auto;
+  box-sizing: border-box;
   margin: 0 auto 0.25rem auto;
   border: 1px solid var(--vale-border-dark);
 }
