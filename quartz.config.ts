@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "pt-BR",
-    baseUrl: "victordiaspalmeira.github.io/vale-da-lama-wiki",
+    baseUrl: "https://victordiaspalmeira.github.io/vale-da-lama-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
