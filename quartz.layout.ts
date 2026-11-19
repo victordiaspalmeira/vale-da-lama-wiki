@@ -4,7 +4,28 @@ import LinkFix from "./quartz/components/LinkFix"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
-  head: [Component.Head(), LinkFix()],
+  head: [
+    Component.Head(),
+    LinkFix(),
+    // Script para SPA routing no GitHub Pages (404 redirect)
+    {
+      tag: "script",
+      attributes: {},
+      children: `
+        (function() {
+          // Ler caminho original salvo pelo 404.html
+          var originalPath = localStorage.getItem('spa-original-path');
+          if (originalPath) {
+            localStorage.removeItem('spa-original-path');
+            // Navegar para o caminho correto
+            history.replaceState(null, '', originalPath);
+            // Disparar evento de navegação para o router do Quartz
+            window.dispatchEvent(new PopStateEvent('popstate'));
+          }
+        })();
+      `,
+    },
+  ],
   header: [],
   afterBody: [],
   footer: Component.Footer({
