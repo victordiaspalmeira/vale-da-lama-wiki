@@ -43,7 +43,7 @@ Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera 
 Entre os caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]], duas regras distinguem uma caçada honrada de uma violação sagrada:
 
 - **Ninhadas:** Áreas naturais de reprodução de bestas comuns. Caçar em ninhadas é permitido, desde que nunca se extermine toda a prole, deixando sempre ao menos um par adulto para manter o equilíbrio do ciclo.
-- **Territórios Sagrados de Desova:** Berçários vinculados a divindades ou tribos — como as enseadas de [[Deuses-Fera/Karkinos|Karkinos]] na Costa Salobra, os arredores do [[Geografia/Jardim Dourado|Jardim Dourado]] e os bancos profundos onde repousam ovos antigos de dragão no [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]. **Caçar nesses locais é estritamente proibido.**
+- **Territórios Sagrados de Desova:** Berçários vinculados a divindades ou tribos — como as enseadas de [[Deuses-Fera/Karkinos|Karkinos]] na Costa Salobra e os arredores do [[Geografia/Jardim Dourado|Jardim Dourado]]. **Caçar nesses locais é estritamente proibido.**
 
 ## Crias, Arautos e Feras Lendárias (Rumores)
 

@@ -34,7 +34,6 @@ O **Povo Dragão** refere-se aos **Dragões Vermelhos** da linhagem **Os Filhos 
 
 - **Anátema Religioso:** Nos éditos e anátemas de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], servir aos dragões antigos é estritamente proibido.
 - **Restos da Matriarca:** Os restos titânicos de **Cinderath** mantêm-se silenciosamente exclusivamente nas profundezas negras do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], visíveis apenas como silhuetas submersas em dias de calmaria absoluta.
-- **Ovos Antigos:** Nas profundezas do lago ainda repousam ovos antigos, tratados como [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|Territórios Sagrados de Desova]] intocáveis.
 
 ---
 

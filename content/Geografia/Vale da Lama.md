@@ -35,7 +35,7 @@ Séculos atrás, o vale era dominado por dragões antigos, derrubados por [[Cosm
 
 ![[assets/mapa-vale-da-lama.jpg]]
 
-1. **Centro — [[Geografia/Lago da Grande Tirana|O Lago da Grande Tirana]]:** Grande caldeira circular de águas negras, fundas e oleosas formada onde tombou a maior das antigas dragões.
+1. **Centro — [[Geografia/Lago da Grande Tirana|O Lago da Grande Tirana]]:** Grande bacia circular de águas negras, fundas e oleosas — ponto de convergência das águas vindas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] — onde caiu a Matriarca Cinderath ao final da [[Historia/Cacada Sagrada|Primeira Caçada Sagrada]].
 2. **Oeste — [[Geografia/Raiz-Funda|Raiz-Funda]]:** Aglomerado de palafitas e passarelas suspensas entre árvores gigantes de mangue, principal assentamento dos [[Tribos/Masca-Musgo|Masca-Musgo]].
 3. **Oeste (Sopé) — [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Os Poços de Turfa e o Brejo do Musgo-Negro]]:** Planície ocre-acinzentada com poços de piche borbulhantes e musgo ácido encostada nas [[Geografia/Montanhas do Oeste|Montanhas do Oeste]].
 4. **Noroeste — [[Geografia/Copas da Teia Prateada|As Copas da Teia Prateada]]:** Manguezais altos com dossel contínuo e acampamentos suspensos dos nômades [[Tribos/Tece-Pele|Tece-Pele]].
