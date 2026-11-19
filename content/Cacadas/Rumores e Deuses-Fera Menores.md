@@ -4,6 +4,16 @@ tags: [cacada, rumores, deuses-fera]
 aliases: ["Rumores de Caçada", "Deuses-Fera Menores"]
 ---
 
+<div class="infobox">
+  <div class="infobox-title">Rumores de Caçada</div>
+  <table>
+    <tr><td><b>Tipo</b></td><td>Tabela de caçadas</td></tr>
+    <tr><td><b>Rumores</b></td><td>5 criaturas</td></tr>
+    <tr><td><b>Regra</b></td><td>Ninhadas vs. Territórios Sagrados</td></tr>
+    <tr><td><b>Perigos</b></td><td>Médio, Alto, Extremo</td></tr>
+  </table>
+</div>
+
 # Rumores e Deuses-Fera Menores
 
 Os xamãs e caçadores de [[Geografia/Vale da Lama|Vale da Lama]] espalham rumores sobre criaturas estranhas que surgem do pântano. Estes são os **5 rumores de caçada** atuais:

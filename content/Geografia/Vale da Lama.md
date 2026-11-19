@@ -4,6 +4,18 @@ tags: [geografia, pântano, visão-geral]
 aliases: ["O Pântano", "Vale da Lama", "Grande Morte Lenta", "Lago do Grande Tirano"]
 ---
 
+<div class="infobox">
+  <div class="infobox-title">Vale da Lama</div>
+  <table>
+    <tr><td><b>Tipo</b></td><td>Pântano extenso</td></tr>
+    <tr><td><b>Região Central</b></td><td>[[Geografia/Vale da Lama#Lago do Grande Tirano|Lago do Grande Tirano]]</td></tr>
+    <tr><td><b>Aldeia Principal</b></td><td>[[Geografia/Raiz-Funda|Raiz-Funda]]</td></tr>
+    <tr><td><b>Santuário</b></td><td>[[Cosmologia/Nyog'Sothep e o Musgo Dourado#O Jardim Dourado|Jardim Dourado]]</td></tr>
+    <tr><td><b>Fronteira Oeste</b></td><td>[Costa Salobra]</td></tr>
+    <tr><td><b>Perigo</b></td><td>[[Geografia/As Profundezas do Brejo|Profundezas do Brejo]]</td></tr>
+  </table>
+</div>
+
 # Vale da Lama
 
 O **Vale da Lama** é um pântano vasto e opressivo, onde a escuridão da lama cobre quase toda a superfície visível. Águas paradas, raízes colossais de mangue que emergem do solo como dedos de titã, e cogumelos gigantescos que erguem seus chapéus como sombras sobre os viajantes. Este é o cenário da campanha de Pathfinder 2e Remaster.

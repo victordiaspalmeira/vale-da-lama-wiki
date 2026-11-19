@@ -4,6 +4,18 @@ tags: [cosmologia, deus, fungo, musgo-dourado]
 aliases: ["Deus Fúngico", "Nyog'Sothep", "Jardim Dourado", "Ciclo de Decomposição"]
 ---
 
+<div class="infobox">
+  <div class="infobox-title">Nyog'Sothep</div>
+  <table>
+    <tr><td><b>Tipo</b></td><td>Deus-fungo</div>
+    <tr><td><b>Domínio</b></td><td>Decomposição, Ciclo, Esporos</td></tr>
+    <tr><td><b>Santuário</b></td><td>[[Geografia/Raiz-Funda#O Jardim Dourado|Jardim Dourado]]</td></tr>
+    <tr><td><b>Símbolo</b></td><td>[[Cosmologia/Nyog'Sothep e o Musgo Dourado#O Musgo Dourado|Musgo Dourado]]</td></tr>
+    <tr><td><b>Adoradores</b></td><td>[[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
+    <tr><td><b>Xamã</b></td><td>[[NPCs/Elenco de Raiz-Funda#Zog|Zog, o Voz-de-Esporo]]</td></tr>
+  </table>
+</div>
+
 # Nyog'Sothep e o Musgo Dourado
 
 **Nyog'Sothep** é o deus fúngico adorado pelos Masca-Musgo, entidade primordial do pântano que personifica o ciclo eterno de decomposição e renascimento. Ele não é um deus de morte, mas de transformação: tudo que apodrece no Vale da Lama alimenta algo novo, e Nyog'Sothep é o guardião sagrado desse ciclo.

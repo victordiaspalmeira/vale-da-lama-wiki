@@ -4,6 +4,18 @@ tags: [tribo, sul, ventre-inchado, sss-kar, vampiro]
 aliases: ["Tribo do Sul", "Ventre-Inchado", "Sss'kar", "Sanguessugas"]
 ---
 
+<div class="infobox">
+  <div class="infobox-title">Ventre-Inchado</div>
+  <table>
+    <tr><td><b>Tipo</b></td><td>Tribo rival</td></tr>
+    <tr><td><b>Localização</b></td><td>Sul do Vale da Lama</td></tr>
+    <tr><td><b>Deidade</b></td><td>Sss'kar</td></tr>
+    <tr><td><b>Prática</b></td><td>Drenagem de sangue, sanguessugas vivas</td></tr>
+    <tr><td><b>Anciãos</b></td><td>Vampíricos centenários</td></tr>
+    <tr><td><b>Relação</b></td><td>Rivais dos Masca-Musgo</td></tr>
+  </table>
+</div>
+
 # Ventre-Inchado
 
 A tribo **Ventre-Inchado** habita o Sul do Vale da Lama, nas regiões mais profundas e escuras do pântano. São adoradores de **Sss'kar**, uma entidade de escamas e presas que exige sangue como oferenda.

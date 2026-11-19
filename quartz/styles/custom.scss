@@ -1,3 +1,239 @@
-@use "./base.scss";
+/* ==========================================================================
+   Wiki do Vale da Lama — Estilização Enciclopédia (Wikipédia/Fandom RPG)
+   ========================================================================== */
 
-// put your custom CSS here!
+/* --- Variáveis de Tema (Sincronizadas com quartz.config.ts) --- */
+:root {
+  --vale-light: #f4efe4;
+  --vale-lightgray: #e8e0d0;
+  --vale-gray: #78716c;
+  --vale-darkgray: #4a3f34;
+  --vale-dark: #1a150f;
+  --vale-secondary: #4a7c36;
+  --vale-tertiary: #2d4726;
+  --vale-highlight: rgba(74, 124, 54, 0.15);
+  --vale-textHighlight: #4a7c36;
+}
+
+[data-theme="dark"] {
+  --vale-light: #101411;
+  --vale-lightgray: #1a1c19;
+  --vale-gray: #a8b8a0;
+  --vale-darkgray: #e4e8e1;
+  --vale-dark: #ffffff;
+  --vale-secondary: #d9ad3b;
+  --vale-tertiary: #b8a890;
+  --vale-highlight: rgba(217, 173, 59, 0.2);
+  --vale-textHighlight: #d9ad3b;
+}
+
+/* ==========================================================================
+   Background Texturizado (Pergaminho / Turfa)
+   ========================================================================== */
+
+body {
+  background-color: #f4efe4;
+  background-image:
+    radial-gradient(circle at center, rgba(74, 124, 54, 0.03) 0%, transparent 70%),
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(74, 124, 54, 0.02) 3px
+    );
+  border: 1px solid #d9d2c4;
+  box-sizing: border-box;
+}
+
+[data-theme="dark"] body {
+  background-color: #101411;
+  background-image:
+    radial-gradient(circle at center, rgba(217, 173, 59, 0.04) 0%, transparent 70%),
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(140, 160, 130, 0.03) 3px
+    );
+  border: 1px solid #2d4726;
+  color: #e4e8e1 !important;
+}
+
+/* ==========================================================================
+   Títulos no Estilo Wikipédia
+   ========================================================================== */
+
+.popover-hint h1,
+.popover-hint h2,
+.content-container h1,
+.content-container h2,
+article h1,
+article h2 {
+  border-bottom: 1px solid var(--vale-lightgray);
+  padding-bottom: 0.4rem;
+  margin-bottom: 1.2rem;
+}
+
+[data-theme="dark"] .popover-hint h1,
+[data-theme="dark"] .popover-hint h2,
+[data-theme="dark"] .content-container h1,
+[data-theme="dark"] .content-container h2,
+[data-theme="dark"] article h1,
+[data-theme="dark"] article h2 {
+  border-bottom-color: #2d4726;
+}
+
+/* ==========================================================================
+   Links Internos (sem caixas de fundo)
+   ========================================================================== */
+
+a,
+.internal-link,
+.wikilink,
+[class*="link"] {
+  background: transparent !important;
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.25em;
+}
+
+a {
+  color: #4a7c36 !important;
+}
+
+[data-theme="dark"] a {
+  color: #d9ad3b !important;
+}
+
+a:hover,
+.internal-link:hover,
+.wikilink:hover {
+  color: #3a6a2a !important;
+  text-decoration-thickness: 0.12em;
+}
+
+[data-theme="dark"] a:hover {
+  color: #e6c86d !important;
+}
+
+/* ==========================================================================
+   Infobox Estilo Wikipédia
+   ========================================================================== */
+
+.infobox {
+  float: right;
+  width: 280px;
+  margin: 0 0 1.2rem 1.5rem;
+  border: 1px solid var(--vale-gray);
+  background: var(--vale-lightgray);
+  padding: 0.75rem;
+  font-size: 0.9rem;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.infobox-title {
+  background: #2d4726;
+  color: #f4efe4;
+  text-align: center;
+  font-weight: bold;
+  padding: 0.4rem;
+  border-radius: 3px 3px 0 0;
+  margin: -0.75rem -0.75rem 0.5rem -0.75rem;
+}
+
+.infobox table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+}
+
+.infobox table td {
+  padding: 0.3rem 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  vertical-align: top;
+}
+
+.infobox table td:first-child {
+  font-weight: bold;
+  color: var(--vale-darkgray);
+  width: 40%;
+}
+
+[data-theme="dark"] .infobox {
+  background: var(--vale-lightgray);
+  border-color: #2d4726;
+}
+
+[data-theme="dark"] .infobox table td {
+  border-bottom-color: rgba(255, 255, 255, 0.05);
+}
+
+[data-theme="dark"] .infobox table td:first-child {
+  color: var(--vale-darkgray);
+}
+
+/* ==========================================================================
+   Ilustrações Preto e Branco (OSR / Xilogravura)
+   ========================================================================== */
+
+.osr-art {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+body:not([data-theme="dark"]) .osr-art {
+  mix-blend-mode: multiply;
+  filter: contrast(1.15);
+}
+
+[data-theme="dark"] .osr-art {
+  filter: invert(0.92) sepia(0.25) saturate(1.4) hue-rotate(5deg) contrast(1.2);
+  mix-blend-mode: screen;
+}
+
+/* ==========================================================================
+   Mobile Responsivo
+   ========================================================================== */
+
+@media (max-width: 768px) {
+  .infobox {
+    width: 100%;
+    float: none;
+    margin: 1rem 0;
+  }
+
+  .infobox-title {
+    margin: -0.75rem -0.75rem 0.5rem -0.75rem;
+  }
+}
+
+/* ==========================================================================
+   Tabelas Enciclopédicas
+   ========================================================================== */
+
+table.encyclopedia {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+}
+
+table.encyclopedia th {
+  background: var(--vale-tertiary);
+  color: #ffffff;
+  padding: 0.5rem;
+  text-align: left;
+  border: 1px solid var(--vale-gray);
+}
+
+table.encyclopedia td {
+  padding: 0.5rem;
+  border: 1px solid var(--vale-gray);
+  background: var(--vale-light);
+}
+
+[data-theme="dark"] table.encyclopedia td {
+  background: var(--vale-lightgray);
+}

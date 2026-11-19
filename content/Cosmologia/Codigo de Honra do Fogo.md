@@ -4,6 +4,18 @@ tags: [cosmologia, tabu, fogo, grande-morte-lenta]
 aliases: ["Fogo-Sagrado", "Tabu do Fogo", "Grande Morte Lenta"]
 ---
 
+<div class="infobox">
+  <div class="infobox-title">Tabu do Fogo</div>
+  <table>
+    <tr><td><b>Tipo</b></td><td>Tabu religioso absoluto</td></tr>
+    <tr><td><b>Proibição</b></td><td>Todo fogo (tochas, fogueiras, forja a quente)</td></tr>
+    <tr><td><b>Preparação</b></td><td>A frio: fermentação, ácidos, esporos</td></tr>
+    <tr><td><b>Origem</b></td><td>[[Geografia/Vale da Lama#A Grande Morte Lenta|Grande Morte Lenta]]</td></tr>
+    <tr><td><b>Traidores</b></td><td>[[Geografia/Vale da Lama#A Grande Morte Lenta|Dragões Vermelhos do Extremo Oeste]]</td></tr>
+    <tr><td><b>Juiz</b></td><td>[[NPCs/Elenco de Raiz-Funda#Velho Rói-Raiz|Velho Rói-Raiz]]</td></tr>
+  </table>
+</div>
+
 # Código de Honra do Fogo
 
 Entre os Masca-Musgo e a maioria das tribos do Vale da Lama, o **fogo é proibido em qualquer forma**. Não há distinção entre "fogo-ferramenta" e "fogo-tabu" — todo fogo é tabu. Acender chamas, usar tochas, cozinhar sobre brasas ou forjar a quente são atos profanos que ofendem Nyog'Sothep e quebram o ciclo sagrado da decomposição.

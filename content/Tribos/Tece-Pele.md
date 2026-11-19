@@ -4,6 +4,18 @@ tags: [tribo, nomade, tece-pele, deusa-fera-aranha, teia-prateada]
 aliases: ["Tribo Nômade", "Tece-Pele", "Deusa-Fera Aranha", "Fio-Eterno", "Teia Prateada"]
 ---
 
+<div class="infobox">
+  <div class="infobox-title">Tece-Pele</div>
+  <table>
+    <tr><td><b>Tipo</b></td><td>Tribo nômade</td></tr>
+    <tr><td><b>Localização</b></td><td>Percorre todo o Vale da Lama</td></tr>
+    <tr><td><b>Deidade</b></td><td>Deusa-Fera Aranha</td></tr>
+    <tr><td><b>Símbolo</b></td><td>[[Tribos/Tece-Pele#A Teia Prateada|Teia Prateada]]</td></tr>
+    <tr><td><b>Prática</b></td><td>Suturas em carne viva</td></tr>
+    <tr><td><b>Relação</b></td><td>Comerciantes de quitina</td></tr>
+  </table>
+</div>
+
 # Tece-Pele
 
 A tribo **Tece-Pele** é nômade, percorrendo todo o Vale da Lama sem se fixar em um único local. São adoradores da **Deusa-Fera Aranha**, entidade de oito patas que tece o destino de todos no pântano.

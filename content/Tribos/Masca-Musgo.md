@@ -4,6 +4,19 @@ tags: [tribo, oeste, masca-musgo, nyog-sothep]
 aliases: ["Tribo do Oeste", "Masca-Musgo"]
 ---
 
+<div class="infobox">
+  <div class="infobox-title">Masca-Musgo</div>
+  <table>
+    <tr><td><b>Localização</b></td><td>Oeste do Vale da Lama</td></tr>
+    <tr><td><b>Assentamento</b></td><td>[[Geografia/Raiz-Funda|Raiz-Funda]]</td></tr>
+    <tr><td><b>Líder Espiritual</b></td><td>Sacerdote-Chefe Malok</td></tr>
+    <tr><td><b>Deidade</b></td><td>[[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]]</td></tr>
+    <tr><td><b>Símbolo</b></td><td>[[Cosmologia/Nyog'Sothep e o Musgo Dourado|Musgo Dourado]]</td></tr>
+    <tr><td><b>Valores</b></td><td>Decomposição sagrada, Reciprocidade, Tabu do Fogo</td></tr>
+    <tr><td><b>Tabu Absoluto</b></td><td>Não queimar corpos; não usar fogo</td></tr>
+  </table>
+</div>
+
 # Masca-Musgo
 
 A tribo **Masca-Musgo** habita o Oeste do Vale da Lama, estabelecida principalmente em [[Geografia/Raiz-Funda|Raiz-Funda]] e arredores. São os guardiões diretos de [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]] e os maiores conhecedores do Musgo Dourado.

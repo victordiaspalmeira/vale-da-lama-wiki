@@ -4,6 +4,18 @@ tags: [geografia, aldeia, masca-musgo]
 aliases: ["Aldeia de Raiz-Funda", "Raiz-Funda"]
 ---
 
+<div class="infobox">
+  <div class="infobox-title">Raiz-Funda</div>
+  <table>
+    <tr><td><b>Tipo</b></td><td>Aldeia dos Masca-Musgo</td></tr>
+    <tr><td><b>Localização</b></td><td>Coração do Vale da Lama</td></tr>
+    <tr><td><b>Estrutura</b></td><td>Palafitas entre raízes de mangue</td></tr>
+    <tr><td><b>Decana</b></td><td>[[NPCs/Elenco de Raiz-Funda#Vó Mofo-Velho|Vó Mofo-Velho]]</td></tr>
+    <tr><td><b>Juiz</b></td><td>[[NPCs/Elenco de Raiz-Funda#Velho Rói-Raiz|Velho Rói-Raiz]]</td></tr>
+    <tr><td><b>Locais</b></td><td>Forja, Jardim Dourado, Casa do Ancião</td></tr>
+  </table>
+</div>
+
 # Raiz-Funda
 
 **Raiz-Funda** é a aldeia principal dos Masca-Musgo, construída entre as raízes colossais de um mangue antigo que emerge do pântano como uma catedral natural de madeira e lama. As casas são palafitas suspensas entre as raízes, conectadas por pontes de corda e tábuas apodrecidas.

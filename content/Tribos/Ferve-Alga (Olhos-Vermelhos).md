@@ -4,6 +4,18 @@ tags: [tribo, nordeste, ferve-alga, karkinos, olhos-vermelhos]
 aliases: ["Ferve-Alga", "Olhos-Vermelhos", "Tribo do Nordeste", "Deus-Caranguejo Karkinos"]
 ---
 
+<div class="infobox">
+  <div class="infobox-title">Ferve-Alga (Olhos-Vermelhos)</div>
+  <table>
+    <tr><td><b>Tipo</b></td><td>Tribo rival</td></tr>
+    <tr><td><b>Localização</b></td><td>Nordeste / [[Geografia/Vale da Lama#A Costa Salobra|Costa Salobra]]</td></tr>
+    <tr><td><b>Deidade</b></td><td>[[Geografia/Vale da Lama#A Costa Salobra|Deus-Caranguejo Karkinos]]</td></tr>
+    <tr><td><b>Prática</b></td><td>Salmoura fervente</td></tr>
+    <tr><td><b>Sagrado</b></td><td>Áreas de Desova</td></tr>
+    <tr><td><b>Relação</b></td><td>Rivais dos Masca-Musgo</td></tr>
+  </table>
+</div>
+
 # Ferve-Alga (Olhos-Vermelhos)
 
 A tribo **Ferve-Alga**, também conhecida como **Olhos-Vermelhos**, habita o Nordeste do Vale da Lama, na região da **Costa Salobra**. São adoradores do **Deus-Caranguejo Karkinos**, uma entidade de casca vermelha e garras enormes que habita as águas salobras do litoral pantanoso.

@@ -4,6 +4,17 @@ tags: [cosmologia, animismo, espiritos]
 aliases: ["Animismo do Vale", "Pequenos Espíritos", "Lei da Troca"]
 ---
 
+<div class="infobox">
+  <div class="infobox-title">Animismo e Reciprocidade</div>
+  <table>
+    <tr><td><b>Tipo</b></td><td>Sistema de crenças</td></tr>
+    <tr><td><b>Entidades</b></td><td>[[Cosmologia/Animismo e Reciprocidade#Os Pequenos Espíritos|Pequenos Espíritos]]</td></tr>
+    <tr><td><b>Princípio</b></td><td>[[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]]</td></tr>
+    <tr><td><b>Deidade Servida</b></td><td>[[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]]</td></tr>
+    <tr><td><b>Xamã</b></td><td>[[NPCs/Elenco de Raiz-Funda#Zog|Zog, o Voz-de-Esporo]]</td></tr>
+  </table>
+</div>
+
 # Animismo e Reciprocidade
 
 No Vale da Lama, tudo tem espírito. Cada árvore, cada pedra, cada poça de água parada e cada cogumelo abriga um **Pequeno Espírito** — entidades menores, sem nome próprio, que habitam o mundo material e influenciam o cotidiano dos Masca-Musgo e de todas as criaturas do pântano.

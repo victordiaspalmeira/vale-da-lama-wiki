@@ -4,6 +4,17 @@ tags: [npcs, raiz-funda, elenco]
 aliases: ["NPCs de Raiz-Funda", "Personagens de Raiz-Funda"]
 ---
 
+<div class="infobox">
+  <div class="infobox-title">Elenco de Raiz-Funda</div>
+  <table>
+    <tr><td><b>Tipo</b></td><td>Elenco de personagens</td></tr>
+    <tr><td><b>Localização</b></td><td>[[Geografia/Raiz-Funda|Raiz-Funda]]</td></tr>
+    <tr><td><b>Categorias</b></td><td>Clero, Caçadores, Artesãos, Guardas, Anciãos, Curandeiros</td></tr>
+    <tr><td><b>Decana</b></td><td>[[NPCs/Elenco de Raiz-Funda#Vó Mofo-Velho|Vó Mofo-Velho]]</td></tr>
+    <tr><td><b>Juiz</b></td><td>[[NPCs/Elenco de Raiz-Funda#Velho Rói-Raiz|Velho Rói-Raiz]]</td></tr>
+  </table>
+</div>
+
 # Elenco de Raiz-Funda
 
 Todos os NPCs importantes de [[Geografia/Raiz-Funda|Raiz-Funda]], organizados por função.
