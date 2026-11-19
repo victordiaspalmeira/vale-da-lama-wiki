@@ -1,145 +1,203 @@
 /* ==========================================================================
-   Wiki do Vale da Lama — Estilização Enciclopédia (Wikipédia/Fandom RPG)
+   Wiki do Vale da Lama — Estilização Internet 1.0 / Web 1.0 (OSR + Wiki Clássica)
    ========================================================================== */
 
-/* --- Variáveis de Tema (Sincronizadas com quartz.config.ts) --- */
 :root {
-  --vale-light: #f4efe4;
-  --vale-lightgray: #e8e0d0;
-  --vale-gray: #78716c;
-  --vale-darkgray: #4a3f34;
-  --vale-dark: #1a150f;
-  --vale-secondary: #4a7c36;
-  --vale-tertiary: #2d4726;
-  --vale-highlight: rgba(74, 124, 54, 0.15);
-  --vale-textHighlight: #4a7c36;
+  --vale-bg-outer: #d9d4c3;
+  --vale-bg-page: #faf8f0;
+  --vale-bg-panel: #eeeadc;
+  --vale-border: #8a8470;
+  --vale-border-light: #ffffff;
+  --vale-border-dark: #4f4a3c;
+  --vale-text: #161410;
+  --vale-text-muted: #4f4a3c;
+  --vale-link: #0033cc;
+  --vale-link-visited: #551a8b;
+  --vale-link-hover: #cc0000;
+  --vale-accent: #2d5a27;
+  --vale-accent-text: #ffffff;
 }
 
-[data-theme="dark"] {
-  --vale-light: #101411;
-  --vale-lightgray: #1a1c19;
-  --vale-gray: #a8b8a0;
-  --vale-darkgray: #e4e8e1;
-  --vale-dark: #ffffff;
-  --vale-secondary: #d9ad3b;
-  --vale-tertiary: #b8a890;
-  --vale-highlight: rgba(217, 173, 59, 0.2);
-  --vale-textHighlight: #d9ad3b;
+:root[saved-theme="dark"] {
+  --vale-bg-outer: #0c0f0d;
+  --vale-bg-page: #161b18;
+  --vale-bg-panel: #1e2520;
+  --vale-border: #4a5a4e;
+  --vale-border-light: #334036;
+  --vale-border-dark: #070907;
+  --vale-text: #e6e9e2;
+  --vale-text-muted: #a6b4a9;
+  --vale-link: #7cc4ff;
+  --vale-link-visited: #c59bff;
+  --vale-link-hover: #ffd166;
+  --vale-accent: #2d4726;
+  --vale-accent-text: #f4efe4;
 }
 
 /* ==========================================================================
-   Background Texturizado (Pergaminho / Turfa)
+   Background Tiled Estilo Internet 1.0 + Moldura Clássica
    ========================================================================== */
 
 body {
-  background-color: #f4efe4;
+  background-color: var(--vale-bg-outer) !important;
   background-image:
-    radial-gradient(circle at center, rgba(74, 124, 54, 0.03) 0%, transparent 70%),
-    repeating-linear-gradient(
-      0deg,
-      transparent,
-      transparent 2px,
-      rgba(74, 124, 54, 0.02) 3px
-    );
-  border: 1px solid #d9d2c4;
-  box-sizing: border-box;
+    linear-gradient(45deg, rgba(0, 0, 0, 0.03) 25%, transparent 25%),
+    linear-gradient(-45deg, rgba(0, 0, 0, 0.03) 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, rgba(0, 0, 0, 0.03) 75%),
+    linear-gradient(-45deg, transparent 75%, rgba(0, 0, 0, 0.03) 75%);
+  background-size: 16px 16px;
+  background-position: 0 0, 0 8px, 8px -8px, -8px 0;
+  color: var(--vale-text) !important;
+  font-family: Verdana, Tahoma, Arial, sans-serif;
+  line-height: 1.55;
 }
 
-[data-theme="dark"] body {
-  background-color: #101411;
+:root[saved-theme="dark"] body {
   background-image:
-    radial-gradient(circle at center, rgba(217, 173, 59, 0.04) 0%, transparent 70%),
-    repeating-linear-gradient(
-      0deg,
-      transparent,
-      transparent 2px,
-      rgba(140, 160, 130, 0.03) 3px
-    );
-  border: 1px solid #2d4726;
-  color: #e4e8e1 !important;
+    linear-gradient(45deg, rgba(255, 255, 255, 0.025) 25%, transparent 25%),
+    linear-gradient(-45deg, rgba(255, 255, 255, 0.025) 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, rgba(255, 255, 255, 0.025) 75%),
+    linear-gradient(-45deg, transparent 75%, rgba(255, 255, 255, 0.025) 75%);
+}
+
+/* Área central em formato "folha/quadro" Web 1.0 */
+.page > #quartz-body .center {
+  background-color: var(--vale-bg-page);
+  border: 2px ridge var(--vale-border);
+  padding: 1.5rem 2rem;
+  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+/* Painéis laterais (Explorer, Graph, TOC, Backlinks) */
+.sidebar .explorer,
+.sidebar .graph,
+.sidebar .toc,
+.sidebar .backlinks,
+.sidebar .search {
+  background-color: var(--vale-bg-page);
+  border: 1px solid var(--vale-border);
+  padding: 0.65rem 0.85rem;
+  border-radius: 0 !important;
+}
+
+/* Cantos retos em tudo (nada de rounded moderno) */
+*,
+*::before,
+*::after {
+  border-radius: 0 !important;
 }
 
 /* ==========================================================================
-   Títulos no Estilo Wikipédia
+   Tipografia & Divisores Clássicos
    ========================================================================== */
+
+h1,
+h2,
+h3,
+h4,
+.page-title,
+.article-title {
+  font-family: Georgia, "Times New Roman", serif !important;
+  color: var(--vale-text) !important;
+  letter-spacing: 0.01em;
+}
 
 .popover-hint h1,
 .popover-hint h2,
-.content-container h1,
-.content-container h2,
 article h1,
 article h2 {
-  border-bottom: 1px solid var(--vale-lightgray);
-  padding-bottom: 0.4rem;
-  margin-bottom: 1.2rem;
+  border-bottom: 1px solid var(--vale-border);
+  padding-bottom: 0.25rem;
+  margin-top: 1.4rem;
+  margin-bottom: 0.8rem;
 }
 
-[data-theme="dark"] .popover-hint h1,
-[data-theme="dark"] .popover-hint h2,
-[data-theme="dark"] .content-container h1,
-[data-theme="dark"] .content-container h2,
-[data-theme="dark"] article h1,
-[data-theme="dark"] article h2 {
-  border-bottom-color: #2d4726;
+p,
+li,
+td,
+th,
+blockquote {
+  color: var(--vale-text);
+}
+
+.content-meta,
+.breadcrumb-container,
+code,
+pre {
+  font-family: "Courier New", Courier, monospace !important;
+}
+
+/* HR clássico em relevo 3D */
+hr {
+  border: 0;
+  border-top: 1px solid var(--vale-border-dark);
+  border-bottom: 1px solid var(--vale-border-light);
+  margin: 1.2rem 0;
 }
 
 /* ==========================================================================
-   Links Internos (sem caixas de fundo)
+   Links Clássicos Web 1.0 (Sublinhados e sem fundo)
    ========================================================================== */
 
 a,
+a.internal,
+a.external,
 .internal-link,
-.wikilink,
-[class*="link"] {
+.external-link,
+.wikilink {
   background: transparent !important;
-  text-decoration: underline;
-  text-decoration-thickness: 0.08em;
-  text-underline-offset: 0.25em;
+  color: var(--vale-link) !important;
+  text-decoration: underline !important;
+  text-underline-offset: 2px;
 }
 
-a {
-  color: #4a7c36 !important;
-}
-
-[data-theme="dark"] a {
-  color: #d9ad3b !important;
+a:visited,
+a.internal:visited {
+  color: var(--vale-link-visited) !important;
 }
 
 a:hover,
+a.internal:hover,
+a.external:hover,
 .internal-link:hover,
 .wikilink:hover {
-  color: #3a6a2a !important;
-  text-decoration-thickness: 0.12em;
+  color: var(--vale-link-hover) !important;
 }
 
-[data-theme="dark"] a:hover {
-  color: #e6c86d !important;
+/* Tags como badges quadrados retrô */
+a.internal.tag-link {
+  background-color: var(--vale-bg-panel) !important;
+  border: 1px solid var(--vale-border);
+  padding: 0.1rem 0.35rem;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.85em;
+  text-decoration: none !important;
 }
 
 /* ==========================================================================
-   Infobox Estilo Wikipédia
+   Infobox Estilo Wikipédia Clássica
    ========================================================================== */
 
 .infobox {
   float: right;
-  width: 280px;
-  margin: 0 0 1.2rem 1.5rem;
-  border: 1px solid var(--vale-gray);
-  background: var(--vale-lightgray);
-  padding: 0.75rem;
-  font-size: 0.9rem;
-  border-radius: 4px;
+  width: 270px;
+  margin: 0 0 1rem 1.25rem;
+  border: 2px ridge var(--vale-border);
+  background: var(--vale-bg-panel);
+  padding: 0.65rem;
+  font-size: 0.85rem;
   box-sizing: border-box;
 }
 
 .infobox-title {
-  background: #2d4726;
-  color: #f4efe4;
+  background: var(--vale-accent);
+  color: var(--vale-accent-text) !important;
   text-align: center;
+  font-family: Georgia, "Times New Roman", serif;
   font-weight: bold;
-  padding: 0.4rem;
-  border-radius: 3px 3px 0 0;
-  margin: -0.75rem -0.75rem 0.5rem -0.75rem;
+  padding: 0.35rem;
+  margin: -0.65rem -0.65rem 0.5rem -0.65rem;
+  border-bottom: 1px solid var(--vale-border-dark);
 }
 
 .infobox table {
@@ -149,28 +207,48 @@ a:hover,
 }
 
 .infobox table td {
-  padding: 0.3rem 0;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  padding: 0.25rem 0.2rem;
+  border-bottom: 1px solid var(--vale-border);
   vertical-align: top;
 }
 
 .infobox table td:first-child {
   font-weight: bold;
-  color: var(--vale-darkgray);
+  color: var(--vale-text);
   width: 40%;
 }
 
-[data-theme="dark"] .infobox {
-  background: var(--vale-lightgray);
-  border-color: #2d4726;
+/* ==========================================================================
+   Tabelas HTML Clássicas
+   ========================================================================== */
+
+table,
+table.encyclopedia {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+  border: 1px solid var(--vale-border);
 }
 
-[data-theme="dark"] .infobox table td {
-  border-bottom-color: rgba(255, 255, 255, 0.05);
+table th,
+table.encyclopedia th {
+  background: var(--vale-accent);
+  color: var(--vale-accent-text) !important;
+  padding: 0.45rem 0.6rem;
+  text-align: left;
+  border: 1px solid var(--vale-border-dark);
 }
 
-[data-theme="dark"] .infobox table td:first-child {
-  color: var(--vale-darkgray);
+table td,
+table.encyclopedia td {
+  padding: 0.4rem 0.6rem;
+  border: 1px solid var(--vale-border);
+  background: var(--vale-bg-page);
+}
+
+table tr:nth-child(even) td {
+  background: var(--vale-bg-panel);
 }
 
 /* ==========================================================================
@@ -181,15 +259,16 @@ a:hover,
   display: block;
   max-width: 100%;
   height: auto;
+  border: 1px solid var(--vale-border);
 }
 
-body:not([data-theme="dark"]) .osr-art {
+:root:not([saved-theme="dark"]) .osr-art {
   mix-blend-mode: multiply;
   filter: contrast(1.15);
 }
 
-[data-theme="dark"] .osr-art {
-  filter: invert(0.92) sepia(0.25) saturate(1.4) hue-rotate(5deg) contrast(1.2);
+:root[saved-theme="dark"] .osr-art {
+  filter: invert(0.92) sepia(0.2) contrast(1.15);
   mix-blend-mode: screen;
 }
 
@@ -198,42 +277,14 @@ body:not([data-theme="dark"]) .osr-art {
    ========================================================================== */
 
 @media (max-width: 768px) {
+  .page > #quartz-body .center {
+    padding: 1rem;
+    box-shadow: none;
+  }
+
   .infobox {
     width: 100%;
     float: none;
     margin: 1rem 0;
   }
-
-  .infobox-title {
-    margin: -0.75rem -0.75rem 0.5rem -0.75rem;
-  }
-}
-
-/* ==========================================================================
-   Tabelas Enciclopédicas
-   ========================================================================== */
-
-table.encyclopedia {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1rem 0;
-  font-size: 0.9rem;
-}
-
-table.encyclopedia th {
-  background: var(--vale-tertiary);
-  color: #ffffff;
-  padding: 0.5rem;
-  text-align: left;
-  border: 1px solid var(--vale-gray);
-}
-
-table.encyclopedia td {
-  padding: 0.5rem;
-  border: 1px solid var(--vale-gray);
-  background: var(--vale-light);
-}
-
-[data-theme="dark"] table.encyclopedia td {
-  background: var(--vale-lightgray);
 }
