@@ -31,7 +31,7 @@ jobs:
         run: npm install
 
       - name: Build do Quartz
-        run: npx quartz build
+        run: npm run quartz -- build
 
       - name: Enviar artefato para o GitHub Pages
         uses: actions/upload-pages-artifact@v3
