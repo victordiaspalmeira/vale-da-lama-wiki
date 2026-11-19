@@ -12,17 +12,13 @@
       var search = window.location.search;
       var hash = window.location.hash;
 
-      // Se já está na raiz ou index, não faz nada
       var base = "/vale-da-lama-wiki";
       if (path === base + "/index.html" || path === base + "/") {
         return;
       }
 
-      // Redireciona para o index.html mantendo o caminho no query
-      // para que o SPA do Quartz consiga renderizar a página correta
-      var redirectUrl = base + "/index.html?" + encodeURIComponent(path + search) + hash;
-
-      window.location.replace(redirectUrl);
+      localStorage.setItem('spa-original-path', path + search + hash);
+      window.location.replace(base + "/index.html");
     })();
   </script>
 </body>
