@@ -23,7 +23,9 @@ aliases: ["O Musgo Dourado", "Aurumycota sothepi", "Ascensão"]
 
 ## Descrição
 
-O **Musgo Dourado** (*Aurumycota sothepi*) é uma variedade rara de musgo-fungo simbiótico que brota apenas onde a presença de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] é mais forte. É especialmente potente quando colhido nos canteiros bioluminescentes do [[Geografia/Jardim Dourado|Jardim Dourado]] ou sobre ossadas antigas da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]], como as que cercam o [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
+O **Musgo Dourado** (*Aurumycota sothepi*) é uma variedade rara de musgo-fungo simbiótico que brota onde a presença de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] é mais forte. Na história dos [[Tribos/Masca-Musgo|Masca-Musgo]], suas primeiras porções foram encontradas dentro e ao redor do **Ídolo de madeira de Nyog'Sothep** nas minas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], dando aos Goblins escravizados as visões febris que iniciaram a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] — e tendo seu poder potencializado pela **Lua Nova** na noite da libertação.
+
+Hoje, é especialmente potente quando colhido nos canteiros bioluminescentes do [[Geografia/Jardim Dourado|Jardim Dourado]] ou nas margens do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 Para os [[Tribos/Masca-Musgo|Masca-Musgo]], colher o Musgo Dourado exige respeito absoluto à [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]].
 

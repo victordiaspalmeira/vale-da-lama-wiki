@@ -27,7 +27,7 @@ Localizado bem no centro do [[Geografia/Vale da Lama|Vale da Lama]], o **Lago da
 
 ## História / Origem
 
-O lago formou-se na cratera onde tombou a maior das antigas dragões durante a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]]. As ossadas titânicas da Grande Tirana jazem exclusivamente bem no fundo do abismo subaquático, visíveis apenas como silhuetas sombrias e distorcidas em dias de calmaria absoluta.
+O lago formou-se na cratera onde caiu a **Matriarca** — a maior dos [[Tribos/Povo Dragão|Dragões Vermelhos]] em fuga do Extremo Oeste — ao final da **[[Historia/A Grande Morte Lenta|Primeira Caçada Sagrada]]**. Seus restos titânicos mantêm-se silenciosamente exclusivamente bem no fundo do abismo subaquático, visíveis apenas como silhuetas sombrias e distorcidas em dias de calmaria absoluta.
 
 ## Ecologia e Atmosfera
 
