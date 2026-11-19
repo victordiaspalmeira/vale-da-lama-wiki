@@ -6,30 +6,35 @@ aliases: ["Fogo-Sagrado", "Tabu do Fogo", "Grande Morte Lenta"]
 
 # Código de Honra do Fogo
 
-Entre os Masca-Musgo e a maioria das tribos do Vale da Lama, o fogo é dividido em duas categorias absolutamente distintas: o **fogo-ferramenta** e o **fogo-tabu**. Misturá-los é a pior heresia possível.
+Entre os Masca-Musgo e a maioria das tribos do Vale da Lama, o **fogo é proibido em qualquer forma**. Não há distinção entre "fogo-ferramenta" e "fogo-tabu" — todo fogo é tabu. Acender chamas, usar tochas, cozinhar sobre brasas ou forjar a quente são atos profanos que ofendem Nyog'Sothep e quebram o ciclo sagrado da decomposição.
 
-## Fogo-Ferramenta
+## O Tabu Absoluto
 
-O fogo-ferramenta é o fogo usado para:
-- Forjar ferramentas e armas na forja de [[Geografia/Raiz-Funda|Raiz-Funda]]
-- Cozinhar alimentos
-- Aquecer abrigos durante as noites frias do pântano
-- Queimar resíduos orgânicos inutilizáveis (não corpos)
+É **estritamente proibido** acender qualquer chama — viva ou morta — em qualquer circunstância. Isso inclui:
 
-Esse fogo é sagrado em seu propósito, mas não é objeto de culto. Gnarl Martelo-Torto, o ferreiro de Raiz-Funda, é o guardião mestre do fogo-ferramenta.
+- Tochas, fogueiras, braseiros ou qualquer fonte de fogo
+- Cozinhar alimentos sobre chamas
+- Forjar ferramentas ou armas usando calor
+- Queimar resíduos orgânicos, corpos ou qualquer material
+- Usar fogo para executar prisioneiros ou como sacrifício
 
-## Fogo-Tabu (o Tabu Absoluto)
+## Preparação a Frio
 
-É **estritamente proibido** queimar corpos — vivos ou mortos — em qualquer circunstância. Isso inclui:
-- Cremação de inimigos caídos
-- Queima de corpos de aliados falecidos
-- Usar fogo para executar prisioneiros
-- Queimar partes do corpo como sacrifício
+Tudo que os Masca-Musgo fazem é preparado a frio, sem faísca:
 
-O tabu é herança direta da **Grande Morte Lenta**, a queda dos dragões antigos que outrora dominavam o Vale da Lama. Quando os dragões morreram, seus corpos gigantescos não puderam ser queimados — o pântano os absorveu lentamente, e a decomposição de seus corpos imensos envenenou as águas por gerações. Os Masca-Musgo aprenderam que o fogo aplicado a corpos grandes atrai pragas, despertam doenças antigas e desequilibra o ciclo de [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]].
+- **Alimentos:** fermentados, curados em ácidos naturais, tratados com esporos e seivas cáusticas
+- **Couro:** curtido por Biba, a Mão-Ácida, usando seivas e processos a frio
+- **Armas e armaduras:** forjadas por Gnarl, o Dente-de-Quitina, usando quitina gigante, ossos curados em esporos e madeira de raiz-ferro — sem calor
+- **Alquimia:** preparada por Biba usando fermentação e compostos naturais, nunca aquecidos
 
-Quem quebra o tabu é julgado por [[NPCs/Elenco de Raiz-Funda|Velho Rói-Raiz]], o Juiz das Disputas, e pode ser banido ou entregue ao Jardim Dourado como oferenda viva.
+## Origem do Tabu
+
+O tabu é herança direta da **Grande Morte Lenta**, quando os antigos Dragões Vermelhos do Extremo Oeste serviam a Nyog'Sothep, mas sua ganância e seu sopro de fogo queimavam a terra sagrada, destruindo o ciclo. Nyog'Sothep rejeitou os tiranos escamosos e escolheu os goblins como seus herdeiros puros e dignos, porque respeitam o ciclo sem chamas.
+
+## Consequências
+
+Quem quebra o Tabu não é apenas punido. É esquecido. Seu corpo não recebe esporos. Não vira santuário. Simplesmente… some na lama, como se nunca tivesse existido. Quem quebra o tabu é julgado por Velho Rói-Raiz, o Juiz das Disputas, e pode ser banido ou entregue ao Jardim Dourado como oferenda viva.
 
 ---
 
-**Veja também:** [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep e o Musgo Dourado]], [[Geografia/Vale da Lama|Vale da Lama]] (a Grande Morte Lenta), [[Geografia/Raiz-Funda|Raiz-Funda]] (a forja), [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]] (Gnarl Martelo-Torto, Velho Rói-Raiz)
+**Veja também:** [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep e o Musgo Dourado]], [[Geografia/Vale da Lama|Vale da Lama]] (a Grande Morte Lenta), [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]] (Gnarl, o Dente-de-Quitina; Biba, a Mão-Ácida; Velho Rói-Raiz)

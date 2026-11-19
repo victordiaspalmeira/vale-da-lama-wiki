@@ -21,7 +21,7 @@ Hoje, os ossos dos dragões antigos ainda emergem da lama em alguns pontos, cobe
 No centro do Vale da Lama fica o **Lago do Grande Tirano**, um corpo de água negra e espessa que outrora era o lago particular do maior dos dragões caídos. O lago é:
 - Profundo o suficiente para engolir um cavalo inteiro
 - Habitado por criaturas aquáticas mutadas pela decomposição draconiana
-- O local onde os ovos submersos dos dragões antigos ainda repousam, sob camadas de lama
+- O local onde repousam ossadas colossais cobertas de musgo petrificado
 
 Segundo os rumores dos Masca-Musgo, o Lago do Grande Tirano está começando a esquentar. Bolhas de gás verde subiram à superfície nas últimas semanas, e os batedores relatam sombras movendo-se sob as águas.
 
