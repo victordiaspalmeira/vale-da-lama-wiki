@@ -1,10 +1,9 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import LinkFix from "./quartz/components/LinkFix"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
-  head: [Component.Head(), LinkFix()],
+  head: Component.Head(),
   header: [],
   afterBody: [],
   footer: Component.Footer({

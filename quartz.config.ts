@@ -10,11 +10,11 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Wiki do Vale da Lama",
     pageTitleSuffix: " | Pathfinder 2e Remaster",
-    enableSPA: false,
+    enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "pt-BR",
-    baseUrl: "https://victordiaspalmeira.github.io/vale-da-lama-wiki",
+    baseUrl: "victordiaspalmeira.github.io/vale-da-lama-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -78,10 +78,10 @@ const config: QuartzConfig = {
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
-      // Plugin.ContentIndex({
-      //   enableSiteMap: true,
-      //   enableRSS: true,
-      // }),
+      Plugin.ContentIndex({
+        enableSiteMap: true,
+        enableRSS: true,
+      }),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
