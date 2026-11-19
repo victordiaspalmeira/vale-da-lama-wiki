@@ -7,15 +7,14 @@ aliases: ["Os Poços de Turfa e o Brejo do Musgo-Negro", "Poços de Turfa", "Bre
 <div class="infobox">
   <div class="infobox-title">Poços de Turfa e Brejo do Musgo-Negro</div>
   <div class="infobox-image">
-    <img src="../assets/javali-musgo-negro.jpg" alt="Javali de Musgo-Negro nos poços de turfa" />
-    <div class="infobox-caption">Javali de Musgo-Negro</div>
+    <div class="infobox-placeholder">[ Ilustração: Poços de Turfa e Brejo do Musgo-Negro ]</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Planície ocre-acinzentada e poços de piche</td></tr>
     <tr><td><b>Região</b></td><td>Oeste, no sopé das <a href="../Geografia/Montanhas-do-Oeste" class="internal">Montanhas do Oeste</a></td></tr>
     <tr><td><b>Status</b></td><td>Ativo (zona de coleta arriscada)</td></tr>
     <tr><td><b>Facção</b></td><td>Nenhuma (bordas frequentadas por <a href="../Exilados/Brask" class="internal">Brask</a>)</td></tr>
-    <tr><td><b>Devoção</b></td><td>Nenhuma conhecida</td></tr>
+    <tr><td><b>Devoção</b></td><td><a href="../Deuses-Fera/Cobra-do-Brejo-do-Musgo-Negro" class="internal">Deus Menor Cobra</a></td></tr>
     <tr><td><b>Perigo</b></td><td>Alto (atolamento, gases inflamáveis e musgo ácido)</td></tr>
   </table>
 </div>
@@ -38,11 +37,11 @@ Onde o escoamento das montanhas encontra o pântano, a planície ocre-acinzentad
 - **Recursos:** Piche natural usado para calafetar jangadas e impermeabilizar madeira das palafitas de [[Geografia/Raiz-Funda|Raiz-Funda]].
 - **Musgo-Negro e Fungos Corrosivos:** Ao contrário do [[Cosmologia/Musgo Dourado|Musgo Dourado]], o musgo-negro que cresce nas bordas dos poços corrói couro comum e madeira sem tratamento após exposição prolongada.
 - **Bolsões de Gás Inflamável:** As bolhas que estouram na superfície da turfa exalam vapores fétidos e altamente inflamáveis. Qualquer faísca ou chama aberta nas proximidades — já proibidas pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] — pode provocar explosões súbitas no chão.
-- **Fauna Resistente:** Apenas criaturas robustas suportam o solo ácido, com destaque para o [[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]].
+- **[[Deuses-Fera/Cobra do Brejo do Musgo-Negro|Deus Menor Cobra]]:** Um [[Deuses-Fera/Deus-Fera|Deus-Fera menor]] que habita o Brejo do Musgo-Negro.
 
 ## O que se Conta pelo Pântano
 *A preencher.*
 
 ---
 
-**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]] | [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] | [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] | [[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]]
+**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]] | [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] | [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] | [[Deuses-Fera/Cobra do Brejo do Musgo-Negro|Cobra do Brejo do Musgo-Negro]]

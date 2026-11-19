@@ -37,6 +37,7 @@ Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera 
 | [[Deuses-Fera/Mael'ra\|Mael'ra (Deusa-Fera Aranha)]] | Aranha gigantesca de seda prateada | Fio-Eterno, dívidas e destino (Todo o Vale) | [[Tribos/Tece-Pele\|Tece-Pele]] |
 | [[Deuses-Fera/Og'gath\|Og'gath (Sapo-Trovão)]] | Anfíbio colossal | Ilhotas do [[Geografia/Lago da Grande Tirana\|Lago da Grande Tirana]] (Centro) | Nenhuma conhecida |
 | [[Deuses-Fera/Krr'tak\|Krr'tak (a Espadachim)]] | Louva-a-deus colossal | Entre [[Tribos/Masca-Musgo\|Masca-Musgo]] e [[Tribos/Ferve-Alga (Olhos-Vermelhos)\|Ferve-Alga]] | Nenhuma conhecida |
+| [[Deuses-Fera/Cobra do Brejo do Musgo-Negro\|Cobra do Brejo do Musgo-Negro]] | Cobra colossal | [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro\|Brejo do Musgo-Negro]] (Oeste) | Nenhuma conhecida |
 
 ## Regras de Caçada: Ninhadas vs. Territórios Sagrados de Desova
 
@@ -50,7 +51,7 @@ Entre os caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]], duas regras distingu
 - **[[Criaturas/Pinça-de-Sal|Pinça-de-Sal (Cria de Karkinos)]]** *(Costa Salobra — Perigo Médio)*
 - **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]** *(Lago da Grande Tirana / Sul — Perigo Alto)*
 - **[[Deuses-Fera/Krr'tak|Krr'tak (a Espadachim)]]** *(Entre Masca-Musgo e Ferve-Alga — Perigo Alto)*
-- **[[Deuses-Fera/Og'gath|Og'gath (Sapo-Trovão do Lago Central)]]** *(Lago da Grande Tirana — Perigo Extremo)* e **[[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]]** *(Pântano Profundo — Perigo Médio)*
+- **[[Deuses-Fera/Og'gath|Og'gath (Sapo-Trovão do Lago Central)]]** *(Lago da Grande Tirana — Perigo Extremo)*
 
 ---
 

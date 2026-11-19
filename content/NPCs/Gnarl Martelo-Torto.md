@@ -39,7 +39,7 @@ aliases: ["Gnarl", "Gnarl Martelo-Torto"]
 Gnarl trabalha em uma ilhota de pedra e barro batido na borda externa de [[Geografia/Raiz-Funda|Raiz-Funda]], cercada por canais d'água para garantir que nenhuma faísca alcance as raízes vivas ou a turfa seca. Sua atividade segue rigorosamente o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]: o fogo é mantido baixo e contido apenas como **fogo-ferramenta**, jamais usado para punir ou forjar armas incendiárias.
 
 - **Metal Recuperado:** Como não há mineração ativa em [[Geografia/Raiz-Funda|Raiz-Funda]], Gnarl reaproveita sucatas, ferragens antigas e peças vindas de fora do vale ou das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]].
-- **Trabalho a Frio:** Para o equipamento cotidiano da tribo, fabrica lanças, anzóis, pontas e escudos usando madeira de mangue curada e osso trabalhado (especialmente as presas curvas do [[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]]), seguindo a [[Tribos/Preparacao a Frio|Preparação a Frio]].
+- **Trabalho a Frio:** Para o equipamento cotidiano da tribo, fabrica lanças, anzóis, pontas e escudos usando madeira de mangue curada e osso trabalhado, seguindo a [[Tribos/Preparacao a Frio|Preparação a Frio]].
 
 ## Relações e Alianças
 *A preencher.*
@@ -49,4 +49,4 @@ Gnarl trabalha em uma ilhota de pedra e barro batido na borda externa de [[Geogr
 
 ---
 
-**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] | [[Tribos/Preparacao a Frio|Preparação a Frio]] | [[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]]
+**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] | [[Tribos/Preparacao a Frio|Preparação a Frio]]
