@@ -11,9 +11,9 @@ aliases: ["Deuses-Fera", "Deus-Fera", "Deuses-Fera Menores"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Categoria de divindades / entidades</td></tr>
-    <tr><td><b>Natureza</b></td><td>Entidades bestiais presas à carne e território</td></tr>
-    <tr><td><b>Principais</b></td><td>[[Deuses-Fera/Karkinos|Karkinos]], [[Deuses-Fera/Sss'kar|Sss'kar]], [[Deuses-Fera/Deusa-Fera Aranha|Deusa-Fera Aranha]]</td></tr>
-    <tr><td><b>Contraste</b></td><td>[[Cosmologia/Nyog'Sothep|Nyog'Sothep]] (rede micelial difusa)</td></tr>
+    <tr><td><b>Natureza</b></td><td>Entidades espirituais que transitam entre o etéreo e o físico</td></tr>
+    <tr><td><b>Principais</b></td><td>[[Deuses-Fera/Karkinos|Karkinos]], [[Deuses-Fera/Sss'kar|Sss'kar]], [[Deuses-Fera/Mael'ra|Deusa-Fera Aranha]]</td></tr>
+    <tr><td><b>Contraste</b></td><td>[[Cosmologia/Nyog'Sothep|Nyog'Sothep]] ([[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]], sem forma física definida)</td></tr>
     <tr><td><b>Territórios</b></td><td>Áreas Sagradas de Desova e domínios tribais</td></tr>
   </table>
 </div>
@@ -22,11 +22,11 @@ aliases: ["Deuses-Fera", "Deus-Fera", "Deuses-Fera Menores"]
 
 ## Descrição
 
-No [[Geografia/Vale da Lama|Vale da Lama]], **Deuses-Fera** são entidades bestiais colossais que habitam regiões específicas do pântano e recebem culto direto das tribos locais. Ao contrário de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] — que é uma consciência fúngica difusa espalhada por toda a rede subterrânea de micélio —, os Deuses-Fera possuem forma física monstruosa, território delimitado e exigências ligadas à carne, ao sangue, às marés ou à teia.
+No [[Geografia/Vale da Lama|Vale da Lama]], **Deuses-Fera** são entidades espirituais que habitam regiões específicas do pântano e recebem culto direto das tribos locais. Embora também sejam seres espirituais, eles **transitam com muito mais facilidade entre o plano etéreo e o plano físico** do que um **[[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]]** como [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] (que não possui forma física definida e raramente interage diretamente com o mundo material). Por isso, os Deuses-Fera manifestam formas físicas colossais e possuem territórios delimitados ligados à carne, ao sangue, às marés ou à teia.
 
 ## Visão do Clero de Raiz-Funda
 
-Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera são entidades menores, presas à carne e ao ciclo biológico. Os [[Tribos/Masca-Musgo|Masca-Musgo]] afirmam que [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] não possui corte de avatares nem comanda Deuses-Fera menores para agir em seu nome. Ainda assim, as tribos do pântano reconhecem o poder real dessas bestas e evitam provocar sua fúria ou invadir seus Territórios Sagrados de Desova.
+Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera são entidades menores quando comparados a um Deus Verdadeiro, justamente por sua proximidade com o plano físico e o ciclo biológico. Os [[Tribos/Masca-Musgo|Masca-Musgo]] afirmam que [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] não possui corte de avatares nem comanda Deuses-Fera menores para agir em seu nome. Ainda assim, as tribos do pântano reconhecem o poder real dessas entidades e evitam provocar sua fúria ou invadir seus Territórios Sagrados de Desova.
 
 ## Deuses-Fera Conhecidos
 
@@ -34,8 +34,8 @@ Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera 
 |-----------|-------|------------------|--------------|
 | [[Deuses-Fera/Karkinos\|Karkinos]] | Caranguejo colossal escarlate | Marés e [[Geografia/Costa Salobra\|Costa Salobra]] (Nordeste) | [[Tribos/Ferve-Alga (Olhos-Vermelhos)\|Ferve-Alga (Olhos-Vermelhos)]] |
 | [[Deuses-Fera/Sss'kar\|Sss'kar]] | Serpente de múltiplas cabeças | Sangue e [[Geografia/Aguas Paradas Profundas\|Águas Paradas Profundas]] (Sul) | [[Tribos/Ventre-Inchado\|Ventre-Inchado]] |
-| [[Deuses-Fera/Deusa-Fera Aranha\|Deusa-Fera Aranha]] | Aranha gigantesca de seda prateada | Fio-Eterno, dívidas e destino (Todo o Vale) | [[Tribos/Tece-Pele\|Tece-Pele]] |
-| [[Deuses-Fera/Sapo-Trovão do Lago Central\|Sapo-Trovão do Lago Central]] *(sem nome conhecido)* | Anfíbio colossal | Ilhotas do [[Geografia/Lago da Grande Tirana\|Lago da Grande Tirana]] (Centro) | Nenhuma conhecida |
+| [[Deuses-Fera/Mael'ra\|Mael'ra (Deusa-Fera Aranha)]] | Aranha gigantesca de seda prateada | Fio-Eterno, dívidas e destino (Todo o Vale) | [[Tribos/Tece-Pele\|Tece-Pele]] |
+| [[Deuses-Fera/Og'gath\|Og'gath (Sapo-Trovão)]] | Anfíbio colossal | Ilhotas do [[Geografia/Lago da Grande Tirana\|Lago da Grande Tirana]] (Centro) | Nenhuma conhecida |
 
 ## Regras de Caçada: Ninhadas vs. Territórios Sagrados de Desova
 
@@ -49,7 +49,7 @@ Entre os caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]], duas regras distingu
 - **[[Criaturas/Pinça-de-Sal|Pinça-de-Sal (Cria de Karkinos)]]** *(Costa Salobra — Perigo Médio)*
 - **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]** *(Lago da Grande Tirana / Sul — Perigo Alto)*
 - **[[Criaturas/Tecelão-de-Ossos|Tecelão-de-Ossos]]** *(Raízes de Mangue — Perigo Alto)*
-- **[[Deuses-Fera/Sapo-Trovão do Lago Central|Sapo-Trovão do Lago Central]]** *(Lago da Grande Tirana — Perigo Extremo)* e **[[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]]** *(Pântano Profundo — Perigo Médio)*
+- **[[Deuses-Fera/Og'gath|Sapo-Trovão do Lago Central]]** *(Lago da Grande Tirana — Perigo Extremo)* e **[[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]]** *(Pântano Profundo — Perigo Médio)*
 
 ## Ganchos de Aventura
 
@@ -58,4 +58,4 @@ Entre os caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]], duas regras distingu
 
 ---
 
-**Veja também:** [[Deuses-Fera/Karkinos|Karkinos]], [[Deuses-Fera/Sss'kar|Sss'kar]], [[Deuses-Fera/Deusa-Fera Aranha|Deusa-Fera Aranha]], [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Geografia/Vale da Lama|Vale da Lama]]
+**Veja também:** [[Deuses-Fera/Karkinos|Karkinos]], [[Deuses-Fera/Sss'kar|Sss'kar]], [[Deuses-Fera/Mael'ra|Deusa-Fera Aranha]], [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Geografia/Vale da Lama|Vale da Lama]]

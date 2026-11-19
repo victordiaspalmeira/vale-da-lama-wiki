@@ -42,11 +42,11 @@ Séculos atrás, o vale era dominado por dragões antigos, derrubados por [[Cosm
 5. **Norte-Central e Leste — [[Geografia/Ruinas dos Sem-Nome|As Ruínas dos Sem-Nome]]:** Colunas partidas e arcos ogivais de mármore pálido de uma civilização élfica extinta, evitadas pelos goblins.
 6. **Nordeste — [[Geografia/Costa Salobra|A Costa Salobra e Os Caldeirões]]:** Ilhotas de lama, bancos de salitre, caldeirões dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] e áreas de desova de [[Deuses-Fera/Karkinos|Karkinos]].
 7. **Sul — [[Geografia/Aguas Paradas Profundas|As Águas Paradas Profundas]]:** Brejos escuros, abafados e sem correnteza dominados pelos [[Tribos/Ventre-Inchado|Ventre-Inchado]].
-8. **Leste / Sudeste — [[Geografia/Delta das Aguas Mortas|O Delta das Águas Mortas]]:** Labirinto de dezenas de ilhotas e canais de maré ligando as ruínas e o rio sulista ao oceano.
+8. **Leste / Sudeste — [[Geografia/Delta das Aguas Mortas|O Delta das Águas Mortas]]:** Labirinto de dezenas de ilhotas e canais de maré ligando as ruínas e o Rio Lodo-Negro ao Mar das Brumas.
 
 ## Rumores e Ameaças do Pântano
 
-- **[[Deuses-Fera/Sapo-Trovão do Lago Central|Sapo-Trovão do Lago Central]]** *(Lago da Grande Tirana — Perigo Extremo)*: anfíbio colossal cujo coaxar grave faz o solo tremer ao redor do lago.
+- **[[Deuses-Fera/Og'gath|Sapo-Trovão do Lago Central]]** *(Lago da Grande Tirana — Perigo Extremo)*: anfíbio colossal cujo coaxar grave faz o solo tremer ao redor do lago.
 - **[[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]]** *(Pântano Profundo — Perigo Médio)*: javali coberto de fungo negro venenoso, caçado por suas presas curvas.
 
 ---

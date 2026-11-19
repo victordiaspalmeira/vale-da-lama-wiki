@@ -45,7 +45,7 @@ Pequenas brasas e chamas contidas em pedra, barro ou metal na periferia das alde
 
 ## A Punição do Esquecimento
 
-Quem quebra o Código de Honra do Fogo é julgado por [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]], o Juiz das Disputas, diante de toda a aldeia:
+Quem quebra o Código de Honra do Fogo é julgado por [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]], o Juiz das Disputas, diante de toda a aldeia (veja [[Cosmologia/Sentenca do Esquecimento|Sentença do Esquecimento e Marca de Cinza Fria]]):
 
 - **Infrações menores por ignorância:** Forasteiros têm seus itens inflamáveis confiscados e recebem uma marca de cinza fria e seiva cáustica na testa até cumprirem penitência.
 - **Sentença do Esquecimento:** Quem mata, fere, pune ou crema com fogo perde o nome, tem sua história apagada dos cantos da tribo e é amarrado a uma estaca na fronteira da lama profunda para ser reclamado pelo brejo sem direito ao [[Geografia/Jardim Dourado|Jardim Dourado]].

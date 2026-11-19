@@ -12,7 +12,7 @@ aliases: ["As Copas da Teia Prateada", "Copas da Teia Prateada"]
   <table>
     <tr><td><b>Tipo</b></td><td>Manguezais altos e dossel suspenso</td></tr>
     <tr><td><b>Localização</b></td><td>Noroeste do [[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
-    <tr><td><b>Limites</b></td><td>[[Geografia/Montanhas do Oeste|Montanhas do Oeste]], mar do norte e [[Geografia/Raiz-Funda|Raiz-Funda]]</td></tr>
+    <tr><td><b>Limites</b></td><td>[[Geografia/Montanhas do Oeste|Montanhas do Oeste]], Mar das Brumas e [[Geografia/Raiz-Funda|Raiz-Funda]]</td></tr>
     <tr><td><b>Facção Dominante</b></td><td>[[Tribos/Tece-Pele|Tece-Pele]] (acampamentos nômades)</td></tr>
     <tr><td><b>Perigo</b></td><td>Predadores arborícolas e quedas do dossel</td></tr>
   </table>
@@ -22,11 +22,11 @@ aliases: ["As Copas da Teia Prateada", "Copas da Teia Prateada"]
 
 ## Descrição
 
-As **Copas da Teia Prateada** formam a faixa de manguezais altos e canais estreitos no setor noroeste do [[Geografia/Vale da Lama|Vale da Lama]], entre as [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], o mar do norte e [[Geografia/Raiz-Funda|Raiz-Funda]]. É uma região de árvores esguias e muito altas cujos galhos superiores formam um segundo andar contínuo acima do pântano alagado.
+As **Copas da Teia Prateada** formam a faixa de manguezais altos e canais estreitos no setor noroeste do [[Geografia/Vale da Lama|Vale da Lama]], entre as [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], o **Mar das Brumas** e [[Geografia/Raiz-Funda|Raiz-Funda]]. É uma região de árvores esguias e muito altas cujos galhos superiores formam um segundo andar contínuo acima do pântano alagado.
 
 ## Habitantes e Atividades
 
-A região serve de rota de migração e área de acampamentos temporários para os nômades [[Tribos/Tece-Pele|Tece-Pele]], devotos da [[Deuses-Fera/Deusa-Fera Aranha|Deusa-Fera Aranha]]. Em vez de construções fixas, eles esticam redes, tendas de couro curtido e passarelas suspensas presas por fios resistentes de seda prateada colhida de aranhas gigantes do dossel.
+A região serve de rota de migração e área de acampamentos temporários para os nômades [[Tribos/Tece-Pele|Tece-Pele]], devotos da [[Deuses-Fera/Mael'ra|Deusa-Fera Aranha]]. Em vez de construções fixas, eles esticam redes, tendas de couro curtido e passarelas suspensas presas por fios resistentes de seda prateada colhida de aranhas gigantes do dossel.
 
 ## Uso na Mesa e Ganchos
 
@@ -35,4 +35,4 @@ A região serve de rota de migração e área de acampamentos temporários para 
 
 ---
 
-**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Tribos/Tece-Pele|Tece-Pele]], [[Deuses-Fera/Deusa-Fera Aranha|Deusa-Fera Aranha]], [[Geografia/Raiz-Funda|Raiz-Funda]]
+**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Tribos/Tece-Pele|Tece-Pele]], [[Deuses-Fera/Mael'ra|Deusa-Fera Aranha]], [[Geografia/Raiz-Funda|Raiz-Funda]]

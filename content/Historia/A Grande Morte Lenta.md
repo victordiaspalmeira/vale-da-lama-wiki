@@ -27,9 +27,9 @@ A **Grande Morte Lenta** foi o processo de vinte anos — culminando na Batalha 
 
 ## 1. A Escravidão nas Minas e o Ídolo de Madeira
 
-Antes de habitarem o [[Geografia/Vale da Lama|Vale da Lama]], os Goblins eram escravizados por uma linhagem de nome perdido de **[[Tribos/Povo Dragão|Dragões Vermelhos]]**, forçados a trabalhar sem descanso nas minas escavadas dentro das [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]].
+Antes de habitarem o [[Geografia/Vale da Lama|Vale da Lama]], os Goblins eram escravizados por uma linhagem de **[[Tribos/Povo Dragão|Dragões Vermelhos]]** conhecida como **Os Filhos de Ashkor**, forçados a trabalhar sem descanso nas minas escavadas dentro das [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]].
 
-A mudança começou com a descoberta de um **Ídolo de madeira de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]]** dentro de uma das câmaras das minas: uma **mosca de madeira extremamente detalhada**, repousando sobre a **boca aberta de um sapo de madeira menos detalhado**. Esse ídolo produzia pequenas quantidades de [[Cosmologia/Musgo Dourado|Musgo Dourado]] dentro de si e nos seus arredores.
+A mudança começou com a descoberta de um **[[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]]** dentro de uma das câmaras das minas: uma **mosca de madeira extremamente detalhada**, repousando sobre a **boca aberta de um sapo de madeira menos detalhado**. Esse ídolo produzia pequenas quantidades de [[Cosmologia/Musgo Dourado|Musgo Dourado]] dentro de si e nos seus arredores.
 
 Quando mastigado, o Musgo Dourado provocava nos Goblins **intensas visões febris**, que mostraram o que seria necessário para se livrarem da escravidão eterna.
 
@@ -39,15 +39,15 @@ Nos vinte anos seguintes à descoberta do ídolo, sob a devoção silenciosa dos
 
 ## 3. A Batalha da Lua Nova
 
-Quando os Dragões finalmente ligaram os pontos e perceberam a origem da podridão que os debilitava, voltaram sua fúria contra os Goblins para esmagar a rebelião. Contudo, a intervenção de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] através da **Lua Nova** potencializou os efeitos de seu [[Cosmologia/Musgo Dourado|Musgo Dourado]], impedindo que os antigos governantes conseguissem se defender contra a horda Goblin.
+Após duas décadas de envenenamento lento, o excesso de sabotagem acabou adoecendo rápido demais o dragão jovem **Vexar** — revelando o padrão dos esporos aos antigos senhores antes da hora. Furiosos ao ligar os pontos, os Dragões investiram contra os Goblins para esmagar a rebelião. Contudo, a intervenção de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] através da **Lua Nova** potencializou os efeitos de seu [[Cosmologia/Musgo Dourado|Musgo Dourado]], impedindo que os antigos governantes conseguissem se defender contra a horda Goblin.
 
 Após uma noite de batalha incansável, os Dragões sobreviventes se viram obrigados a abandonar seus domínios nas montanhas e voar para o **leste**, em fuga.
 
 ## 4. A Fuga e a Primeira Caçada Sagrada
 
-Da perseguição aos tiranos em retirada nasceu a **Primeira Caçada Sagrada**: os Goblins abandonaram seus antigos lares nas montanhas para cruzar para o leste e exterminar cada Dragão Vermelho que havia fugido — e conseguiram.
+Da perseguição aos tiranos em retirada nasceu a **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**: os Goblins abandonaram seus antigos lares nas montanhas para cruzar para o leste e exterminar cada Dragão Vermelho que havia fugido — e conseguiram.
 
-O maior deles, a **Matriarca**, tombou dentro do grande lago central do vale, hoje chamado **[[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]**. Seus restos mantêm-se silenciosamente nas profundezas negras do lago.
+O maior deles, a Matriarca **Cinderath** (a *Grande Tirana*), tombou dentro do grande lago central do vale, hoje chamado **[[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]**. Seus restos mantêm-se silenciosamente nas profundezas negras do lago.
 
 ## Consequências no Vale
 

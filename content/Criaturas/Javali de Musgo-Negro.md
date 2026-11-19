@@ -7,8 +7,8 @@ aliases: ["Javali de Musgo-Negro"]
 <div class="infobox">
   <div class="infobox-title">Javali de Musgo-Negro</div>
   <div class="infobox-image">
-    <img src="../assets/javali-musgo-negro.webp" alt="Javali de Musgo-Negro" />
-    <div class="infobox-caption">Javali de Musgo-Negro no brejo</div>
+    <img src="../assets/javali-musgo-negro.jpg" alt="Javali de Musgo-Negro" />
+    <div class="infobox-caption">Javali de Musgo-Negro</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Fera do pântano</td></tr>

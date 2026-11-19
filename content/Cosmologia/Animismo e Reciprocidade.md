@@ -26,7 +26,7 @@ Para os habitantes do [[Geografia/Vale da Lama|Vale da Lama]], o pântano não �
 
 ## A Lei da Troca
 
-O princípio central da convivência cotidiana no vale é a **Lei da Troca**: nada no pântano é tomado de graça, e toda retirada exige compensação imediata. Antes de colher cogumelos medicinais, cortar madeira de raiz-ferro, beber de uma nascente desconhecida ou abater uma presa em uma caçada, um habitante do vale realiza um gesto simples de reciprocidade:
+O princípio central da convivência cotidiana no vale é a **Lei da Troca**: nada no pântano é tomado de graça, e toda retirada exige compensação imediata. Antes de colher cogumelos medicinais, cortar madeira de mangue, beber de uma nascente desconhecida ou abater uma presa em uma caçada, um habitante do vale realiza um gesto simples de reciprocidade:
 
 - Pingar três gotas de sangue na raiz antes de entrar numa trilha densa para pedir passagem segura;
 - Enterrar um dente de leite, mecha de cabelo ou lasca de garra na lama ao acampar;

@@ -15,7 +15,7 @@ aliases: ["O Lago da Grande Tirana", "Lago da Grande Tirana", "Lago Central"]
     <tr><td><b>Origem</b></td><td>[[Historia/A Grande Morte Lenta|Grande Morte Lenta]] (queda da Grande Tirana)</td></tr>
     <tr><td><b>Facção Dominante</b></td><td>Nenhuma (território disputado)</td></tr>
     <tr><td><b>Perigo</b></td><td>Alto a Extremo</td></tr>
-    <tr><td><b>Ameaças</b></td><td>[[Deuses-Fera/Sapo-Trovão do Lago Central|Sapo-Trovão]], [[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga]]</td></tr>
+    <tr><td><b>Ameaças</b></td><td>[[Deuses-Fera/Og'gath|Sapo-Trovão]], [[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga]]</td></tr>
   </table>
 </div>
 
@@ -27,7 +27,7 @@ Localizado bem no centro do [[Geografia/Vale da Lama|Vale da Lama]], o **Lago da
 
 ## História / Origem
 
-O lago formou-se na cratera onde caiu a **Matriarca** — a maior dos [[Tribos/Povo Dragão|Dragões Vermelhos]] em fuga do Extremo Oeste — ao final da **[[Historia/A Grande Morte Lenta|Primeira Caçada Sagrada]]**. Seus restos titânicos mantêm-se silenciosamente exclusivamente bem no fundo do abismo subaquático, visíveis apenas como silhuetas sombrias e distorcidas em dias de calmaria absoluta.
+O lago formou-se na cratera onde caiu a Matriarca **Cinderath** — a maior dos [[Tribos/Povo Dragão|Dragões Vermelhos]] (Os Filhos de Ashkor) em fuga do Extremo Oeste — ao final da **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**. Seus restos titânicos mantêm-se silenciosamente exclusivamente bem no fundo do abismo subaquático, visíveis apenas como silhuetas sombrias e distorcidas em dias de calmaria absoluta.
 
 ## Ecologia e Atmosfera
 
@@ -37,8 +37,8 @@ Quase não há vegetação emergindo do centro do lago. Bolhas de gás fétido e
 
 - **Travessia Arriscada:** Jangadas que cruzam o lago ficam totalmente expostas sem cobertura.
 - **Bancos Profundos de Ovos Antigos:** Locais submersos onde repousam ovos de dragões antigos — considerados [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|Territórios Sagrados de Desova]], onde caçar é proibido.
-- **Ameaças das Profundezas:** Ponto de peregrinação silenciosa e fonte de boatos sobre o que ainda se move abaixo das costelas submersas, além das presenças do [[Deuses-Fera/Sapo-Trovão do Lago Central|Sapo-Trovão do Lago Central]] (Perigo Extremo) e da [[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]] (Perigo Alto).
+- **Ameaças das Profundezas:** Ponto de peregrinação silenciosa e fonte de boatos sobre o que ainda se move abaixo das costelas submersas, além das presenças do [[Deuses-Fera/Og'gath|Sapo-Trovão do Lago Central]] (Perigo Extremo) e da [[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]] (Perigo Alto).
 
 ---
 
-**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Historia/A Grande Morte Lenta|A Grande Morte Lenta]], [[Deuses-Fera/Sapo-Trovão do Lago Central|Sapo-Trovão do Lago Central]], [[Deuses-Fera/Sss'kar|Sss'kar]], [[Cosmologia/Musgo Dourado|Musgo Dourado]]
+**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Historia/A Grande Morte Lenta|A Grande Morte Lenta]], [[Deuses-Fera/Og'gath|Sapo-Trovão do Lago Central]], [[Deuses-Fera/Sss'kar|Sss'kar]], [[Cosmologia/Musgo Dourado|Musgo Dourado]]

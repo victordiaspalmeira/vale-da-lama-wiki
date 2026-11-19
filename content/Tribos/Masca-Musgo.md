@@ -30,7 +30,7 @@ Os **Masca-Musgo** habitam o Oeste do [[Geografia/Vale da Lama|Vale da Lama]], c
 - **Decomposição Sagrada:** Nada é desperdiçado; todo corpo retorna ao solo para alimentar o ciclo (veja [[Cosmologia/Nyog'Sothep#O Ciclo da Devolução|O Ciclo da Devolução]]).
 - **Reciprocidade:** Respeito rigoroso à [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]] ao colher, caçar ou viajar pelo pântano.
 - **Fogo como Ferramenta:** Uso estritamente controlado do fogo em forjas isoladas e fogareiros baixos, com proibição absoluta de queimar corpos ou usar chamas em combate (veja [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]).
-- **Comércio e Diplomacia:** Mantêm trocas regulares de quitina, peles e reagentes alquímicos com os nômades [[Tribos/Tece-Pele|Tece-Pele]], enquanto preservam uma trégua tensa com os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] e evitam contato direto com os [[Tribos/Ventre-Inchado|Ventre-Inchado]].
+- **Comércio e Diplomacia:** Mantêm trocas regulares de peles, seda e reagentes alquímicos com os nômades [[Tribos/Tece-Pele|Tece-Pele]], enquanto preservam uma trégua tensa com os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] e evitam contato direto com os [[Tribos/Ventre-Inchado|Ventre-Inchado]].
 
 ## Organização Social
 

@@ -29,7 +29,7 @@ aliases: ["NPCs de Raiz-Funda", "Personagens de Raiz-Funda"]
 | [[NPCs/Kruk\|Kruk]] | Mestre dos Caçadores | Caça |
 | [[NPCs/Grixa\|Grixa]] | Batedora de Elite (rival de Kruk) | Caça |
 | [[NPCs/Gnarl Martelo-Torto\|Gnarl Martelo-Torto]] | Ferreiro e armeiro da [[Geografia/Raiz-Funda#A Forja Periférica de Gnarl\|Forja Periférica]] | Artesanato |
-| [[NPCs/Biba\|Biba (a Mão-Ácida)]] | Alquimista e artesã de quitina | Artesanato |
+| [[NPCs/Biba\|Biba (a Mão-Ácida)]] | Alquimista e curtidora | Artesanato |
 | [[NPCs/Torg\|Torg]] | Construtor de palafitas, jangadas e calçados | Artesanato |
 | [[NPCs/Varga\|Varga]] | Capitã da Guarda | Defesa |
 | [[NPCs/Vó Mofo-Velho\|Vó Mofo-Velho]] | Decana e guardiã da memória oral | Anciãos |

@@ -13,7 +13,7 @@ aliases: ["Tecelão-de-Ossos"]
     <tr><td><b>Tipo</b></td><td>Criatura articulada</td></tr>
     <tr><td><b>Habitat</b></td><td>Raízes de mangue / [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]]</td></tr>
     <tr><td><b>Perigo</b></td><td>Alto</td></tr>
-    <tr><td><b>Vínculo</b></td><td>Mitos dos [[Tribos/Tece-Pele|Tece-Pele]] e [[Deuses-Fera/Deusa-Fera Aranha|Deusa-Fera Aranha]]</td></tr>
+    <tr><td><b>Vínculo</b></td><td>Mitos dos [[Tribos/Tece-Pele|Tece-Pele]] e [[Deuses-Fera/Mael'ra|Deusa-Fera Aranha]]</td></tr>
   </table>
 </div>
 
@@ -25,7 +25,7 @@ O **Tecelão-de-Ossos** é uma criatura perigosa vista entre as raízes de mangu
 
 ## Comportamento e Mitos
 
-É ligado aos mitos dos [[Tribos/Tece-Pele|Tece-Pele]] e às suturas da [[Deuses-Fera/Deusa-Fera Aranha|Deusa-Fera Aranha]]. Contudo, nem mesmo a tribo nômade concorda se ele é um arauto da deusa ou uma distorção do Fio-Eterno.
+É ligado aos mitos dos [[Tribos/Tece-Pele|Tece-Pele]] e às suturas da [[Deuses-Fera/Mael'ra|Deusa-Fera Aranha]]. Contudo, nem mesmo a tribo nômade concorda se ele é um arauto da deusa ou uma distorção do Fio-Eterno.
 
 ## Ganchos de Aventura
 
@@ -33,4 +33,4 @@ O **Tecelão-de-Ossos** é uma criatura perigosa vista entre as raízes de mangu
 
 ---
 
-**Veja também:** [[Deuses-Fera/Deusa-Fera Aranha|Deusa-Fera Aranha]], [[Tribos/Tece-Pele|Tece-Pele]], [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]]
+**Veja também:** [[Deuses-Fera/Mael'ra|Deusa-Fera Aranha]], [[Tribos/Tece-Pele|Tece-Pele]], [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]]

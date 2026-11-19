@@ -12,7 +12,7 @@ aliases: ["Montanhas do Oeste", "Extremo Oeste", "Montanhas do Extremo Oeste"]
   <table>
     <tr><td><b>Tipo</b></td><td>Cordilheira árida</td></tr>
     <tr><td><b>Localização</b></td><td>Extremo Oeste, além do [[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
-    <tr><td><b>Antigos Senhores</b></td><td>[[Tribos/Povo Dragão|Dragões Vermelhos]] (linhagem de nome perdido)</td></tr>
+    <tr><td><b>Antigos Senhores</b></td><td>[[Tribos/Povo Dragão|Dragões Vermelhos]] (Os Filhos de Ashkor)</td></tr>
     <tr><td><b>Marcos Históricos</b></td><td>Antigas minas de escravidão e câmara do Ídolo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]]</td></tr>
     <tr><td><b>Status</b></td><td>Domínios abandonados após a Batalha da Lua Nova</td></tr>
   </table>

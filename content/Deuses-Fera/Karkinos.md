@@ -7,7 +7,7 @@ aliases: ["Karkinos", "Deus-Caranguejo Karkinos", "Deus-Caranguejo", "Pinça-de-
 <div class="infobox">
   <div class="infobox-title">Karkinos</div>
   <div class="infobox-image">
-    <img src="../assets/karkinos.webp" alt="Karkinos, o Deus-Caranguejo da Costa Salobra" />
+    <img src="../assets/karkinos.jpg" alt="Karkinos, o Deus-Caranguejo da Costa Salobra" />
     <div class="infobox-caption">Karkinos, o Deus-Caranguejo</div>
   </div>
   <table>
@@ -34,7 +34,7 @@ aliases: ["Karkinos", "Deus-Caranguejo Karkinos", "Deus-Caranguejo", "Pinça-de-
 
 ## Contraste com Nyog'Sothep
 
-Para o clero de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] em [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera como Karkinos são entidades menores, presas à carne, em contraste com a rede micelial difusa do Deus Fúngico. Ainda assim, seu poder sobre a Costa Salobra e a proteção feroz dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Olhos-Vermelhos]] mantêm uma trégua tensa na fronteira nordeste.
+Para o clero de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] em [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera como Karkinos são entidades espirituais menores que transitam facilmente entre o etéreo e o físico, em contraste com Nyog'Sothep — um Deus Verdadeiro sem forma física definida e de ação indireta no plano material. Ainda assim, seu poder sobre a Costa Salobra e a proteção feroz dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Olhos-Vermelhos]] mantêm uma trégua tensa na fronteira nordeste.
 
 ## Rumor de Caçada
 

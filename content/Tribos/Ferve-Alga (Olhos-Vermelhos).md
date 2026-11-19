@@ -16,7 +16,7 @@ aliases: ["Ferve-Alga", "Olhos-Vermelhos", "Tribo do Nordeste", "Deus-Caranguejo
     <tr><td><b>Deidade</b></td><td>[[Deuses-Fera/Karkinos|Deus-Caranguejo Karkinos]]</td></tr>
     <tr><td><b>Objetivo</b></td><td>Proteger as áreas de desova e manter o culto da salmoura</td></tr>
     <tr><td><b>Aliados / Rivais</b></td><td>Trégua tensa / rivais dos [[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
-    <tr><td><b>Prática</b></td><td>Salmoura fervente</td></tr>
+    <tr><td><b>Prática</b></td><td>[[Tribos/Salmoura e Sal Cristalizado|Salmoura fervente]]</td></tr>
   </table>
 </div>
 

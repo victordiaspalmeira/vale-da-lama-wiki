@@ -14,7 +14,7 @@ aliases: ["Snikk", "Curandeiro-Chefe"]
     <tr><td><b>Cargo</b></td><td>Curandeiro-Chefe</td></tr>
     <tr><td><b>Tribo</b></td><td>[[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
     <tr><td><b>Base</b></td><td>[[Geografia/Raiz-Funda|Raiz-Funda]]</td></tr>
-    <tr><td><b>Especialidade</b></td><td>[[Cosmologia/Musgo Dourado|Musgo Dourado]] e Febre do Musgo</td></tr>
+    <tr><td><b>Especialidade</b></td><td>[[Cosmologia/Musgo Dourado|Musgo Dourado]] e ervas do mangue</td></tr>
   </table>
 </div>
 
@@ -26,7 +26,7 @@ aliases: ["Snikk", "Curandeiro-Chefe"]
 
 ## Prática Médica
 
-Utiliza cataplasmas de [[Cosmologia/Musgo Dourado|Musgo Dourado]] puro, ervas do mangue e tratamentos específicos para combater infecções pantanosas e a **Febre do Musgo**. Por sua função, é um dos curandeiros autorizados a entrar no [[Geografia/Jardim Dourado|Jardim Dourado]].
+Utiliza cataplasmas de [[Cosmologia/Musgo Dourado|Musgo Dourado]] puro e ervas do mangue para tratar ferimentos e infecções pantanosas. Por sua função, é um dos curandeiros autorizados a entrar no [[Geografia/Jardim Dourado|Jardim Dourado]].
 
 ---
 

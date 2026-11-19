@@ -7,7 +7,8 @@ aliases: ["As Ruínas dos Sem-Nome", "Ruínas dos Sem-Nome", "As Pedras Mortas"]
 <div class="infobox">
   <div class="infobox-title">Ruínas dos Sem-Nome</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Ruínas dos Sem-Nome ]</div>
+    <img src="../assets/ruinas-dos-sem-nome.jpg" alt="Arcos ogivais e pedra antiga das Ruínas dos Sem-Nome entre raízes" />
+    <div class="infobox-caption">As Pedras Mortas tomadas pelas raízes</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Ruínas antigas semi-submersas</td></tr>

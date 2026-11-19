@@ -11,7 +11,7 @@ aliases: ["Costa Salobra", "A Costa Salobra e Os Caldeirões", "Áreas de Desova
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Faixa costeira, ilhotas e canais de maré</td></tr>
-    <tr><td><b>Localização</b></td><td>Nordeste do [[Geografia/Vale da Lama|Vale da Lama]] (voltada para o mar aberto)</td></tr>
+    <tr><td><b>Localização</b></td><td>Nordeste do [[Geografia/Vale da Lama|Vale da Lama]] (voltada para o Mar das Brumas)</td></tr>
     <tr><td><b>Facção Dominante</b></td><td>[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]</td></tr>
     <tr><td><b>Deus-Fera</b></td><td>[[Deuses-Fera/Karkinos|Karkinos]]</td></tr>
     <tr><td><b>Recursos</b></td><td>Sal cristalizado, salmoura, crustáceos</td></tr>
@@ -23,7 +23,7 @@ aliases: ["Costa Salobra", "A Costa Salobra e Os Caldeirões", "Áreas de Desova
 
 ## Descrição
 
-A **Costa Salobra** ocupa a faixa costeira nordeste do [[Geografia/Vale da Lama|Vale da Lama]], voltada para o mar aberto e recortada por dezenas de ilhotas de lama, canais de maré e bancos de areia e salitre. É a zona de transição onde a água doce e lodosa dos rios do vale encontra o oceano. O solo é marcado por crostas brancas de salitre, manguezais baixos retorcidos pelo vento salgado e paliçadas erguidas com conchas gigantes e ossos marinhos.
+A **Costa Salobra** ocupa a faixa costeira nordeste do [[Geografia/Vale da Lama|Vale da Lama]], voltada para o **Mar das Brumas** e recortada por dezenas de ilhotas de lama, canais de maré e bancos de areia e salitre. É a zona de transição onde a água doce e lodosa dos rios do vale encontra o mar aberto. O solo é marcado por crostas brancas de salitre, manguezais baixos retorcidos pelo vento salgado e paliçadas erguidas com conchas gigantes e ossos marinhos.
 
 Segundo os habitantes locais, as marés seguem o ritmo da respiração de [[Deuses-Fera/Karkinos|Karkinos]], adormecido sob a costa.
 

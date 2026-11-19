@@ -7,11 +7,11 @@ aliases: ["Deus Fúngico", "Nyog'Sothep", "Jardim Dourado", "Ciclo de Devoluçã
 <div class="infobox">
   <div class="infobox-title">Nyog'Sothep</div>
   <div class="infobox-image">
-    <img class="osr-art" src="../assets/nyog-sothep.jpg" alt="A Manifestação do Enxame de Nyog'Sothep entre as raízes de mangue" />
+    <img src="../assets/nyog-sothep.jpg" alt="A Manifestação do Enxame de Nyog'Sothep" />
     <div class="infobox-caption">A Manifestação do Enxame de Nyog'Sothep</div>
   </div>
   <table>
-    <tr><td><b>Tipo</b></td><td>Deus-fungo primordial</td></tr>
+    <tr><td><b>Tipo</b></td><td>[[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]] (Fúngico)</td></tr>
     <tr><td><b>Domínio</b></td><td>Decomposição, Fermentação, Esporos</td></tr>
     <tr><td><b>Manifestação</b></td><td>Enxame de moscas negras e verde-metálicas</td></tr>
     <tr><td><b>Santuário</b></td><td>[[Geografia/Jardim Dourado|Jardim Dourado]]</td></tr>
@@ -25,7 +25,7 @@ aliases: ["Deus Fúngico", "Nyog'Sothep", "Jardim Dourado", "Ciclo de Devoluçã
 
 ## Natureza da Divindade
 
-**Nyog'Sothep** é o deus fúngico adorado pelos [[Tribos/Masca-Musgo|Masca-Musgo]], a entidade primordial do [[Geografia/Vale da Lama|Vale da Lama]] que personifica o ciclo eterno de decomposição, fermentação e renascimento. Ele não possui trono, rosto esculpido ou corte de avatares — tampouco comanda [[Deuses-Fera/Deus-Fera|Deuses-Fera]] menores para agir em seu nome. Para o clero de [[Geografia/Raiz-Funda|Raiz-Funda]], deuses que dependem de emissários bestiais são entidades menores, presas à carne. Nyog'Sothep é vasto demais para caber em um único corpo: ele é a própria rede subterrânea de micélio que costura as raízes por baixo da turfa negra, a força paciente que desmancha madeira, osso, quitina e escama antiga para devolver sustento ao brejo.
+**Nyog'Sothep** é um **[[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]]** adorado pelos [[Tribos/Masca-Musgo|Masca-Musgo]], a entidade fúngica primordial do [[Geografia/Vale da Lama|Vale da Lama]] que personifica o ciclo eterno de decomposição, fermentação e renascimento. Como Deus Verdadeiro, ele **não possui forma física definida** e **não interage de maneira tão direta com o plano físico** — diferente dos [[Deuses-Fera/Deus-Fera|Deuses-Fera]], que transitam com muito mais facilidade entre o etéreo e o físico. Ele não possui trono, rosto esculpido ou corte de avatares, tampouco comanda Deuses-Fera menores para agir em seu nome. Para o clero de [[Geografia/Raiz-Funda|Raiz-Funda]], Nyog'Sothep é vasto demais para caber em um único corpo: sua presença opera através da rede subterrânea de micélio, dos esporos e do [[Cosmologia/Musgo Dourado|Musgo Dourado]], desmanchando madeira, osso, pele e escama antiga para devolver sustento ao brejo.
 
 Ele não é um deus da morte estéril, mas da digestão sagrada. Na crença do Oeste, toda criatura viva carrega apenas um empréstimo temporário de matéria. Quando um ser morre, Nyog'Sothep reclama o que lhe pertence através do bolor, da larva e do esporo. Cremar um cadáver ou encerrá-lo em pedra seca longe da umidade é considerado roubo cósmico — uma tentativa arrogante de negar ao pântano o alimento que lhe é devido.
 
@@ -49,7 +49,7 @@ No [[Geografia/Vale da Lama|Vale da Lama]], nada se perde. Quando um membro da t
 
 ## O Jardim Dourado
 
-Situado na depressão mais profunda sob as raízes centrais de [[Geografia/Raiz-Funda|Raiz-Funda]], o **[[Geografia/Jardim Dourado|Jardim Dourado]]** é o santuário mais sagrado de Nyog'Sothep, onde ocorrem os rituais do Ciclo da Devolução e onde brota com mais força o [[Cosmologia/Musgo Dourado|Musgo Dourado]]. Acesso restrito ao clero, decana e curandeiros autorizados.
+Situado sob as arcadas de mangue no coração de [[Geografia/Raiz-Funda|Raiz-Funda]], o **[[Geografia/Jardim Dourado|Jardim Dourado]]** é o santuário mais sagrado de Nyog'Sothep, onde ocorrem os rituais do Ciclo da Devolução, repousa o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] e brota com mais força o [[Cosmologia/Musgo Dourado|Musgo Dourado]]. Acesso restrito ao clero, decana e curandeiros autorizados.
 
 ---
 

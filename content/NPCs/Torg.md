@@ -26,7 +26,7 @@ aliases: ["Torg"]
 ## Ofício
 
 - **Jangadas e Piche:** Constrói e repara jangadas de fundo chato para navegar pelas águas paradas, utilizando piche natural extraído dos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]] para calafetar a madeira.
-- **Calçados de Brejo:** Fabrica botas largas de quitina e raquetes de mangue essenciais para evitar exaustão ao marchar na lama profunda do [[Geografia/Vale da Lama|Vale da Lama]].
+- **Calçados de Brejo:** Fabrica botas largas de couro e madeira e raquetes de mangue essenciais para evitar exaustão ao marchar na lama profunda do [[Geografia/Vale da Lama|Vale da Lama]].
 
 ---
 

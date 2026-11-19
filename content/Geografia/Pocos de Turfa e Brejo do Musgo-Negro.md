@@ -7,8 +7,8 @@ aliases: ["Os Poços de Turfa e o Brejo do Musgo-Negro", "Poços de Turfa", "Bre
 <div class="infobox">
   <div class="infobox-title">Poços de Turfa e Brejo do Musgo-Negro</div>
   <div class="infobox-image">
-    <img src="../assets/javali-musgo-negro.webp" alt="Javali de Musgo-Negro nos poços de turfa diante das Montanhas do Oeste" />
-    <div class="infobox-caption">Javali de Musgo-Negro nos poços de turfa</div>
+    <img src="../assets/javali-musgo-negro.jpg" alt="Javali de Musgo-Negro nos poços de turfa" />
+    <div class="infobox-caption">Javali de Musgo-Negro</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Planície ocre-acinzentada e poços de piche</td></tr>

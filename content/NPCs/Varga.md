@@ -25,7 +25,7 @@ aliases: ["Varga", "Capitã da Guarda"]
 
 ## Papel e Defesas
 
-Coordena os batedores posicionados no alto das arcadas de mangue — que se comunicam por assobios que imitam aves e anfíbios do pântano — e supervisiona as trilhas submersas e as malhas de quitina que protegem os acessos da aldeia.
+Coordena os batedores posicionados no alto das arcadas de mangue — que se comunicam por assobios que imitam aves e anfíbios do pântano — e supervisiona as trilhas submersas e as armadilhas de brejo que protegem os acessos da aldeia.
 
 ---
 

@@ -11,7 +11,7 @@ aliases: ["As Águas Paradas Profundas", "Águas Paradas Profundas", "Sul Profun
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Brejos escuros, fechados e labirínticos</td></tr>
-    <tr><td><b>Localização</b></td><td>Sul do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] até o grande rio meridional</td></tr>
+    <tr><td><b>Localização</b></td><td>Sul do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] até o Rio Lodo-Negro</td></tr>
     <tr><td><b>Clima</b></td><td>Abafado, escuro e estagnado</td></tr>
     <tr><td><b>Facção Dominante</b></td><td>[[Tribos/Ventre-Inchado|Ventre-Inchado]]</td></tr>
     <tr><td><b>Deus-Fera</b></td><td>[[Deuses-Fera/Sss'kar|Sss'kar]]</td></tr>
@@ -23,15 +23,15 @@ aliases: ["As Águas Paradas Profundas", "Águas Paradas Profundas", "Sul Profun
 
 ## Descrição
 
-As **Águas Paradas Profundas** ocupam os brejos escuros, fechados e labirínticos logo ao sul do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], entre a floresta densa e o grande rio meridional do [[Geografia/Vale da Lama|Vale da Lama]]. É a região mais abafada, escura e estagnada do vale: copas fechadas de árvores retorcidas e cortinas espessas de cipós bloqueiam quase toda a luz do sol, criando canais sem correnteza, águas negras paradas e ilhotas de lodo traiçoeiro.
+As **Águas Paradas Profundas** ocupam os brejos escuros, fechados e labirínticos logo ao sul do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], entre a floresta densa e o **Rio Lodo-Negro** ao sul do [[Geografia/Vale da Lama|Vale da Lama]]. É a região mais abafada, escura e estagnada do vale: copas fechadas de árvores retorcidas e cortinas espessas de cipós bloqueiam quase toda a luz do sol, criando canais sem correnteza, águas negras paradas e ilhotas de lodo traiçoeiro.
 
 ## Habitantes e Atividades
 
-- **Domínio dos Ventre-Inchado:** A tribo [[Tribos/Ventre-Inchado|Ventre-Inchado]] controla a região, evitando contato direto com os [[Tribos/Masca-Musgo|Masca-Musgo]]. A vida aqui gira em torno da umidade extrema, da fermentação, de criadouros de sanguessugas gigantes em ânforas de barro e de câmaras semi-submersas escavadas sob bancos de barro — onde vive isolado o **Ancião Centenário** (+120 anos).
+- **Domínio dos Ventre-Inchado:** A tribo [[Tribos/Ventre-Inchado|Ventre-Inchado]] controla a região, evitando contato direto com os [[Tribos/Masca-Musgo|Masca-Musgo]]. A vida aqui gira em torno da umidade extrema, da fermentação, de criadouros de [[Tribos/Sanguessugas Gigantes|sanguessugas gigantes]] em ânforas de barro e de câmaras semi-submersas escavadas sob bancos de barro — onde vive isolado **[[NPCs/Murok|Murok, o Ancião Centenário]]** (+120 anos).
 
 ## Uso na Mesa e Ganchos
 
-- **Navegação Claustrofóbica:** Canais fechados com alto risco de contágio por doenças de água parada (como a **Febre do Musgo**), ataques de parasitas e emboscadas silenciosas vindas de baixo da linha d'água.
+- **Navegação Claustrofóbica:** Canais fechados com alto risco de atolamento, ataques de parasitas e emboscadas silenciosas vindas de baixo da linha d'água.
 - **Movimentação para o Norte:** A [[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]] migrou recentemente destas águas para as proximidades do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 ---

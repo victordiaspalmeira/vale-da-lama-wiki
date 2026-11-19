@@ -12,11 +12,11 @@ aliases: ["Tribo do Sul", "Ventre-Inchado", "Sss'kar", "Sanguessugas"]
   <table>
     <tr><td><b>Tipo</b></td><td>Facção / Tribo do Sul</td></tr>
     <tr><td><b>Base</b></td><td>Águas Paradas Profundas (Sul do [[Geografia/Vale da Lama|Vale da Lama]])</td></tr>
-    <tr><td><b>Líder</b></td><td>O Ancião Centenário (+120 anos)</td></tr>
+    <tr><td><b>Líder</b></td><td>[[NPCs/Murok|Murok, o Ancião Centenário]] (+120 anos)</td></tr>
     <tr><td><b>Deidade</b></td><td>[[Deuses-Fera/Sss'kar|Sss'kar]]</td></tr>
     <tr><td><b>Objetivo</b></td><td>Nutrir Sss'kar e prolongar a vida dos anciãos pelo sangue</td></tr>
     <tr><td><b>Aliados / Rivais</b></td><td>Evitados / rivais dos [[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
-    <tr><td><b>Prática</b></td><td>Drenagem de sangue, sanguessugas vivas</td></tr>
+    <tr><td><b>Prática</b></td><td>Drenagem de sangue, [[Tribos/Sanguessugas Gigantes|sanguessugas vivas]]</td></tr>
   </table>
 </div>
 
@@ -39,7 +39,7 @@ Os líderes da tribo são chamados de **anciãos vampíricos** — figuras esque
 - Têm pele pálida e olhos vermelhos
 - Passam semanas sem ingerir alimentos sólidos, vivendo apenas de sangue
 
-O mais antigo deles, conhecido apenas como o **Ancião Centenário**, teria mais de 120 anos e raramente deixa sua câmara nas profundezas do sul.
+O mais antigo deles, conhecido como **[[NPCs/Murok|Murok, o Ancião Centenário]]**, teria mais de 120 anos e raramente deixa sua câmara nas profundezas do sul.
 
 ## Ganchos de Aventura
 
