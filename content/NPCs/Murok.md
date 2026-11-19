@@ -7,7 +7,8 @@ aliases: ["Murok", "Ancião Centenário", "O Ancião Centenário"]
 <div class="infobox">
   <div class="infobox-title">Murok</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Murok ]</div>
+    <img src="../assets/murok.jpg" alt="Murok, o Ancião Centenário" />
+    <div class="infobox-caption">Murok, o Ancião Centenário</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>NPC / Ancião Vampírico</td></tr>

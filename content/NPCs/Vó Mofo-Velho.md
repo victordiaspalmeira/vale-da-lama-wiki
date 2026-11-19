@@ -7,7 +7,8 @@ aliases: ["Vó Mofo-Velho", "Decana"]
 <div class="infobox">
   <div class="infobox-title">Vó Mofo-Velho</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Vó Mofo-Velho ]</div>
+    <img src="../assets/vo-mofo-velho.jpg" alt="Vó Mofo-Velho" />
+    <div class="infobox-caption">Vó Mofo-Velho</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>NPC / Anciã</td></tr>

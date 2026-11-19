@@ -27,7 +27,7 @@ O **Musgo Dourado** (*Aurumycota sothepi*) é uma variedade rara de musgo-fungo 
 
 Hoje, é especialmente potente quando colhido nos canteiros bioluminescentes do [[Geografia/Jardim Dourado|Jardim Dourado]] ou nas margens do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
-Para os [[Tribos/Masca-Musgo|Masca-Musgo]], colher o Musgo Dourado exige respeito absoluto à [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]].
+Para os [[Tribos/Masca-Musgo|Masca-Musgo]], colher o Musgo Dourado exige respeito absoluto à [[Cosmologia/Lei da Troca|Lei da Troca]].
 
 ## Propriedades e Regras (Pathfinder 2e Remaster)
 
@@ -43,9 +43,9 @@ Os [[Tribos/Masca-Musgo|Masca-Musgo]] não encaram o estágio final desse proces
 
 ## Ganchos de Aventura
 
-- Uma colheita rara de Musgo Dourado brotou sobre fragmentos de ossos calcificados nas margens do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], mas o próprio pântano exige uma oferenda à altura segundo a [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]].
+- Uma colheita rara de Musgo Dourado brotou sobre fragmentos de ossos calcificados nas margens do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], mas o próprio pântano exige uma oferenda à altura segundo a [[Cosmologia/Lei da Troca|Lei da Troca]].
 - Um batedor de [[Geografia/Raiz-Funda|Raiz-Funda]] apresenta os primeiros filamentos dourados sob as unhas após recorrer ao musgo com frequência excessiva durante patrulhas.
 
 ---
 
-**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Animismo e Reciprocidade|Animismo e Reciprocidade]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]]
+**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Lei da Troca|Lei da Troca]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]]

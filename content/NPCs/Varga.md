@@ -7,7 +7,8 @@ aliases: ["Varga", "Capitã da Guarda"]
 <div class="infobox">
   <div class="infobox-title">Varga</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Varga ]</div>
+    <img src="../assets/varga.jpg" alt="Varga, Capitã da Guarda" />
+    <div class="infobox-caption">Varga, Capitã da Guarda</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>NPC / Militar</td></tr>

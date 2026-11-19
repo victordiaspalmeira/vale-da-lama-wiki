@@ -7,7 +7,8 @@ aliases: ["Kruk", "Mestre dos Caçadores"]
 <div class="infobox">
   <div class="infobox-title">Kruk</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Kruk ]</div>
+    <img src="../assets/kruk.jpg" alt="Kruk, Mestre dos Caçadores" />
+    <div class="infobox-caption">Kruk, Mestre dos Caçadores</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>NPC / Caçador</td></tr>

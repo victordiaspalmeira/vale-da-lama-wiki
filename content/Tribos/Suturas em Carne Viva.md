@@ -38,4 +38,4 @@ Nenhuma dívida — seja comida, proteção, mercadoria ou favor — é esquecid
 
 ---
 
-**Veja também:** [[Tribos/Tece-Pele|Tece-Pele]], [[Tribos/Teia Prateada|Teia Prateada]], [[Deuses-Fera/Mael'ra|Mael'ra]], [[Cosmologia/Animismo e Reciprocidade|Animismo e Reciprocidade]]
+**Veja também:** [[Tribos/Tece-Pele|Tece-Pele]], [[Tribos/Teia Prateada|Teia Prateada]], [[Deuses-Fera/Mael'ra|Mael'ra]], [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Lei da Troca|Lei da Troca]]

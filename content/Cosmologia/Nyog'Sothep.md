@@ -53,4 +53,4 @@ Situado sob as arcadas de mangue no coração de [[Geografia/Raiz-Funda|Raiz-Fun
 
 ---
 
-**Veja também:** [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Cosmologia/Animismo e Reciprocidade|Animismo e Reciprocidade]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]]
+**Veja também:** [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Lei da Troca|Lei da Troca]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]]

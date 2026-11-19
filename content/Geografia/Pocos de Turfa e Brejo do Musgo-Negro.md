@@ -24,12 +24,22 @@ aliases: ["Os Poços de Turfa e o Brejo do Musgo-Negro", "Poços de Turfa", "Bre
 
 Os **Poços de Turfa e o Brejo do Musgo-Negro** formam uma zona de transição seca-lodosa no extremo oeste do [[Geografia/Vale da Lama|Vale da Lama]], encostada diretamente no sopé árido das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]. Onde o escoamento das montanhas encontra o pântano, a planície ocre-acinzentada torna-se instável e perfurada por manchas negras borbulhantes: poços profundos de piche e turfa espessa que liberam gases inflamáveis, cercados por crostas de musgo-negro ácido e cogumelos corrosivos.
 
+## Ecologia Ácida e Gases
+
+- **Musgo-Negro e Fungos Corrosivos:** Ao contrário do [[Cosmologia/Musgo Dourado|Musgo Dourado]], o musgo-negro que cresce nas bordas dos poços corrói couro comum e madeira sem tratamento após exposição prolongada.
+- **Bolsões de Gás Inflamável:** As bolhas que estouram na superfície da turfa exalam vapores fétidos e altamente inflamáveis. Qualquer faísca ou chama aberta nas proximidades — já proibidas pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] — pode provocar explosões súbitas no chão.
+- **Fauna Resistente:** Apenas criaturas robustas suportam o solo ácido, com destaque para o [[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]].
+
+## Extração de Piche
+
+O piche espesso dos poços é um dos recursos mais úteis do setor oeste, empregado por construtores como [[NPCs/Torg|Torg]] para calafetar jangadas e impermeabilizar madeira das palafitas de [[Geografia/Raiz-Funda|Raiz-Funda]]. A coleta é feita com varas longas e baldes de madeira tratada, sempre respeitando a [[Cosmologia/Lei da Troca|Lei da Troca]] e evitando pisar nas crostas finas ao redor das bordas.
+
 ## Uso na Mesa e Ganchos
 
-- **Fronteira Natural:** Barreira perigosa entre [[Geografia/Raiz-Funda|Raiz-Funda]] e as terras secas do Extremo Oeste.
-- **Extração de Piche:** O piche dos poços é um recurso valioso, usado pelos construtores como [[NPCs/Elenco de Raiz-Funda|Torg]] para calafetar jangadas e impermeabilizar madeira.
-- **Riscos e Caçadas:** Risco extremo de atolamento, bolsões de gases tóxicos/inflamáveis (muito perigosos perto de qualquer faísca) e território de caça às feras mais resistentes do vale, como o [[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]].
+- **Fronteira Natural:** Barreira perigosa entre [[Geografia/Raiz-Funda|Raiz-Funda]] e as encostas áridas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]].
+- **Expedição de Coleta:** [[NPCs/Torg|Torg]] precisa de piche fresco para selar novas jangadas, mas um grupo de [[Criaturas/Javali de Musgo-Negro|Javalis de Musgo-Negro]] passou a rondar os poços mais acessíveis.
+- **Rastro Antigo:** Um caminho de pedras meio afundadas na turfa aponta na direção das antigas minas das montanhas.
 
 ---
 
-**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]
+**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]]

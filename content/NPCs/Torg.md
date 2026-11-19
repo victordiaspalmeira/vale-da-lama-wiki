@@ -7,7 +7,8 @@ aliases: ["Torg"]
 <div class="infobox">
   <div class="infobox-title">Torg</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Torg ]</div>
+    <img src="../assets/torg.jpg" alt="Torg, o Construtor" />
+    <div class="infobox-caption">Torg, o Construtor</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>NPC / Construtor</td></tr>

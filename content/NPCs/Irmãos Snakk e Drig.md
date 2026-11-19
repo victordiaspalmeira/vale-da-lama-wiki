@@ -7,7 +7,8 @@ aliases: ["Irmãos Snakk e Drig", "Snakk e Drig", "Snakk", "Drig"]
 <div class="infobox">
   <div class="infobox-title">Irmãos Snakk e Drig</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Snakk e Drig ]</div>
+    <img src="../assets/snakk-e-drig.jpg" alt="Irmãos Snakk e Drig" />
+    <div class="infobox-caption">Irmãos Snakk e Drig</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>NPCs / Coveiros-Sacerdotes</td></tr>

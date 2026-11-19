@@ -7,7 +7,8 @@ aliases: ["Grixa", "Batedora de Elite"]
 <div class="infobox">
   <div class="infobox-title">Grixa</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Grixa ]</div>
+    <img src="../assets/grixa.jpg" alt="Grixa, Batedora de Elite" />
+    <div class="infobox-caption">Grixa, Batedora de Elite</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>NPC / Batedora de Elite</td></tr>

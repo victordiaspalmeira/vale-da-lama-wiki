@@ -1,0 +1,50 @@
+---
+title: Lei da Troca
+tags: [cosmologia, lei-da-troca, reciprocidade, rito]
+aliases: ["Lei da Troca", "A Lei da Troca", "Reciprocidade"]
+---
+
+<div class="infobox">
+  <div class="infobox-title">Lei da Troca</div>
+  <div class="infobox-image">
+    <div class="infobox-placeholder">[ Ilustração: Lei da Troca ]</div>
+  </div>
+  <table>
+    <tr><td><b>Tipo</b></td><td>Princípio cotidiano e lei espiritual</td></tr>
+    <tr><td><b>Base</b></td><td>[[Cosmologia/Animismo|Animismo]]</td></tr>
+    <tr><td><b>Conselheiro</b></td><td>[[NPCs/Zog|Zog (Xamã Animista)]]</td></tr>
+    <tr><td><b>Juiz</b></td><td>[[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]]</td></tr>
+    <tr><td><b>Região</b></td><td>[[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
+  </table>
+</div>
+
+# A Lei da Troca
+
+## Descrição
+
+O princípio central da convivência cotidiana no [[Geografia/Vale da Lama|Vale da Lama]] — nascido do [[Cosmologia/Animismo|Animismo]] local — é a **Lei da Troca**: nada no pântano é tomado de graça, e toda retirada exige compensação imediata.
+
+## Gestos de Reciprocidade
+
+Antes de colher cogumelos medicinais, cortar madeira de mangue, beber de uma nascente desconhecida ou abater uma presa em uma [[Historia/Cacada Sagrada|caçada]], um habitante do vale realiza um gesto simples de reciprocidade:
+
+- Pingar três gotas de sangue na raiz antes de entrar numa trilha densa para pedir passagem segura;
+- Enterrar um dente de leite, mecha de cabelo ou lasca de garra na lama ao acampar;
+- Cantar ou contar uma história em voz baixa ao anoitecer em sinal de respeito ao ambiente;
+- Deixar uma tigela de pasta fermentada na borda de uma poça parada antes de coletar água ou ervas;
+- Devolver o primeiro pedaço cru do coração de uma presa abatida ao musgo para honrar o ciclo.
+
+## O Preço da Quebra
+
+Aqueles que colhem sem pedir, matam por esporte ou desrespeitam os locais sagrados atraem a hostilidade do próprio pântano: trilhas parecem fechar-se sob seus pés, ferramentas apodrecem ou se perdem na lama, ferimentos inflamam com facilidade e predadores locais passam a seguir seu rastro.
+
+Quando um habitante ou visitante precisa reparar uma quebra da Lei da Troca, recorre a [[NPCs/Zog|Zog]], o Xamã Animista, que orienta qual oferenda ou restituição deve ser devolvida ao solo — enquanto disputas internas sobre essas quebras são julgadas por [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]].
+
+## Ganchos de Aventura
+
+- Um grupo de viajantes colheu [[Cosmologia/Musgo Dourado|Musgo Dourado]] sem oferenda e agora todas as suas trilhas dão em círculos na neblina.
+- [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] e [[NPCs/Zog|Zog]] divergem sobre a restituição devida após uma caçada mal conduzida.
+
+---
+
+**Veja também:** [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[NPCs/Zog|Zog]], [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]], [[Historia/Cacada Sagrada|A Caçada Sagrada]]

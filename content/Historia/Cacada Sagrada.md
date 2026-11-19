@@ -14,7 +14,7 @@ aliases: ["Caçada Sagrada", "Primeira Caçada Sagrada", "Caçadas Sagradas"]
     <tr><td><b>Origem</b></td><td>[[Historia/A Grande Morte Lenta|Primeira Caçada Sagrada]]</td></tr>
     <tr><td><b>Praticantes</b></td><td>[[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
     <tr><td><b>Liderança</b></td><td>[[NPCs/Kruk|Kruk]] (disputada por [[NPCs/Grixa|Grixa]])</td></tr>
-    <tr><td><b>Leis</b></td><td>[[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]], [[Cosmologia/Codigo de Honra do Fogo|Código do Fogo]], Ninhadas</td></tr>
+    <tr><td><b>Leis</b></td><td>[[Cosmologia/Lei da Troca|Lei da Troca]], [[Cosmologia/Codigo de Honra do Fogo|Código do Fogo]], Ninhadas</td></tr>
   </table>
 </div>
 
@@ -32,7 +32,7 @@ A tradição nasceu ao final da **[[Historia/A Grande Morte Lenta|Grande Morte L
 
 Toda expedição guiada por [[NPCs/Kruk|Kruk]] (Mestre dos Caçadores) ou [[NPCs/Grixa|Grixa]] deve obedecer a três princípios invioláveis:
 
-1. **Reciprocidade:** Respeitar a [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]], devolvendo o primeiro pedaço cru do coração da presa abatida ao musgo para honrar o ciclo.
+1. **Reciprocidade:** Respeitar a [[Cosmologia/Lei da Troca|Lei da Troca]], devolvendo o primeiro pedaço cru do coração da presa abatida ao musgo para honrar o ciclo.
 2. **Sem Fogo em Combate:** Jamais usar fogo, tochas ou magias incendiárias na caçada ([[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]).
 3. **Ninhadas vs. Territórios Sagrados:** Respeitar as [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|regras de desova]], nunca exterminando toda a prole de uma ninhada e jamais caçando em Territórios Sagrados de Desova.
 

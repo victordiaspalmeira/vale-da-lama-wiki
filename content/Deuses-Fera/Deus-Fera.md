@@ -36,6 +36,7 @@ Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera 
 | [[Deuses-Fera/Sss'kar\|Sss'kar]] | Serpente de múltiplas cabeças | Sangue e [[Geografia/Aguas Paradas Profundas\|Águas Paradas Profundas]] (Sul) | [[Tribos/Ventre-Inchado\|Ventre-Inchado]] |
 | [[Deuses-Fera/Mael'ra\|Mael'ra (Deusa-Fera Aranha)]] | Aranha gigantesca de seda prateada | Fio-Eterno, dívidas e destino (Todo o Vale) | [[Tribos/Tece-Pele\|Tece-Pele]] |
 | [[Deuses-Fera/Og'gath\|Og'gath (Sapo-Trovão)]] | Anfíbio colossal | Ilhotas do [[Geografia/Lago da Grande Tirana\|Lago da Grande Tirana]] (Centro) | Nenhuma conhecida |
+| [[Deuses-Fera/Krr'tak\|Krr'tak (o Espadachim)]] | Louva-a-deus colossal | Raízes de mangue / [[Geografia/Copas da Teia Prateada\|Copas da Teia Prateada]] | Nenhuma conhecida |
 
 ## Regras de Caçada: Ninhadas vs. Territórios Sagrados de Desova
 
@@ -48,8 +49,8 @@ Entre os caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]], duas regras distingu
 
 - **[[Criaturas/Pinça-de-Sal|Pinça-de-Sal (Cria de Karkinos)]]** *(Costa Salobra — Perigo Médio)*
 - **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]** *(Lago da Grande Tirana / Sul — Perigo Alto)*
-- **[[Criaturas/Tecelão-de-Ossos|Tecelão-de-Ossos]]** *(Raízes de Mangue — Perigo Alto)*
-- **[[Deuses-Fera/Og'gath|Sapo-Trovão do Lago Central]]** *(Lago da Grande Tirana — Perigo Extremo)* e **[[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]]** *(Pântano Profundo — Perigo Médio)*
+- **[[Deuses-Fera/Krr'tak|Krr'tak (o Espadachim)]]** *(Raízes de Mangue — Perigo Alto)*
+- **[[Deuses-Fera/Og'gath|Og'gath (Sapo-Trovão do Lago Central)]]** *(Lago da Grande Tirana — Perigo Extremo)* e **[[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]]** *(Pântano Profundo — Perigo Médio)*
 
 ## Ganchos de Aventura
 

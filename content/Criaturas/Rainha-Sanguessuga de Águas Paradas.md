@@ -7,8 +7,8 @@ aliases: ["Rainha-Sanguessuga de Águas Paradas", "Rainha-Sanguessuga"]
 <div class="infobox">
   <div class="infobox-title">Rainha-Sanguessuga</div>
   <div class="infobox-image">
-    <img src="../assets/rainha-sanguessuga.webp" alt="Rainha-Sanguessuga de Águas Paradas" />
-    <div class="infobox-caption">Rainha-Sanguessuga emergindo das águas negras</div>
+    <img src="../assets/rainha-sanguessuga.jpg" alt="Rainha-Sanguessuga de Águas Paradas" />
+    <div class="infobox-caption">Rainha-Sanguessuga de Águas Paradas</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Fera colossal / Criatura ritual</td></tr>

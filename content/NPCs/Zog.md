@@ -7,14 +7,15 @@ aliases: ["Zog", "Voz-de-Esporo", "Zog, o Xamã Animista"]
 <div class="infobox">
   <div class="infobox-title">Zog</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Zog ]</div>
+    <img src="../assets/zog.jpg" alt="Zog, o Voz-de-Esporo" />
+    <div class="infobox-caption">Zog, o Voz-de-Esporo</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>NPC / Xamã Animista</td></tr>
     <tr><td><b>Título</b></td><td>Voz-de-Esporo</td></tr>
     <tr><td><b>Tribo</b></td><td>[[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
     <tr><td><b>Base</b></td><td>[[Geografia/Raiz-Funda|Raiz-Funda]]</td></tr>
-    <tr><td><b>Especialidade</b></td><td>[[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]] e visões de [[Cosmologia/Musgo Dourado|Musgo Dourado]]</td></tr>
+    <tr><td><b>Especialidade</b></td><td>[[Cosmologia/Lei da Troca|Lei da Troca]] e visões de [[Cosmologia/Musgo Dourado|Musgo Dourado]]</td></tr>
   </table>
 </div>
 
@@ -26,9 +27,9 @@ aliases: ["Zog", "Voz-de-Esporo", "Zog, o Xamã Animista"]
 
 ## Papel e Rituais
 
-- **Lei da Troca:** Conhece profundamente a [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]] e orienta caçadores e viajantes sobre como pedir passagem, oferendar ao pântano e reparar quebras de reciprocidade.
+- **Lei da Troca:** Conhece profundamente a [[Cosmologia/Lei da Troca|Lei da Troca]] e orienta caçadores e viajantes sobre como pedir passagem, oferendar ao pântano e reparar quebras de reciprocidade.
 - **Visões de Musgo:** Conduz rituais em que pequenas lascas de [[Cosmologia/Musgo Dourado|Musgo Dourado]] são mascadas para sentir as correntes vivas do micélio subterrâneo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
 ---
 
-**Veja também:** [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Cosmologia/Animismo e Reciprocidade|Animismo e Reciprocidade]], [[Cosmologia/Musgo Dourado|Musgo Dourado]]
+**Veja também:** [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Lei da Troca|Lei da Troca]], [[Cosmologia/Musgo Dourado|Musgo Dourado]]

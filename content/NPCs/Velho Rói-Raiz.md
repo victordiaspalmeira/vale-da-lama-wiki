@@ -7,7 +7,8 @@ aliases: ["Velho Rói-Raiz", "Juiz das Disputas"]
 <div class="infobox">
   <div class="infobox-title">Velho Rói-Raiz</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Velho Rói-Raiz ]</div>
+    <img src="../assets/velho-roi-raiz.jpg" alt="Velho Rói-Raiz" />
+    <div class="infobox-caption">Velho Rói-Raiz</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>NPC / Ancião e Juiz</td></tr>
@@ -25,8 +26,8 @@ aliases: ["Velho Rói-Raiz", "Juiz das Disputas"]
 
 ## Papel e Julgamentos
 
-Julga conflitos internos da tribo, quebras da [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]] e infrações ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] diante de toda a aldeia — aplicando desde a marca de cinza fria e seiva cáustica em forasteiros até a temida **Sentença do Esquecimento** em crimes graves com fogo.
+Julga conflitos internos da tribo, quebras da [[Cosmologia/Lei da Troca|Lei da Troca]] e infrações ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] diante de toda a aldeia — aplicando desde a marca de cinza fria e seiva cáustica em forasteiros até a temida **Sentença do Esquecimento** em crimes graves com fogo.
 
 ---
 
-**Veja também:** [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Cosmologia/Animismo e Reciprocidade|Animismo e Reciprocidade]]
+**Veja também:** [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Lei da Troca|Lei da Troca]]

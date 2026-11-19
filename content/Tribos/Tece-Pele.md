@@ -14,7 +14,7 @@ aliases: ["Tribo Nômade", "Tece-Pele", "Deusa-Fera Aranha", "Fio-Eterno", "Teia
     <tr><td><b>Base</b></td><td>Acampamentos suspensos pelo [[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
     <tr><td><b>Deidade</b></td><td>[[Deuses-Fera/Mael'ra|Mael'ra (Deusa-Fera Aranha)]] (Fio-Eterno)</td></tr>
     <tr><td><b>Objetivo</b></td><td>Comércio neutro, mensageiros e cobrança de dívidas</td></tr>
-    <tr><td><b>Aliados / Rivais</b></td><td>Trocas regulares com [[NPCs/Biba|Biba]] ([[Tribos/Masca-Musgo|Masca-Musgo]])</td></tr>
+    <tr><td><b>Aliados / Rivais</b></td><td>Trocas regulares com [[NPCs/Birka|Birka]] ([[Tribos/Masca-Musgo|Masca-Musgo]])</td></tr>
     <tr><td><b>Símbolo</b></td><td>[[Tribos/Teia Prateada|Teia Prateada]]</td></tr>
   </table>
 </div>
@@ -32,12 +32,12 @@ Os Tece-Pele são cirurgiões e artesãos temidos e respeitados por sua destreza
 - Celebrar rituais de união entre aliados (costurando dois indivíduos juntos simbolicamente)
 - Implantar placas de pele e osso diretamente no corpo como proteção
 
-Atuam como mensageiros e mercadores neutros — mantendo trocas frequentes com [[NPCs/Biba|Biba]] em [[Geografia/Raiz-Funda|Raiz-Funda]] — mas nunca esquecem uma dívida (ecoando a [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]] do pântano). Quem deixa de pagar o que deve a um Tece-Pele é marcado no rosto com tinta preta da teia, excluído das trocas e fica sujeito a cobrança forçada em mercadoria ou em carne.
+Atuam como mensageiros e mercadores neutros — mantendo trocas frequentes com [[NPCs/Birka|Birka]] em [[Geografia/Raiz-Funda|Raiz-Funda]] — mas nunca esquecem uma dívida (ecoando a [[Cosmologia/Lei da Troca|Lei da Troca]] do pântano). Quem deixa de pagar o que deve a um Tece-Pele é marcado no rosto com tinta preta da teia, excluído das trocas e fica sujeito a cobrança forçada em mercadoria ou em carne.
 
 ## Ganchos de Aventura
 
-- Um acampamento com Teia Prateada surgiu próximo a [[Geografia/Raiz-Funda|Raiz-Funda]] para cobrar uma dívida antiga envolvendo peles e reagentes negociados com [[NPCs/Biba|Biba]].
-- O [[Criaturas/Tecelão-de-Ossos|Tecelão-de-Ossos]] tem sido visto nas raízes de mangue, e os Tece-Pele disputam se ele é um arauto ou uma abominação do Fio-Eterno.
+- Um acampamento com Teia Prateada surgiu próximo a [[Geografia/Raiz-Funda|Raiz-Funda]] para cobrar uma dívida antiga envolvendo peles e reagentes negociados com [[NPCs/Birka|Birka]].
+- O Deus-Fera menor [[Deuses-Fera/Krr'tak|Krr'tak (o Espadachim)]] tem sido avistado nas raízes de mangue próximas às rotas da tribo.
 
 ---
 

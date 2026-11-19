@@ -7,7 +7,8 @@ aliases: ["Malok", "Sacerdote-Chefe Malok"]
 <div class="infobox">
   <div class="infobox-title">Sacerdote-Chefe Malok</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Sacerdote-Chefe Malok ]</div>
+    <img src="../assets/malok.jpg" alt="Sacerdote-Chefe Malok" />
+    <div class="infobox-caption">Sacerdote-Chefe Malok</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>NPC / Clero</td></tr>

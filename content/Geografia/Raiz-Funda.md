@@ -45,7 +45,7 @@ O santuário abobadado de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] no coração da
 Uma estrutura ampla entrelaçada entre três raízes-mestras no nível intermediário, onde residem [[NPCs/Elenco de Raiz-Funda|Vó Mofo-Velho]] e [[NPCs/Elenco de Raiz-Funda|Velho Rói-Raiz]], e onde visitantes de fora são recebidos para parlamentar.
 
 ### O Cais das Jangadas e Oficinas
-Onde [[NPCs/Elenco de Raiz-Funda|Torg]] constrói e repara jangadas de fundo chato e [[NPCs/Elenco de Raiz-Funda|Biba]], a Mão-Ácida mantém seus tonéis de fermentação, curtume de peles e preparação alquímica.
+Onde [[NPCs/Elenco de Raiz-Funda|Torg]] constrói e repara jangadas de fundo chato e [[NPCs/Elenco de Raiz-Funda|Birka]], a Mão-Ácida mantém seus tonéis de fermentação, curtume de peles e preparação alquímica.
 
 ## Ganchos de Aventura
 

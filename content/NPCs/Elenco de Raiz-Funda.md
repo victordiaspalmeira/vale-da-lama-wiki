@@ -7,7 +7,8 @@ aliases: ["NPCs de Raiz-Funda", "Personagens de Raiz-Funda"]
 <div class="infobox">
   <div class="infobox-title">Elenco de Raiz-Funda</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Elenco de Raiz-Funda ]</div>
+    <img src="../assets/elenco-raiz-funda.jpg" alt="Habitantes de Raiz-Funda" />
+    <div class="infobox-caption">Habitantes de Raiz-Funda</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Índice de personagens (NPCs)</td></tr>
@@ -24,12 +25,12 @@ aliases: ["NPCs de Raiz-Funda", "Personagens de Raiz-Funda"]
 | Personagem | Função / Cargo | Área |
 |------------|----------------|------|
 | [[NPCs/Sacerdote-Chefe Malok\|Sacerdote-Chefe Malok]] | Líder espiritual e político máximo | Clero |
-| [[NPCs/Zog\|Zog (Voz-de-Esporo)]] | Xamã animista e conselheiro da [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca\|Lei da Troca]] | Clero |
+| [[NPCs/Zog\|Zog (Voz-de-Esporo)]] | Xamã animista e conselheiro da [[Cosmologia/Lei da Troca\|Lei da Troca]] | Clero |
 | [[NPCs/Irmãos Snakk e Drig\|Irmãos Snakk e Drig]] | Coveiros-Sacerdotes do [[Geografia/Jardim Dourado\|Jardim Dourado]] | Clero |
 | [[NPCs/Kruk\|Kruk]] | Mestre dos Caçadores | Caça |
 | [[NPCs/Grixa\|Grixa]] | Batedora de Elite (rival de Kruk) | Caça |
 | [[NPCs/Gnarl Martelo-Torto\|Gnarl Martelo-Torto]] | Ferreiro e armeiro da [[Geografia/Raiz-Funda#A Forja Periférica de Gnarl\|Forja Periférica]] | Artesanato |
-| [[NPCs/Biba\|Biba (a Mão-Ácida)]] | Alquimista e curtidora | Artesanato |
+| [[NPCs/Birka\|Birka (a Mão-Ácida)]] | Alquimista e curtidora | Artesanato |
 | [[NPCs/Torg\|Torg]] | Construtor de palafitas, jangadas e calçados | Artesanato |
 | [[NPCs/Varga\|Varga]] | Capitã da Guarda | Defesa |
 | [[NPCs/Vó Mofo-Velho\|Vó Mofo-Velho]] | Decana e guardiã da memória oral | Anciãos |

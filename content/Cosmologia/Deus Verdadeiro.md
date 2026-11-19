@@ -43,4 +43,4 @@ Por sua própria natureza vasta e abstrata, um Deus Verdadeiro **não possui for
 
 ---
 
-**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Deuses-Fera/Deus-Fera|Deus-Fera]], [[Cosmologia/Animismo e Reciprocidade|Animismo e Reciprocidade]]
+**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Deuses-Fera/Deus-Fera|Deus-Fera]], [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Lei da Troca|Lei da Troca]]

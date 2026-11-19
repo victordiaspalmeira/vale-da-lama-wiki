@@ -30,12 +30,19 @@ As **Ruínas dos Sem-Nome** — também chamadas pelos goblins de **As Pedras Mo
 
 As ruínas foram erguidas por uma civilização élfica extinta eras antes da chegada dos dragões ao [[Geografia/Vale da Lama|Vale da Lama]]. Os goblins atuais desconhecem completamente quem as construiu.
 
-Como a pedra trabalhada e fria resiste à decomposição, o musgo e os fungos de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] crescem de forma lenta e doentia sobre as colunas. Por esse motivo, os [[Tribos/Masca-Musgo|Masca-Musgo]] evitam o lugar, considerando-o "estéril" ou amaldiçoado.
+Como a pedra trabalhada e fria resiste à decomposição, o musgo e os fungos de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] crescem de forma lenta e doentia sobre as colunas. Por esse motivo, os [[Tribos/Masca-Musgo|Masca-Musgo]] evitam o lugar, considerando-o "estéril" ou amaldiçoado — um ponto morto onde a rede do pântano parece recuar.
+
+## Arquitetura e Câmaras
+
+- **Pavilhões Semi-Submersos:** Átrios abertos onde raízes grossas abraçam os arcos ogivais de mármore, formando passarelas naturais sobre a água rasa.
+- **Câmaras Seladas:** Salões inferiores ainda vedados da umidade do brejo, livres da podridão e com o ar parado há séculos.
+- **Inscrições Indecifráveis:** Frisos desgastados em um alfabeto antigo que nenhum habitante atual do vale consegue ler.
 
 ## Uso na Mesa e Ganchos
 
-- **Masmorra Clássica (Dungeon):** Complexo semi-submerso contendo câmaras seladas livres da podridão do pântano, inscrições indecifráveis e relíquias pré-dracônicas.
-- **Exploração:** Ponto de contraste marcante com o restante do brejo — sem micélio para guiar os devotos, mas rico em pedra talhada, metais antigos e segredos anteriores à [[Historia/A Grande Morte Lenta|Grande Morte Lenta]].
+- **Masmorra Clássica (Dungeon):** Complexo semi-submerso ideal para exploração OSR, com salões alagados, portas de mármore emperradas e relíquias pré-dracônicas.
+- **Fonte de Metal Raro:** Ferreiros como [[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]] dependem de metal recuperado — e as câmaras seladas das Pedras Mortas guardam lâminas e ferragens antigas que nunca enferrujaram na lama.
+- **Refúgio Neutro:** Por serem evitadas por quase todas as tribos, servem ocasionalmente de ponto de encontro clandestino entre fugitivos ou mercadores.
 
 ---
 

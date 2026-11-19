@@ -7,7 +7,8 @@ aliases: ["Snikk", "Curandeiro-Chefe"]
 <div class="infobox">
   <div class="infobox-title">Snikk</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Snikk ]</div>
+    <img src="../assets/snikk.jpg" alt="Snikk, Curandeiro-Chefe" />
+    <div class="infobox-caption">Snikk, Curandeiro-Chefe</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>NPC / Curandeiro</td></tr>
