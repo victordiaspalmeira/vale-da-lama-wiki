@@ -47,4 +47,4 @@ Malok pondera cada palavra e zela pela harmonia da aldeia.
 
 ---
 
-**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Geografia/Jardim Dourado|Jardim Dourado]] | [[Tribos/Masca-Musgo|Masca-Musgo]]
+**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Geografia/Jardim Dourado|Jardim Dourado]] | [[Tribos/Masca-Musgo|Masca-Musgo]] | [[Exilados/Exilados|Exilados]]

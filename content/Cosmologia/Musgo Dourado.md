@@ -43,4 +43,4 @@ Os [[Tribos/Masca-Musgo|Masca-Musgo]] não encaram o estágio final desse proces
 
 ---
 
-**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Lei da Troca|Lei da Troca]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], [[Geografia/Raiz-Funda|Raiz-Funda]]
+**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Lei da Troca|Lei da Troca]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]

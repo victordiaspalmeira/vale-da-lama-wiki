@@ -29,7 +29,7 @@ Segundo os habitantes locais, as marés seguem o ritmo da respiração de [[Deus
 
 ## Habitantes e Atividades
 
-- **Os Caldeirões dos Ferve-Alga:** Nas ilhotas mais secas, os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] mantêm grandes caldeirões de ferro e barro sobre fogueiras para ferver algas, extrair salmoura concentrada, produzir sal e curar peles e carnes. A fumaça constante e o vapor salgado irritam os olhos da tribo (daí o apelido *Olhos-Vermelhos*) e geram atrito religioso com os [[Tribos/Masca-Musgo|Masca-Musgo]] pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]].
+- **Os Caldeirões dos Ferve-Alga:** Nas ilhotas mais secas, os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] mantêm grandes caldeirões de ferro e barro sobre fogueiras para ferver algas, extrair [[Tribos/Salmoura e Sal Cristalizado|salmoura]] concentrada, produzir sal e curar peles e carnes. A fumaça constante e o vapor salgado irritam os olhos da tribo (daí o apelido *Olhos-Vermelhos*) e geram atrito religioso com os [[Tribos/Masca-Musgo|Masca-Musgo]] pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]].
 - **Áreas Sagradas de Desova:** Enseadas rasas e protegidas onde crustáceos gigantes e descendentes de [[Deuses-Fera/Karkinos|Karkinos]] depositam ovos. A entrada é proibida fora da estação de acasalamento, e durante ela exige permissão formal dos xamãs (veja [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|Territórios Sagrados de Desova]]).
 
 ---

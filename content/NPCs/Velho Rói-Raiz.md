@@ -36,7 +36,7 @@ aliases: ["Velho Rói-Raiz", "Juiz das Disputas"]
 *A preencher.*
 
 ## Função e Ocupação
-Julga conflitos internos da tribo, quebras da [[Cosmologia/Lei da Troca|Lei da Troca]] e infrações ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] diante de toda a aldeia — aplicando desde a marca de cinza fria e seiva cáustica em forasteiros até a temida **Sentença do Esquecimento** em crimes graves com fogo.
+Julga conflitos internos da tribo, quebras da [[Cosmologia/Lei da Troca|Lei da Troca]] e infrações ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] diante de toda a aldeia — aplicando desde a marca de cinza fria e seiva cáustica em forasteiros até a temida **[[Cosmologia/Sentenca do Esquecimento|Sentença do Esquecimento]]** em crimes graves com fogo.
 
 ## Relações e Alianças
 * **[[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]]:** Divide a Casa do Ancião com a decana da tribo.

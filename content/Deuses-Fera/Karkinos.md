@@ -28,7 +28,7 @@ aliases: ["Karkinos", "Deus-Caranguejo Karkinos", "Deus-Caranguejo", "Pinça-de-
 
 ## Culto e Tabus
 
-- **Oferendas e Rituais:** Seus devotos oferecem peixes e crustáceos nas águas da Costa Salobra, realizam danças de garra em cerimônias de lua cheia e bebem salmoura fervente como prova de devoção e coragem.
+- **Oferendas e Rituais:** Seus devotos oferecem peixes e crustáceos nas águas da Costa Salobra, realizam danças de garra em cerimônias de lua cheia e bebem [[Tribos/Salmoura e Sal Cristalizado|salmoura]] fervente como prova de devoção e coragem.
 - **Áreas de Desova:** Na Costa Salobra existem enseadas rasas onde Karkinos e seus descendentes depositam ovos. A entrada nesses berçários é estritamente proibida fora da estação de acasalamento (e exige permissão formal dos xamãs da tribo durante a estação).
 - **Ira de Karkinos:** Violar as áreas de desova atrai ataques de caranguejos gigantes, doenças de pele e afogamentos misteriosos em águas rasas.
 

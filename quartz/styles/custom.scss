@@ -243,21 +243,32 @@ a.internal.tag-link {
   width: 100%;
   table-layout: fixed;
   border-collapse: collapse;
-  margin: 0;
-  padding: 0;
-  border: none;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
   font-size: 0.82rem;
 }
 
+.infobox .table-container > table td,
 .infobox table td {
+  min-width: 0 !important;
+  line-height: 1.35 !important;
   padding: 0.25rem 0.25rem;
+  border: none;
   border-bottom: 1px solid var(--vale-border);
   vertical-align: top;
   overflow-wrap: break-word;
   word-wrap: break-word;
   white-space: normal;
+  background: transparent;
 }
 
+.infobox .table-container > table tr:nth-child(even) td,
+.infobox table tr:nth-child(even) td {
+  background: transparent;
+}
+
+.infobox .table-container > table td:first-child,
 .infobox table td:first-child {
   font-weight: bold;
   color: var(--vale-text);

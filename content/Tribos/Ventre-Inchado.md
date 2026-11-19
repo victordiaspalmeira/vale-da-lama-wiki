@@ -24,7 +24,7 @@ aliases: ["Tribo do Sul", "Ventre-Inchado", "Sss'kar", "Sanguessugas"]
 
 ## Descrição
 
-A tribo **Ventre-Inchado** habita o Sul profundo do [[Geografia/Vale da Lama|Vale da Lama]], nas regiões mais escuras, abafadas e sem correnteza do pântano. Têm pele pálida, abdômens dilatados pelo consumo habitual de bebidas fermentadas e sangue ritual, e olhos vermelhos sensíveis à luz direta. Adoram **Sss'kar**, uma divindade ofídica de múltiplas cabeças que habita as águas paradas do sul e exige sangue como oferenda.
+A tribo **Ventre-Inchado** habita o Sul profundo do [[Geografia/Vale da Lama|Vale da Lama]], nas regiões mais escuras, abafadas e sem correnteza do pântano. Têm pele pálida, abdômens dilatados pelo consumo habitual de bebidas fermentadas e sangue ritual, e olhos vermelhos sensíveis à luz direta. Adoram **[[Deuses-Fera/Sss'kar|Sss'kar]]**, uma sanguessuga [[Deuses-Fera/Deus-Fera|Deus-Fera]] colossal que habita as águas paradas do sul e exige sangue como oferenda.
 
 ## Drenagem de Sangue e Sanguessugas Vivas
 

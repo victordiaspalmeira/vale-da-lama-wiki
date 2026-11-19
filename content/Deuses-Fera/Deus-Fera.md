@@ -33,7 +33,7 @@ Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera 
 | Deus-Fera | Forma | Domínio / Região | Tribo Devota |
 |-----------|-------|------------------|--------------|
 | [[Deuses-Fera/Karkinos\|Karkinos]] | Caranguejo colossal escarlate | Marés e [[Geografia/Costa Salobra\|Costa Salobra]] (Nordeste) | [[Tribos/Ferve-Alga (Olhos-Vermelhos)\|Ferve-Alga (Olhos-Vermelhos)]] |
-| [[Deuses-Fera/Sss'kar\|Sss'kar]] | Serpente de múltiplas cabeças | Sangue e [[Geografia/Aguas Paradas Profundas\|Águas Paradas Profundas]] (Sul) | [[Tribos/Ventre-Inchado\|Ventre-Inchado]] |
+| [[Deuses-Fera/Sss'kar\|Sss'kar]] | Sanguessuga colossal | Sangue e [[Geografia/Aguas Paradas Profundas\|Águas Paradas Profundas]] (Sul) | [[Tribos/Ventre-Inchado\|Ventre-Inchado]] |
 | [[Deuses-Fera/Mael'ra\|Mael'ra (Deusa-Fera Aranha)]] | Aranha gigantesca de seda prateada | Fio-Eterno, dívidas e destino (Todo o Vale) | [[Tribos/Tece-Pele\|Tece-Pele]] |
 | [[Deuses-Fera/Og'gath\|Og'gath (Sapo-Trovão)]] | Anfíbio colossal | Ilhotas do [[Geografia/Lago da Grande Tirana\|Lago da Grande Tirana]] (Centro) | Nenhuma conhecida |
 | [[Deuses-Fera/Krr'tak\|Krr'tak (a Espadachim)]] | Louva-a-deus colossal | Entre [[Tribos/Masca-Musgo\|Masca-Musgo]] e [[Tribos/Ferve-Alga (Olhos-Vermelhos)\|Ferve-Alga]] | Nenhuma conhecida |

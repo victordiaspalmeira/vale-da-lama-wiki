@@ -47,6 +47,7 @@ Séculos atrás, o vale era dominado por dragões antigos, derrubados por [[Cosm
 ## Rumores e Ameaças do Pântano
 
 - **[[Deuses-Fera/Og'gath|Sapo-Trovão do Lago Central]]** *(Lago da Grande Tirana — Perigo Extremo)*: anfíbio colossal cujo coaxar grave faz o solo tremer ao redor do lago.
+- **[[Deuses-Fera/Krr'tak|Krr'tak (a Espadachim)]]** *(Entre Masca-Musgo e Ferve-Alga — Perigo Alto)*: louva-a-deus colossal de humor brutal e violento que evita matar goblins por uma dívida antiga com [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 - **[[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]]** *(Pântano Profundo — Perigo Médio)*: javali coberto de fungo negro venenoso, caçado por suas presas curvas.
 
 ---
