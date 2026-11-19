@@ -32,10 +32,9 @@ A **Deusa-Fera Aranha** é uma entidade de oito patas, representada como uma ara
 - **Suturas em Carne Viva:** Em sua honra, os devotos praticam suturas com agulhas de osso fino e seda de aranha para fechar ferimentos em combate, selar uniões rituais ou implantar placas de quitina e pele no próprio corpo.
 - **Cobrança Implacável:** Nenhuma dívida é esquecida no Fio-Eterno. Devedores inadimplentes são marcados no rosto com tinta preta da teia e ficam sujeitos a cobrança em mercadoria ou em carne.
 
-## Rumor de Caçada: Tecelão-de-Ossos
+## Rumor de Caçada
 
-- **Localização:** Raízes de Mangue | **Perigo:** Alto
-- Uma criatura que coleta ossos de animais mortos e os costura com seda grossa para formar uma carapaça articulada móvel; ligado aos mitos dos [[Tribos/Tece-Pele|Tece-Pele]]. Nem mesmo a tribo concorda se ele é um arauto da deusa ou uma distorção do Fio-Eterno.
+- **[[Criaturas/Tecelão-de-Ossos|Tecelão-de-Ossos]]** *(Raízes de Mangue — Perigo Alto)*: criatura que costura ossos com seda grossa, ligada aos mitos dos [[Tribos/Tece-Pele|Tece-Pele]].
 
 ---
 

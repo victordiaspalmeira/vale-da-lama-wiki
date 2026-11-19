@@ -7,7 +7,8 @@ aliases: ["Karkinos", "Deus-Caranguejo Karkinos", "Deus-Caranguejo", "Pinça-de-
 <div class="infobox">
   <div class="infobox-title">Karkinos</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Karkinos ]</div>
+    <img src="../assets/karkinos.webp" alt="Karkinos, o Deus-Caranguejo da Costa Salobra" />
+    <div class="infobox-caption">Karkinos, o Deus-Caranguejo</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>[[Deuses-Fera/Deus-Fera|Deus-Fera]]</td></tr>
@@ -35,10 +36,9 @@ aliases: ["Karkinos", "Deus-Caranguejo Karkinos", "Deus-Caranguejo", "Pinça-de-
 
 Para o clero de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] em [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera como Karkinos são entidades menores, presas à carne, em contraste com a rede micelial difusa do Deus Fúngico. Ainda assim, seu poder sobre a Costa Salobra e a proteção feroz dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Olhos-Vermelhos]] mantêm uma trégua tensa na fronteira nordeste.
 
-## Rumor de Caçada: Pinça-de-Sal (Cria de Karkinos)
+## Rumor de Caçada
 
-- **Localização:** Costa Salobra | **Perigo:** Médio
-- Um caranguejo-gigante jovem de carapaça vermelha brilhante visto nas águas da Costa Salobra. Possui ligação direta com o culto dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]], e caçá-lo sem autorização da tribo pode provocar hostilidade imediata e despertar a ira do Deus-Caranguejo.
+- **[[Criaturas/Pinça-de-Sal|Pinça-de-Sal (Cria de Karkinos)]]** *(Costa Salobra — Perigo Médio)*: caranguejo-gigante jovem avistado nas águas da Costa Salobra; caçá-lo sem permissão pode despertar a ira dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] e do próprio Karkinos.
 
 ---
 

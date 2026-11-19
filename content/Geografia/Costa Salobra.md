@@ -1,40 +1,42 @@
 ---
 title: Costa Salobra
 tags: [geografia, nordeste, costa-salobra, ferve-alga, karkinos]
-aliases: ["Costa Salobra", "Áreas de Desova de Karkinos"]
+aliases: ["Costa Salobra", "A Costa Salobra e Os Caldeirões", "Áreas de Desova de Karkinos"]
 ---
 
 <div class="infobox">
-  <div class="infobox-title">Costa Salobra</div>
+  <div class="infobox-title">Costa Salobra e Os Caldeirões</div>
   <div class="infobox-image">
     <div class="infobox-placeholder">[ Ilustração: Costa Salobra ]</div>
   </div>
   <table>
-    <tr><td><b>Tipo</b></td><td>Região costeira pantanosa</td></tr>
-    <tr><td><b>Localização</b></td><td>Nordeste do [[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
+    <tr><td><b>Tipo</b></td><td>Faixa costeira, ilhotas e canais de maré</td></tr>
+    <tr><td><b>Localização</b></td><td>Nordeste do [[Geografia/Vale da Lama|Vale da Lama]] (voltada para o mar aberto)</td></tr>
     <tr><td><b>Facção Dominante</b></td><td>[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]</td></tr>
     <tr><td><b>Deus-Fera</b></td><td>[[Deuses-Fera/Karkinos|Karkinos]]</td></tr>
     <tr><td><b>Recursos</b></td><td>Sal cristalizado, salmoura, crustáceos</td></tr>
-    <tr><td><b>Perigo</b></td><td>Fogueiras constantes, marés e áreas de desova</td></tr>
+    <tr><td><b>Perigo</b></td><td>Marés, áreas de desova e hostilidade tribal</td></tr>
   </table>
 </div>
 
-# Costa Salobra
+# A Costa Salobra e Os Caldeirões
 
 ## Descrição
 
-A **Costa Salobra** ocupa o setor nordeste do [[Geografia/Vale da Lama|Vale da Lama]]. É uma região de estuários salgados, bancos de salitre e águas rasas agitadas pelas marés do pântano — que, segundo os moradores locais, seguem o ritmo da respiração de [[Deuses-Fera/Karkinos|Karkinos]], adormecido sob a costa.
+A **Costa Salobra** ocupa a faixa costeira nordeste do [[Geografia/Vale da Lama|Vale da Lama]], voltada para o mar aberto e recortada por dezenas de ilhotas de lama, canais de maré e bancos de areia e salitre. É a zona de transição onde a água doce e lodosa dos rios do vale encontra o oceano. O solo é marcado por crostas brancas de salitre, manguezais baixos retorcidos pelo vento salgado e paliçadas erguidas com conchas gigantes e ossos marinhos.
 
-## Pontos de Interesse
+Segundo os habitantes locais, as marés seguem o ritmo da respiração de [[Deuses-Fera/Karkinos|Karkinos]], adormecido sob a costa.
 
-- **Aldeias Fortificadas dos Ferve-Alga:** Assentamentos cercados por paliçadas de conchas e ossos de crustáceos gigantes, onde grandes fogueiras sob caldeirões de barro grosso fervem a água salgada para produzir sal e salmoura concentrada. O vapor salgado e a fumaça constante deram à tribo o apelido de [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Olhos-Vermelhos]].
-- **Áreas Sagradas de Desova:** Enseadas rasas onde [[Deuses-Fera/Karkinos|Karkinos]] e seus descendentes depositam ovos. A entrada é estritamente proibida fora da estação de acasalamento, e mesmo durante ela exige permissão formal dos xamãs da tribo (veja [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|Territórios Sagrados de Desova]]).
+## Habitantes e Atividades
 
-## Ganchos de Aventura
+- **Os Caldeirões dos Ferve-Alga:** Nas ilhotas mais secas, os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] mantêm grandes caldeirões de ferro e barro sobre fogueiras para ferver algas, extrair salmoura concentrada, produzir sal e curar peles e carnes. A fumaça constante e o vapor salgado irritam os olhos da tribo (daí o apelido *Olhos-Vermelhos*) e geram atrito religioso com os [[Tribos/Masca-Musgo|Masca-Musgo]] pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]].
+- **Áreas Sagradas de Desova:** Enseadas rasas e protegidas onde crustáceos gigantes e descendentes de [[Deuses-Fera/Karkinos|Karkinos]] depositam ovos. A entrada é proibida fora da estação de acasalamento, e durante ela exige permissão formal dos xamãs (veja [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|Territórios Sagrados de Desova]]).
 
-- O [[Deuses-Fera/Karkinos#Rumor de Caçada Pinça-de-Sal Cria de Karkinos|Pinça-de-Sal (Cria de Karkinos)]] tem sido avistado nas águas da Costa Salobra (Perigo Médio).
-- O volume das fogueiras usadas na produção de salmoura mantém uma tensão religiosa constante com os [[Tribos/Masca-Musgo|Masca-Musgo]], regidos pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]].
+## Uso na Mesa e Ganchos
+
+- **Comércio e Mar Aberto:** Único ponto de contato do vale com o mar aberto e fonte de comércio rudimentar de sal.
+- **Território Desconfiado:** Área hostil para forasteiros que ignoram as marés ou se aproximam das enseadas protegidas onde foi avistado o [[Criaturas/Pinça-de-Sal|Pinça-de-Sal (Cria de Karkinos)]].
 
 ---
 
-**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]], [[Deuses-Fera/Karkinos|Karkinos]], [[Deuses-Fera/Deus-Fera|Deus-Fera]]
+**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]], [[Deuses-Fera/Karkinos|Karkinos]], [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]]

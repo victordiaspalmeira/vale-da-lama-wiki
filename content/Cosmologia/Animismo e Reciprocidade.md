@@ -1,7 +1,7 @@
 ---
 title: Animismo e Reciprocidade
 tags: [cosmologia, animismo, espiritos, lei-da-troca]
-aliases: ["Animismo do Vale", "Pequenos Espíritos", "Lei da Troca"]
+aliases: ["Animismo do Vale", "Lei da Troca"]
 ---
 
 <div class="infobox">

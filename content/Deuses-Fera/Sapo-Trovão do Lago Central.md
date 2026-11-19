@@ -12,7 +12,7 @@ aliases: ["Sapo-Trovão", "Sapo-Trovão do Lago Central"]
   <table>
     <tr><td><b>Tipo</b></td><td>[[Deuses-Fera/Deus-Fera|Deus-Fera]] (nome verdadeiro desconhecido)</td></tr>
     <tr><td><b>Forma</b></td><td>Anfíbio colossal</td></tr>
-    <tr><td><b>Habitat</b></td><td>Ilhotas do [[Geografia/Lago do Grande Tirano|Lago do Grande Tirano]]</td></tr>
+    <tr><td><b>Habitat</b></td><td>Ilhotas do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]</td></tr>
     <tr><td><b>Perigo</b></td><td>Extremo</td></tr>
     <tr><td><b>Culto</b></td><td>Sem tribo devota conhecida</td></tr>
   </table>
@@ -22,7 +22,7 @@ aliases: ["Sapo-Trovão", "Sapo-Trovão do Lago Central"]
 
 ## Descrição
 
-O **Sapo-Trovão do Lago Central** é um [[Deuses-Fera/Deus-Fera|Deus-Fera]] cujo nome verdadeiro é desconhecido pelos habitantes de [[Geografia/Raiz-Funda|Raiz-Funda]]. Trata-se de um anfíbio colossal que habita as ilhotas do [[Geografia/Lago do Grande Tirano|Lago do Grande Tirano]], no centro do [[Geografia/Vale da Lama|Vale da Lama]].
+O **Sapo-Trovão do Lago Central** é um [[Deuses-Fera/Deus-Fera|Deus-Fera]] cujo nome verdadeiro é desconhecido pelos habitantes de [[Geografia/Raiz-Funda|Raiz-Funda]]. Trata-se de um anfíbio colossal que habita as ilhotas do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], no centro do [[Geografia/Vale da Lama|Vale da Lama]].
 
 ## Comportamento e Manifestações
 
@@ -31,8 +31,8 @@ Diferente de [[Deuses-Fera/Karkinos|Karkinos]], [[Deuses-Fera/Sss'kar|Sss'kar]] 
 ## Ganchos de Aventura
 
 - **Perigo Extremo:** Os caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]] evitam se aproximar das ilhotas centrais sem necessidade extrema.
-- **Lago em Aquecimento:** Com as águas do [[Geografia/Lago do Grande Tirano|Lago do Grande Tirano]] esquentando e liberando bolhas de gás verde, teme-se que o Sapo-Trovão esteja se agitando — ou reagindo à presença recente da [[Deuses-Fera/Sss'kar#Rumor de Caçada Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]].
+- **Lago em Aquecimento:** Com as águas do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] esquentando e liberando bolhas de gás verde, teme-se que o Sapo-Trovão esteja se agitando — ou reagindo à presença recente da [[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]].
 
 ---
 
-**Veja também:** [[Deuses-Fera/Deus-Fera|Deus-Fera]], [[Geografia/Lago do Grande Tirano|Lago do Grande Tirano]], [[Geografia/Vale da Lama|Vale da Lama]]
+**Veja também:** [[Deuses-Fera/Deus-Fera|Deus-Fera]], [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], [[Geografia/Vale da Lama|Vale da Lama]]

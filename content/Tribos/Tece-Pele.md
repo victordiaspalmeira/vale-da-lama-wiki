@@ -37,7 +37,7 @@ Atuam como mensageiros e mercadores neutros — mantendo trocas frequentes com [
 ## Ganchos de Aventura
 
 - Um acampamento com Teia Prateada surgiu próximo a [[Geografia/Raiz-Funda|Raiz-Funda]] para cobrar uma dívida antiga envolvendo quitina negociada com [[NPCs/Elenco de Raiz-Funda|Biba]].
-- O [[Deuses-Fera/Deusa-Fera Aranha#Rumor de Caçada Tecelão-de-Ossos|Tecelão-de-Ossos]] tem sido visto nas raízes de mangue, e os Tece-Pele disputam se ele é um arauto ou uma abominação do Fio-Eterno.
+- O [[Criaturas/Tecelão-de-Ossos|Tecelão-de-Ossos]] tem sido visto nas raízes de mangue, e os Tece-Pele disputam se ele é um arauto ou uma abominação do Fio-Eterno.
 
 ---
 

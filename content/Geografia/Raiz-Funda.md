@@ -37,7 +37,8 @@ aliases: ["Aldeia de Raiz-Funda", "Raiz-Funda"]
 Localizada em uma ilhota de pedra e barro batido na borda externa da aldeia — isolada das raízes vivas e das casas de madeira para respeitar o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]. Ali, [[NPCs/Elenco de Raiz-Funda|Gnarl Martelo-Torto]] mantém sua forja baixa cercada de água para trabalhar metal recuperado, além de fabricar armas de osso curado, madeira de raiz-ferro e quitina gigante.
 
 ### O Jardim Dourado
-O santuário subterrâneo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] na depressão central sob a aldeia, guardado pelos coveiros-sacerdotes [[NPCs/Elenco de Raiz-Funda|Snakk e Drig]].
+
+O santuário subterrâneo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] sob as raízes centrais da aldeia, guardado pelos coveiros-sacerdotes [[NPCs/Irmãos Snakk e Drig|Snakk e Drig]]. Veja a página completa em [[Geografia/Jardim Dourado|O Jardim Dourado]].
 
 ### A Casa do Ancião
 Uma estrutura ampla entrelaçada entre três raízes-mestras no nível intermediário, onde residem [[NPCs/Elenco de Raiz-Funda|Vó Mofo-Velho]] e [[NPCs/Elenco de Raiz-Funda|Velho Rói-Raiz]], e onde visitantes de fora são recebidos para parlamentar.

@@ -31,10 +31,9 @@ aliases: ["Sss'kar", "Serpente das Águas Paradas", "Rainha-Sanguessuga de Água
 - **Sanguessugas Vivas:** A tribo cria sanguessugas gigantes em ânforas de barro e couro úmido para realizar sangrias rituais controladas e oferendas diretas ao deus.
 - **Longevidade Sombria:** Ao contrário dos [[Tribos/Masca-Musgo|Masca-Musgo]], que aceitam a morte como parte do [[Cosmologia/Nyog'Sothep#O Ciclo da Devolução|Ciclo da Devolução]], os devotos mais antigos de Sss'kar — os chamados *anciãos vampíricos* — consomem sangue regularmente em rituais secretos para prolongar a vida além de um século.
 
-## Rumor de Caçada: Rainha-Sanguessuga de Águas Paradas
+## Rumor de Caçada
 
-- **Localização:** [[Geografia/Vale da Lama#Pontos de Interesse O Lago do Grande Tirano|Lago do Grande Tirano]] / Sul | **Perigo:** Alto
-- Uma sanguessuga gigantesca que habita as águas paradas do sul e foi avistada recentemente próxima ao Lago do Grande Tirano; associada aos [[Tribos/Ventre-Inchado|Ventre-Inchado]] e ao culto de Sss'kar, levantando temores em [[Geografia/Raiz-Funda|Raiz-Funda]] de que sua influência esteja se expandindo para o centro do vale.
+- **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]** *(Lago da Grande Tirana / Sul — Perigo Alto)*: sanguessuga gigantesca ligada aos [[Tribos/Ventre-Inchado|Ventre-Inchado]] e ao culto de Sss'kar, avistada recentemente próxima ao [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 ---
 

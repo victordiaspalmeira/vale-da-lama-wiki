@@ -35,26 +35,26 @@ Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera 
 | [[Deuses-Fera/Karkinos\|Karkinos]] | Caranguejo colossal escarlate | Marés e [[Geografia/Costa Salobra\|Costa Salobra]] (Nordeste) | [[Tribos/Ferve-Alga (Olhos-Vermelhos)\|Ferve-Alga (Olhos-Vermelhos)]] |
 | [[Deuses-Fera/Sss'kar\|Sss'kar]] | Serpente de múltiplas cabeças | Sangue e [[Geografia/Aguas Paradas Profundas\|Águas Paradas Profundas]] (Sul) | [[Tribos/Ventre-Inchado\|Ventre-Inchado]] |
 | [[Deuses-Fera/Deusa-Fera Aranha\|Deusa-Fera Aranha]] | Aranha gigantesca de seda prateada | Fio-Eterno, dívidas e destino (Todo o Vale) | [[Tribos/Tece-Pele\|Tece-Pele]] |
-| [[Deuses-Fera/Sapo-Trovão do Lago Central\|Sapo-Trovão do Lago Central]] *(sem nome conhecido)* | Anfíbio colossal | Ilhotas do [[Geografia/Lago do Grande Tirano\|Lago do Grande Tirano]] (Centro) | Nenhuma conhecida |
+| [[Deuses-Fera/Sapo-Trovão do Lago Central\|Sapo-Trovão do Lago Central]] *(sem nome conhecido)* | Anfíbio colossal | Ilhotas do [[Geografia/Lago da Grande Tirana\|Lago da Grande Tirana]] (Centro) | Nenhuma conhecida |
 
 ## Regras de Caçada: Ninhadas vs. Territórios Sagrados de Desova
 
 Entre os caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]], duas regras distinguem uma caçada honrada de uma violação sagrada:
 
 - **Ninhadas:** Áreas naturais de reprodução de bestas comuns. Caçar em ninhadas é permitido, desde que nunca se extermine toda a prole, deixando sempre ao menos um par adulto para manter o equilíbrio do ciclo.
-- **Territórios Sagrados de Desova:** Berçários vinculados a divindades ou tribos — como as enseadas de [[Deuses-Fera/Karkinos|Karkinos]] na Costa Salobra, os arredores do [[Geografia/Raiz-Funda#O Jardim Dourado|Jardim Dourado]] e os bancos profundos onde repousam ovos antigos de dragão no [[Geografia/Vale da Lama#Pontos de Interesse O Lago do Grande Tirano|Lago do Grande Tirano]]. **Caçar nesses locais é estritamente proibido.**
+- **Territórios Sagrados de Desova:** Berçários vinculados a divindades ou tribos — como as enseadas de [[Deuses-Fera/Karkinos|Karkinos]] na Costa Salobra, os arredores do [[Geografia/Jardim Dourado|Jardim Dourado]] e os bancos profundos onde repousam ovos antigos de dragão no [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]. **Caçar nesses locais é estritamente proibido.**
 
 ## Crias, Arautos e Feras Lendárias (Rumores)
 
-- **[[Deuses-Fera/Karkinos#Rumor de Caçada Pinça-de-Sal Cria de Karkinos|Pinça-de-Sal (Cria de Karkinos)]]** *(Costa Salobra — Perigo Médio)*
-- **[[Deuses-Fera/Sss'kar#Rumor de Caçada Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]** *(Lago do Grande Tirano / Sul — Perigo Alto)*
-- **[[Deuses-Fera/Deusa-Fera Aranha#Rumor de Caçada Tecelão-de-Ossos|Tecelão-de-Ossos]]** *(Raízes de Mangue — Perigo Alto)*
-- **[[Deuses-Fera/Sapo-Trovão do Lago Central|Sapo-Trovão do Lago Central]]** *(Lago do Grande Tirano — Perigo Extremo)* e **[[Geografia/Vale da Lama#Javali de Musgo-Negro|Javali de Musgo-Negro]]** *(Pântano Profundo — Perigo Médio)*
+- **[[Criaturas/Pinça-de-Sal|Pinça-de-Sal (Cria de Karkinos)]]** *(Costa Salobra — Perigo Médio)*
+- **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]** *(Lago da Grande Tirana / Sul — Perigo Alto)*
+- **[[Criaturas/Tecelão-de-Ossos|Tecelão-de-Ossos]]** *(Raízes de Mangue — Perigo Alto)*
+- **[[Deuses-Fera/Sapo-Trovão do Lago Central|Sapo-Trovão do Lago Central]]** *(Lago da Grande Tirana — Perigo Extremo)* e **[[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]]** *(Pântano Profundo — Perigo Médio)*
 
 ## Ganchos de Aventura
 
 - Abater uma cria ou invadir uma área de desova vinculada a um Deus-Fera sem autorização tribal pode transformar uma simples caçada em conflito aberto com seus devotos.
-- Mudanças recentes no [[Geografia/Vale da Lama#Pontos de Interesse O Lago do Grande Tirano|Lago do Grande Tirano]] estão atraindo criaturas associadas aos Deuses-Fera das fronteiras para o centro do vale.
+- Mudanças recentes no [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] estão atraindo criaturas associadas aos Deuses-Fera das fronteiras para o centro do vale.
 
 ---
 

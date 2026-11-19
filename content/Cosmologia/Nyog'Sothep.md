@@ -7,13 +7,14 @@ aliases: ["Deus Fúngico", "Nyog'Sothep", "Jardim Dourado", "Ciclo de Devoluçã
 <div class="infobox">
   <div class="infobox-title">Nyog'Sothep</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Nyog'Sothep ]</div>
+    <img class="osr-art" src="../assets/nyog-sothep.jpg" alt="A Manifestação do Enxame de Nyog'Sothep entre as raízes de mangue" />
+    <div class="infobox-caption">A Manifestação do Enxame de Nyog'Sothep</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Deus-fungo primordial</td></tr>
     <tr><td><b>Domínio</b></td><td>Decomposição, Fermentação, Esporos</td></tr>
     <tr><td><b>Manifestação</b></td><td>Enxame de moscas negras e verde-metálicas</td></tr>
-    <tr><td><b>Santuário</b></td><td>[[Geografia/Raiz-Funda#O Jardim Dourado|Jardim Dourado]]</td></tr>
+    <tr><td><b>Santuário</b></td><td>[[Geografia/Jardim Dourado|Jardim Dourado]]</td></tr>
     <tr><td><b>Símbolo</b></td><td>[[Cosmologia/Musgo Dourado|Musgo Dourado]]</td></tr>
     <tr><td><b>Adoradores</b></td><td>[[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
     <tr><td><b>Clero</b></td><td>[[NPCs/Elenco de Raiz-Funda|Malok, Zog, Snakk e Drig]]</td></tr>
@@ -36,7 +37,7 @@ Por ser uma consciência difusa espalhada pelo solo, Nyog'Sothep raramente se ma
 
 > [!info] Fé de Nyog'Sothep
 > - **Éditos:** Devolver todos os mortos à lama e ao micélio; cultivar fungos úteis; respeitar o ciclo de apodrecimento; usar o fogo apenas como ferramenta contida, jamais para matar ou queimar.
-> - **Anátemas:** Queimar cadáveres ou destruir corpos com fogo; usar fogo como arma para ferir ou matar; esterilizar o solo do pântano; servir aos dragões antigos ou profanar o [[Geografia/Raiz-Funda#O Jardim Dourado|Jardim Dourado]].
+> - **Anátemas:** Queimar cadáveres ou destruir corpos com fogo; usar fogo como arma para ferir ou matar; esterilizar o solo do pântano; servir aos dragões antigos ou profanar o [[Geografia/Jardim Dourado|Jardim Dourado]].
 
 ## O Ciclo da Devolução
 
@@ -48,9 +49,7 @@ No [[Geografia/Vale da Lama|Vale da Lama]], nada se perde. Quando um membro da t
 
 ## O Jardim Dourado
 
-Situado na depressão mais profunda sob as raízes centrais de [[Geografia/Raiz-Funda|Raiz-Funda]], o **Jardim Dourado** é o santuário mais sagrado de Nyog'Sothep — uma câmara natural formada por arcos de raízes de mangue entrelaçadas sob uma abóbada espessa de lodo. Nenhuma luz solar penetra ali; a iluminação vem apenas da bioluminescência âmbar das colônias de fungos que revestem os leitos funerários. O ar é quente, espesso e doce como fruta passada. Apenas o [[NPCs/Elenco de Raiz-Funda|Sacerdote-Chefe Malok]], os coveiros [[NPCs/Elenco de Raiz-Funda|Snakk e Drig]], a decana [[NPCs/Elenco de Raiz-Funda|Vó Mofo-Velho]] e curandeiros autorizados podem entrar no círculo interno. Forasteiros que se aproximam sem máscara de ervas amargas sentem tonturas e náuseas devido à densidade dos esporos.
-
-É nos canteiros do Jardim Dourado — e sobre ossadas da [[Geografia/Vale da Lama#História  Origem A Grande Morte Lenta|Grande Morte Lenta]] — que brota com mais força o [[Cosmologia/Musgo Dourado|Musgo Dourado]].
+Situado na depressão mais profunda sob as raízes centrais de [[Geografia/Raiz-Funda|Raiz-Funda]], o **[[Geografia/Jardim Dourado|Jardim Dourado]]** é o santuário mais sagrado de Nyog'Sothep, onde ocorrem os rituais do Ciclo da Devolução e onde brota com mais força o [[Cosmologia/Musgo Dourado|Musgo Dourado]]. Acesso restrito ao clero, decana e curandeiros autorizados.
 
 ---
 

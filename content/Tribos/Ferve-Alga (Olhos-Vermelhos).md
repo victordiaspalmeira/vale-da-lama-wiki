@@ -41,7 +41,7 @@ Violar essa regra traz a ira de [[Deuses-Fera/Karkinos|Karkinos]] — ataques de
 
 ## Ganchos de Aventura
 
-- Caçadores avistaram o [[Deuses-Fera/Karkinos#Rumor de Caçada Pinça-de-Sal Cria de Karkinos|Pinça-de-Sal (Cria de Karkinos)]] perto da Costa Salobra; abatê-lo sem permissão pode romper a trégua com os [[Tribos/Masca-Musgo|Masca-Musgo]].
+- Caçadores avistaram o [[Criaturas/Pinça-de-Sal|Pinça-de-Sal (Cria de Karkinos)]] perto da Costa Salobra; abatê-lo sem permissão pode romper a trégua com os [[Tribos/Masca-Musgo|Masca-Musgo]].
 - Uma caravana de salmoura e sal cristalizado busca escolta através das águas disputadas do centro do vale.
 
 ---

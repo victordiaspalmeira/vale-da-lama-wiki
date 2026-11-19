@@ -43,7 +43,7 @@ O mais antigo deles, conhecido apenas como o **Ancião Centenário**, teria mais
 
 ## Ganchos de Aventura
 
-- A [[Deuses-Fera/Sss'kar#Rumor de Caçada Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]] foi avistada próxima ao [[Geografia/Vale da Lama#Pontos de Interesse O Lago do Grande Tirano|Lago do Grande Tirano]], levantando suspeitas sobre movimentos dos Ventre-Inchado para o norte.
+- A [[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]] foi avistada próxima ao [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], levantando suspeitas sobre movimentos dos Ventre-Inchado para o norte.
 - Uma ânfora selada com sanguessugas rituais foi perdida perto das fronteiras de [[Geografia/Raiz-Funda|Raiz-Funda]].
 
 ---

@@ -23,7 +23,7 @@ aliases: ["Tribo do Oeste", "Masca-Musgo"]
 
 ## Descrição
 
-Os **Masca-Musgo** habitam o Oeste do [[Geografia/Vale da Lama|Vale da Lama]], concentrados em [[Geografia/Raiz-Funda|Raiz-Funda]] e nos manguezais vizinhos. São goblins de pele esverdeada-acinzentada, frequentemente manchada por líquens inofensivos, dentes escurecidos pelo hábito constante de mascar raízes e musgos suaves, e olhos grandes adaptados à penumbra sob os chapéus de cogumelo. Consideram-se os herdeiros legítimos de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] desde a [[Geografia/Vale da Lama#História  Origem A Grande Morte Lenta|Grande Morte Lenta]].
+Os **Masca-Musgo** habitam o Oeste do [[Geografia/Vale da Lama|Vale da Lama]], concentrados em [[Geografia/Raiz-Funda|Raiz-Funda]] e nos manguezais vizinhos. São goblins de pele esverdeada-acinzentada, frequentemente manchada por líquens inofensivos, dentes escurecidos pelo hábito constante de mascar raízes e musgos suaves, e olhos grandes adaptados à penumbra sob os chapéus de cogumelo. Consideram-se os herdeiros legítimos de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] desde a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]].
 
 ## Valores e Cultura
 
@@ -38,7 +38,7 @@ A tribo é organizada hierarquicamente (detalhes completos em [[NPCs/Elenco de R
 
 1. **Sacerdote-Chefe Malok** — líder espiritual e político máximo
 2. **Zog (Xamã Animista / Voz-de-Esporo)** — conselheiro da [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]]
-3. **Irmãos Snakk e Drig** — Coveiros-Sacerdotes do [[Geografia/Raiz-Funda#O Jardim Dourado|Jardim Dourado]]
+3. **Irmãos Snakk e Drig** — Coveiros-Sacerdotes do [[Geografia/Jardim Dourado|Jardim Dourado]]
 4. **Varga (Capitã da Guarda)** — comandante da vigilância e defesa
 5. **Kruk (Mestre dos Caçadores)** — líder das caçadas sagradas
 6. **Vó Mofo-Velho (Decana)** — guardiã da memória oral

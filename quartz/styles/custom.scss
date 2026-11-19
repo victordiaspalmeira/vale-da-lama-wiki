@@ -293,14 +293,12 @@ article img {
   border: 1px solid var(--vale-border-dark);
 }
 
-:root:not([saved-theme="dark"]) .osr-art,
-:root:not([saved-theme="dark"]) article img {
+:root:not([saved-theme="dark"]) .osr-art {
   mix-blend-mode: multiply;
   filter: contrast(1.15);
 }
 
-:root[saved-theme="dark"] .osr-art,
-:root[saved-theme="dark"] article img {
+:root[saved-theme="dark"] .osr-art {
   filter: invert(0.92) sepia(0.2) contrast(1.15);
   mix-blend-mode: screen;
 }

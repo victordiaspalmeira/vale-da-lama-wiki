@@ -1,21 +1,23 @@
 ---
 title: Vale da Lama
 tags: [geografia, pântano, visão-geral]
-aliases: ["O Pântano", "Vale da Lama", "Grande Morte Lenta", "Lago do Grande Tirano", "Costa Salobra"]
+aliases: ["O Pântano", "Vale da Lama"]
 ---
 
 <div class="infobox">
   <div class="infobox-title">Vale da Lama</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Vale da Lama ]</div>
+    <img src="../assets/mapa-vale-da-lama.jpg" alt="Mapa cartográfico do Vale da Lama" />
+    <div class="infobox-caption">Mapa do Vale da Lama</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Bacia pantanosa extensa</td></tr>
     <tr><td><b>Clima</b></td><td>Úmido, opressivo e enevoado</td></tr>
-    <tr><td><b>Região Central</b></td><td>[[Geografia/Vale da Lama#Pontos de Interesse O Lago do Grande Tirano|Lago do Grande Tirano]]</td></tr>
+    <tr><td><b>Centro</b></td><td>[[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]</td></tr>
     <tr><td><b>Oeste</b></td><td>[[Geografia/Raiz-Funda|Raiz-Funda]] ([[Tribos/Masca-Musgo|Masca-Musgo]])</td></tr>
-    <tr><td><b>Nordeste</b></td><td>Costa Salobra ([[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]])</td></tr>
-    <tr><td><b>Sul</b></td><td>Águas Paradas Profundas ([[Tribos/Ventre-Inchado|Ventre-Inchado]])</td></tr>
+    <tr><td><b>Nordeste</b></td><td>[[Geografia/Costa Salobra|Costa Salobra]] ([[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]])</td></tr>
+    <tr><td><b>Sul</b></td><td>[[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]] ([[Tribos/Ventre-Inchado|Ventre-Inchado]])</td></tr>
+    <tr><td><b>Além do Oeste</b></td><td>[[Geografia/Montanhas do Oeste|Montanhas do Oeste]] ([[Tribos/Povo Dragão|Povo Dragão]])</td></tr>
   </table>
 </div>
 
@@ -25,38 +27,28 @@ aliases: ["O Pântano", "Vale da Lama", "Grande Morte Lenta", "Lago do Grande Ti
 
 O **Vale da Lama** é uma depressão pantanosa vasta e úmida, cercada por escarpas baixas de rocha erodida que retêm as águas negras e a neblina espessa durante quase todo o ano. Não há estradas pavimentadas nem campos abertos: a paisagem é um labirinto de canais lodosos, ilhotas de turfa instável, florestas de mangues titânicos e bosques de cogumelos gigantes cujos chapéus filtram a luz do sol.
 
-## História / Origem: A Grande Morte Lenta
+## História
 
-Séculos atrás, o Vale da Lama era dominado por dragões antigos de escamas douradas e negras. Quando esses tiranos abusaram de seu sopro de fogo e traíram o ciclo natural (veja [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]), foram atingidos pela **Grande Morte Lenta** — uma praga fúngica e espiritual enviada por [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] que endureceu suas articulações, apodreceu suas escamas e os fez tombar um a um no brejo ao longo de décadas.
-
-Como seus corpos gigantescos não podiam ser queimados, levaram séculos para se decompor. Esse apodrecimento alterou para sempre o vale: tornou as águas ácidas e turvas, criou bolsas de gás pantanoso sob a lama, mutou a fauna local e fertilizou o solo para o florescimento do [[Cosmologia/Musgo Dourado|Musgo Dourado]]. Hoje, costelas e crânios dracônicos calcificados ainda emergem do lodo como pontes naturais e marcos territoriais.
-
-## Pontos de Interesse: O Lago do Grande Tirano
-
-No centro do Vale da Lama fica o **Lago do Grande Tirano**, um corpo circular de água negra, profunda e oleosa formado no local onde tombou o maior dos dragões antigos. O lago é fundo o bastante para engolir embarcações inteiras, cercado por ossadas colossais cobertas de musgo petrificado e habitado por criaturas mutadas pela antiga decomposição dracônica.
-
-Recentemente, caçadores e batedores notaram que as águas do lago começaram a esquentar de forma incomum, liberando bolhas de gás esverdeado na superfície.
+Séculos atrás, o vale era dominado por dragões antigos, derrubados por [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] durante a **[[Historia/A Grande Morte Lenta|Grande Morte Lenta]]**. A decomposição secular desses corpos tornou as águas ácidas e turvas, criou bolsas de gás sob a lama, fertilizou o solo para o [[Cosmologia/Musgo Dourado|Musgo Dourado]] e deixou os restos titânicos da Grande Tirana submersos no fundo do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 ## Regiões do Vale
 
-- **Oeste:** Florestas densas de mangue antigo e campos de cogumelos gigantes, território dos [[Tribos/Masca-Musgo|Masca-Musgo]] e sede de [[Geografia/Raiz-Funda|Raiz-Funda]].
-- **Centro:** O [[Geografia/Lago do Grande Tirano|Lago do Grande Tirano]] e os pântanos profundos ao redor.
-- **Nordeste:** A **[[Geografia/Costa Salobra|Costa Salobra]]**, região de estuários salgados e bancos de salitre dominada pelos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]].
-- **Sul:** As **[[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]**, brejos escuros e sem correnteza controlados pelos [[Tribos/Ventre-Inchado|Ventre-Inchado]].
+![[assets/mapa-vale-da-lama.jpg]]
 
-## Ganchos de Aventura e Rumores do Pântano
+1. **Centro — [[Geografia/Lago da Grande Tirana|O Lago da Grande Tirana]]:** Grande caldeira circular de águas negras, fundas e oleosas formada onde tombou a maior das antigas dragões.
+2. **Oeste — [[Geografia/Raiz-Funda|Raiz-Funda]]:** Aglomerado de palafitas e passarelas suspensas entre árvores gigantes de mangue, principal assentamento dos [[Tribos/Masca-Musgo|Masca-Musgo]].
+3. **Oeste (Sopé) — [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Os Poços de Turfa e o Brejo do Musgo-Negro]]:** Planície ocre-acinzentada com poços de piche borbulhantes e musgo ácido encostada nas [[Geografia/Montanhas do Oeste|Montanhas do Oeste]].
+4. **Noroeste — [[Geografia/Copas da Teia Prateada|As Copas da Teia Prateada]]:** Manguezais altos com dossel contínuo e acampamentos suspensos dos nômades [[Tribos/Tece-Pele|Tece-Pele]].
+5. **Norte-Central e Leste — [[Geografia/Ruinas dos Sem-Nome|As Ruínas dos Sem-Nome]]:** Colunas partidas e arcos ogivais de mármore pálido de uma civilização élfica extinta, evitadas pelos goblins.
+6. **Nordeste — [[Geografia/Costa Salobra|A Costa Salobra e Os Caldeirões]]:** Ilhotas de lama, bancos de salitre, caldeirões dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] e áreas de desova de [[Deuses-Fera/Karkinos|Karkinos]].
+7. **Sul — [[Geografia/Aguas Paradas Profundas|As Águas Paradas Profundas]]:** Brejos escuros, abafados e sem correnteza dominados pelos [[Tribos/Ventre-Inchado|Ventre-Inchado]].
+8. **Leste / Sudeste — [[Geografia/Delta das Aguas Mortas|O Delta das Águas Mortas]]:** Labirinto de dezenas de ilhotas e canais de maré ligando as ruínas e o rio sulista ao oceano.
 
-- Investigar o aquecimento incomum e as bolhas de gás verde no [[Geografia/Lago do Grande Tirano|Lago do Grande Tirano]], onde habitam o [[Deuses-Fera/Sapo-Trovão do Lago Central|Sapo-Trovão do Lago Central]] e a [[Deuses-Fera/Sss'kar#Rumor de Caçada Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]].
-- Explorar ossadas dracônicas calcificadas em busca de [[Cosmologia/Musgo Dourado|Musgo Dourado]] respeitando a [[Cosmologia/Animismo e Reciprocidade|Lei da Troca]].
+## Rumores e Ameaças do Pântano
 
-### Sapo-Trovão do Lago Central
-- **Localização:** Lago do Grande Tirano | **Perigo:** Extremo
-- Um anfíbio colossal que vive nas ilhotas do Lago do Grande Tirano. Seu coaxar grave ecoa a quilômetros de distância e faz o solo pantanoso tremer ao redor.
-
-### Javali de Musgo-Negro
-- **Localização:** Pântano Profundo | **Perigo:** Médio
-- Um javali corpulento coberto por fungo negro espesso que emerge à noite. Sua carne é venenosa, mas suas presas curvas são muito procuradas pelos artesãos de [[Geografia/Raiz-Funda|Raiz-Funda]].
+- **[[Deuses-Fera/Sapo-Trovão do Lago Central|Sapo-Trovão do Lago Central]]** *(Lago da Grande Tirana — Perigo Extremo)*: anfíbio colossal cujo coaxar grave faz o solo tremer ao redor do lago.
+- **[[Criaturas/Javali de Musgo-Negro|Javali de Musgo-Negro]]** *(Pântano Profundo — Perigo Médio)*: javali coberto de fungo negro venenoso, caçado por suas presas curvas.
 
 ---
 
-**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Deuses-Fera/Deus-Fera|Deus-Fera]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]], [[Tribos/Ventre-Inchado|Ventre-Inchado]]
+**Veja também:** [[Historia/A Grande Morte Lenta|A Grande Morte Lenta]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], [[Geografia/Costa Salobra|Costa Salobra]], [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]], [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]

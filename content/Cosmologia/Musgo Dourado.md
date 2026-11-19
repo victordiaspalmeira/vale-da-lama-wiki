@@ -13,7 +13,7 @@ aliases: ["O Musgo Dourado", "Aurumycota sothepi", "Ascensão"]
     <tr><td><b>Nome Científico</b></td><td><i>Aurumycota sothepi</i></td></tr>
     <tr><td><b>Tipo</b></td><td>Musgo-fungo simbiótico sagrado</td></tr>
     <tr><td><b>Divindade</b></td><td>[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]</td></tr>
-    <tr><td><b>Onde Cresce</b></td><td>[[Geografia/Raiz-Funda#O Jardim Dourado|Jardim Dourado]] e ossadas da Grande Morte Lenta</td></tr>
+    <tr><td><b>Onde Cresce</b></td><td>[[Geografia/Jardim Dourado|Jardim Dourado]] e ossadas da Grande Morte Lenta</td></tr>
     <tr><td><b>Usos</b></td><td>Cura (+2 Medicina) e Visão (Estupefato 1)</td></tr>
     <tr><td><b>Risco</b></td><td>Drenado 1 e Ascensão fúngica</td></tr>
   </table>
@@ -23,7 +23,7 @@ aliases: ["O Musgo Dourado", "Aurumycota sothepi", "Ascensão"]
 
 ## Descrição
 
-O **Musgo Dourado** (*Aurumycota sothepi*) é uma variedade rara de musgo-fungo simbiótico que brota apenas onde a presença de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] é mais forte. É especialmente potente quando colhido nos canteiros bioluminescentes do [[Cosmologia/Nyog'Sothep#O Jardim Dourado|Jardim Dourado]] ou sobre ossadas antigas da [[Geografia/Vale da Lama#História  Origem A Grande Morte Lenta|Grande Morte Lenta]], como as que cercam o [[Geografia/Lago do Grande Tirano|Lago do Grande Tirano]].
+O **Musgo Dourado** (*Aurumycota sothepi*) é uma variedade rara de musgo-fungo simbiótico que brota apenas onde a presença de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] é mais forte. É especialmente potente quando colhido nos canteiros bioluminescentes do [[Geografia/Jardim Dourado|Jardim Dourado]] ou sobre ossadas antigas da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]], como as que cercam o [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 Para os [[Tribos/Masca-Musgo|Masca-Musgo]], colher o Musgo Dourado exige respeito absoluto à [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]].
 
@@ -37,13 +37,13 @@ Para os [[Tribos/Masca-Musgo|Masca-Musgo]], colher o Musgo Dourado exige respeit
 > [!warning] Consumo Excessivo
 > O consumo excessivo de Musgo Dourado (mais de uma dose por semana) provoca a brotação de filamentos dourados sob a pele e nas unhas (**Drenado 1**).
 
-Os [[Tribos/Masca-Musgo|Masca-Musgo]] não encaram o estágio final desse processo como doença, mas como uma **Ascensão** voluntária: o portador abandona a fala e caminha sozinho até o [[Cosmologia/Nyog'Sothep#O Jardim Dourado|Jardim Dourado]] para se deitar entre as raízes e se unir à rede micelial de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
+Os [[Tribos/Masca-Musgo|Masca-Musgo]] não encaram o estágio final desse processo como doença, mas como uma **Ascensão** voluntária: o portador abandona a fala e caminha sozinho até o [[Geografia/Jardim Dourado|Jardim Dourado]] para se deitar entre as raízes e se unir à rede micelial de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
 ## Ganchos de Aventura
 
-- Uma colheita rara de Musgo Dourado brotou sobre ossadas dracônicas no [[Geografia/Lago do Grande Tirano|Lago do Grande Tirano]], mas os [[Cosmologia/Animismo e Reciprocidade|espíritos do local]] exigem uma oferenda à altura.
+- Uma colheita rara de Musgo Dourado brotou sobre fragmentos de ossos calcificados nas margens do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], mas o próprio pântano exige uma oferenda à altura segundo a [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]].
 - Um batedor de [[Geografia/Raiz-Funda|Raiz-Funda]] apresenta os primeiros filamentos dourados sob as unhas após recorrer ao musgo com frequência excessiva durante patrulhas.
 
 ---
 
-**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Animismo e Reciprocidade|Animismo e Reciprocidade]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Geografia/Lago do Grande Tirano|Lago do Grande Tirano]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]]
+**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Animismo e Reciprocidade|Animismo e Reciprocidade]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]]

@@ -13,7 +13,7 @@ aliases: ["Fogo-Sagrado", "Tabu do Fogo", "Grande Morte Lenta", "Lei do Fogo"]
     <tr><td><b>Tipo</b></td><td>Lei religiosa e jurídica</td></tr>
     <tr><td><b>Permitido</b></td><td>Fogo-Ferramenta (contido em pedra/barro)</td></tr>
     <tr><td><b>Tabu Capital</b></td><td>Fogo-Profano (queimar corpos, combate, incendiar)</td></tr>
-    <tr><td><b>Origem</b></td><td>[[Geografia/Vale da Lama#História  Origem A Grande Morte Lenta|Traição das Escamas]]</td></tr>
+    <tr><td><b>Origem</b></td><td>[[Historia/A Grande Morte Lenta|Traição das Escamas]]</td></tr>
     <tr><td><b>Juiz</b></td><td>[[NPCs/Elenco de Raiz-Funda|Velho Rói-Raiz]]</td></tr>
   </table>
 </div>
@@ -26,7 +26,7 @@ No [[Geografia/Vale da Lama|Vale da Lama]], a relação com o fogo é governada 
 
 ## História / Origem: A Traição das Escamas
 
-Segundo as histórias preservadas por [[NPCs/Elenco de Raiz-Funda|Vó Mofo-Velho]], antes da era atual os dragões antigos dominavam o vale e serviam ao ciclo primordial. Porém, corrompidos pela ganância e pela influência dos Dragões Vermelhos do Extremo Oeste, passaram a usar seu sopro ígneo em disputas territoriais, vitrificando a lama, incendiando florestas inteiras de fungos e reduzindo seus inimigos a cinzas para impedir que retornassem ao ciclo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]]. Quando Nyog'Sothep derrubou os tiranos por meio da podridão lenta (a [[Geografia/Vale da Lama#História  Origem A Grande Morte Lenta|Grande Morte Lenta]]), os goblins sobreviventes selaram o pacto que separa o fogo útil do fogo profano.
+Segundo as histórias preservadas por [[NPCs/Elenco de Raiz-Funda|Vó Mofo-Velho]], antes da era atual os dragões antigos dominavam o vale e serviam ao ciclo primordial. Porém, corrompidos pela ganância e pela influência dos Dragões Vermelhos do Extremo Oeste, passaram a usar seu sopro ígneo em disputas territoriais, vitrificando a lama, incendiando florestas inteiras de fungos e reduzindo seus inimigos a cinzas para impedir que retornassem ao ciclo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]]. Quando Nyog'Sothep derrubou os tiranos por meio da podridão lenta (a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]]), os goblins sobreviventes selaram o pacto que separa o fogo útil do fogo profano.
 
 ## O que é Permitido (Fogo-Ferramenta)
 
@@ -46,7 +46,7 @@ Pequenas brasas e chamas contidas em pedra, barro ou metal na periferia das alde
 Quem quebra o Código de Honra do Fogo é julgado por [[NPCs/Elenco de Raiz-Funda|Velho Rói-Raiz]], o Juiz das Disputas, diante de toda a aldeia:
 
 - **Infrações menores por ignorância:** Forasteiros têm seus itens inflamáveis confiscados e recebem uma marca de cinza fria e seiva cáustica na testa até cumprirem penitência.
-- **Sentença do Esquecimento:** Quem mata, fere ou crema com fogo perde o nome, tem sua história apagada dos cantos da tribo e é amarrado a uma estaca na fronteira da lama profunda para ser reclamado pelo brejo sem direito ao [[Geografia/Raiz-Funda#O Jardim Dourado|Jardim Dourado]].
+- **Sentença do Esquecimento:** Quem mata, fere ou crema com fogo perde o nome, tem sua história apagada dos cantos da tribo e é amarrado a uma estaca na fronteira da lama profunda para ser reclamado pelo brejo sem direito ao [[Geografia/Jardim Dourado|Jardim Dourado]].
 
 ---
 
