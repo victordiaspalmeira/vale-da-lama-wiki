@@ -6,6 +6,9 @@ aliases: ["O Pântano", "Vale da Lama", "Grande Morte Lenta", "Lago do Grande Ti
 
 <div class="infobox">
   <div class="infobox-title">Vale da Lama</div>
+  <div class="infobox-image">
+    <div class="infobox-placeholder">[ Ilustração: Vale da Lama ]</div>
+  </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Bacia pantanosa extensa</td></tr>
     <tr><td><b>Clima</b></td><td>Úmido, opressivo e enevoado</td></tr>
@@ -24,9 +27,9 @@ O **Vale da Lama** é uma depressão pantanosa vasta e úmida, cercada por escar
 
 ## História / Origem: A Grande Morte Lenta
 
-Séculos atrás, o Vale da Lama era dominado por dragões antigos de escamas douradas e negras. Quando esses tiranos abusaram de seu sopro de fogo e traíram o ciclo natural (veja [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]), foram atingidos pela **Grande Morte Lenta** — uma praga fúngica e espiritual enviada por [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]] que endureceu suas articulações, apodreceu suas escamas e os fez tombar um a um no brejo ao longo de décadas.
+Séculos atrás, o Vale da Lama era dominado por dragões antigos de escamas douradas e negras. Quando esses tiranos abusaram de seu sopro de fogo e traíram o ciclo natural (veja [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]), foram atingidos pela **Grande Morte Lenta** — uma praga fúngica e espiritual enviada por [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] que endureceu suas articulações, apodreceu suas escamas e os fez tombar um a um no brejo ao longo de décadas.
 
-Como seus corpos gigantescos não podiam ser queimados, levaram séculos para se decompor. Esse apodrecimento alterou para sempre o vale: tornou as águas ácidas e turvas, criou bolsas de gás pantanoso sob a lama, mutou a fauna local e fertilizou o solo para o florescimento do [[Cosmologia/Nyog'Sothep e o Musgo Dourado#O Musgo Dourado Aurumycota sothepi|Musgo Dourado]]. Hoje, costelas e crânios dracônicos calcificados ainda emergem do lodo como pontes naturais e marcos territoriais.
+Como seus corpos gigantescos não podiam ser queimados, levaram séculos para se decompor. Esse apodrecimento alterou para sempre o vale: tornou as águas ácidas e turvas, criou bolsas de gás pantanoso sob a lama, mutou a fauna local e fertilizou o solo para o florescimento do [[Cosmologia/Musgo Dourado|Musgo Dourado]]. Hoje, costelas e crânios dracônicos calcificados ainda emergem do lodo como pontes naturais e marcos territoriais.
 
 ## Pontos de Interesse: O Lago do Grande Tirano
 
@@ -37,15 +40,23 @@ Recentemente, caçadores e batedores notaram que as águas do lago começaram a 
 ## Regiões do Vale
 
 - **Oeste:** Florestas densas de mangue antigo e campos de cogumelos gigantes, território dos [[Tribos/Masca-Musgo|Masca-Musgo]] e sede de [[Geografia/Raiz-Funda|Raiz-Funda]].
-- **Centro:** O Lago do Grande Tirano e os pântanos profundos ao redor.
-- **Nordeste:** A **Costa Salobra**, região de estuários salgados e bancos de salitre dominada pelos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]].
-- **Sul:** As **Águas Paradas Profundas**, brejos escuros e sem correnteza controlados pelos [[Tribos/Ventre-Inchado|Ventre-Inchado]].
+- **Centro:** O [[Geografia/Lago do Grande Tirano|Lago do Grande Tirano]] e os pântanos profundos ao redor.
+- **Nordeste:** A **[[Geografia/Costa Salobra|Costa Salobra]]**, região de estuários salgados e bancos de salitre dominada pelos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]].
+- **Sul:** As **[[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]**, brejos escuros e sem correnteza controlados pelos [[Tribos/Ventre-Inchado|Ventre-Inchado]].
 
-## Ganchos de Aventura
+## Ganchos de Aventura e Rumores do Pântano
 
-- Investigar o aquecimento incomum e as bolhas de gás verde no Lago do Grande Tirano, onde habitam o [[Cacadas/Rumores e Deuses-Fera Menores|Sapo-Trovão do Lago Central]] e a [[Cacadas/Rumores e Deuses-Fera Menores|Rainha-Sanguessuga de Águas Paradas]].
-- Explorar ossadas dracônicas calcificadas em busca de [[Cosmologia/Nyog'Sothep e o Musgo Dourado#O Musgo Dourado Aurumycota sothepi|Musgo Dourado]] respeitando a [[Cosmologia/Animismo e Reciprocidade|Lei da Troca]].
+- Investigar o aquecimento incomum e as bolhas de gás verde no [[Geografia/Lago do Grande Tirano|Lago do Grande Tirano]], onde habitam o [[Deuses-Fera/Sapo-Trovão do Lago Central|Sapo-Trovão do Lago Central]] e a [[Deuses-Fera/Sss'kar#Rumor de Caçada Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]].
+- Explorar ossadas dracônicas calcificadas em busca de [[Cosmologia/Musgo Dourado|Musgo Dourado]] respeitando a [[Cosmologia/Animismo e Reciprocidade|Lei da Troca]].
+
+### Sapo-Trovão do Lago Central
+- **Localização:** Lago do Grande Tirano | **Perigo:** Extremo
+- Um anfíbio colossal que vive nas ilhotas do Lago do Grande Tirano. Seu coaxar grave ecoa a quilômetros de distância e faz o solo pantanoso tremer ao redor.
+
+### Javali de Musgo-Negro
+- **Localização:** Pântano Profundo | **Perigo:** Médio
+- Um javali corpulento coberto por fungo negro espesso que emerge à noite. Sua carne é venenosa, mas suas presas curvas são muito procuradas pelos artesãos de [[Geografia/Raiz-Funda|Raiz-Funda]].
 
 ---
 
-**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep e o Musgo Dourado]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]], [[Tribos/Ventre-Inchado|Ventre-Inchado]], [[Cacadas/Rumores e Deuses-Fera Menores|Rumores e Deuses-Fera Menores]]
+**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Deuses-Fera/Deus-Fera|Deus-Fera]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]], [[Tribos/Ventre-Inchado|Ventre-Inchado]]

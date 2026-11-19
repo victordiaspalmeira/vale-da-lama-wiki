@@ -6,10 +6,13 @@ aliases: ["Tribo Nômade", "Tece-Pele", "Deusa-Fera Aranha", "Fio-Eterno", "Teia
 
 <div class="infobox">
   <div class="infobox-title">Tece-Pele</div>
+  <div class="infobox-image">
+    <div class="infobox-placeholder">[ Ilustração: Tece-Pele ]</div>
+  </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Facção / Tribo Nômade</td></tr>
     <tr><td><b>Base</b></td><td>Acampamentos suspensos pelo [[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
-    <tr><td><b>Deidade</b></td><td>Deusa-Fera Aranha (Fio-Eterno)</td></tr>
+    <tr><td><b>Deidade</b></td><td>[[Deuses-Fera/Deusa-Fera Aranha|Deusa-Fera Aranha]] (Fio-Eterno)</td></tr>
     <tr><td><b>Objetivo</b></td><td>Comércio neutro, mensageiros e cobrança de dívidas</td></tr>
     <tr><td><b>Aliados / Rivais</b></td><td>Trocas regulares com [[NPCs/Elenco de Raiz-Funda|Biba]] ([[Tribos/Masca-Musgo|Masca-Musgo]])</td></tr>
     <tr><td><b>Símbolo</b></td><td>Teia Prateada</td></tr>
@@ -34,8 +37,8 @@ Atuam como mensageiros e mercadores neutros — mantendo trocas frequentes com [
 ## Ganchos de Aventura
 
 - Um acampamento com Teia Prateada surgiu próximo a [[Geografia/Raiz-Funda|Raiz-Funda]] para cobrar uma dívida antiga envolvendo quitina negociada com [[NPCs/Elenco de Raiz-Funda|Biba]].
-- O [[Cacadas/Rumores e Deuses-Fera Menores|Tecelão-de-Ossos]] tem sido visto nas raízes de mangue, e os Tece-Pele disputam se ele é um arauto ou uma abominação do Fio-Eterno.
+- O [[Deuses-Fera/Deusa-Fera Aranha#Rumor de Caçada Tecelão-de-Ossos|Tecelão-de-Ossos]] tem sido visto nas raízes de mangue, e os Tece-Pele disputam se ele é um arauto ou uma abominação do Fio-Eterno.
 
 ---
 
-**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[Cacadas/Rumores e Deuses-Fera Menores|Rumores e Deuses-Fera Menores]]
+**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Deuses-Fera/Deusa-Fera Aranha|Deusa-Fera Aranha]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Tribos/Masca-Musgo|Masca-Musgo]]

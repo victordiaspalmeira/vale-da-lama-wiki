@@ -6,6 +6,9 @@ aliases: ["NPCs de Raiz-Funda", "Personagens de Raiz-Funda", "Sacerdote-Chefe Ma
 
 <div class="infobox">
   <div class="infobox-title">Elenco de Raiz-Funda</div>
+  <div class="infobox-image">
+    <div class="infobox-placeholder">[ Ilustração: Elenco de Raiz-Funda ]</div>
+  </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Elenco de personagens (NPCs)</td></tr>
     <tr><td><b>Habitat</b></td><td>[[Geografia/Raiz-Funda|Raiz-Funda]]</td></tr>
@@ -24,13 +27,13 @@ Os principais moradores e líderes de [[Geografia/Raiz-Funda|Raiz-Funda]], sede 
 
 ## Clero e Xamãs
 
-- **Sacerdote-Chefe Malok:** Líder espiritual e político máximo dos [[Tribos/Masca-Musgo|Masca-Musgo]]. Idoso, encurvado, usa um manto onde crescem pequenos fungos vivos; pondera cada palavra e zela pela harmonia da aldeia e pelo culto a [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]].
+- **Sacerdote-Chefe Malok:** Líder espiritual e político máximo dos [[Tribos/Masca-Musgo|Masca-Musgo]]. Idoso, encurvado, usa um manto onde crescem pequenos fungos vivos; pondera cada palavra e zela pela harmonia da aldeia e pelo culto a [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 - **Zog (Xamã Animista / Voz-de-Esporo):** Coberto de amuletos de dentes, conchas e ossos que tilintam ao andar. Conhece profundamente a [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]] e orienta caçadores e viajantes sobre como pedir passagem e oferendar ao pântano.
-- **Irmãos Snakk e Drig:** Gêmeos pálidos de olhos leitosos que servem como Coveiros-Sacerdotes do [[Geografia/Raiz-Funda#O Jardim Dourado|Jardim Dourado]], cuidando da devolução dos corpos e da colheita controlada de [[Cosmologia/Nyog'Sothep e o Musgo Dourado#O Musgo Dourado Aurumycota sothepi|Musgo Dourado]].
+- **Irmãos Snakk e Drig:** Gêmeos pálidos de olhos leitosos que servem como Coveiros-Sacerdotes do [[Geografia/Raiz-Funda#O Jardim Dourado|Jardim Dourado]], cuidando da devolução dos corpos e da colheita controlada de [[Cosmologia/Musgo Dourado|Musgo Dourado]].
 
 ## Caçadores
 
-- **Kruk (Mestre dos Caçadores):** Veterano marcado por cicatrizes, líder tradicional das [[Cacadas/Rumores e Deuses-Fera Menores|caçadas sagradas]] de [[Geografia/Raiz-Funda|Raiz-Funda]]. Conhece cada canal do vale e defende o respeito rigoroso às ninhadas.
+- **Kruk (Mestre dos Caçadores):** Veterano marcado por cicatrizes, líder tradicional das caçadas sagradas de [[Geografia/Raiz-Funda|Raiz-Funda]]. Conhece cada canal do vale e defende o respeito rigoroso às [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|ninhadas]].
 - **Grixa (Batedora de Elite):** Rápida, silenciosa e observadora. Rivaliza com Kruk pela liderança das expedições de caça e defende estratégias mais ousadas diante das ameaças das fronteiras.
 
 ## Artesãos
@@ -44,7 +47,7 @@ Os principais moradores e líderes de [[Geografia/Raiz-Funda|Raiz-Funda]], sede 
 - **Varga (Capitã da Guarda):** Comandante pragmática e severa que coordena os vigias das raízes e a segurança dos acessos da aldeia.
 - **Vó Mofo-Velho (Decana):** A habitante mais antiga de [[Geografia/Raiz-Funda|Raiz-Funda]], guardiã da memória oral da [[Geografia/Vale da Lama#História  Origem A Grande Morte Lenta|Grande Morte Lenta]] e das tradições ancestrais.
 - **Velho Rói-Raiz (Juiz das Disputas):** Austero e imparcial, julga conflitos internos, quebras da [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]] e infrações ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]].
-- **Snikk (Curandeiro-Chefe):** Cuida dos feridos e doentes da aldeia utilizando cataplasmas de [[Cosmologia/Nyog'Sothep e o Musgo Dourado#O Musgo Dourado Aurumycota sothepi|Musgo Dourado]], ervas do mangue e tratamentos contra a Febre do Musgo.
+- **Snikk (Curandeiro-Chefe):** Cuida dos feridos e doentes da aldeia utilizando cataplasmas de [[Cosmologia/Musgo Dourado|Musgo Dourado]], ervas do mangue e tratamentos contra a Febre do Musgo.
 
 ## Ganchos de Aventura
 

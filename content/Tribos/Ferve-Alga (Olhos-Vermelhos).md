@@ -6,11 +6,14 @@ aliases: ["Ferve-Alga", "Olhos-Vermelhos", "Tribo do Nordeste", "Deus-Caranguejo
 
 <div class="infobox">
   <div class="infobox-title">Ferve-Alga (Olhos-Vermelhos)</div>
+  <div class="infobox-image">
+    <div class="infobox-placeholder">[ Ilustração: Ferve-Alga (Olhos-Vermelhos) ]</div>
+  </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Facção / Tribo do Nordeste</td></tr>
     <tr><td><b>Base</b></td><td>Costa Salobra (Nordeste do [[Geografia/Vale da Lama|Vale da Lama]])</td></tr>
     <tr><td><b>Líder</b></td><td>Xamãs das Áreas de Desova</td></tr>
-    <tr><td><b>Deidade</b></td><td>Deus-Caranguejo Karkinos</td></tr>
+    <tr><td><b>Deidade</b></td><td>[[Deuses-Fera/Karkinos|Deus-Caranguejo Karkinos]]</td></tr>
     <tr><td><b>Objetivo</b></td><td>Proteger as áreas de desova e manter o culto da salmoura</td></tr>
     <tr><td><b>Aliados / Rivais</b></td><td>Trégua tensa / rivais dos [[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
     <tr><td><b>Prática</b></td><td>Salmoura fervente</td></tr>
@@ -34,13 +37,13 @@ Embora não queimem seus mortos — devolvendo-os às marés para alimentar os f
 > [!warning] Zona Proibida
 > Na Costa Salobra existem enseadas rasas onde Karkinos e seus descendentes depositam ovos. A entrada nessas áreas é estritamente proibida a qualquer pessoa fora da estação de acasalamento, e mesmo durante a estação exige permissão formal dos xamãs da tribo.
 
-Violar essa regra traz a ira de Karkinos — ataques de caranguejos gigantes, doenças da pele e afogamento misterioso em águas rasas (veja [[Cacadas/Rumores e Deuses-Fera Menores|Rumores e Deuses-Fera Menores]]).
+Violar essa regra traz a ira de [[Deuses-Fera/Karkinos|Karkinos]] — ataques de caranguejos gigantes, doenças da pele e afogamento misterioso em águas rasas (veja [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|Territórios Sagrados de Desova]]).
 
 ## Ganchos de Aventura
 
-- Caçadores avistaram o [[Cacadas/Rumores e Deuses-Fera Menores|Pinça-de-Sal (Cria de Karkinos)]] perto da Costa Salobra; abatê-lo sem permissão pode romper a trégua com os [[Tribos/Masca-Musgo|Masca-Musgo]].
+- Caçadores avistaram o [[Deuses-Fera/Karkinos#Rumor de Caçada Pinça-de-Sal Cria de Karkinos|Pinça-de-Sal (Cria de Karkinos)]] perto da Costa Salobra; abatê-lo sem permissão pode romper a trégua com os [[Tribos/Masca-Musgo|Masca-Musgo]].
 - Uma caravana de salmoura e sal cristalizado busca escolta através das águas disputadas do centro do vale.
 
 ---
 
-**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Cacadas/Rumores e Deuses-Fera Menores|Rumores e Deuses-Fera Menores]]
+**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Deuses-Fera/Karkinos|Karkinos]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]

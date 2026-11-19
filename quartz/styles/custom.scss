@@ -200,6 +200,35 @@ a.internal.tag-link {
   border-bottom: 1px solid var(--vale-border-dark);
 }
 
+.infobox-image {
+  margin: 0 0 0.5rem 0;
+  text-align: center;
+}
+
+.infobox-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 0.25rem auto;
+  border: 1px solid var(--vale-border-dark);
+}
+
+.infobox-caption {
+  font-size: 0.78rem;
+  color: var(--vale-text-muted);
+  font-style: italic;
+}
+
+.infobox-placeholder {
+  border: 1px dashed var(--vale-border);
+  background: var(--vale-bg-page);
+  color: var(--vale-text-muted);
+  padding: 1.1rem 0.5rem;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.75rem;
+  text-align: center;
+}
+
 .infobox table {
   width: 100%;
   border-collapse: collapse;

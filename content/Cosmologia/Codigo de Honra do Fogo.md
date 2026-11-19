@@ -6,6 +6,9 @@ aliases: ["Fogo-Sagrado", "Tabu do Fogo", "Grande Morte Lenta", "Lei do Fogo"]
 
 <div class="infobox">
   <div class="infobox-title">Código de Honra do Fogo</div>
+  <div class="infobox-image">
+    <div class="infobox-placeholder">[ Ilustração: Código de Honra do Fogo ]</div>
+  </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Lei religiosa e jurídica</td></tr>
     <tr><td><b>Permitido</b></td><td>Fogo-Ferramenta (contido em pedra/barro)</td></tr>
@@ -23,7 +26,7 @@ No [[Geografia/Vale da Lama|Vale da Lama]], a relação com o fogo é governada 
 
 ## História / Origem: A Traição das Escamas
 
-Segundo as histórias preservadas por [[NPCs/Elenco de Raiz-Funda|Vó Mofo-Velho]], antes da era atual os dragões antigos dominavam o vale e serviam ao ciclo primordial. Porém, corrompidos pela ganância e pela influência dos Dragões Vermelhos do Extremo Oeste, passaram a usar seu sopro ígneo em disputas territoriais, vitrificando a lama, incendiando florestas inteiras de fungos e reduzindo seus inimigos a cinzas para impedir que retornassem ao ciclo de [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]]. Quando Nyog'Sothep derrubou os tiranos por meio da podridão lenta (a [[Geografia/Vale da Lama#História  Origem A Grande Morte Lenta|Grande Morte Lenta]]), os goblins sobreviventes selaram o pacto que separa o fogo útil do fogo profano.
+Segundo as histórias preservadas por [[NPCs/Elenco de Raiz-Funda|Vó Mofo-Velho]], antes da era atual os dragões antigos dominavam o vale e serviam ao ciclo primordial. Porém, corrompidos pela ganância e pela influência dos Dragões Vermelhos do Extremo Oeste, passaram a usar seu sopro ígneo em disputas territoriais, vitrificando a lama, incendiando florestas inteiras de fungos e reduzindo seus inimigos a cinzas para impedir que retornassem ao ciclo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]]. Quando Nyog'Sothep derrubou os tiranos por meio da podridão lenta (a [[Geografia/Vale da Lama#História  Origem A Grande Morte Lenta|Grande Morte Lenta]]), os goblins sobreviventes selaram o pacto que separa o fogo útil do fogo profano.
 
 ## O que é Permitido (Fogo-Ferramenta)
 
@@ -34,7 +37,7 @@ Pequenas brasas e chamas contidas em pedra, barro ou metal na periferia das alde
 > [!warning] Tabu Capital
 > Violar qualquer uma destas proibições acarreta julgamento imediato diante da aldeia.
 
-- **Queimar corpos (vivos ou mortos):** Cremar um cadáver rouba sua matéria de [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]] e apaga sua memória do ciclo.
+- **Queimar corpos (vivos ou mortos):** Cremar um cadáver rouba sua matéria de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] e apaga sua memória do ciclo.
 - **Usar fogo em combate ou caçada:** Usar tochas como clavas, flechas incendiárias, bombas de óleo ardente ou magias de fogo para ferir ou matar qualquer criatura dentro do vale.
 - **Incendiar o pântano:** Queimar mato, raízes ou colônias de fungos para abrir caminho.
 
@@ -47,4 +50,4 @@ Quem quebra o Código de Honra do Fogo é julgado por [[NPCs/Elenco de Raiz-Fund
 
 ---
 
-**Veja também:** [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep e o Musgo Dourado]], [[Geografia/Vale da Lama|Vale da Lama]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]]
+**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Geografia/Vale da Lama|Vale da Lama]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]]

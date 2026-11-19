@@ -6,6 +6,9 @@ aliases: ["Aldeia de Raiz-Funda", "Raiz-Funda"]
 
 <div class="infobox">
   <div class="infobox-title">Raiz-Funda</div>
+  <div class="infobox-image">
+    <div class="infobox-placeholder">[ Ilustração: Raiz-Funda ]</div>
+  </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Aldeia em palafitas</td></tr>
     <tr><td><b>Região</b></td><td>Setor Oeste do [[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
@@ -34,7 +37,7 @@ aliases: ["Aldeia de Raiz-Funda", "Raiz-Funda"]
 Localizada em uma ilhota de pedra e barro batido na borda externa da aldeia — isolada das raízes vivas e das casas de madeira para respeitar o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]. Ali, [[NPCs/Elenco de Raiz-Funda|Gnarl Martelo-Torto]] mantém sua forja baixa cercada de água para trabalhar metal recuperado, além de fabricar armas de osso curado, madeira de raiz-ferro e quitina gigante.
 
 ### O Jardim Dourado
-O santuário subterrâneo de [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]] na depressão central sob a aldeia, guardado pelos coveiros-sacerdotes [[NPCs/Elenco de Raiz-Funda|Snakk e Drig]].
+O santuário subterrâneo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] na depressão central sob a aldeia, guardado pelos coveiros-sacerdotes [[NPCs/Elenco de Raiz-Funda|Snakk e Drig]].
 
 ### A Casa do Ancião
 Uma estrutura ampla entrelaçada entre três raízes-mestras no nível intermediário, onde residem [[NPCs/Elenco de Raiz-Funda|Vó Mofo-Velho]] e [[NPCs/Elenco de Raiz-Funda|Velho Rói-Raiz]], e onde visitantes de fora são recebidos para parlamentar.
@@ -45,8 +48,8 @@ Onde [[NPCs/Elenco de Raiz-Funda|Torg]] constrói e repara jangadas de fundo cha
 ## Ganchos de Aventura
 
 - Uma das estacas de osso que marcam a trilha segura na lama sumiu, levando viajantes diretamente para as malhas de quitina.
-- [[NPCs/Elenco de Raiz-Funda|Kruk]] e [[NPCs/Elenco de Raiz-Funda|Grixa]] divergem sobre qual rota tomar na próxima expedição de [[Cacadas/Rumores e Deuses-Fera Menores|caçada]].
+- [[NPCs/Elenco de Raiz-Funda|Kruk]] e [[NPCs/Elenco de Raiz-Funda|Grixa]] divergem sobre qual rota tomar na próxima expedição de caçada.
 
 ---
 
-**Veja também:** [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep e o Musgo Dourado]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Geografia/Vale da Lama|Vale da Lama]]
+**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Geografia/Vale da Lama|Vale da Lama]]
