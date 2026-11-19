@@ -10,11 +10,11 @@ aliases: ["Sss'kar", "Serpente das Águas Paradas", "Rainha-Sanguessuga de Água
     <div class="infobox-placeholder">[ Ilustração: Sss'kar ]</div>
   </div>
   <table>
-    <tr><td><b>Tipo</b></td><td>[[Deuses-Fera/Deus-Fera|Deus-Fera]]</td></tr>
+    <tr><td><b>Tipo</b></td><td><a href="../Deuses-Fera/Deus-Fera" class="internal">Deus-Fera</a></td></tr>
     <tr><td><b>Forma</b></td><td>Serpente colossal de múltiplas cabeças</td></tr>
     <tr><td><b>Domínio</b></td><td>Sangue, vitalidade e águas paradas</td></tr>
     <tr><td><b>Habitat</b></td><td>Águas Paradas Profundas (Sul)</td></tr>
-    <tr><td><b>Adoradores</b></td><td>[[Tribos/Ventre-Inchado|Ventre-Inchado]]</td></tr>
+    <tr><td><b>Adoradores</b></td><td><a href="../Tribos/Ventre-Inchado" class="internal">Ventre-Inchado</a></td></tr>
     <tr><td><b>Rumor</b></td><td>Rainha-Sanguessuga (Perigo Alto)</td></tr>
   </table>
 </div>

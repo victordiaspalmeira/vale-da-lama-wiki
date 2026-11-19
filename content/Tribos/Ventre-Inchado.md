@@ -11,12 +11,12 @@ aliases: ["Tribo do Sul", "Ventre-Inchado", "Sss'kar", "Sanguessugas"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Facção / Tribo do Sul</td></tr>
-    <tr><td><b>Base</b></td><td>Águas Paradas Profundas (Sul do [[Geografia/Vale da Lama|Vale da Lama]])</td></tr>
-    <tr><td><b>Líder</b></td><td>[[NPCs/Murok|Murok, o Ancião Centenário]] (+120 anos)</td></tr>
-    <tr><td><b>Deidade</b></td><td>[[Deuses-Fera/Sss'kar|Sss'kar]]</td></tr>
+    <tr><td><b>Base</b></td><td>Águas Paradas Profundas (Sul do <a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a>)</td></tr>
+    <tr><td><b>Líder</b></td><td><a href="../NPCs/Murok" class="internal">Murok, o Ancião Centenário</a> (+120 anos)</td></tr>
+    <tr><td><b>Deidade</b></td><td><a href="../Deuses-Fera/Sss'kar" class="internal">Sss'kar</a></td></tr>
     <tr><td><b>Objetivo</b></td><td>Nutrir Sss'kar e prolongar a vida dos anciãos pelo sangue</td></tr>
-    <tr><td><b>Aliados / Rivais</b></td><td>Evitados / rivais dos [[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
-    <tr><td><b>Prática</b></td><td>Drenagem de sangue, [[Tribos/Sanguessugas Gigantes|sanguessugas vivas]]</td></tr>
+    <tr><td><b>Aliados / Rivais</b></td><td>Evitados / rivais dos <a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
+    <tr><td><b>Prática</b></td><td>Drenagem de sangue, <a href="../Tribos/Sanguessugas-Gigantes" class="internal">sanguessugas vivas</a></td></tr>
   </table>
 </div>
 
@@ -40,11 +40,6 @@ Os líderes da tribo são chamados de **anciãos vampíricos** — figuras esque
 - Passam semanas sem ingerir alimentos sólidos, vivendo apenas de sangue
 
 O mais antigo deles, conhecido como **[[NPCs/Murok|Murok, o Ancião Centenário]]**, teria mais de 120 anos e raramente deixa sua câmara nas profundezas do sul.
-
-## Ganchos de Aventura
-
-- A [[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]] foi avistada próxima ao [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], levantando suspeitas sobre movimentos dos Ventre-Inchado para o norte.
-- Uma ânfora selada com sanguessugas rituais foi perdida perto das fronteiras de [[Geografia/Raiz-Funda|Raiz-Funda]].
 
 ---
 

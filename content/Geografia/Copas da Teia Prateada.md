@@ -11,10 +11,10 @@ aliases: ["As Copas da Teia Prateada", "Copas da Teia Prateada"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Manguezais altos e dossel suspenso</td></tr>
-    <tr><td><b>Localização</b></td><td>Noroeste do [[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
-    <tr><td><b>Limites</b></td><td>[[Geografia/Montanhas do Oeste|Montanhas do Oeste]], Mar das Brumas e [[Geografia/Raiz-Funda|Raiz-Funda]]</td></tr>
-    <tr><td><b>Facção Dominante</b></td><td>[[Tribos/Tece-Pele|Tece-Pele]] (acampamentos nômades)</td></tr>
-    <tr><td><b>Perigo</b></td><td>Predadores arborícolas, quedas e [[Deuses-Fera/Krr'tak|Krr'tak]]</td></tr>
+    <tr><td><b>Localização</b></td><td>Noroeste do <a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a></td></tr>
+    <tr><td><b>Limites</b></td><td><a href="../Geografia/Montanhas-do-Oeste" class="internal">Montanhas do Oeste</a>, Mar das Brumas e <a href="../Geografia/Raiz-Funda" class="internal">Raiz-Funda</a></td></tr>
+    <tr><td><b>Facção Dominante</b></td><td><a href="../Tribos/Tece-Pele" class="internal">Tece-Pele</a> (acampamentos nômades)</td></tr>
+    <tr><td><b>Perigo</b></td><td>Predadores arborícolas e quedas do dossel</td></tr>
   </table>
 </div>
 
@@ -32,13 +32,7 @@ As **Copas da Teia Prateada** formam a faixa de manguezais altos e canais estrei
 ## Habitantes e Perigos
 
 - **Aranhas Gigantes do Dossel:** A principal fonte de seda prateada da região, perigosas para quem sobe nas copas sem conhecer os sinais de território dos [[Tribos/Tece-Pele|Tece-Pele]].
-- **Território de Krr'tak:** Nas raízes baixas e bordas do dossel ronda [[Deuses-Fera/Krr'tak|Krr'tak (o Espadachim)]], o Deus-Fera menor que exige silêncio absoluto de quem atravessa seus trechos de caça.
-
-## Uso na Mesa e Ganchos
-
-- **Ponto de Rumores e Comércio:** Ideal para rastrear notícias de todo o vale, já que os [[Tribos/Tece-Pele|Tece-Pele]] circulam entre todas as fronteiras como mercadores e mensageiros neutros.
-- **Emboscadas Verticais:** Viajantes navegando nos canais inferiores ficam vulneráveis a predadores arborícolas que descem por fios de seda ou a quedas perigosas nas passarelas suspensas.
 
 ---
 
-**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Tribos/Tece-Pele|Tece-Pele]], [[Tribos/Teia Prateada|Teia Prateada]], [[Deuses-Fera/Mael'ra|Mael'ra]], [[Deuses-Fera/Krr'tak|Krr'tak]]
+**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Tribos/Tece-Pele|Tece-Pele]], [[Tribos/Teia Prateada|Teia Prateada]], [[Deuses-Fera/Mael'ra|Mael'ra]]

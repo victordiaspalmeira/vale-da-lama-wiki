@@ -11,8 +11,8 @@ aliases: ["O Delta das Águas Mortas", "Delta das Águas Mortas"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Labirinto de ilhotas e canais de maré</td></tr>
-    <tr><td><b>Localização</b></td><td>Leste / Sudeste do [[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
-    <tr><td><b>Conexões</b></td><td>[[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]], Rio Lodo-Negro e Mar das Brumas</td></tr>
+    <tr><td><b>Localização</b></td><td>Leste / Sudeste do <a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a></td></tr>
+    <tr><td><b>Conexões</b></td><td><a href="../Geografia/Ruinas-dos-Sem-Nome" class="internal">Ruínas dos Sem-Nome</a>, Rio Lodo-Negro e Mar das Brumas</td></tr>
     <tr><td><b>Facção Dominante</b></td><td>Nenhuma</td></tr>
     <tr><td><b>Perigo</b></td><td>Desorientação, bancos de lodo e correntes traiçoeiras</td></tr>
   </table>
@@ -35,12 +35,6 @@ O **Delta das Águas Mortas** é um imenso labirinto geográfico no setor leste 
 - **Correntes Traiçoeiras:** Canais enganosos podem puxar jangadas para o Mar das Brumas aberto ou desviá-las para as águas estagnadas das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]] ao sul.
 - **Bancos de Lodo Movediço:** Margens aparentemente firmes cedem sob peso súbito, prendendo botas e exigindo cordas ou varas de apoio.
 - **Fronteira sem Lei:** Como nenhuma tribo reivindica o delta permanentemente, bandos desgarrados, predadores marinhos da [[Geografia/Costa Salobra|Costa Salobra]] e parasitas do sul cruzam seus canais sem aviso.
-
-## Uso na Mesa e Ganchos
-
-- **Exploração (Hexcrawl):** Área ideal para viagem canal a canal com risco constante de desorientação para grupos sem guia local.
-- **Rota para as Ruínas:** Um dos caminhos aquáticos menos vigiados para alcançar as margens orientais das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]] sem cruzar o [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
-- **Destroços na Vazante:** A maré baixa ocasionalmente expõe jangadas partidas, caixas seladas com piche ou restos antigos vindos do Rio Lodo-Negro.
 
 ---
 

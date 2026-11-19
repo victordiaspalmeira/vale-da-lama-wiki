@@ -12,11 +12,11 @@ aliases: ["Ídolo de Nyog'Sothep", "Ídolo de Madeira", "O Ídolo"]
   <table>
     <tr><td><b>Tipo</b></td><td>Relíquia sagrada de madeira</td></tr>
     <tr><td><b>Forma</b></td><td>Mosca detalhada sobre a boca aberta de um sapo</td></tr>
-    <tr><td><b>Origem</b></td><td>Minas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]</td></tr>
-    <tr><td><b>Local Atual</b></td><td>[[Geografia/Jardim Dourado|Jardim Dourado]] ([[Geografia/Raiz-Funda|Raiz-Funda]])</td></tr>
+    <tr><td><b>Origem</b></td><td>Minas das <a href="../Geografia/Montanhas-do-Oeste" class="internal">Montanhas do Oeste</a></td></tr>
+    <tr><td><b>Local Atual</b></td><td><a href="../Geografia/Jardim-Dourado" class="internal">Jardim Dourado</a> (<a href="../Geografia/Raiz-Funda" class="internal">Raiz-Funda</a>)</td></tr>
     <tr><td><b>Guarda</b></td><td>Ordem própria subordinada ao alto clero</td></tr>
     <tr><td><b>Acesso</b></td><td>Apenas alto clero</td></tr>
-    <tr><td><b>Propriedade</b></td><td>Produz [[Cosmologia/Musgo Dourado|Musgo Dourado]]</td></tr>
+    <tr><td><b>Propriedade</b></td><td>Produz <a href="../Cosmologia/Musgo-Dourado" class="internal">Musgo Dourado</a></td></tr>
   </table>
 </div>
 

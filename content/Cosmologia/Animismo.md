@@ -11,10 +11,10 @@ aliases: ["Animismo", "Animismo do Vale"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Visão de mundo e crença do pântano</td></tr>
-    <tr><td><b>Fonte</b></td><td>[[Cosmologia/Nyog'Sothep|Nyog'Sothep]] e forças primordiais</td></tr>
-    <tr><td><b>Prática Derivada</b></td><td>[[Cosmologia/Lei da Troca|Lei da Troca]]</td></tr>
-    <tr><td><b>Conselheiro</b></td><td>[[NPCs/Zog|Zog (Xamã Animista)]]</td></tr>
-    <tr><td><b>Região</b></td><td>[[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
+    <tr><td><b>Fonte</b></td><td><a href="../Cosmologia/Nyog'Sothep" class="internal">Nyog'Sothep</a> e forças primordiais</td></tr>
+    <tr><td><b>Prática Derivada</b></td><td><a href="../Cosmologia/Lei-da-Troca" class="internal">Lei da Troca</a></td></tr>
+    <tr><td><b>Conselheiro</b></td><td><a href="../NPCs/Zog" class="internal">Zog (Xamã Animista)</a></td></tr>
+    <tr><td><b>Região</b></td><td><a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a></td></tr>
   </table>
 </div>
 
@@ -34,10 +34,6 @@ Nessa visão de mundo, tudo no brejo possui memória e intenção, sem necessida
 ## Relação com a Lei da Troca e Zog
 
 É desse respeito ao pântano vivo que nasce a prática cotidiana da [[Cosmologia/Lei da Troca|Lei da Troca]]. Quando sinais de hostilidade aparecem — como ferramentas apodrecendo rápido demais ou trilhas que se fecham na neblina —, os moradores recorrem a [[NPCs/Zog|Zog (Voz-de-Esporo)]] para interpretar o que foi quebrado e qual restituição deve ser feita ao solo.
-
-## Uso na Mesa
-
-- **Leitura do Ambiente:** Personagens criados no vale observam detalhes sutis (bolhas, direção do musgo, silêncio súbito das rãs) não apenas como clima, mas como a disposição do próprio pântano diante do grupo.
 
 ---
 

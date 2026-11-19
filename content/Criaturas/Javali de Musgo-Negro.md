@@ -12,7 +12,7 @@ aliases: ["Javali de Musgo-Negro"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Fera do pântano</td></tr>
-    <tr><td><b>Habitat</b></td><td>Pântano Profundo / [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]]</td></tr>
+    <tr><td><b>Habitat</b></td><td>Pântano Profundo / <a href="../Geografia/Pocos-de-Turfa-e-Brejo-do-Musgo-Negro" class="internal">Poços de Turfa</a></td></tr>
     <tr><td><b>Perigo</b></td><td>Médio</td></tr>
     <tr><td><b>Recurso</b></td><td>Presas curvas (carne venenosa)</td></tr>
   </table>
@@ -28,10 +28,6 @@ O **Javali de Musgo-Negro** é um javali corpulento coberto por um fungo negro e
 
 - **Carne Venenosa:** Sua carne é impregnada pelas toxinas do musgo-negro e imprópria para consumo.
 - **Presas Valiosas:** Suas presas curvas e resistentes são muito procuradas pelos artesãos de [[Geografia/Raiz-Funda|Raiz-Funda]] (como [[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]]) para fabricar armas e ferramentas.
-
-## Ganchos de Aventura
-
-- Caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]] buscam abater um espécime para suprir a forja de presas sem se atolarem nos poços de piche.
 
 ---
 

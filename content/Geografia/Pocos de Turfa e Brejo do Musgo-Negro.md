@@ -12,7 +12,7 @@ aliases: ["Os Poços de Turfa e o Brejo do Musgo-Negro", "Poços de Turfa", "Bre
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Planície ocre-acinzentada e poços de piche</td></tr>
-    <tr><td><b>Localização</b></td><td>Oeste, no sopé das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]</td></tr>
+    <tr><td><b>Localização</b></td><td>Oeste, no sopé das <a href="../Geografia/Montanhas-do-Oeste" class="internal">Montanhas do Oeste</a></td></tr>
     <tr><td><b>Recursos</b></td><td>Piche natural (calafetar jangadas)</td></tr>
     <tr><td><b>Perigo</b></td><td>Atolamento, gases inflamáveis e musgo ácido</td></tr>
   </table>
@@ -33,12 +33,6 @@ Os **Poços de Turfa e o Brejo do Musgo-Negro** formam uma zona de transição s
 ## Extração de Piche
 
 O piche espesso dos poços é um dos recursos mais úteis do setor oeste, empregado por construtores como [[NPCs/Torg|Torg]] para calafetar jangadas e impermeabilizar madeira das palafitas de [[Geografia/Raiz-Funda|Raiz-Funda]]. A coleta é feita com varas longas e baldes de madeira tratada, sempre respeitando a [[Cosmologia/Lei da Troca|Lei da Troca]] e evitando pisar nas crostas finas ao redor das bordas.
-
-## Uso na Mesa e Ganchos
-
-- **Fronteira Natural:** Barreira perigosa entre [[Geografia/Raiz-Funda|Raiz-Funda]] e as encostas áridas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]].
-- **Expedição de Coleta:** [[NPCs/Torg|Torg]] precisa de piche fresco para selar novas jangadas, mas um grupo de [[Criaturas/Javali de Musgo-Negro|Javalis de Musgo-Negro]] passou a rondar os poços mais acessíveis.
-- **Rastro Antigo:** Um caminho de pedras meio afundadas na turfa aponta na direção das antigas minas das montanhas.
 
 ---
 

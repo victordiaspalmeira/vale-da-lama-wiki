@@ -12,22 +12,40 @@ aliases: ["Velho Rói-Raiz", "Juiz das Disputas"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>NPC / Ancião e Juiz</td></tr>
-    <tr><td><b>Cargo</b></td><td>Juiz das Disputas</td></tr>
-    <tr><td><b>Tribo</b></td><td>[[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
-    <tr><td><b>Local</b></td><td>[[Geografia/Raiz-Funda#A Casa do Ancião|Casa do Ancião (Raiz-Funda)]]</td></tr>
+    <tr><td><b>Epíteto</b></td><td>Juiz das Disputas</td></tr>
+    <tr><td><b>Espécie</b></td><td>Goblin</td></tr>
+    <tr><td><b>Gênero</b></td><td>Masculino</td></tr>
+    <tr><td><b>Status</b></td><td>Vivo</td></tr>
+    <tr><td><b>Tribo</b></td><td><a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
+    <tr><td><b>Local</b></td><td><a href="../Geografia/Raiz-Funda#a-casa-do-ancião" class="internal">Casa do Ancião (Raiz-Funda)</a></td></tr>
+    <tr><td><b>Devoção</b></td><td><a href="../Cosmologia/Nyog'Sothep" class="internal">Nyog'Sothep</a></td></tr>
   </table>
 </div>
 
 # Velho Rói-Raiz (Juiz das Disputas)
 
-## Descrição
+**Velho Rói-Raiz** é o **Juiz das Disputas** de [[Geografia/Raiz-Funda|Raiz-Funda]], dividindo a [[Geografia/Raiz-Funda#A Casa do Ancião|Casa do Ancião]] com [[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]].
 
-**Velho Rói-Raiz** é o **Juiz das Disputas** de [[Geografia/Raiz-Funda|Raiz-Funda]], uma figura austera e imparcial que divide a [[Geografia/Raiz-Funda#A Casa do Ancião|Casa do Ancião]] com [[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]].
+## Aparência
+*A preencher.*
 
-## Papel e Julgamentos
+## Personalidade e Maneirismos
+É uma figura austera e imparcial.
 
+## História
+*A preencher.*
+
+## Função e Ocupação
 Julga conflitos internos da tribo, quebras da [[Cosmologia/Lei da Troca|Lei da Troca]] e infrações ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] diante de toda a aldeia — aplicando desde a marca de cinza fria e seiva cáustica em forasteiros até a temida **Sentença do Esquecimento** em crimes graves com fogo.
+
+## Relações e Alianças
+* **[[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]]:** Divide a Casa do Ancião com a decana da tribo.
+* **[[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]:** Atua em conjunto nos julgamentos que envolvem violações sagradas, como o exílio de [[Exilados/Nokk|Nokk]].
+* **[[Exilados/Exilados|Exilados]]:** Pronunciou os banimentos de [[Exilados/Brask|Brask]], [[Exilados/Nokk|Nokk]] e [[Exilados/Skrit|Skrit]].
+
+## O que se Conta pelo Pântano
+*A preencher.*
 
 ---
 
-**Veja também:** [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Lei da Troca|Lei da Troca]]
+**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] | [[Cosmologia/Animismo|Animismo]] | [[Cosmologia/Lei da Troca|Lei da Troca]]

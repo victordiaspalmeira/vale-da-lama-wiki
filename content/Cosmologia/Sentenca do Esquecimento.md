@@ -11,9 +11,9 @@ aliases: ["Sentença do Esquecimento", "Marca de Cinza Fria"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Rito jurídico e punição capital</td></tr>
-    <tr><td><b>Lei Violada</b></td><td>[[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]</td></tr>
-    <tr><td><b>Juiz</b></td><td>[[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]]</td></tr>
-    <tr><td><b>Tribo</b></td><td>[[Tribos/Masca-Musgo|Masca-Musgo]] ([[Geografia/Raiz-Funda|Raiz-Funda]])</td></tr>
+    <tr><td><b>Lei Violada</b></td><td><a href="../Cosmologia/Codigo-de-Honra-do-Fogo" class="internal">Código de Honra do Fogo</a></td></tr>
+    <tr><td><b>Juiz</b></td><td><a href="../NPCs/Velho-Rói-Raiz" class="internal">Velho Rói-Raiz</a></td></tr>
+    <tr><td><b>Tribo</b></td><td><a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a> (<a href="../Geografia/Raiz-Funda" class="internal">Raiz-Funda</a>)</td></tr>
   </table>
 </div>
 

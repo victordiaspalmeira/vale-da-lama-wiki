@@ -11,11 +11,11 @@ aliases: ["Karkinos", "Deus-Caranguejo Karkinos", "Deus-Caranguejo", "Pinça-de-
     <div class="infobox-caption">Karkinos, o Deus-Caranguejo</div>
   </div>
   <table>
-    <tr><td><b>Tipo</b></td><td>[[Deuses-Fera/Deus-Fera|Deus-Fera]]</td></tr>
+    <tr><td><b>Tipo</b></td><td><a href="../Deuses-Fera/Deus-Fera" class="internal">Deus-Fera</a></td></tr>
     <tr><td><b>Forma</b></td><td>Caranguejo colossal de carapaça escarlate</td></tr>
     <tr><td><b>Domínio</b></td><td>Marés do pântano, salmoura, áreas de desova</td></tr>
     <tr><td><b>Habitat</b></td><td>Águas da Costa Salobra (Nordeste)</td></tr>
-    <tr><td><b>Adoradores</b></td><td>[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]</td></tr>
+    <tr><td><b>Adoradores</b></td><td><a href="../Tribos/Ferve-Alga-(Olhos-Vermelhos)" class="internal">Ferve-Alga (Olhos-Vermelhos)</a></td></tr>
     <tr><td><b>Cria / Rumor</b></td><td>Pinça-de-Sal (Perigo Médio)</td></tr>
   </table>
 </div>

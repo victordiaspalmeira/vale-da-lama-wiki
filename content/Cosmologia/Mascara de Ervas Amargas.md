@@ -11,9 +11,9 @@ aliases: ["Máscara de Ervas Amargas", "Máscara de Esporos"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Equipamento protetor</td></tr>
-    <tr><td><b>Uso Principal</b></td><td>Acesso ao [[Geografia/Jardim Dourado|Jardim Dourado]]</td></tr>
+    <tr><td><b>Uso Principal</b></td><td>Acesso ao <a href="../Geografia/Jardim-Dourado" class="internal">Jardim Dourado</a></td></tr>
     <tr><td><b>Função</b></td><td>Filtrar esporos densos e vapores fétidos</td></tr>
-    <tr><td><b>Preparo</b></td><td>Ervas amargas e couro curtido a frio ([[NPCs/Birka|Birka]])</td></tr>
+    <tr><td><b>Preparo</b></td><td>Ervas amargas e couro curtido a frio (<a href="../NPCs/Birka" class="internal">Birka</a>)</td></tr>
   </table>
 </div>
 
@@ -32,10 +32,6 @@ A **Máscara de Ervas Amargas** é um respirador rústico feito de couro curtido
 
 - **No Jardim Dourado:** No [[Geografia/Jardim Dourado|Jardim Dourado]], o ar é quente, espesso e carregado pelos esporos do [[Cosmologia/Musgo Dourado|Musgo Dourado]] e da decomposição contínua do [[Cosmologia/Nyog'Sothep#O Ciclo da Devolução|Ciclo da Devolução]]. Forasteiros ou visitantes autorizados que se aproximam sem máscara sentem tonturas e náuseas imediatas.
 - **Em Áreas Tóxicas:** Batedores também a utilizam perto dos bolsões de gás dos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]] e nas margens do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] quando bolhas fétidas estouram na superfície.
-
-## Ganchos de Aventura
-
-- Uma expedição precisa entrar em uma área saturada de esporos, mas [[NPCs/Birka|Birka]] está sem um dos ingredientes amargos colhidos apenas próximo às [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]].
 
 ---
 

@@ -12,9 +12,9 @@ aliases: ["Rainha-Sanguessuga de Águas Paradas", "Rainha-Sanguessuga"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Fera colossal / Criatura ritual</td></tr>
-    <tr><td><b>Habitat</b></td><td>[[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]] e [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]</td></tr>
+    <tr><td><b>Habitat</b></td><td><a href="../Geografia/Aguas-Paradas-Profundas" class="internal">Águas Paradas Profundas</a> e <a href="../Geografia/Lago-da-Grande-Tirana" class="internal">Lago da Grande Tirana</a></td></tr>
     <tr><td><b>Perigo</b></td><td>Alto</td></tr>
-    <tr><td><b>Vínculo</b></td><td>[[Deuses-Fera/Sss'kar|Sss'kar]] e [[Tribos/Ventre-Inchado|Ventre-Inchado]]</td></tr>
+    <tr><td><b>Vínculo</b></td><td><a href="../Deuses-Fera/Sss'kar" class="internal">Sss'kar</a> e <a href="../Tribos/Ventre-Inchado" class="internal">Ventre-Inchado</a></td></tr>
   </table>
 </div>
 
@@ -27,10 +27,6 @@ A **Rainha-Sanguessuga de Águas Paradas** é uma sanguessuga gigantesca de pele
 ## Comportamento e Rumores
 
 Associada aos [[Tribos/Ventre-Inchado|Ventre-Inchado]] e ao culto de [[Deuses-Fera/Sss'kar|Sss'kar]], a criatura foi avistada recentemente próxima ao [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], muito além de seu território habitual nas [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]].
-
-## Ganchos de Aventura
-
-- Sua migração para o norte levanta temores em [[Geografia/Raiz-Funda|Raiz-Funda]] de que a influência de [[Deuses-Fera/Sss'kar|Sss'kar]] esteja se expandindo para o centro do vale.
 
 ---
 

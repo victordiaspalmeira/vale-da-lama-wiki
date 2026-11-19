@@ -14,8 +14,8 @@ aliases: ["Deuses Verdadeiros", "Deus Verdadeiro"]
     <tr><td><b>Natureza</b></td><td>Seres de extremo poder ligados às leis da natureza, lógica, magia e elementos</td></tr>
     <tr><td><b>Forma</b></td><td>Sem forma física definida</td></tr>
     <tr><td><b>Interação</b></td><td>Indireta no plano físico</td></tr>
-    <tr><td><b>Exemplo no Vale</b></td><td>[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]</td></tr>
-    <tr><td><b>Contraste</b></td><td>[[Deuses-Fera/Deus-Fera|Deuses-Fera]]</td></tr>
+    <tr><td><b>Exemplo no Vale</b></td><td><a href="../Cosmologia/Nyog'Sothep" class="internal">Nyog'Sothep</a></td></tr>
+    <tr><td><b>Contraste</b></td><td><a href="../Deuses-Fera/Deus-Fera" class="internal">Deuses-Fera</a></td></tr>
   </table>
 </div>
 

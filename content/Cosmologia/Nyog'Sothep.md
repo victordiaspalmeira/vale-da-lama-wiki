@@ -11,13 +11,13 @@ aliases: ["Deus Fúngico", "Nyog'Sothep", "Jardim Dourado", "Ciclo de Devoluçã
     <div class="infobox-caption">A Manifestação do Enxame de Nyog'Sothep</div>
   </div>
   <table>
-    <tr><td><b>Tipo</b></td><td>[[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]] (Fúngico)</td></tr>
+    <tr><td><b>Tipo</b></td><td><a href="../Cosmologia/Deus-Verdadeiro" class="internal">Deus Verdadeiro</a> (Fúngico)</td></tr>
     <tr><td><b>Domínio</b></td><td>Decomposição, Fermentação, Esporos</td></tr>
     <tr><td><b>Manifestação</b></td><td>Enxame de moscas negras e verde-metálicas</td></tr>
-    <tr><td><b>Santuário</b></td><td>[[Geografia/Jardim Dourado|Jardim Dourado]]</td></tr>
-    <tr><td><b>Símbolo</b></td><td>[[Cosmologia/Musgo Dourado|Musgo Dourado]]</td></tr>
-    <tr><td><b>Adoradores</b></td><td>[[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
-    <tr><td><b>Clero</b></td><td>[[NPCs/Elenco de Raiz-Funda|Malok, Zog, Snakk e Drig]]</td></tr>
+    <tr><td><b>Santuário</b></td><td><a href="../Geografia/Jardim-Dourado" class="internal">Jardim Dourado</a></td></tr>
+    <tr><td><b>Símbolo</b></td><td><a href="../Cosmologia/Musgo-Dourado" class="internal">Musgo Dourado</a></td></tr>
+    <tr><td><b>Adoradores</b></td><td><a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
+    <tr><td><b>Clero</b></td><td><a href="../NPCs/Sacerdote-Chefe-Malok" class="internal">Malok</a>, <a href="../NPCs/Zog" class="internal">Zog</a>, <a href="../NPCs/Irmãos-Snakk-e-Drig" class="internal">Snakk e Drig</a></td></tr>
   </table>
 </div>
 
@@ -44,7 +44,7 @@ Por ser uma consciência difusa espalhada pelo solo, Nyog'Sothep raramente se ma
 No [[Geografia/Vale da Lama|Vale da Lama]], nada se perde. Quando um membro da tribo falece, o clero conduz o retorno em três estágios:
 
 1. **O Inchaço (Dias 1 a 3):** O corpo é lavado com água de mangue, privado de metais e couro curtido e deitado sobre um leito de turfa úmida enquanto a carne amolece e o pântano começa a reclamá-lo.
-2. **A Floração (Dias 4 a 12):** Hifas esbranquiçadas e filamentos âmbar perfuram a pele e os pulmões. Os Coveiros-Sacerdotes ([[NPCs/Elenco de Raiz-Funda|Irmãos Snakk e Drig]]) observam os padrões do bolor para honrar a memória do falecido.
+2. **A Floração (Dias 4 a 12):** Hifas esbranquiçadas e filamentos âmbar perfuram a pele e os pulmões. Os Coveiros-Sacerdotes ([[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]]) observam os padrões do bolor para honrar a memória do falecido.
 3. **O Retorno (Após o 13º dia):** O esqueleto limpo afunda na turfa ou é recolhido para virar ferramenta útil. A consciência do morto dissolve-se na rede micelial de Nyog'Sothep, tornando-se parte da memória silenciosa do pântano.
 
 ## O Jardim Dourado
@@ -53,4 +53,4 @@ Situado sob as arcadas de mangue no coração de [[Geografia/Raiz-Funda|Raiz-Fun
 
 ---
 
-**Veja também:** [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Lei da Troca|Lei da Troca]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]]
+**Veja também:** [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Lei da Troca|Lei da Troca]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[Geografia/Raiz-Funda|Raiz-Funda]]

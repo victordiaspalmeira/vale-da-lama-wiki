@@ -180,13 +180,15 @@ a.internal.tag-link {
 
 .infobox {
   float: right;
-  width: 270px;
+  width: 280px;
+  max-width: 100%;
   margin: 0 0 1rem 1.25rem;
   border: 1px solid var(--vale-border-dark);
   background: var(--vale-bg-panel);
   padding: 0.65rem;
   font-size: 0.85rem;
   box-sizing: border-box;
+  overflow: hidden;
 }
 
 .infobox-title {
@@ -229,22 +231,37 @@ a.internal.tag-link {
   text-align: center;
 }
 
+.infobox .table-container {
+  overflow-x: visible;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.infobox .table-container > table,
 .infobox table {
   width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
   margin: 0;
+  padding: 0;
+  border: none;
+  font-size: 0.82rem;
 }
 
 .infobox table td {
-  padding: 0.25rem 0.2rem;
+  padding: 0.25rem 0.25rem;
   border-bottom: 1px solid var(--vale-border);
   vertical-align: top;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  white-space: normal;
 }
 
 .infobox table td:first-child {
   font-weight: bold;
   color: var(--vale-text);
-  width: 40%;
+  width: 36%;
 }
 
 /* ==========================================================================

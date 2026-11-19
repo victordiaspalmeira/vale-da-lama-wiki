@@ -1,46 +1,46 @@
 ---
-title: Krr'tak (o Espadachim)
-tags: [deus-fera, krrtak, espadachim, louva-a-deus, copas-da-teia-prateada]
-aliases: ["Krr'tak", "Espadachim", "Espadachi", "O Espadachim"]
+title: Krr'tak (a Espadachim)
+tags: [deus-fera, krrtak, espadachim, louva-a-deus]
+aliases: ["Krr'tak", "Espadachim", "Espadachi", "A Espadachim"]
 ---
 
 <div class="infobox">
   <div class="infobox-title">Krr'tak</div>
   <div class="infobox-image">
-    <img src="../assets/krrtak.jpg" alt="Krr'tak, o Espadachim" />
-    <div class="infobox-caption">Krr'tak, o Espadachim</div>
+    <img src="../assets/krrtak.jpg" alt="Krr'tak, a Espadachim" />
+    <div class="infobox-caption">Krr'tak, a Espadachim</div>
   </div>
   <table>
-    <tr><td><b>Tipo</b></td><td>[[Deuses-Fera/Deus-Fera|Deus-Fera menor]]</td></tr>
-    <tr><td><b>Epíteto</b></td><td>O Espadachim</td></tr>
+    <tr><td><b>Tipo</b></td><td><a href="../Deuses-Fera/Deus-Fera" class="internal">Deus-Fera menor</a> (fêmea)</td></tr>
+    <tr><td><b>Epíteto</b></td><td>A Espadachim</td></tr>
     <tr><td><b>Forma</b></td><td>Louva-a-deus colossal</td></tr>
-    <tr><td><b>Habitat</b></td><td>Raízes de mangue / [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]]</td></tr>
+    <tr><td><b>Habitat</b></td><td>Território entre <a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a> e <a href="../Tribos/Ferve-Alga-(Olhos-Vermelhos)" class="internal">Ferve-Alga</a></td></tr>
+    <tr><td><b>Dieta</b></td><td>Descendentes de outros Deuses / Deuses-Fera</td></tr>
+    <tr><td><b>Dívida Antiga</b></td><td><a href="../Cosmologia/Nyog'Sothep" class="internal">Nyog'Sothep</a> (evita matar goblins)</td></tr>
     <tr><td><b>Perigo</b></td><td>Alto</td></tr>
-    <tr><td><b>Culto</b></td><td>Sem tribo devota conhecida</td></tr>
   </table>
 </div>
 
-# Krr'tak (o Espadachim)
+# Krr'tak (a Espadachim)
 
 ## Descrição
 
-**Krr'tak**, conhecido entre os habitantes do [[Geografia/Vale da Lama|Vale da Lama]] como **o Espadachim**, é um [[Deuses-Fera/Deus-Fera|Deus-Fera menor]] em forma de louva-a-deus colossal, dotado de braços dianteiros em lâmina serrilhada e asas translúcidas.
+**Krr'tak**, conhecida entre os habitantes do [[Geografia/Vale da Lama|Vale da Lama]] como **a Espadachim**, é uma [[Deuses-Fera/Deus-Fera|Deus-Fera menor]] em forma de louva-a-deus colossal, dotada de braços dianteiros em lâmina serrilhada e asas translúcidas. É famosa por seu **senso de humor pastelão e extremamente violento**.
 
-## Comportamento e Manifestações
+## Território e Comportamento
 
-- **Trânsito Etéreo:** Assim como [[Deuses-Fera/Og'gath|Og'gath]], Krr'tak não possui uma tribo dedicada a seu culto, mas transita facilmente entre o plano etéreo e o físico rondando as raízes de mangue e as proximidades das [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]].
-- **Sinais de Presença:** Batedores relatam que, momentos antes de o Espadachim surgir, os insetos do brejo calam-se de súbito e um estalo seco — semelhante a duas lâminas batendo uma na outra — ecoa entre os troncos altos.
-- **Imobilidade Predatória:** Costuma permanecer imóvel sobre galhos elevados ou marcos de pedra antiga, confundindo-se com a folhagem pálida até desferir um golpe rápido contra presas que invadem seu campo de visão.
+Krr'tak habita a faixa de fronteira entre o território dos [[Tribos/Masca-Musgo|Masca-Musgo]] (a oeste) e o dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] (a nordeste).
 
-## Relação com as Tribos
+- **Trânsito Etéreo:** Assim como [[Deuses-Fera/Og'gath|Og'gath]], ela não possui uma tribo dedicada a seu culto, mas transita facilmente entre o plano etéreo e o físico ao longo dessa fronteira.
+- **Dieta Predatória:** Costuma se alimentar de **criaturas descendentes de outros Deuses**, como [[Deuses-Fera/Deus-Fera|Deuses-Fera]] e suas crias — além de devorar qualquer intruso que entre em seu território.
+- **Sinais de Presença:** Batedores relatam que, momentos antes de a Espadachim surgir, os insetos do brejo calam-se de súbito e um estalo seco — semelhante a duas lâminas batendo uma na outra — ecoa entre os troncos.
 
-Nem os [[Tribos/Masca-Musgo|Masca-Musgo]] nem os nômades [[Tribos/Tece-Pele|Tece-Pele]] mantêm pactos com Krr'tak. Para o clero de [[Geografia/Raiz-Funda|Raiz-Funda]], ele é tratado como uma força territorial perigosa que deve ser evitada com silêncio e respeito à distância.
+## Relação com Goblins e Nyog'Sothep
 
-## Ganchos de Aventura
+Embora devore quase qualquer criatura que invada seu domínio, Krr'tak **acha péssimo o gosto de Goblins** e **evita matá-los devido a uma dívida antiga com [[Cosmologia/Nyog'Sothep|Nyog'Sothep]]**. Ainda assim, sua paciência é curta e seu humor é brutal: se provocada ou caso seja necessário, **não hesitará em matar**.
 
-- Batedores de [[Geografia/Raiz-Funda|Raiz-Funda]] e caravanas [[Tribos/Tece-Pele|Tece-Pele]] evitam cruzar o trecho das raízes onde o Espadachim foi visto empoleirado recentemente.
-- Um grupo de caçadores encontrou uma presa limpa ao meio com precisão cirúrgica — sinal inequívoco de que Krr'tak voltou a caçar perto das trilhas do noroeste.
+Para os [[Tribos/Masca-Musgo|Masca-Musgo]] e os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]], ela funciona como uma barreira natural imprevisível entre seus territórios.
 
 ---
 
-**Veja também:** [[Deuses-Fera/Deus-Fera|Deus-Fera]], [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]], [[Geografia/Vale da Lama|Vale da Lama]], [[Tribos/Tece-Pele|Tece-Pele]]
+**Veja também:** [[Deuses-Fera/Deus-Fera|Deus-Fera]], [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]], [[Geografia/Vale da Lama|Vale da Lama]]

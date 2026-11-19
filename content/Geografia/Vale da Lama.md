@@ -13,11 +13,11 @@ aliases: ["O Pântano", "Vale da Lama"]
   <table>
     <tr><td><b>Tipo</b></td><td>Bacia pantanosa extensa</td></tr>
     <tr><td><b>Clima</b></td><td>Úmido, opressivo e enevoado</td></tr>
-    <tr><td><b>Centro</b></td><td>[[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]</td></tr>
-    <tr><td><b>Oeste</b></td><td>[[Geografia/Raiz-Funda|Raiz-Funda]] ([[Tribos/Masca-Musgo|Masca-Musgo]])</td></tr>
-    <tr><td><b>Nordeste</b></td><td>[[Geografia/Costa Salobra|Costa Salobra]] ([[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]])</td></tr>
-    <tr><td><b>Sul</b></td><td>[[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]] ([[Tribos/Ventre-Inchado|Ventre-Inchado]])</td></tr>
-    <tr><td><b>Além do Oeste</b></td><td>[[Geografia/Montanhas do Oeste|Montanhas do Oeste]] ([[Tribos/Povo Dragão|Povo Dragão]])</td></tr>
+    <tr><td><b>Centro</b></td><td><a href="../Geografia/Lago-da-Grande-Tirana" class="internal">Lago da Grande Tirana</a></td></tr>
+    <tr><td><b>Oeste</b></td><td><a href="../Geografia/Raiz-Funda" class="internal">Raiz-Funda</a> (<a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a>)</td></tr>
+    <tr><td><b>Nordeste</b></td><td><a href="../Geografia/Costa-Salobra" class="internal">Costa Salobra</a> (<a href="../Tribos/Ferve-Alga-(Olhos-Vermelhos)" class="internal">Ferve-Alga</a>)</td></tr>
+    <tr><td><b>Sul</b></td><td><a href="../Geografia/Aguas-Paradas-Profundas" class="internal">Águas Paradas Profundas</a> (<a href="../Tribos/Ventre-Inchado" class="internal">Ventre-Inchado</a>)</td></tr>
+    <tr><td><b>Além do Oeste</b></td><td><a href="../Geografia/Montanhas-do-Oeste" class="internal">Montanhas do Oeste</a> (<a href="../Tribos/Povo-Dragão" class="internal">Povo Dragão</a>)</td></tr>
   </table>
 </div>
 
@@ -36,7 +36,7 @@ Séculos atrás, o vale era dominado por dragões antigos, derrubados por [[Cosm
 ![[assets/mapa-vale-da-lama.jpg]]
 
 1. **Centro — [[Geografia/Lago da Grande Tirana|O Lago da Grande Tirana]]:** Grande bacia circular de águas negras, fundas e oleosas — ponto de convergência das águas vindas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] — onde caiu a Matriarca Cinderath ao final da [[Historia/Cacada Sagrada|Primeira Caçada Sagrada]].
-2. **Oeste — [[Geografia/Raiz-Funda|Raiz-Funda]]:** Aglomerado de palafitas e passarelas suspensas entre árvores gigantes de mangue, principal assentamento dos [[Tribos/Masca-Musgo|Masca-Musgo]].
+2. **Oeste — [[Geografia/Raiz-Funda|Raiz-Funda]]:** Aldeia feita primariamente de habitações escavadas nos imensos Cogumelos Nodosos e de palafitas, principal assentamento dos [[Tribos/Masca-Musgo|Masca-Musgo]].
 3. **Oeste (Sopé) — [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Os Poços de Turfa e o Brejo do Musgo-Negro]]:** Planície ocre-acinzentada com poços de piche borbulhantes e musgo ácido encostada nas [[Geografia/Montanhas do Oeste|Montanhas do Oeste]].
 4. **Noroeste — [[Geografia/Copas da Teia Prateada|As Copas da Teia Prateada]]:** Manguezais altos com dossel contínuo e acampamentos suspensos dos nômades [[Tribos/Tece-Pele|Tece-Pele]].
 5. **Norte-Central e Leste — [[Geografia/Ruinas dos Sem-Nome|As Ruínas dos Sem-Nome]]:** Colunas partidas e arcos ogivais de mármore pálido de uma civilização élfica extinta, evitadas pelos goblins.

@@ -11,9 +11,9 @@ aliases: ["Teia Prateada", "Seda de Aranha Gigante", "A Teia Prateada"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Símbolo sagrado e matéria-prima</td></tr>
-    <tr><td><b>Divindade</b></td><td>[[Deuses-Fera/Mael'ra|Mael'ra (Deusa-Fera Aranha)]]</td></tr>
-    <tr><td><b>Guardiões</b></td><td>[[Tribos/Tece-Pele|Tece-Pele]]</td></tr>
-    <tr><td><b>Origem</b></td><td>[[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]]</td></tr>
+    <tr><td><b>Divindade</b></td><td><a href="../Deuses-Fera/Mael'ra" class="internal">Mael'ra (Deusa-Fera Aranha)</a></td></tr>
+    <tr><td><b>Guardiões</b></td><td><a href="../Tribos/Tece-Pele" class="internal">Tece-Pele</a></td></tr>
+    <tr><td><b>Origem</b></td><td><a href="../Geografia/Copas-da-Teia-Prateada" class="internal">Copas da Teia Prateada</a></td></tr>
     <tr><td><b>Usos</b></td><td>Acampamentos suspensos e suturas em carne viva</td></tr>
   </table>
 </div>
@@ -31,7 +31,7 @@ A **Teia Prateada** é o símbolo físico máximo de [[Deuses-Fera/Mael'ra|Mael'
 
 ## O Rito da Marcação
 
-Quem se emaranha em uma Teia Prateada erguida pelos [[Tribos/Tece-Pele|Tece-Pele]] é considerado **marcado por [[Deuses-Fera/Mael'ra|Mael'ra]]** dentro do Fio-Eterno — ficando sob o peso de suas dívidas e juramentos perante a tribo.
+Quem se emaranha em uma Teia Prateada erguida pelos [[Tribos/Tece-Pele|Tece-Pele]] é considerado **marcado por [[Deuses-Fera/Mael'ra|Mael'ra]]** — ficando sob o olhar direto de seus agentes e sujeito aos termos da teia caso venha a contrair um [[Tribos/Suturas em Carne Viva|vínculo espiritual]].
 
 ---
 

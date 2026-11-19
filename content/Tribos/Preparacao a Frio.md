@@ -11,9 +11,9 @@ aliases: ["Preparação a Frio", "Alquimia a Frio"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Conjunto de técnicas artesanais</td></tr>
-    <tr><td><b>Praticantes</b></td><td>[[Tribos/Masca-Musgo|Masca-Musgo]] ([[Geografia/Raiz-Funda|Raiz-Funda]])</td></tr>
-    <tr><td><b>Artesãos</b></td><td>[[NPCs/Birka|Birka]], [[NPCs/Gnarl Martelo-Torto|Gnarl]], [[NPCs/Torg|Torg]]</td></tr>
-    <tr><td><b>Motivo</b></td><td>Respeito ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]</td></tr>
+    <tr><td><b>Praticantes</b></td><td><a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a> (<a href="../Geografia/Raiz-Funda" class="internal">Raiz-Funda</a>)</td></tr>
+    <tr><td><b>Artesãos</b></td><td><a href="../NPCs/Birka" class="internal">Birka</a>, <a href="../NPCs/Gnarl-Martelo-Torto" class="internal">Gnarl</a>, <a href="../NPCs/Torg" class="internal">Torg</a></td></tr>
+    <tr><td><b>Motivo</b></td><td>Respeito ao <a href="../Cosmologia/Codigo-de-Honra-do-Fogo" class="internal">Código de Honra do Fogo</a></td></tr>
   </table>
 </div>
 

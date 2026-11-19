@@ -11,11 +11,11 @@ aliases: ["Grande Morte Lenta", "Primeira Caçada Sagrada", "Ídolo de Nyog'Soth
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Evento histórico fundador</td></tr>
-    <tr><td><b>Início</b></td><td>Minas das [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]]</td></tr>
-    <tr><td><b>Desfecho</b></td><td>[[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] (Leste / [[Geografia/Vale da Lama|Vale da Lama]])</td></tr>
-    <tr><td><b>Envolvidos</b></td><td>[[Cosmologia/Nyog'Sothep|Nyog'Sothep]], Goblins, [[Tribos/Povo Dragão|Dragões Vermelhos]]</td></tr>
+    <tr><td><b>Início</b></td><td>Minas das <a href="../Geografia/Montanhas-do-Oeste" class="internal">Montanhas do Extremo Oeste</a></td></tr>
+    <tr><td><b>Desfecho</b></td><td><a href="../Geografia/Lago-da-Grande-Tirana" class="internal">Lago da Grande Tirana</a> (Leste / <a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a>)</td></tr>
+    <tr><td><b>Envolvidos</b></td><td><a href="../Cosmologia/Nyog'Sothep" class="internal">Nyog'Sothep</a>, Goblins, <a href="../Tribos/Povo-Dragão" class="internal">Dragões Vermelhos</a></td></tr>
     <tr><td><b>Duração</b></td><td>20 anos de sabotagem até a Lua Nova</td></tr>
-    <tr><td><b>Legado</b></td><td>[[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], Primeira Caçada Sagrada</td></tr>
+    <tr><td><b>Legado</b></td><td><a href="../Cosmologia/Codigo-de-Honra-do-Fogo" class="internal">Código de Honra do Fogo</a>, Primeira Caçada Sagrada</td></tr>
   </table>
 </div>
 

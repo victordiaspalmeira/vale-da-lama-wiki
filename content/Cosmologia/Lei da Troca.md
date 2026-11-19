@@ -11,10 +11,10 @@ aliases: ["Lei da Troca", "A Lei da Troca", "Reciprocidade"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Princípio cotidiano e lei espiritual</td></tr>
-    <tr><td><b>Base</b></td><td>[[Cosmologia/Animismo|Animismo]]</td></tr>
-    <tr><td><b>Conselheiro</b></td><td>[[NPCs/Zog|Zog (Xamã Animista)]]</td></tr>
-    <tr><td><b>Juiz</b></td><td>[[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]]</td></tr>
-    <tr><td><b>Região</b></td><td>[[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
+    <tr><td><b>Base</b></td><td><a href="../Cosmologia/Animismo" class="internal">Animismo</a></td></tr>
+    <tr><td><b>Conselheiro</b></td><td><a href="../NPCs/Zog" class="internal">Zog (Xamã Animista)</a></td></tr>
+    <tr><td><b>Juiz</b></td><td><a href="../NPCs/Velho-Rói-Raiz" class="internal">Velho Rói-Raiz</a></td></tr>
+    <tr><td><b>Região</b></td><td><a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a></td></tr>
   </table>
 </div>
 
@@ -39,11 +39,6 @@ Antes de colher cogumelos medicinais, cortar madeira de mangue, beber de uma nas
 Aqueles que colhem sem pedir, matam por esporte ou desrespeitam os locais sagrados atraem a hostilidade do próprio pântano: trilhas parecem fechar-se sob seus pés, ferramentas apodrecem ou se perdem na lama, ferimentos inflamam com facilidade e predadores locais passam a seguir seu rastro.
 
 Quando um habitante ou visitante precisa reparar uma quebra da Lei da Troca, recorre a [[NPCs/Zog|Zog]], o Xamã Animista, que orienta qual oferenda ou restituição deve ser devolvida ao solo — enquanto disputas internas sobre essas quebras são julgadas por [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]].
-
-## Ganchos de Aventura
-
-- Um grupo de viajantes colheu [[Cosmologia/Musgo Dourado|Musgo Dourado]] sem oferenda e agora todas as suas trilhas dão em círculos na neblina.
-- [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] e [[NPCs/Zog|Zog]] divergem sobre a restituição devida após uma caçada mal conduzida.
 
 ---
 

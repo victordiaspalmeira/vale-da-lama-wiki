@@ -11,12 +11,12 @@ aliases: ["Ferve-Alga", "Olhos-Vermelhos", "Tribo do Nordeste", "Deus-Caranguejo
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Facção / Tribo do Nordeste</td></tr>
-    <tr><td><b>Base</b></td><td>Costa Salobra (Nordeste do [[Geografia/Vale da Lama|Vale da Lama]])</td></tr>
+    <tr><td><b>Base</b></td><td>Costa Salobra (Nordeste do <a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a>)</td></tr>
     <tr><td><b>Líder</b></td><td>Xamãs das Áreas de Desova</td></tr>
-    <tr><td><b>Deidade</b></td><td>[[Deuses-Fera/Karkinos|Deus-Caranguejo Karkinos]]</td></tr>
+    <tr><td><b>Deidade</b></td><td><a href="../Deuses-Fera/Karkinos" class="internal">Deus-Caranguejo Karkinos</a></td></tr>
     <tr><td><b>Objetivo</b></td><td>Proteger as áreas de desova e manter o culto da salmoura</td></tr>
-    <tr><td><b>Aliados / Rivais</b></td><td>Trégua tensa / rivais dos [[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
-    <tr><td><b>Prática</b></td><td>[[Tribos/Salmoura e Sal Cristalizado|Salmoura fervente]]</td></tr>
+    <tr><td><b>Aliados / Rivais</b></td><td>Trégua tensa / rivais dos <a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
+    <tr><td><b>Prática</b></td><td><a href="../Tribos/Salmoura-e-Sal-Cristalizado" class="internal">Salmoura fervente</a></td></tr>
   </table>
 </div>
 
@@ -38,11 +38,6 @@ Embora não queimem seus mortos — devolvendo-os às marés para alimentar os f
 > Na Costa Salobra existem enseadas rasas onde Karkinos e seus descendentes depositam ovos. A entrada nessas áreas é estritamente proibida a qualquer pessoa fora da estação de acasalamento, e mesmo durante a estação exige permissão formal dos xamãs da tribo.
 
 Violar essa regra traz a ira de [[Deuses-Fera/Karkinos|Karkinos]] — ataques de caranguejos gigantes, doenças da pele e afogamento misterioso em águas rasas (veja [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|Territórios Sagrados de Desova]]).
-
-## Ganchos de Aventura
-
-- Caçadores avistaram o [[Criaturas/Pinça-de-Sal|Pinça-de-Sal (Cria de Karkinos)]] perto da Costa Salobra; abatê-lo sem permissão pode romper a trégua com os [[Tribos/Masca-Musgo|Masca-Musgo]].
-- Uma caravana de salmoura e sal cristalizado busca escolta através das águas disputadas do centro do vale.
 
 ---
 

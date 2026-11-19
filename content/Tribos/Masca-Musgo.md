@@ -12,11 +12,11 @@ aliases: ["Tribo do Oeste", "Masca-Musgo"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Facção / Tribo do Oeste</td></tr>
-    <tr><td><b>Base</b></td><td>[[Geografia/Raiz-Funda|Raiz-Funda]]</td></tr>
-    <tr><td><b>Líder</b></td><td>[[NPCs/Elenco de Raiz-Funda|Sacerdote-Chefe Malok]]</td></tr>
-    <tr><td><b>Deidade</b></td><td>[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]</td></tr>
+    <tr><td><b>Base</b></td><td><a href="../Geografia/Raiz-Funda" class="internal">Raiz-Funda</a></td></tr>
+    <tr><td><b>Líder</b></td><td><a href="../NPCs/Sacerdote-Chefe-Malok" class="internal">Sacerdote-Chefe Malok</a></td></tr>
+    <tr><td><b>Deidade</b></td><td><a href="../Cosmologia/Nyog'Sothep" class="internal">Nyog'Sothep</a></td></tr>
     <tr><td><b>Objetivo</b></td><td>Preservar o ciclo sagrado e proteger o Jardim Dourado</td></tr>
-    <tr><td><b>Aliados / Rivais</b></td><td>Comércio com [[Tribos/Tece-Pele|Tece-Pele]]; trégua tensa com [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]]; evitam [[Tribos/Ventre-Inchado|Ventre-Inchado]]</td></tr>
+    <tr><td><b>Aliados / Rivais</b></td><td>Comércio com <a href="../Tribos/Tece-Pele" class="internal">Tece-Pele</a>; trégua tensa com <a href="../Tribos/Ferve-Alga-(Olhos-Vermelhos)" class="internal">Ferve-Alga</a>; evitam <a href="../Tribos/Ventre-Inchado" class="internal">Ventre-Inchado</a></td></tr>
   </table>
 </div>
 
@@ -35,7 +35,7 @@ Os **Masca-Musgo** habitam o Oeste do [[Geografia/Vale da Lama|Vale da Lama]], c
 
 ## Organização Social
 
-A tribo é organizada hierarquicamente (detalhes completos em [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]]):
+A tribo é organizada hierarquicamente (veja também [[Geografia/Raiz-Funda#Moradores e Líderes|Moradores de Raiz-Funda]]):
 
 1. **Sacerdote-Chefe Malok** — líder espiritual e político máximo
 2. **Zog (Xamã Animista / Voz-de-Esporo)** — conselheiro da [[Cosmologia/Lei da Troca|Lei da Troca]]
@@ -45,11 +45,6 @@ A tribo é organizada hierarquicamente (detalhes completos em [[NPCs/Elenco de R
 6. **Vó Mofo-Velho (Decana)** — guardiã da memória oral
 7. **Velho Rói-Raiz** — Juiz das Disputas
 
-## Ganchos de Aventura
-
-- Jovens iniciados precisam provar seu valor nas caçadas do brejo sem violar o Código do Fogo nem a Lei da Troca (veja as regras de [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|Ninhadas e Territórios Sagrados]]).
-- A trégua com os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] ameaça romper-se por causa das grandes fogueiras na Costa Salobra.
-
 ---
 
-**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Lei da Troca|Lei da Troca]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]
+**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Lei da Troca|Lei da Troca]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]

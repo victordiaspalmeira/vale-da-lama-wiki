@@ -11,9 +11,9 @@ aliases: ["Costa Salobra", "A Costa Salobra e Os Caldeirões", "Áreas de Desova
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Faixa costeira, ilhotas e canais de maré</td></tr>
-    <tr><td><b>Localização</b></td><td>Nordeste do [[Geografia/Vale da Lama|Vale da Lama]] (voltada para o Mar das Brumas)</td></tr>
-    <tr><td><b>Facção Dominante</b></td><td>[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]</td></tr>
-    <tr><td><b>Deus-Fera</b></td><td>[[Deuses-Fera/Karkinos|Karkinos]]</td></tr>
+    <tr><td><b>Localização</b></td><td>Nordeste do <a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a> (voltada para o Mar das Brumas)</td></tr>
+    <tr><td><b>Facção Dominante</b></td><td><a href="../Tribos/Ferve-Alga-(Olhos-Vermelhos)" class="internal">Ferve-Alga (Olhos-Vermelhos)</a></td></tr>
+    <tr><td><b>Deus-Fera</b></td><td><a href="../Deuses-Fera/Karkinos" class="internal">Karkinos</a></td></tr>
     <tr><td><b>Recursos</b></td><td>Sal cristalizado, salmoura, crustáceos</td></tr>
     <tr><td><b>Perigo</b></td><td>Marés, áreas de desova e hostilidade tribal</td></tr>
   </table>
@@ -31,11 +31,6 @@ Segundo os habitantes locais, as marés seguem o ritmo da respiração de [[Deus
 
 - **Os Caldeirões dos Ferve-Alga:** Nas ilhotas mais secas, os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] mantêm grandes caldeirões de ferro e barro sobre fogueiras para ferver algas, extrair salmoura concentrada, produzir sal e curar peles e carnes. A fumaça constante e o vapor salgado irritam os olhos da tribo (daí o apelido *Olhos-Vermelhos*) e geram atrito religioso com os [[Tribos/Masca-Musgo|Masca-Musgo]] pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]].
 - **Áreas Sagradas de Desova:** Enseadas rasas e protegidas onde crustáceos gigantes e descendentes de [[Deuses-Fera/Karkinos|Karkinos]] depositam ovos. A entrada é proibida fora da estação de acasalamento, e durante ela exige permissão formal dos xamãs (veja [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|Territórios Sagrados de Desova]]).
-
-## Uso na Mesa e Ganchos
-
-- **Comércio e Mar Aberto:** Único ponto de contato do vale com o mar aberto e fonte de comércio rudimentar de sal.
-- **Território Desconfiado:** Área hostil para forasteiros que ignoram as marés ou se aproximam das enseadas protegidas onde foi avistado o [[Criaturas/Pinça-de-Sal|Pinça-de-Sal (Cria de Karkinos)]].
 
 ---
 

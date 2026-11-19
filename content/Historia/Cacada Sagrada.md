@@ -11,10 +11,10 @@ aliases: ["Caçada Sagrada", "Primeira Caçada Sagrada", "Caçadas Sagradas"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Tradição histórica e rito de iniciação</td></tr>
-    <tr><td><b>Origem</b></td><td>[[Historia/A Grande Morte Lenta|Primeira Caçada Sagrada]]</td></tr>
-    <tr><td><b>Praticantes</b></td><td>[[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
-    <tr><td><b>Liderança</b></td><td>[[NPCs/Kruk|Kruk]] (disputada por [[NPCs/Grixa|Grixa]])</td></tr>
-    <tr><td><b>Leis</b></td><td>[[Cosmologia/Lei da Troca|Lei da Troca]], [[Cosmologia/Codigo de Honra do Fogo|Código do Fogo]], Ninhadas</td></tr>
+    <tr><td><b>Origem</b></td><td><a href="../Historia/A-Grande-Morte-Lenta" class="internal">Primeira Caçada Sagrada</a></td></tr>
+    <tr><td><b>Praticantes</b></td><td><a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
+    <tr><td><b>Liderança</b></td><td><a href="../NPCs/Kruk" class="internal">Kruk</a> (disputada por <a href="../NPCs/Grixa" class="internal">Grixa</a>)</td></tr>
+    <tr><td><b>Leis</b></td><td><a href="../Cosmologia/Lei-da-Troca" class="internal">Lei da Troca</a>, <a href="../Cosmologia/Codigo-de-Honra-do-Fogo" class="internal">Código do Fogo</a>, Ninhadas</td></tr>
   </table>
 </div>
 

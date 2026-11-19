@@ -13,8 +13,8 @@ aliases: ["Fogo-Sagrado", "Tabu do Fogo", "Grande Morte Lenta", "Lei do Fogo"]
     <tr><td><b>Tipo</b></td><td>Lei religiosa e jurídica</td></tr>
     <tr><td><b>Permitido</b></td><td>Fogo-Ferramenta (contido em pedra/barro)</td></tr>
     <tr><td><b>Tabu Capital</b></td><td>Fogo-Profano (queimar corpos, combate, punição)</td></tr>
-    <tr><td><b>Origem</b></td><td>[[Historia/A Grande Morte Lenta|Grande Morte Lenta]] (aversão aos mestres dracônicos)</td></tr>
-    <tr><td><b>Juiz</b></td><td>[[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]]</td></tr>
+    <tr><td><b>Origem</b></td><td><a href="../Historia/A-Grande-Morte-Lenta" class="internal">Grande Morte Lenta</a> (aversão aos mestres dracônicos)</td></tr>
+    <tr><td><b>Juiz</b></td><td><a href="../NPCs/Velho-Rói-Raiz" class="internal">Velho Rói-Raiz</a></td></tr>
   </table>
 </div>
 

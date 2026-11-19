@@ -11,9 +11,9 @@ aliases: ["Salmoura Fervente", "Sal Cristalizado", "Salmoura"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Recurso, alimento e item ritual</td></tr>
-    <tr><td><b>Origem</b></td><td>[[Geografia/Costa Salobra|Costa Salobra]]</td></tr>
-    <tr><td><b>Produtores</b></td><td>[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]</td></tr>
-    <tr><td><b>Divindade</b></td><td>[[Deuses-Fera/Karkinos|Karkinos]]</td></tr>
+    <tr><td><b>Origem</b></td><td><a href="../Geografia/Costa-Salobra" class="internal">Costa Salobra</a></td></tr>
+    <tr><td><b>Produtores</b></td><td><a href="../Tribos/Ferve-Alga-(Olhos-Vermelhos)" class="internal">Ferve-Alga (Olhos-Vermelhos)</a></td></tr>
+    <tr><td><b>Divindade</b></td><td><a href="../Deuses-Fera/Karkinos" class="internal">Karkinos</a></td></tr>
     <tr><td><b>Usos</b></td><td>Conservação, purificação, rituais e comércio</td></tr>
   </table>
 </div>

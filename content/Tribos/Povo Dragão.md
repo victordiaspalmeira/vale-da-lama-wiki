@@ -12,9 +12,9 @@ aliases: ["Povo Dragão", "Dragões Vermelhos", "Os Filhos de Ashkor", "Cinderat
   <table>
     <tr><td><b>Tipo</b></td><td>Linhagem extinta no vale / Antigos mestres</td></tr>
     <tr><td><b>Linhagem</b></td><td>Dragões Vermelhos (Os Filhos de Ashkor)</td></tr>
-    <tr><td><b>Origem</b></td><td>[[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]]</td></tr>
-    <tr><td><b>Destino</b></td><td>Derrotados na Lua Nova e exterminados na [[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]</td></tr>
-    <tr><td><b>Maior deles</b></td><td>Cinderath, a Matriarca ([[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]])</td></tr>
+    <tr><td><b>Origem</b></td><td><a href="../Geografia/Montanhas-do-Oeste" class="internal">Montanhas do Extremo Oeste</a></td></tr>
+    <tr><td><b>Destino</b></td><td>Derrotados na Lua Nova e exterminados na <a href="../Historia/Cacada-Sagrada" class="internal">Primeira Caçada Sagrada</a></td></tr>
+    <tr><td><b>Maior deles</b></td><td>Cinderath, a Matriarca (<a href="../Geografia/Lago-da-Grande-Tirana" class="internal">Lago da Grande Tirana</a>)</td></tr>
   </table>
 </div>
 

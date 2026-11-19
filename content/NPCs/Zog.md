@@ -12,24 +12,39 @@ aliases: ["Zog", "Voz-de-Esporo", "Zog, o Xamã Animista"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>NPC / Xamã Animista</td></tr>
-    <tr><td><b>Título</b></td><td>Voz-de-Esporo</td></tr>
-    <tr><td><b>Tribo</b></td><td>[[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
-    <tr><td><b>Base</b></td><td>[[Geografia/Raiz-Funda|Raiz-Funda]]</td></tr>
-    <tr><td><b>Especialidade</b></td><td>[[Cosmologia/Lei da Troca|Lei da Troca]] e visões de [[Cosmologia/Musgo Dourado|Musgo Dourado]]</td></tr>
+    <tr><td><b>Epíteto</b></td><td>Voz-de-Esporo</td></tr>
+    <tr><td><b>Espécie</b></td><td>Goblin</td></tr>
+    <tr><td><b>Gênero</b></td><td>Masculino</td></tr>
+    <tr><td><b>Status</b></td><td>Vivo</td></tr>
+    <tr><td><b>Tribo</b></td><td><a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
+    <tr><td><b>Local</b></td><td><a href="../Geografia/Raiz-Funda" class="internal">Raiz-Funda</a></td></tr>
+    <tr><td><b>Devoção</b></td><td><a href="../Cosmologia/Nyog'Sothep" class="internal">Nyog'Sothep</a></td></tr>
   </table>
 </div>
 
 # Zog (Voz-de-Esporo)
 
-## Descrição
+**Zog**, conhecido como **Voz-de-Esporo**, é o xamã animista de [[Geografia/Raiz-Funda|Raiz-Funda]].
 
-**Zog**, conhecido como **Voz-de-Esporo**, é o xamã animista de [[Geografia/Raiz-Funda|Raiz-Funda]]. Anda coberto de amuletos de dentes, conchas e ossos que tilintam a cada passo.
+## Aparência
+Anda coberto de amuletos de dentes, conchas e ossos que tilintam a cada passo.
 
-## Papel e Rituais
+## Personalidade e Maneirismos
+*A preencher.*
 
+## História
+*A preencher.*
+
+## Função e Ocupação
 - **Lei da Troca:** Conhece profundamente a [[Cosmologia/Lei da Troca|Lei da Troca]] e orienta caçadores e viajantes sobre como pedir passagem, oferendar ao pântano e reparar quebras de reciprocidade.
 - **Visões de Musgo:** Conduz rituais em que pequenas lascas de [[Cosmologia/Musgo Dourado|Musgo Dourado]] são mascadas para sentir as correntes vivas do micélio subterrâneo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
+## Relações e Alianças
+* **[[Exilados/Skrit|Skrit, o Sem-Troca]]:** Foi Zog quem descobriu as violações de Skrit à Lei da Troca, levando ao seu exílio.
+
+## O que se Conta pelo Pântano
+*A preencher.*
+
 ---
 
-**Veja também:** [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Cosmologia/Animismo|Animismo]], [[Cosmologia/Lei da Troca|Lei da Troca]], [[Cosmologia/Musgo Dourado|Musgo Dourado]]
+**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Animismo|Animismo]] | [[Cosmologia/Lei da Troca|Lei da Troca]] | [[Cosmologia/Musgo Dourado|Musgo Dourado]]

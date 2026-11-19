@@ -12,23 +12,38 @@ aliases: ["Snikk", "Curandeiro-Chefe"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>NPC / Curandeiro</td></tr>
-    <tr><td><b>Cargo</b></td><td>Curandeiro-Chefe</td></tr>
-    <tr><td><b>Tribo</b></td><td>[[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
-    <tr><td><b>Base</b></td><td>[[Geografia/Raiz-Funda|Raiz-Funda]]</td></tr>
-    <tr><td><b>Especialidade</b></td><td>[[Cosmologia/Musgo Dourado|Musgo Dourado]] e ervas do mangue</td></tr>
+    <tr><td><b>Epíteto</b></td><td>Curandeiro-Chefe</td></tr>
+    <tr><td><b>Espécie</b></td><td>Goblin</td></tr>
+    <tr><td><b>Gênero</b></td><td>Masculino</td></tr>
+    <tr><td><b>Status</b></td><td>Vivo</td></tr>
+    <tr><td><b>Tribo</b></td><td><a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
+    <tr><td><b>Local</b></td><td><a href="../Geografia/Raiz-Funda" class="internal">Raiz-Funda</a></td></tr>
+    <tr><td><b>Devoção</b></td><td><a href="../Cosmologia/Nyog'Sothep" class="internal">Nyog'Sothep</a></td></tr>
   </table>
 </div>
 
 # Snikk (Curandeiro-Chefe)
 
-## Descrição
-
 **Snikk** é o **Curandeiro-Chefe** de [[Geografia/Raiz-Funda|Raiz-Funda]], responsável pela saúde dos [[Tribos/Masca-Musgo|Masca-Musgo]].
 
-## Prática Médica
+## Aparência
+*A preencher.*
 
+## Personalidade e Maneirismos
+*A preencher.*
+
+## História
+*A preencher.*
+
+## Função e Ocupação
 Utiliza cataplasmas de [[Cosmologia/Musgo Dourado|Musgo Dourado]] puro e ervas do mangue para tratar ferimentos e infecções pantanosas. Por sua função, é um dos curandeiros autorizados a entrar no [[Geografia/Jardim Dourado|Jardim Dourado]].
+
+## Relações e Alianças
+*A preencher.*
+
+## O que se Conta pelo Pântano
+*A preencher.*
 
 ---
 
-**Veja também:** [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Geografia/Jardim Dourado|Jardim Dourado]]
+**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Musgo Dourado|Musgo Dourado]] | [[Geografia/Jardim Dourado|Jardim Dourado]]

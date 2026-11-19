@@ -11,12 +11,12 @@ aliases: ["O Lago da Grande Tirana", "Lago da Grande Tirana", "Lago Central"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Bacia circular profunda e oleosa</td></tr>
-    <tr><td><b>Localização</b></td><td>Centro do [[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
-    <tr><td><b>Origem</b></td><td>Convergência das águas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]</td></tr>
-    <tr><td><b>Evento</b></td><td>Queda de Cinderath na [[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]</td></tr>
+    <tr><td><b>Localização</b></td><td>Centro do <a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a></td></tr>
+    <tr><td><b>Origem</b></td><td>Convergência das águas das <a href="../Geografia/Montanhas-do-Oeste" class="internal">Montanhas do Oeste</a></td></tr>
+    <tr><td><b>Evento</b></td><td>Queda de Cinderath na <a href="../Historia/Cacada-Sagrada" class="internal">Primeira Caçada Sagrada</a></td></tr>
     <tr><td><b>Facção Dominante</b></td><td>Nenhuma (território disputado)</td></tr>
     <tr><td><b>Perigo</b></td><td>Alto a Extremo</td></tr>
-    <tr><td><b>Ameaças</b></td><td>[[Deuses-Fera/Og'gath|Og'gath (Sapo-Trovão)]], [[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga]]</td></tr>
+    <tr><td><b>Ameaças</b></td><td><a href="../Deuses-Fera/Og'gath" class="internal">Og'gath (Sapo-Trovão)</a>, <a href="../Criaturas/Rainha-Sanguessuga-de-Águas-Paradas" class="internal">Rainha-Sanguessuga</a></td></tr>
   </table>
 </div>
 
@@ -35,12 +35,6 @@ Ao final da **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**, a Matriarc
 ## Ecologia e Atmosfera
 
 Quase não há vegetação emergindo do centro do lago. Bolhas de gás fétido e esverdeado sobem ocasionalmente das profundezas — que vêm esquentando de forma incomum —, trazendo esporos antigos e fragmentos de ossos calcificados para as margens lodosas, onde cresce o [[Cosmologia/Musgo Dourado|Musgo Dourado]].
-
-## Uso na Mesa e Ganchos
-
-- **Travessia Arriscada:** Jangadas que cruzam o lago ficam totalmente expostas sem cobertura.
-- **Ilhotas Centrais:** Território de [[Deuses-Fera/Og'gath|Og'gath (Sapo-Trovão do Lago Central)]] (Perigo Extremo), cujo coaxar faz o solo tremer ao redor do lago.
-- **Ameaças das Profundezas:** Ponto de peregrinação silenciosa e fonte de boatos sobre o que ainda se move abaixo das costelas submersas, além da aparição recente da [[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]] (Perigo Alto).
 
 ---
 
