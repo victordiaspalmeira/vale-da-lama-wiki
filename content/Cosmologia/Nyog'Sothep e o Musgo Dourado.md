@@ -1,53 +1,60 @@
 ---
 title: Nyog'Sothep e o Musgo Dourado
 tags: [cosmologia, deus, fungo, musgo-dourado]
-aliases: ["Deus Fúngico", "Nyog'Sothep", "Jardim Dourado", "Ciclo de Decomposição"]
+aliases: ["Deus Fúngico", "Nyog'Sothep", "Jardim Dourado", "Ciclo de Decomposição", "Aurumycota sothepi"]
 ---
 
 <div class="infobox">
   <div class="infobox-title">Nyog'Sothep</div>
   <table>
-    <tr><td><b>Tipo</b></td><td>Deus-fungo</div>
-    <tr><td><b>Domínio</b></td><td>Decomposição, Ciclo, Esporos</td></tr>
+    <tr><td><b>Tipo</b></td><td>Deus-fungo primordial</td></tr>
+    <tr><td><b>Domínio</b></td><td>Decomposição, Fermentação, Esporos</td></tr>
+    <tr><td><b>Manifestação</b></td><td>Enxame de moscas negras e verde-metálicas</td></tr>
     <tr><td><b>Santuário</b></td><td>[[Geografia/Raiz-Funda#O Jardim Dourado|Jardim Dourado]]</td></tr>
-    <tr><td><b>Símbolo</b></td><td>[[Cosmologia/Nyog'Sothep e o Musgo Dourado#O Musgo Dourado|Musgo Dourado]]</td></tr>
+    <tr><td><b>Símbolo</b></td><td>[[Cosmologia/Nyog'Sothep e o Musgo Dourado#O Musgo Dourado Aurumycota sothepi|Musgo Dourado]]</td></tr>
     <tr><td><b>Adoradores</b></td><td>[[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
-    <tr><td><b>Xamã</b></td><td>[[NPCs/Elenco de Raiz-Funda#Zog|Zog, o Voz-de-Esporo]]</td></tr>
+    <tr><td><b>Clero</b></td><td>[[NPCs/Elenco de Raiz-Funda|Malok, Zog, Snakk e Drig]]</td></tr>
   </table>
 </div>
 
 # Nyog'Sothep e o Musgo Dourado
 
-**Nyog'Sothep** é o deus fúngico adorado pelos Masca-Musgo, entidade primordial do pântano que personifica o ciclo eterno de decomposição e renascimento. Ele não é um deus de morte, mas de transformação: tudo que apodrece no Vale da Lama alimenta algo novo, e Nyog'Sothep é o guardião sagrado desse ciclo.
+## Natureza da Divindade
 
-## O Ciclo de Decomposição
+**Nyog'Sothep** é o deus fúngico adorado pelos [[Tribos/Masca-Musgo|Masca-Musgo]], a entidade primordial do [[Geografia/Vale da Lama|Vale da Lama]] que personifica o ciclo eterno de decomposição, fermentação e renascimento. Ele não possui trono, rosto esculpido ou corte de avatares — tampouco comanda [[Cacadas/Rumores e Deuses-Fera Menores|Deuses-Fera menores]] para agir em seu nome. Para o clero de [[Geografia/Raiz-Funda|Raiz-Funda]], deuses que dependem de emissários bestiais são entidades menores, presas à carne. Nyog'Sothep é vasto demais para caber em um único corpo: ele é a própria rede subterrânea de micélio que costura as raízes por baixo da turfa negra, a força paciente que desmancha madeira, osso, quitina e escama antiga para devolver sustento ao brejo.
 
-No Vale da Lama, nada se perde. Quando uma criatura morre, seu corpo se decompõe rapidamente sob o calor úmido do pântano. Cogumelos brotam de seus pulmões, musgos cobrem seus ossos, e os nutrientes retornam ao solo. Esse processo é sagrado — é a obra de Nyog'Sothep.
+Ele não é um deus da morte estéril, mas da digestão sagrada. Na crença do Oeste, toda criatura viva carrega apenas um empréstimo temporário de matéria. Quando um ser morre, Nyog'Sothep reclama o que lhe pertence através do bolor, da larva e do esporo. Cremar um cadáver ou encerrá-lo em pedra seca longe da umidade é considerado roubo cósmico — uma tentativa arrogante de negar ao pântano o alimento que lhe é devido.
 
-Os Masca-Musgo acreditam que:
-- A morte não é o fim, mas uma mudança de estado
-- Corpos não queimados retornam ao Musgo Dourado mais rapidamente
-- Quem é consumido pelo pântano torna-se parte de Nyog'Sothep
+## A Manifestação do Enxame
+
+Por ser uma consciência difusa espalhada pelo solo, Nyog'Sothep raramente se manifesta de forma localizada. Contudo, em ocasiões excepcionais — durante rituais solenes de condução espiritual ou diante de profanações graves contra o ciclo — o deus condensa sua presença em um enxame denso de moscas negras e verde-metálicas. O enxame parece brotar da própria lama úmida e das frestas das cascas de árvore, formando uma nuvem vibrante cujo zumbido grave ressoa nos ossos dos presentes. Para os devotos, ser tocado sem picadas pelo enxame é um sinal raro de bênção sacerdotal.
+
+## Éditos e Anátemas (Pathfinder 2e Remaster)
+
+> [!info] Fé de Nyog'Sothep
+> - **Éditos:** Devolver todos os mortos à lama e ao micélio; cultivar fungos úteis; respeitar o ciclo de apodrecimento; usar o fogo apenas como ferramenta contida, jamais para matar ou queimar.
+> - **Anátemas:** Queimar cadáveres ou destruir corpos com fogo; usar fogo como arma para ferir ou matar; esterilizar o solo do pântano; servir aos dragões antigos ou profanar o [[Geografia/Raiz-Funda#O Jardim Dourado|Jardim Dourado]].
+
+## O Ciclo da Devolução
+
+No [[Geografia/Vale da Lama|Vale da Lama]], nada se perde. Quando um membro da tribo falece, o clero conduz o retorno em três estágios:
+
+1. **O Inchaço (Dias 1 a 3):** O corpo é lavado com água de mangue, privado de metais e couro curtido e deitado sobre um leito de turfa úmida enquanto a carne amolece e o pântano começa a reclamá-lo.
+2. **A Floração (Dias 4 a 12):** Hifas esbranquiçadas e filamentos âmbar perfuram a pele e os pulmões. Os Coveiros-Sacerdotes ([[NPCs/Elenco de Raiz-Funda|Irmãos Snakk e Drig]]) observam os padrões do bolor para honrar a memória do falecido.
+3. **O Retorno (Após o 13º dia):** O esqueleto limpo afunda na turfa ou é recolhido para virar ferramenta útil. A consciência do morto dissolve-se na rede micelial de Nyog'Sothep, tornando-se parte da memória silenciosa do pântano.
 
 ## O Jardim Dourado
 
-O **Jardim Dourado** é o santuário mais sagrado de Nyog'Sothep, localizado no coração de [[Geografia/Raiz-Funda|Raiz-Funda]]. É um círculo de cogumelos dourados que brilham suavemente na escuridão do pântano, onde os Irmãos Snakk e Drig (Coveiros-Sacerdotes) cuidam dos corpos dos falecidos e preparam os rituais de decomposição.
+Situado na depressão mais profunda sob as raízes centrais de [[Geografia/Raiz-Funda|Raiz-Funda]], o **Jardim Dourado** é o santuário mais sagrado de Nyog'Sothep — uma câmara natural formada por arcos de raízes de mangue entrelaçadas sob uma abóbada espessa de lodo. Nenhuma luz solar penetra ali; a iluminação vem apenas da bioluminescência âmbar das colônias de fungos que revestem os leitos funerários. O ar é quente, espesso e doce como fruta passada. Apenas o [[NPCs/Elenco de Raiz-Funda|Sacerdote-Chefe Malok]], os coveiros [[NPCs/Elenco de Raiz-Funda|Snakk e Drig]], a decana [[NPCs/Elenco de Raiz-Funda|Vó Mofo-Velho]] e curandeiros autorizados podem entrar no círculo interno. Forasteiros que se aproximam sem máscara de ervas amargas sentem tonturas e náuseas devido à densidade dos esporos.
 
-No Jardim Dourado:
-- Os corpos são colocados sobre leitos de musgo para decomposição natural
-- O Musgo Dourado cresce sobre os restos, absorvendo as memórias dos mortos
-- Apenas o clero e anciãos podem entrar no círculo interno
+## O Musgo Dourado (*Aurumycota sothepi*)
 
-## O Musgo Dourado
+É uma variedade rara de musgo-fungo simbiótico que brota apenas onde a presença de Nyog'Sothep é mais forte, sendo especialmente potente quando colhido nos canteiros do Jardim Dourado ou sobre ossadas antigas da [[Geografia/Vale da Lama#História  Origem A Grande Morte Lenta|Grande Morte Lenta]]:
 
-O **Musgo Dourado** é uma variedade rara de cogumelo-musgo que cresce apenas onde Nyog'Sothep está mais presente. Ele tem propriedades sagradas:
-
-- **Cura**: Aplicado em ferimentos, acelera a regeneração tecidual
-- **Visão**: Consumido em pequenas doses, concede visões do ciclo de decomposição
-- **Conexão**: Usado em rituais, permite comunicação com os Pequenos Espíritos
-
-No entanto, o Musgo Dourado é perigoso em excesso. O uso prolongado pode causar dependência, alucinações e, eventualmente, transformação parcial em fungo — o que os Masca-Musgo consideram uma "ascensão" voluntária a Nyog'Sothep.
+- **Cura:** Aplicado puro em ferimentos por curandeiros como [[NPCs/Elenco de Raiz-Funda|Snikk]], acelera a regeneração tecidual e combate infecções pantanosas (**+2 de bônus de item** em Medicina para Tratar Ferimentos ou Doenças no vale).
+- **Visão:** Mascado em pequenas lascas durante rituais conduzidos por [[NPCs/Elenco de Raiz-Funda|Zog]], permite sentir as correntes vivas do micélio subterrâneo e ter visões do ciclo de decomposição por 1 hora, deixando o usuário levemente desorientado (**Estupefato 1**).
+- **Risco da Ascensão:** O consumo excessivo de Musgo Dourado (mais de uma dose por semana) provoca a brotação de filamentos dourados sob a pele e nas unhas (**Drenado 1**). Os [[Tribos/Masca-Musgo|Masca-Musgo]] não encaram o estágio final desse processo como doença, mas como uma **Ascensão** voluntária: o portador abandona a fala e caminha sozinho até o Jardim Dourado para se deitar entre as raízes.
 
 ---
 
-**Veja também:** [[Cosmologia/Animismo e Reciprocidade|Animismo e Reciprocidade]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]] (Sacerdote-Chefe Malok, Irmãos Snakk e Drig)
+**Veja também:** [[Cosmologia/Animismo e Reciprocidade|Animismo e Reciprocidade]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]]

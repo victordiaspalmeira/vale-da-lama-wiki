@@ -7,43 +7,40 @@ aliases: ["Ferve-Alga", "Olhos-Vermelhos", "Tribo do Nordeste", "Deus-Caranguejo
 <div class="infobox">
   <div class="infobox-title">Ferve-Alga (Olhos-Vermelhos)</div>
   <table>
-    <tr><td><b>Tipo</b></td><td>Tribo rival</td></tr>
-    <tr><td><b>Localização</b></td><td>Nordeste / [[Geografia/Vale da Lama#A Costa Salobra|Costa Salobra]]</td></tr>
-    <tr><td><b>Deidade</b></td><td>[[Geografia/Vale da Lama#A Costa Salobra|Deus-Caranguejo Karkinos]]</td></tr>
+    <tr><td><b>Tipo</b></td><td>Facção / Tribo do Nordeste</td></tr>
+    <tr><td><b>Base</b></td><td>Costa Salobra (Nordeste do [[Geografia/Vale da Lama|Vale da Lama]])</td></tr>
+    <tr><td><b>Líder</b></td><td>Xamãs das Áreas de Desova</td></tr>
+    <tr><td><b>Deidade</b></td><td>Deus-Caranguejo Karkinos</td></tr>
+    <tr><td><b>Objetivo</b></td><td>Proteger as áreas de desova e manter o culto da salmoura</td></tr>
+    <tr><td><b>Aliados / Rivais</b></td><td>Trégua tensa / rivais dos [[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
     <tr><td><b>Prática</b></td><td>Salmoura fervente</td></tr>
-    <tr><td><b>Sagrado</b></td><td>Áreas de Desova</td></tr>
-    <tr><td><b>Relação</b></td><td>Rivais dos Masca-Musgo</td></tr>
   </table>
 </div>
 
 # Ferve-Alga (Olhos-Vermelhos)
 
-A tribo **Ferve-Alga**, também conhecida como **Olhos-Vermelhos**, habita o Nordeste do Vale da Lama, na região da **Costa Salobra**. São adoradores do **Deus-Caranguejo Karkinos**, uma entidade de casca vermelha e garras enormes que habita as águas salobras do litoral pantanoso.
+## Descrição
 
-## Culto ao Deus-Caranguejo Karkinos
+A tribo **Ferve-Alga**, conhecida entre os vizinhos como **Olhos-Vermelhos** devido à irritação crônica causada pela fumaça constante e pelo vapor salgado, habita o Nordeste do [[Geografia/Vale da Lama|Vale da Lama]], na região da **Costa Salobra**. São adoradores do **Deus-Caranguejo Karkinos**, uma entidade colossal de carapaça escarlate e pinças enormes que habita as águas salobras e cuja respiração, segundo a tribo, governa as marés do pântano.
 
-Karkinos é representado como um caranguejo gigante de olhos vermelhos brilhantes. Os Ferve-Alga acreditam que ele dorme sob a Costa Salobra e que sua respiração causa as marés do pântano.
+## Práticas e Salmoura Fervente
 
-Rituais incluem:
-- Offerendas de peixes e crustáceos nas águas da Costa Salobra
-- Danças de garra em cerimônias de lua cheia
-- Consumo de salmoura fervente como prova de devoção
+Os Ferve-Alga vivem em aldeias fortificadas com paliçadas de conchas e ossos de crustáceos gigantes. Mantêm grandes fogueiras sob caldeirões de barro grosso para ferver água salgada da Costa Salobra, produzindo sal cristalizado e salmoura concentrada usada para conservar alimentos, purificar ferimentos e testar a coragem dos iniciados em rituais de beber salmoura quente.
 
-## Uso de Salmoura Fervente
+Embora não queimem seus mortos — devolvendo-os às marés para alimentar os filhos de Karkinos —, o tamanho e o número de suas fogueiras geram atrito religioso constante com os [[Tribos/Masca-Musgo|Masca-Musgo]] (veja [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]).
 
-Os Ferve-Alga fervem água salgada da Costa Salobra em grandes caldeirões sobre fogueiras. A salmoura resultante é usada para:
-- Conservar alimentos
-- Purificar ferimentos (em doses controladas)
-- Rituais de iniciação (beber uma pequena quantidade como prova de coragem)
+## A Lei Sagrada das Áreas de Desova
 
-## A Regra Sagrada das Áreas de Desova
+> [!warning] Zona Proibida
+> Na Costa Salobra existem enseadas rasas onde Karkinos e seus descendentes depositam ovos. A entrada nessas áreas é estritamente proibida a qualquer pessoa fora da estação de acasalamento, e mesmo durante a estação exige permissão formal dos xamãs da tribo.
 
-Na Costa Salobra, existem áreas específicas onde Karkinos põe seus ovos. Essas **áreas de desova** são sagradas e protegidas por uma regra absoluta:
+Violar essa regra traz a ira de Karkinos — ataques de caranguejos gigantes, doenças da pele e afogamento misterioso em águas rasas (veja [[Cacadas/Rumores e Deuses-Fera Menores|Rumores e Deuses-Fera Menores]]).
 
-**Ninguém entra nas áreas de desova, exceto durante a estação de acasalamento de Karkinos, e apenas com permissão dos xamãs da tribo.**
+## Ganchos de Aventura
 
-Violar essa regra traz a ira de Karkinos — ataques de caranguejos gigantes, doenças da pele e afogamento misterioso em águas rasas.
+- Caçadores avistaram o [[Cacadas/Rumores e Deuses-Fera Menores|Pinça-de-Sal (Cria de Karkinos)]] perto da Costa Salobra; abatê-lo sem permissão pode romper a trégua com os [[Tribos/Masca-Musgo|Masca-Musgo]].
+- Uma caravana de salmoura e sal cristalizado busca escolta através das águas disputadas do centro do vale.
 
 ---
 
-**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Cacadas/Rumores e Deuses-Fera Menores|Rumores e Deuses-Fera Menores]] (Pinça-de-Sal / Cria de Karkinos)
+**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Cacadas/Rumores e Deuses-Fera Menores|Rumores e Deuses-Fera Menores]]

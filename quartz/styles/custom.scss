@@ -182,7 +182,7 @@ a.internal.tag-link {
   float: right;
   width: 270px;
   margin: 0 0 1rem 1.25rem;
-  border: 2px ridge var(--vale-border);
+  border: 1px solid var(--vale-border-dark);
   background: var(--vale-bg-panel);
   padding: 0.65rem;
   font-size: 0.85rem;
@@ -255,19 +255,23 @@ table tr:nth-child(even) td {
    Ilustrações Preto e Branco (OSR / Xilogravura)
    ========================================================================== */
 
-.osr-art {
+.osr-art,
+article img {
   display: block;
   max-width: 100%;
   height: auto;
-  border: 1px solid var(--vale-border);
+  margin: 0.75rem auto;
+  border: 1px solid var(--vale-border-dark);
 }
 
-:root:not([saved-theme="dark"]) .osr-art {
+:root:not([saved-theme="dark"]) .osr-art,
+:root:not([saved-theme="dark"]) article img {
   mix-blend-mode: multiply;
   filter: contrast(1.15);
 }
 
-:root[saved-theme="dark"] .osr-art {
+:root[saved-theme="dark"] .osr-art,
+:root[saved-theme="dark"] article img {
   filter: invert(0.92) sepia(0.2) contrast(1.15);
   mix-blend-mode: screen;
 }

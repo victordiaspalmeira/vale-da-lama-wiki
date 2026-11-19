@@ -7,40 +7,46 @@ aliases: ["Aldeia de Raiz-Funda", "Raiz-Funda"]
 <div class="infobox">
   <div class="infobox-title">Raiz-Funda</div>
   <table>
-    <tr><td><b>Tipo</b></td><td>Aldeia dos Masca-Musgo</td></tr>
-    <tr><td><b>Localização</b></td><td>Coração do Vale da Lama</td></tr>
-    <tr><td><b>Estrutura</b></td><td>Palafitas entre raízes de mangue</td></tr>
-    <tr><td><b>Decana</b></td><td>[[NPCs/Elenco de Raiz-Funda#Vó Mofo-Velho|Vó Mofo-Velho]]</td></tr>
-    <tr><td><b>Juiz</b></td><td>[[NPCs/Elenco de Raiz-Funda#Velho Rói-Raiz|Velho Rói-Raiz]]</td></tr>
-    <tr><td><b>Locais</b></td><td>Forja, Jardim Dourado, Casa do Ancião</td></tr>
+    <tr><td><b>Tipo</b></td><td>Aldeia em palafitas</td></tr>
+    <tr><td><b>Região</b></td><td>Setor Oeste do [[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
+    <tr><td><b>Facção Dominante</b></td><td>[[Tribos/Masca-Musgo|Masca-Musgo]]</td></tr>
+    <tr><td><b>Liderança</b></td><td>[[NPCs/Elenco de Raiz-Funda|Malok]], [[NPCs/Elenco de Raiz-Funda|Vó Mofo-Velho]], [[NPCs/Elenco de Raiz-Funda|Velho Rói-Raiz]]</td></tr>
+    <tr><td><b>Guarda</b></td><td>[[NPCs/Elenco de Raiz-Funda|Varga (Capitã da Guarda)]]</td></tr>
+    <tr><td><b>Locais</b></td><td>Forja de Gnarl, Jardim Dourado, Casa do Ancião, Cais</td></tr>
   </table>
 </div>
 
 # Raiz-Funda
 
-**Raiz-Funda** é a aldeia principal dos Masca-Musgo, construída entre as raízes colossais de um mangue antigo que emerge do pântano como uma catedral natural de madeira e lama. As casas são palafitas suspensas entre as raízes, conectadas por pontes de corda e tábuas apodrecidas.
+## Descrição
 
-## Localização e Defesas
+**Raiz-Funda** é a aldeia principal dos [[Tribos/Masca-Musgo|Masca-Musgo]], erguida no coração do setor oeste do [[Geografia/Vale da Lama|Vale da Lama]] entre as raízes colossais de um mangue ancestral tão vasto que suas arcadas sustentam uma comunidade inteira acima da linha da maré lodosa. As moradias são palafitas tecidas com madeira de raiz-ferro, cipós trançados e placas de quitina impermeabilizadas com resina, interligadas por passarelas estreitas de tábuas rangentes e pontes de corda suspensas sobre canais de lama profunda.
 
-Raiz-Funda fica no coração do Vale da Lama, protegida por:
-- **Barreiras naturais**: A lama espessa ao redor da aldeia dificulta a aproximação de intrusos desconhecidos
-- **Vigias nas raízes**: Batedores ficam posicionados nas raízes mais altas, observando os arredores
-- **Malhas de quitina**: Armadilhas feitas de casca de inseto gigante que prendem pés desprevenidos
+## Defesas Naturais e Vigilância
 
-## Locais Internos
+- **Lama Espessa:** Ao redor da aldeia, o brejo não oferece apoio firme; quem desconhece as trilhas submersas marcadas por estacas de osso afunda rapidamente.
+- **Vigias nas Raízes:** Batedores sob comando de [[NPCs/Elenco de Raiz-Funda|Varga]] observam os arredores do alto das arcadas superiores, comunicando-se por assobios que imitam aves e anfíbios do pântano.
+- **Malhas de Quitina:** Armadilhas de contenção feitas de mandíbulas e carapaças de insetos gigantes ocultas sob a lâmina d'água nas abordagens periféricas.
 
-### A Forja
-Localizada na periferia da aldeia, longe das casas de madeira, a forja de **Gnarl Martelo-Torto** é onde o fogo-ferramenta é mantido aceso. Aqui são forjadas armas de osso e metal, ferramentas de caça e armaduras de quitina.
+## Pontos de Interesse
+
+### A Forja Periférica de Gnarl
+Localizada em uma ilhota de pedra e barro batido na borda externa da aldeia — isolada das raízes vivas e das casas de madeira para respeitar o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]. Ali, [[NPCs/Elenco de Raiz-Funda|Gnarl Martelo-Torto]] mantém sua forja baixa cercada de água para trabalhar metal recuperado, além de fabricar armas de osso curado, madeira de raiz-ferro e quitina gigante.
 
 ### O Jardim Dourado
-O santuário sagrado de [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]], no centro da aldeia. É onde os Irmãos Snakk e Drig cuidam dos corpos dos falecidos e onde o Musgo Dourado cresce mais abundantemente.
+O santuário subterrâneo de [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]] na depressão central sob a aldeia, guardado pelos coveiros-sacerdotes [[NPCs/Elenco de Raiz-Funda|Snakk e Drig]].
 
 ### A Casa do Ancião
-Uma estrutura maior feita de raízes entrelaçadas, onde **Vó Mofo-Velho** (a Decana) e **Velho Rói-Raiz** (o Juiz das Disputas) residem e recebem visitantes.
+Uma estrutura ampla entrelaçada entre três raízes-mestras no nível intermediário, onde residem [[NPCs/Elenco de Raiz-Funda|Vó Mofo-Velho]] e [[NPCs/Elenco de Raiz-Funda|Velho Rói-Raiz]], e onde visitantes de fora são recebidos para parlamentar.
 
-### As Palafitas dos Artesãos
-Onde **Biba** (alquimista e artesã de quitina) e **Torg** (construtor de palafitas e jangadas) trabalham e vivem.
+### O Cais das Jangadas e Oficinas
+Onde [[NPCs/Elenco de Raiz-Funda|Torg]] constrói e repara jangadas de fundo chato e [[NPCs/Elenco de Raiz-Funda|Biba]], a Mão-Ácida mantém seus tonéis de fermentação, curtume de peles e preparação alquímica.
+
+## Ganchos de Aventura
+
+- Uma das estacas de osso que marcam a trilha segura na lama sumiu, levando viajantes diretamente para as malhas de quitina.
+- [[NPCs/Elenco de Raiz-Funda|Kruk]] e [[NPCs/Elenco de Raiz-Funda|Grixa]] divergem sobre qual rota tomar na próxima expedição de [[Cacadas/Rumores e Deuses-Fera Menores|caçada]].
 
 ---
 
-**Veja também:** [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep e o Musgo Dourado]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]]
+**Veja também:** [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep e o Musgo Dourado]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Geografia/Vale da Lama|Vale da Lama]]

@@ -7,46 +7,45 @@ aliases: ["Tribo do Oeste", "Masca-Musgo"]
 <div class="infobox">
   <div class="infobox-title">Masca-Musgo</div>
   <table>
-    <tr><td><b>Localização</b></td><td>Oeste do Vale da Lama</td></tr>
-    <tr><td><b>Assentamento</b></td><td>[[Geografia/Raiz-Funda|Raiz-Funda]]</td></tr>
-    <tr><td><b>Líder Espiritual</b></td><td>Sacerdote-Chefe Malok</td></tr>
+    <tr><td><b>Tipo</b></td><td>Facção / Tribo do Oeste</td></tr>
+    <tr><td><b>Base</b></td><td>[[Geografia/Raiz-Funda|Raiz-Funda]]</td></tr>
+    <tr><td><b>Líder</b></td><td>[[NPCs/Elenco de Raiz-Funda|Sacerdote-Chefe Malok]]</td></tr>
     <tr><td><b>Deidade</b></td><td>[[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]]</td></tr>
-    <tr><td><b>Símbolo</b></td><td>[[Cosmologia/Nyog'Sothep e o Musgo Dourado|Musgo Dourado]]</td></tr>
-    <tr><td><b>Valores</b></td><td>Decomposição sagrada, Reciprocidade, Tabu do Fogo</td></tr>
-    <tr><td><b>Tabu Absoluto</b></td><td>Não queimar corpos; não usar fogo</td></tr>
+    <tr><td><b>Objetivo</b></td><td>Preservar o ciclo sagrado e proteger o Jardim Dourado</td></tr>
+    <tr><td><b>Aliados / Rivais</b></td><td>Comércio com [[Tribos/Tece-Pele|Tece-Pele]]; trégua tensa com [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]]; evitam [[Tribos/Ventre-Inchado|Ventre-Inchado]]</td></tr>
   </table>
 </div>
 
 # Masca-Musgo
 
-A tribo **Masca-Musgo** habita o Oeste do Vale da Lama, estabelecida principalmente em [[Geografia/Raiz-Funda|Raiz-Funda]] e arredores. São os guardiões diretos de [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]] e os maiores conhecedores do Musgo Dourado.
+## Descrição
 
-## Valores
+Os **Masca-Musgo** habitam o Oeste do [[Geografia/Vale da Lama|Vale da Lama]], concentrados em [[Geografia/Raiz-Funda|Raiz-Funda]] e nos manguezais vizinhos. São goblins de pele esverdeada-acinzentada, frequentemente manchada por líquens inofensivos, dentes escurecidos pelo hábito constante de mascar raízes e musgos suaves, e olhos grandes adaptados à penumbra sob os chapéus de cogumelo. Consideram-se os herdeiros legítimos de [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]] desde a [[Geografia/Vale da Lama#História  Origem A Grande Morte Lenta|Grande Morte Lenta]].
 
-Os Masca-Musgo valorizam:
-- **A decomposição sagrada**: Nada é desperdiçado; tudo retorna ao pântano
-- **A reciprocidade com os espíritos**: A lei da troca é levada a sério (veja [[Cosmologia/Animismo e Reciprocidade|Animismo e Reciprocidade]])
-- **O fogo como ferramenta, nunca como destruição**: O tabu contra queimar corpos é absoluto (veja [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]])
-- **A lealdade à tribo acima de tudo**: O indivíduo existe para servir o coletivo
+## Valores e Cultura
+
+- **Decomposição Sagrada:** Nada é desperdiçado; todo corpo retorna ao solo para alimentar o ciclo (veja [[Cosmologia/Nyog'Sothep e o Musgo Dourado#O Ciclo da Devolução|O Ciclo da Devolução]]).
+- **Reciprocidade:** Respeito rigoroso à [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]] ao colher, caçar ou viajar pelo pântano.
+- **Fogo como Ferramenta:** Uso estritamente controlado do fogo em forjas isoladas e fogareiros baixos, com proibição absoluta de queimar corpos ou usar chamas em combate (veja [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]).
+- **Comércio e Diplomacia:** Mantêm trocas regulares de quitina, peles e reagentes alquímicos com os nômades [[Tribos/Tece-Pele|Tece-Pele]], enquanto preservam uma trégua tensa com os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] e evitam contato direto com os [[Tribos/Ventre-Inchado|Ventre-Inchado]].
 
 ## Organização Social
 
-A tribo é organizada hierarquicamente:
+A tribo é organizada hierarquicamente (detalhes completos em [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]]):
 
 1. **Sacerdote-Chefe Malok** — líder espiritual e político máximo
-2. **Zog (Xamã Animista)** — intermediário com os Pequenos Espíritos
-3. **Irmãos Snakk e Drig** — Coveiros-Sacerdotes do Jardim Dourado
-4. **Varga (Capitã da Guarda)** — comandante militar
-5. **Kruk (Mestre dos Caçadores)** — líder das caçadas sagradas
-6. **Vó Mofo-Velho (Decana)** — sabedoria ancestral
+2. **Zog (Xamã Animista / Voz-de-Esporo)** — conselheiro da [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]]
+3. **Irmãos Snakk e Drig** — Coveiros-Sacerdotes do [[Geografia/Raiz-Funda#O Jardim Dourado|Jardim Dourado]]
+4. **Varga (Capitã da Guarda)** — comandante da vigilância e defesa
+5. **Kruk (Mestre dos Caçadores)** — líder das [[Cacadas/Rumores e Deuses-Fera Menores|caçadas sagradas]]
+6. **Vó Mofo-Velho (Decana)** — guardiã da memória oral
 7. **Velho Rói-Raiz** — Juiz das Disputas
 
-## Relação com Nyog'Sothep
+## Ganchos de Aventura
 
-Os Masca-Musgo acreditam que são os filhos escolhidos de Nyog'Sothep. O Musgo Dourado cresce mais abundantemente em suas terras, e seus xamãs conseguem ouvir a "voz do pântano" — os sussurros dos cogumelos e dos cogumelos-dourados.
-
-Eles praticam a decomposição controlada de corpos no Jardim Dourado e usam o Musgo Dourado para cura e rituais.
+- Jovens iniciados precisam provar seu valor nas [[Cacadas/Rumores e Deuses-Fera Menores|caçadas do brejo]] sem violar o Código do Fogo nem a Lei da Troca.
+- A trégua com os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] ameaça romper-se por causa das grandes fogueiras na Costa Salobra.
 
 ---
 
-**Veja também:** [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep e o Musgo Dourado]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]]
+**Veja também:** [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep e o Musgo Dourado]], [[Geografia/Raiz-Funda|Raiz-Funda]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Cosmologia/Animismo e Reciprocidade|Animismo e Reciprocidade]], [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]

@@ -7,43 +7,35 @@ aliases: ["Tribo Nômade", "Tece-Pele", "Deusa-Fera Aranha", "Fio-Eterno", "Teia
 <div class="infobox">
   <div class="infobox-title">Tece-Pele</div>
   <table>
-    <tr><td><b>Tipo</b></td><td>Tribo nômade</td></tr>
-    <tr><td><b>Localização</b></td><td>Percorre todo o Vale da Lama</td></tr>
-    <tr><td><b>Deidade</b></td><td>Deusa-Fera Aranha</td></tr>
-    <tr><td><b>Símbolo</b></td><td>[[Tribos/Tece-Pele#A Teia Prateada|Teia Prateada]]</td></tr>
-    <tr><td><b>Prática</b></td><td>Suturas em carne viva</td></tr>
-    <tr><td><b>Relação</b></td><td>Comerciantes de quitina</td></tr>
+    <tr><td><b>Tipo</b></td><td>Facção / Tribo Nômade</td></tr>
+    <tr><td><b>Base</b></td><td>Acampamentos suspensos pelo [[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
+    <tr><td><b>Deidade</b></td><td>Deusa-Fera Aranha (Fio-Eterno)</td></tr>
+    <tr><td><b>Objetivo</b></td><td>Comércio neutro, mensageiros e cobrança de dívidas</td></tr>
+    <tr><td><b>Aliados / Rivais</b></td><td>Trocas regulares com [[NPCs/Elenco de Raiz-Funda|Biba]] ([[Tribos/Masca-Musgo|Masca-Musgo]])</td></tr>
+    <tr><td><b>Símbolo</b></td><td>Teia Prateada</td></tr>
   </table>
 </div>
 
 # Tece-Pele
 
-A tribo **Tece-Pele** é nômade, percorrendo todo o Vale da Lama sem se fixar em um único local. São adoradores da **Deusa-Fera Aranha**, entidade de oito patas que tece o destino de todos no pântano.
+## Descrição
 
-## Culto à Deusa-Fera Aranha
+A tribo **Tece-Pele** é nômade, deslocando-se por todo o [[Geografia/Vale da Lama|Vale da Lama]] sem se fixar em uma única aldeia. Seus integrantes erguem acampamentos temporários suspensos nas copas baixas e raízes aéreas, sempre marcados pela **Teia Prateada** — uma rede complexa tecida com seda real de aranhas gigantes do pântano. Adoram a **Deusa-Fera Aranha**, entidade de oito patas que tece o **Fio-Eterno**, conectando todas as ações e dívidas do vale.
 
-A Deusa-Fera Aranha é representada como uma aranha gigantesca de seda prateada. Ela tece o **Fio-Eterno**, uma teia metafórica que conecta todas as criaturas do Vale da Lama. Cada ação ressoa na teia, e cada vida é um fio que pode ser cortado ou fortalecido.
+## Suturas em Carne Viva e Cobrança de Dívidas
 
-## Suturas em Carne Viva
+Os Tece-Pele são cirurgiões e artesãos temidos e respeitados por sua destreza com agulhas de osso fino e fio de seda de aranha (que é resistente e se decompõe lentamente). Realizam **suturas em carne viva** para:
+- Fechar ferimentos graves em combate (enquanto a vítima ainda está consciente)
+- Celebrar rituais de união entre aliados (costurando dois indivíduos juntos simbolicamente)
+- Implantar placas de pele e quitina diretamente no corpo como proteção
 
-Os Tece-Pele são conhecidos por sua habilidade com agulha e linha. Eles fazem **suturas em carne viva** como:
-- Cura de ferimentos graves (costurando ferimentos enquanto a vítima ainda está consciente)
-- Rituais de união (costurando dois indivíduos juntos simbolicamente)
-- Modificações corporais (adicionando peças de pele ou quitina ao próprio corpo)
+Atuam como mensageiros e mercadores neutros — mantendo trocas frequentes com [[NPCs/Elenco de Raiz-Funda|Biba]] em [[Geografia/Raiz-Funda|Raiz-Funda]] — mas nunca esquecem uma dívida (ecoando a [[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]] do pântano). Quem deixa de pagar o que deve a um Tece-Pele é marcado no rosto com tinta preta da teia, excluído das trocas e fica sujeito a cobrança forçada em mercadoria ou em carne.
 
-Essas suturas são feitas com fio de seda de aranha, que é resistente e se decompõe lentamente.
+## Ganchos de Aventura
 
-## Cobrança de Dívidas
-
-Os Tece-Pele não esquecem dívidas. Se alguém deve algo a um membro da tribo — seja comida, proteção ou um favor — a cobrança é feita com precisão aranha. A dívida é "costurada" na memória do devedor, e o não pagamento resulta em:
-- Marcação com tinta preta (símbolo da teia)
-- Exclusão de trocas com a tribo
-- Em casos extremos, suturas forçadas como "pagamento em carne"
-
-## A Teia Prateada
-
-A **Teia Prateada** é o símbolo máximo da Deusa-Fera Aranha. É uma teia física de seda prateada que os Tece-Pele constroem em seus acampamentos temporários. Quem se emaranha nela é considerado marcado pela deusa.
+- Um acampamento com Teia Prateada surgiu próximo a [[Geografia/Raiz-Funda|Raiz-Funda]] para cobrar uma dívida antiga envolvendo quitina negociada com [[NPCs/Elenco de Raiz-Funda|Biba]].
+- O [[Cacadas/Rumores e Deuses-Fera Menores|Tecelão-de-Ossos]] tem sido visto nas raízes de mangue, e os Tece-Pele disputam se ele é um arauto ou uma abominação do Fio-Eterno.
 
 ---
 
-**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]] (Biba, Artesã de Quitina — tem relações comerciais com Tece-Pele)
+**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Tribos/Masca-Musgo|Masca-Musgo]], [[Cacadas/Rumores e Deuses-Fera Menores|Rumores e Deuses-Fera Menores]]

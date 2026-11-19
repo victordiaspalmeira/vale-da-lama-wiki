@@ -1,49 +1,45 @@
 ---
 title: Animismo e Reciprocidade
-tags: [cosmologia, animismo, espiritos]
+tags: [cosmologia, animismo, espiritos, lei-da-troca]
 aliases: ["Animismo do Vale", "Pequenos Espíritos", "Lei da Troca"]
 ---
 
 <div class="infobox">
   <div class="infobox-title">Animismo e Reciprocidade</div>
   <table>
-    <tr><td><b>Tipo</b></td><td>Sistema de crenças</td></tr>
-    <tr><td><b>Entidades</b></td><td>[[Cosmologia/Animismo e Reciprocidade#Os Pequenos Espíritos|Pequenos Espíritos]]</td></tr>
+    <tr><td><b>Tipo</b></td><td>Crença cotidiana do pântano</td></tr>
     <tr><td><b>Princípio</b></td><td>[[Cosmologia/Animismo e Reciprocidade#A Lei da Troca|Lei da Troca]]</td></tr>
-    <tr><td><b>Deidade Servida</b></td><td>[[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]]</td></tr>
-    <tr><td><b>Xamã</b></td><td>[[NPCs/Elenco de Raiz-Funda#Zog|Zog, o Voz-de-Esporo]]</td></tr>
+    <tr><td><b>Fonte</b></td><td>[[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]] e forças primordiais</td></tr>
+    <tr><td><b>Conselheiro</b></td><td>[[NPCs/Elenco de Raiz-Funda|Zog (Xamã Animista)]]</td></tr>
+    <tr><td><b>Região</b></td><td>[[Geografia/Vale da Lama|Vale da Lama]]</td></tr>
   </table>
 </div>
 
 # Animismo e Reciprocidade
 
-No Vale da Lama, tudo tem espírito. Cada árvore, cada pedra, cada poça de água parada e cada cogumelo abriga um **Pequeno Espírito** — entidades menores, sem nome próprio, que habitam o mundo material e influenciam o cotidiano dos Masca-Musgo e de todas as criaturas do pântano.
+## Descrição
 
-## Os Pequenos Espíritos
-
-Os Pequenos Espíritos não são deuses. Não têm templos, não exigem sacrifícios de sangue e não respondem a orações formais. Eles são vozes sussurrantes no vento, brilhos entre os cogumelos, sombras que se movem sozinhas entre as raízes. Alguns são benéficos, outros traiçoeiros, e a maioria é indiferente — mas todos exigem respeito.
-
-Um Pequeno Espírito pode:
-- Abençoar uma caçada se for oferecido algo em troca
-- Amaldiçoar um caminho se for ignorado ou ofendido
-- Esconder objetos, doençar animais ou guiar viajantes perdidos
+Para os habitantes do [[Geografia/Vale da Lama|Vale da Lama]], o pântano não é um cenário inerte — é um organismo vivo e atento, permeado pela vontade de [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]] e pelas forças primordiais que habitam as águas, as raízes e os fungos. Uma jangada lembra da árvore de onde foi cortada; uma lança de osso carrega o peso da besta que a cedeu; e cada trilha na lama responde à maneira como é tratada.
 
 ## A Lei da Troca
 
-O princípio central do animismo local é a **lei da troca**: nada é dado de graça, nada é tomado sem preço. Para receber algo de um Pequeno Espírito, deve-se oferecer algo de igual ou maior valor.
+O princípio central da convivência cotidiana no vale é a **Lei da Troca**: nada no pântano é tomado de graça, e toda retirada exige compensação imediata. Antes de colher cogumelos medicinais, cortar madeira de raiz-ferro, beber de uma nascente desconhecida ou abater uma presa em uma [[Cacadas/Rumores e Deuses-Fera Menores|caçada]], um habitante do vale realiza um gesto simples de reciprocidade:
 
-Trocas comuns incluem:
-- Uma gota de sangue por proteção em uma viagem
-- Um objeto pessoal (anel, cabelo, dente) por sorte na caçada
-- Uma música ou história contada ao entardecer por uma noite de sono sem pesadelos
-- Uma parte da colheita de cogumelos por boa saúde das crianças
+- Pingar três gotas de sangue na raiz antes de entrar numa trilha densa para pedir passagem segura;
+- Enterrar um dente de leite, mecha de cabelo ou lasca de garra na lama ao acampar;
+- Cantar ou contar uma história em voz baixa ao anoitecer em sinal de respeito ao ambiente;
+- Deixar uma tigela de pasta fermentada na borda de uma poça parada antes de coletar água ou ervas;
+- Devolver o primeiro pedaço cru do coração de uma presa abatida ao musgo para honrar o ciclo.
 
-Quebrar uma troca é a pior ofensa que um Masca-Musgo pode cometer. O espírito ofendido se vinga com pragas, azar ou desaparecimento misterioso do ofensor.
+## O Preço da Quebra
 
-## Relação com Nyog'Sothep
+Aqueles que colhem sem pedir, matam por esporte ou desrespeitam os locais sagrados atraem a hostilidade do próprio pântano: trilhas parecem fechar-se sob seus pés, ferramentas apodrecem ou se perdem na lama, ferimentos inflamam com facilidade e predadores locais passam a seguir seu rastro. Quando um habitante ou visitante precisa reparar uma quebra da Lei da Troca, recorre a [[NPCs/Elenco de Raiz-Funda|Zog]], o Xamã Animista, que orienta qual oferenda ou restituição deve ser devolvida ao solo.
 
-Embora os Pequenos Espíritos sejam entidades menores, eles servem indiretamente a [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep]], o deus fúngico dos Masca-Musgo. O ciclo de decomposição que Nyog'Sothep governa é o mesmo ciclo que alimenta os Pequenos Espíritos — quando algo morre no Vale da Lama, seu espírito se junta aos Pequenos Espíritos até ser reabsorvido pelo Musgo Dourado.
+## Ganchos de Aventura
+
+- Um grupo de viajantes colheu [[Cosmologia/Nyog'Sothep e o Musgo Dourado#O Musgo Dourado Aurumycota sothepi|Musgo Dourado]] sem oferenda e agora todas as suas trilhas dão em círculos na neblina.
+- [[NPCs/Elenco de Raiz-Funda|Velho Rói-Raiz]] e [[NPCs/Elenco de Raiz-Funda|Zog]] divergem sobre a restituição devida após uma caçada mal conduzida.
 
 ---
 
-**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep e o Musgo Dourado]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]] (Zog, o Xamã Animista)
+**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]], [[Cosmologia/Nyog'Sothep e o Musgo Dourado|Nyog'Sothep e o Musgo Dourado]], [[NPCs/Elenco de Raiz-Funda|Elenco de Raiz-Funda]], [[Cacadas/Rumores e Deuses-Fera Menores|Rumores e Deuses-Fera Menores]]
