@@ -10,7 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "Wiki do Vale da Lama",
     pageTitleSuffix: " | Pathfinder 2e Remaster",
-    enableSPA: true,
+    enableSPA: false,
     enablePopovers: true,
     analytics: null,
     locale: "pt-BR",
