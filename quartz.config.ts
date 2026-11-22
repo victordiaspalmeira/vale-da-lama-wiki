@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Vale da Lama - Goblinoides",
-    pageTitleSuffix: " | Pathfinder 2e Remaster",
+    pageTitleSuffix: " | Vale da Lama - Goblinoides",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,

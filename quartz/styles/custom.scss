@@ -383,8 +383,9 @@ article img {
 }
 
 .hub-card-image {
-  flex: 0 0 96px;
-  width: 96px;
+  flex: 0 0 150px;
+  width: 150px;
+  max-width: 45%;
   margin: 0 !important;
 }
 
@@ -446,5 +447,10 @@ blockquote.epigraph {
 
   .hub-grid {
     grid-template-columns: 1fr;
+  }
+
+  .hub-card-image {
+    flex: 0 0 115px;
+    width: 115px;
   }
 }
