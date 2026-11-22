@@ -17,6 +17,7 @@ O **[[Geografia/Vale da Lama|Vale da Lama]]** é uma bacia pantanosa vasta, úmi
 <div class="hub-grid">
   <div class="hub-card">
     <div class="hub-card-title"><a href="./Geografia/Lugares" class="internal">Geografia &amp; Mapa</a></div>
+    <div class="hub-card-image"><img src="./assets/raiz-funda.jpg" alt="Raiz-Funda e o Vale da Lama" /></div>
     <p>Regiões do pântano, santuários, ruínas antigas e fronteiras fora do vale.</p>
     <ul>
       <li><a href="./Geografia/Vale-da-Lama" class="internal">Vale da Lama (Mapa e Guia)</a></li>
@@ -28,6 +29,7 @@ O **[[Geografia/Vale da Lama|Vale da Lama]]** é uma bacia pantanosa vasta, úmi
 
   <div class="hub-card">
     <div class="hub-card-title"><a href="./Tribos/Tribos" class="internal">Tribos &amp; Povos</a></div>
+    <div class="hub-card-image"><img src="./assets/masca-musgo.jpg" alt="Guerreiros e batedores Masca-Musgo" /></div>
     <p>As tribos goblins do pântano, seus ofícios, disputas e antigos senhores.</p>
     <ul>
       <li><a href="./Tribos/Masca-Musgo" class="internal">Masca-Musgo</a> (Oeste)</li>
@@ -39,6 +41,7 @@ O **[[Geografia/Vale da Lama|Vale da Lama]]** é uma bacia pantanosa vasta, úmi
 
   <div class="hub-card">
     <div class="hub-card-title"><a href="./Cosmologia/Cosmologia" class="internal">Cosmologia &amp; Deuses</a></div>
+    <div class="hub-card-image"><img src="./assets/nyog-sothep.jpg" alt="A Manifestação do Enxame de Nyog'Sothep" /></div>
     <p>Divindades, leis espirituais, tabus e relíquias do pântano.</p>
     <ul>
       <li><a href="./Cosmologia/Nyog'Sothep" class="internal">Nyog'Sothep</a> (<a href="./Cosmologia/Deus-Verdadeiro" class="internal">Deus Verdadeiro</a>)</li>
@@ -50,6 +53,7 @@ O **[[Geografia/Vale da Lama|Vale da Lama]]** é uma bacia pantanosa vasta, úmi
 
   <div class="hub-card">
     <div class="hub-card-title"><a href="./NPCs/NPCs" class="internal">NPCs &amp; Exilados</a></div>
+    <div class="hub-card-image"><img src="./assets/malok.jpg" alt="Sacerdote-Chefe Malok" /></div>
     <p>Líderes, artesãos, guardiões e antigos moradores banidos de Raiz-Funda.</p>
     <ul>
       <li><a href="./NPCs/NPCs" class="internal">Diretório Completo de NPCs</a></li>
@@ -61,6 +65,7 @@ O **[[Geografia/Vale da Lama|Vale da Lama]]** é uma bacia pantanosa vasta, úmi
 
   <div class="hub-card">
     <div class="hub-card-title"><a href="./Criaturas/Criaturas" class="internal">Criaturas &amp; Feras</a></div>
+    <div class="hub-card-image"><img src="./assets/ulok.jpg" alt="Ulok, a Grande Javali" /></div>
     <p>Feras colossais, crias de Deuses-Fera e perigos fora dos limites.</p>
     <ul>
       <li><a href="./Criaturas/Pinça-de-Sal" class="internal">Pinça-de-Sal (Cria de Karkinos)</a></li>
@@ -71,6 +76,7 @@ O **[[Geografia/Vale da Lama|Vale da Lama]]** é uma bacia pantanosa vasta, úmi
 
   <div class="hub-card">
     <div class="hub-card-title"><a href="./Historia/Historia" class="internal">História &amp; Tradições</a></div>
+    <div class="hub-card-image"><img src="./assets/ruinas-dos-sem-nome.jpg" alt="Ruínas dos Sem-Nome" /></div>
     <p>A queda dos antigos mestres, a linha do tempo e os ritos do vale.</p>
     <ul>
       <li><a href="./Historia/Linha-do-Tempo" class="internal">Linha do Tempo do Vale</a></li>
