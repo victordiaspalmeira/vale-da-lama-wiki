@@ -52,9 +52,9 @@ O **[[Geografia/Vale da Lama|Vale da Lama]]** é uma bacia pantanosa vasta, úmi
   </div>
 
   <div class="hub-card">
-    <div class="hub-card-title"><a href="./NPCs/NPCs" class="internal">NPCs &amp; Exilados</a></div>
+    <div class="hub-card-title"><a href="./NPCs/NPCs" class="internal">NPCs</a></div>
     <div class="hub-card-image"><img src="./assets/malok.jpg" alt="Sacerdote-Chefe Malok" /></div>
-    <p>Líderes, artesãos, guardiões e antigos moradores banidos de Raiz-Funda.</p>
+    <p>Goblins de renome, figuras infames e outras criaturas notáveis do pântano.</p>
     <ul>
       <li><a href="./NPCs/NPCs" class="internal">Diretório Completo de NPCs</a></li>
       <li><a href="./Geografia/Raiz-Funda#moradores-e-líderes" class="internal">Moradores de Raiz-Funda</a></li>
