@@ -1,10 +1,10 @@
 ---
 title: Início
 tags: [início, visao-geral]
-aliases: ["Wiki do Vale da Lama", "Página Inicial"]
+aliases: ["Wiki do Vale da Lama", "Vale da Lama - Goblinoides", "Página Inicial"]
 ---
 
-# Wiki do Vale da Lama
+# Vale da Lama - Goblinoides
 
 <blockquote class="epigraph">"Na névoa onde o fogo perde a voz e o ferro apodrece em silêncio, nada pertence a quem caminha. A água cobra o peso do passo, a raiz lembra o rosto de quem passa, e o vale só poupa quem aprendeu a pedir antes de colher."<br>— <a href="./NPCs/Zog" class="internal">Zog</a>, Voz-de-Esporo de Raiz-Funda</blockquote>
 

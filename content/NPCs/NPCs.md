@@ -23,6 +23,8 @@ Diretório de personagens nomeados do vale. Para antigos moradores banidos de Ra
 | [[NPCs/Vó Mofo-Velho\|Vó Mofo-Velho]] | Decana | [[Tribos/Masca-Musgo\|Masca-Musgo]] | [[Geografia/Raiz-Funda#A Casa do Ancião\|Casa do Ancião]] |
 | [[NPCs/Snikk\|Snikk]] | Curandeiro-Chefe | [[Tribos/Masca-Musgo\|Masca-Musgo]] | [[Geografia/Raiz-Funda\|Raiz-Funda]] |
 | [[NPCs/Murok\|Murok]] | O Ancião Centenário (+120 anos) | [[Tribos/Ventre-Inchado\|Ventre-Inchado]] | [[Geografia/Aguas Paradas Profundas\|Águas Paradas Profundas]] |
+| [[NPCs/Korrak Olho-de-Sal\|Korrak Olho-de-Sal]] | Xamã-Chefe das Áreas de Desova | [[Tribos/Ferve-Alga (Olhos-Vermelhos)\|Ferve-Alga (Olhos-Vermelhos)]] | [[Geografia/Costa Salobra\|Costa Salobra]] |
+| [[NPCs/Krakka Agulha-Fria\|Krakka Agulha-Fria]] | Porta-Voz e Tecelã-Mestra | [[Tribos/Tece-Pele\|Tece-Pele]] | [[Geografia/Copas da Teia Prateada\|Copas da Teia Prateada]] |
 | [[NPCs/Cinderath\|Cinderath]] | A Grande Tirana (Matriarca, morta) | [[Tribos/Povo Dragão\|Povo Dragão]] | [[Geografia/Lago da Grande Tirana\|Lago da Grande Tirana]] |
 | [[NPCs/Vexar\|Vexar]] | Dragão Vermelho jovem (morto) | [[Tribos/Povo Dragão\|Povo Dragão]] | [[Geografia/Montanhas do Oeste\|Montanhas do Oeste]] |
 

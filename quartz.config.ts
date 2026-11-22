@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Wiki do Vale da Lama",
+    pageTitle: "Vale da Lama - Goblinoides",
     pageTitleSuffix: " | Pathfinder 2e Remaster",
     enableSPA: true,
     enablePopovers: true,

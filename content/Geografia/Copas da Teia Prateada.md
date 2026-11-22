@@ -39,6 +39,7 @@ As **Copas da Teia Prateada** formam a faixa de manguezais altos e canais estrei
 - **Acampamentos Suspensos:** Em vez de construções fixas na lama, os nômades [[Tribos/Tece-Pele|Tece-Pele]] montam aqui seus acampamentos temporários — esticando redes, tendas de couro curtido e passarelas suspensas presas por fios resistentes da **[[Tribos/Teia Prateada|Teia Prateada]]**, erguida como símbolo sagrado de [[Deuses-Fera/Mael'ra|Mael'ra]].
 
 ### NPCs e Criaturas da Região
+- **[[NPCs/Krakka Agulha-Fria|Krakka Agulha-Fria]]:** Porta-voz e tecelã-mestra dos [[Tribos/Tece-Pele|Tece-Pele]], vista com frequência coordenando trocas e suturas nos acampamentos do dossel.
 - **[[Tribos/Tece-Pele|Nômades Tece-Pele]]:** Usam as copas como ponto de passagem, descanso e coleta de seda entre suas viagens pelo pântano.
 - **[[Criaturas/Aranhas Gigantes do Dossel|Aranhas Gigantes do Dossel]]:** A principal fonte de seda prateada da região.
 

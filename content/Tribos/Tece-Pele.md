@@ -14,7 +14,7 @@ aliases: ["Tribo Nômade", "Tece-Pele", "Deusa-Fera Aranha", "Fio-Eterno", "Teia
     <tr><td><b>Território</b></td><td>Todo o <a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a></td></tr>
     <tr><td><b>Base</b></td><td>Acampamentos suspensos (<a href="../Geografia/Copas-da-Teia-Prateada" class="internal">Copas da Teia Prateada</a>)</td></tr>
     <tr><td><b>Devoção</b></td><td><a href="../Deuses-Fera/Mael'ra" class="internal">Mael'ra (Deusa-Fera Aranha)</a></td></tr>
-    <tr><td><b>Liderança</b></td><td>*A preencher*</td></tr>
+    <tr><td><b>Liderança</b></td><td><a href="../NPCs/Krakka-Agulha-Fria" class="internal">Krakka Agulha-Fria</a> (porta-voz itinerante)</td></tr>
     <tr><td><b>Relações</b></td><td>Trocas regulares com <a href="../NPCs/Birka" class="internal">Birka</a> (<a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a>)</td></tr>
   </table>
 </div>

@@ -38,7 +38,7 @@ O solo da costa é marcado por crostas brancas de salitre seco, manguezais baixo
 - **Áreas Sagradas de Desova:** Enseadas rasas e protegidas onde crustáceos gigantes e descendentes de [[Deuses-Fera/Karkinos|Karkinos]] depositam ovos. A entrada é proibida fora da estação de acasalamento, e durante ela exige permissão formal dos xamãs da tribo (veja [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|Territórios Sagrados de Desova]]).
 
 ### NPCs e Criaturas da Região
-- **[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Xamãs das Áreas de Desova]]:** Guardiões da lei costeira e das enseadas sagradas.
+- **[[NPCs/Korrak Olho-de-Sal|Korrak Olho-de-Sal]] e [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Xamãs das Áreas de Desova]]:** Guardiões da lei costeira e das enseadas sagradas.
 - **[[Deuses-Fera/Karkinos|Karkinos, o Deus-Caranguejo]]:** Adormecido sob a costa, governando as marés.
 - **[[Criaturas/Pinça-de-Sal|Pinça-de-Sal (Cria de Karkinos)]]:** Caranguejo-gigante jovem avistado nas águas rasas e canais de maré.
 

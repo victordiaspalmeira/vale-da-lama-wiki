@@ -14,7 +14,7 @@ aliases: ["Ferve-Alga", "Olhos-Vermelhos", "Tribo do Nordeste", "Deus-Caranguejo
     <tr><td><b>Território</b></td><td>Nordeste do <a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a></td></tr>
     <tr><td><b>Base</b></td><td><a href="../Geografia/Costa-Salobra" class="internal">Costa Salobra</a></td></tr>
     <tr><td><b>Devoção</b></td><td><a href="../Deuses-Fera/Karkinos" class="internal">Deus-Caranguejo Karkinos</a></td></tr>
-    <tr><td><b>Liderança</b></td><td>Xamãs das Áreas de Desova</td></tr>
+    <tr><td><b>Liderança</b></td><td><a href="../NPCs/Korrak-Olho-de-Sal" class="internal">Korrak Olho-de-Sal</a> e Xamãs das Áreas de Desova</td></tr>
     <tr><td><b>Relações</b></td><td>Trégua tensa / rivais dos <a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
   </table>
 </div>
