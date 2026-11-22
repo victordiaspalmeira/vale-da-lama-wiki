@@ -47,7 +47,7 @@ Entre os vivos, a **[[Tribos/Salmoura e Sal Cristalizado|salmoura fervente]]** �
 Violar essas enseadas é uma das ofensas mais graves conhecidas na costa. Os Ferve-Alga afirmam que quem invade ou caça nos berçários atrai diretamente a ira de [[Deuses-Fera/Karkinos|Karkinos]] — na forma de ataques de caranguejos gigantes, doenças severas na pele e afogamentos inexplicáveis em águas rasas (veja [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|Territórios Sagrados de Desova]]).
 
 ## História
-*A preencher.*
+Os Ferve-Alga habitam a [[Geografia/Costa Salobra|Costa Salobra]] e o pântano **desde tempos imemoriais**, muito antes da chegada dos [[Tribos/Masca-Musgo|Masca-Musgo]] vindos das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] após a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]]. Ao longo de gerações incontáveis, moldaram sua sobrevivência em torno das marés de [[Deuses-Fera/Karkinos|Karkinos]], das enseadas de desova e da fervura constante de algas e água salgada.
 
 ## Organização e Ocupações
 As aldeias dos Ferve-Alga erguem-se nas ilhotas mais secas da Costa Salobra, protegidas por **paliçadas construídas com conchas gigantes e ossos marinhos**. A autoridade religiosa e territorial concentra-se nos **Xamãs das Áreas de Desova**, responsáveis por vigiar o calendário das marés e conceder ou negar passagem às enseadas protegidas.

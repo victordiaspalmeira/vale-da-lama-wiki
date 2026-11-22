@@ -375,20 +375,32 @@ article img {
   text-decoration: underline;
 }
 
+.hub-card-body {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+
 .hub-card-image {
-  float: right;
-  width: 105px;
-  max-width: 38%;
-  margin: 0 0 0.5rem 0.75rem;
+  flex: 0 0 96px;
+  width: 96px;
+  margin: 0 !important;
 }
 
 .hub-card-image img {
   display: block;
-  width: 100%;
-  height: auto;
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
   margin: 0 !important;
   box-sizing: border-box;
   border: 1px solid var(--vale-border-dark);
+}
+
+.hub-card-content {
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 .hub-card p {
