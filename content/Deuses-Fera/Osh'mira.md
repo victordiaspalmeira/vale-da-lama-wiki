@@ -24,25 +24,25 @@ aliases: ["Osh'mira", "A Enguia-Pálida", "Enguia-Pálida"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Osh'mira**, conhecida na costa como **a Enguia-Pálida**, desliza pelas correntes salobras que ligam a [[Geografia/Costa Salobra|Costa Salobra]] ao [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]]. É uma entidade de porte e poder medianos, mas temida até pelos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]: onde ela caça, a própria água se torna armadilha invisível.
+**Osh'mira**, conhecida na costa como **a Enguia-Pálida**, desliza pelas correntes que ligam a [[Geografia/Costa Salobra|Costa Salobra]] ao [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]]. É uma entidade de porte e poder medianos, temida até pelos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] porque eletrifica a água onde caça.
 
 ## Aparência
-Estreita e comprida como uma corda de embarcação esticada, possui pele branca leitosa sem escamas, sem olhos e marcada por veias azuladas que brilham com faíscas pálidas segundos antes de o choque correr pela água.
+Estreita e comprida como uma corda esticada, de pele branca leitosa sem escamas, sem olhos e marcada por veias azuladas que brilham com faíscas pálidas antes de cada descarga.
 
 ## Personalidade e Maneirismos
-Rápida e inquieta, Osh'mira jamais fica parada no mesmo remanso. Ataca por reflexo qualquer vibração forte na água salobra — remos batendo, redes lançadas ou pernas chapinhando — paralisando a presa antes de puxá-la para o fundo.
+Rápida e inquieta, nunca permanece no mesmo remanso. Ataca por reflexo qualquer vibração forte na água — remos, redes lançadas ou pernas chapinhando — paralisando a presa antes de arrastá-la para o fundo.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Osh'mira evita as [[Geografia/Areas Sagradas de Desova|Áreas Sagradas de Desova]] guardadas por [[Deuses-Fera/Karkinos|Karkinos]], preferindo os canais externos onde a água do mar encontra a correnteza lodosa. Sua presença funciona como fronteira elétrica natural entre a costa e o delta.
+Evita as [[Geografia/Areas Sagradas de Desova|Áreas Sagradas de Desova]] guardadas por [[Deuses-Fera/Karkinos|Karkinos]], preferindo os canais externos onde a água do mar encontra a correnteza lodosa. Forma uma barreira elétrica natural entre a costa e o delta.
 
 ## Relações e Alianças
-* **[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]:** Pescadores da tribo recolhem imediatamente suas redes de osso quando sentem os pelos do braço arrepiarem sobre a água rasa.
+* **[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]:** Pescadores da tribo recolhem imediatamente as redes de osso quando sentem os pelos do braço arrepiarem sobre a água rasa.
 
 ## O que se Conta pelo Pântano
-- **O Arrepio Antes do Estalo:** Quem sente um formigamento metálico nos dedos ao segurar a vara de madeira na água salobra sabe que tem poucos segundos para erguer os pés acima do casco da jangada.
+- **O Arrepio Antes do Estalo:** Quem sente um formigamento metálico nos dedos ao segurar a vara na água salobra tem poucos segundos para tirar os pés de perto da borda da jangada.
 
 ---
 

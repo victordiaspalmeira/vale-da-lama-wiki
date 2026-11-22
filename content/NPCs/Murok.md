@@ -26,10 +26,10 @@ aliases: ["Murok", "Ancião Centenário", "O Ancião Centenário"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Murok**, chamado com temor de **Ancião Centenário**, é o mais velho dos anciãos vampíricos dos [[Tribos/Ventre-Inchado|Ventre-Inchado]] e a presença mais inquietante das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]. Enquanto gerações inteiras nas tribos vizinhas nascem, caçam e retornam ao lodo em poucas décadas, ele desafia o relógio da carne há mais de um século por meio dos rituais secretos de sangue dedicados a [[Deuses-Fera/Sss'kar|Sss'kar]].
+**Murok**, o **Ancião Centenário**, é o mais velho dos anciãos vampíricos dos [[Tribos/Ventre-Inchado|Ventre-Inchado]] nas [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]. Enquanto outros goblins vivem poucas décadas, ele ultrapassou um século de vida por meio dos rituais de sangue dedicados a [[Deuses-Fera/Sss'kar|Sss'kar]].
 
 ## Aparência
-Ultrapassados os **120 anos**, Murok foi reduzido a uma figura esquelética e consumida, de pele pálida quase translúcida esticada sobre os ossos. Seus olhos vermelhos retraem-se diante de qualquer claridade direta, adaptados apenas à penumbra úmida e ao silêncio pesado do fundo do brejo.
+Com mais de **120 anos**, Murok é uma figura esquelética de pele pálida quase translúcida esticada sobre os ossos. Seus olhos vermelhos evitam qualquer claridade direta, adaptados apenas à penumbra do fundo do brejo.
 
 ## Personalidade e Maneirismos
 *A preencher.*
@@ -38,16 +38,16 @@ Ultrapassados os **120 anos**, Murok foi reduzido a uma figura esquelética e co
 *A preencher.*
 
 ## Função e Ocupação
-Murok raramente abandona sua **câmara semi-submersa escavada sob os bancos de barro** nas profundezas do sul. Ali, na fronteira entre a água parada e a terra encharcada, prolonga a própria existência muito além do limite natural de sua espécie consumindo sangue em rituais secretos para [[Deuses-Fera/Sss'kar|Sss'kar]], atravessando semanas inteiras sem tocar em qualquer alimento sólido.
+Murok raramente sai de sua **câmara semi-submersa escavada sob os bancos de barro** no sul. Ali, prolonga a própria vida consumindo sangue em rituais secretos para [[Deuses-Fera/Sss'kar|Sss'kar]], passando semanas sem alimento sólido.
 
-Para sustentar esses ritos — e alimentar as oferendas exigidas pela sanguessuga Deus-Fera colossal —, os [[Tribos/Ventre-Inchado|Ventre-Inchado]] mantêm criadouros de [[Tribos/Sanguessugas Gigantes|sanguessugas gigantes]] em ânforas de barro e couro úmido, nutrindo o ciclo de sangue que mantém seu ancião vivo na escuridão.
+Para sustentar esses ritos e as oferendas à sanguessuga Deus-Fera colossal, os [[Tribos/Ventre-Inchado|Ventre-Inchado]] mantêm criadouros de [[Tribos/Sanguessugas Gigantes|sanguessugas gigantes]] em ânforas de barro e couro úmido.
 
 ## Relações e Alianças
-* **[[Deuses-Fera/Sss'kar|Sss'kar]]:** Dedica seus rituais secretos de sangue à sanguessuga Deus-Fera colossal do sul, atrelando sua longevidade antinatural à fome da divindade.
-* **[[Tribos/Ventre-Inchado|Ventre-Inchado]]:** Permanece como o líder mais antigo e reverenciado da tribo reclusa do sul, cuja palavra ecoa das câmaras submersas.
+* **[[Deuses-Fera/Sss'kar|Sss'kar]]:** Dedica rituais secretos de sangue à sanguessuga Deus-Fera colossal do sul, ligando sua longevidade à fome da divindade.
+* **[[Tribos/Ventre-Inchado|Ventre-Inchado]]:** Líder mais antigo e reverenciado da tribo reclusa do sul.
 
 ## O que se Conta pelo Pântano
-* **O Vivo que Recusa o Retorno:** Para os [[Tribos/Masca-Musgo|Masca-Musgo]], a longevidade de Murok é uma afronta direta à morte e ao *Ciclo da Devolução*. Batedores que vigiam a fronteira sul garantem que ninguém que rema fundo demais nas águas paradas volta inteiro para contar o que respira sob os bancos de barro.
+* **O Vivo que Recusa o Retorno:** Para os [[Tribos/Masca-Musgo|Masca-Musgo]], a longevidade de Murok afronta a morte e o *Ciclo da Devolução*. Batedores da fronteira sul garantem que ninguém que rema fundo demais nas águas paradas volta para contar o que vive sob os bancos de barro.
 
 ---
 

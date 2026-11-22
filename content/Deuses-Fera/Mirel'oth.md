@@ -24,25 +24,25 @@ aliases: ["Mirel'oth", "A Mariposa-Cinza", "Mariposa-Cinza"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Mirel'oth**, chamada em voz baixa de **a Mariposa-Cinza**, paira sem ruído entre os galhos altos das [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]]. Menos violenta em garras do que os predadores dos canais, essa divindade-fera de porte mediano mata pela exaustão e pelo sono — apagando brasas mal extintas e envolvendo vigias cansados em pó cinzento antes de sugar-lhes o calor do corpo.
+**Mirel'oth**, chamada de **a Mariposa-Cinza**, paira sem ruído entre os galhos altos das [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]]. Divindade-fera de porte mediano, mata por exaustão e sono: apaga brasas mal extintas e cobre vigias cansados com pó cinzento antes de sugar-lhes o calor do corpo.
 
 ## Aparência
-Suas asas largas têm a cor de cinza fria de fogueira apagada, riscadas por olhos falsos negros. Ao bater devagar no ar parado do dossel, solta uma poeira fina e seca que gruda na pele úmida e pesa nas pálpebras.
+Asas largas cor de cinza fria, marcadas por olhos falsos negros. Ao bater devagar no ar parado do dossel, solta uma poeira fina e seca que gruda na pele úmida e pesa nas pálpebras.
 
 ## Personalidade e Maneirismos
-Silenciosa e obstinada, Mirel'oth detesta luz forte e fogo vivo, mas é atraída por brasas agonizantes e corpos fatigados. Não trava duelos longos: se o alvo resiste ao entorpecimento e ergue lâminas firmes, ela sobe de volta para a folhagem escura.
+Silenciosa e obstinada, evita luz forte e fogo vivo, mas é atraída por brasas fracas e corpos exaustos. Não sustenta combates longos: se o alvo resiste ao torpor e ergue armas, recua para a folhagem.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Ronda o dossel alto durante as madrugadas frias em que o vento do [[Geografia/Mar das Brumas|Mar das Brumas]] diminui. Sua poeira seca apaga pequenas chamas descuidadas e mergulha sentinelas solitárias em sono pesado e difícil de despertar.
+Ronda o dossel alto nas madrugadas frias em que o vento do [[Geografia/Mar das Brumas|Mar das Brumas]] cai. Sua poeira seca apaga chamas pequenas e mergulha sentinelas isoladas em sono profundo.
 
 ## Relações e Alianças
-* **[[Tribos/Tece-Pele|Tece-Pele]]:** Mesmo os nômades do dossel mantém turnos duplos de vigília quando encontram escamas cinzentas soltas presas às bordas da [[Tribos/Teia Prateada|Teia Prateada]].
+* **[[Tribos/Tece-Pele|Tece-Pele]]:** Os nômades do dossel dobram a vigília sempre que encontram escamas cinzentas presas às bordas da [[Tribos/Teia Prateada|Teia Prateada]].
 
 ## O que se Conta pelo Pântano
-- **Cinza Sem Fogueira:** Se um acampamento suspenso acorda tarde com pó fino nos lábios e metade das peles geladas sem razão, todos sabem quem passou voando sem fazer vento.
+- **Cinza Sem Fogueira:** Quando um acampamento suspenso acorda tarde com pó fino nos lábios e metade das peles geladas sem motivo, sabe-se que Mirel'oth passou por cima.
 
 ---
 

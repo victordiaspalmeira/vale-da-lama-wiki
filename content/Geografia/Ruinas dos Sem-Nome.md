@@ -24,29 +24,30 @@ aliases: ["As Ruínas dos Sem-Nome", "Ruínas dos Sem-Nome", "As Pedras Mortas"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-As **Ruínas dos Sem-Nome** — que os goblins chamam de **As Pedras Mortas** — ocupam a península norte-central e as margens leste do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]. Erguidas muito antes dos dragões e dos próprios goblins, formam um enclave de pedra fria no meio do [[Geografia/Vale da Lama|Vale da Lama]] onde a podridão fértil do pântano parece perder força, deixando no lugar um silêncio seco e desconfortável.
+As **Ruínas dos Sem-Nome** — chamadas pelos goblins de **As Pedras Mortas** — ocupam a península norte-central e as margens leste do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]. Erguidas muito antes dos dragões e dos próprios goblins, formam um enclave de pedra fria no meio do [[Geografia/Vale da Lama|Vale da Lama]] onde a vegetação do brejo pouco vinga.
 
 ## Geografia e Ambiente
-Colunas estriadas partidas, arcos ogivais de mármore branco-acinzentado e torres arruinadas inclinam-se sobre a lama, parcialmente engolidas pela água rasa. Aqui o barro não cheira a esporos vivos nem a fermentação doce: o ar é frio contra a pele, carregando apenas o odor mineral de pedra molhada. Onde o musgo e os fungos conseguem se agarrar ao mármore liso, crescem ralos e doentios — contraste brusco com a fartura úmida que toma todo o resto do vale.
+Colunas estriadas partidas, arcos ogivais de mármore branco-acinzentado e torres arruinadas inclinam-se sobre a lama e a água rasa. O ar é frio e tem cheiro mineral de pedra molhada, sem o odor de esporos ou fermentação do restante do vale. Musgo e fungos crescem ralos e escassos sobre o mármore liso.
 
 ## História
-Uma **civilização élfica extinta** ergueu essas estruturas eras antes da chegada dos dragões ao vale, na mesma época das ruínas espalhadas pelas [[Geografia/Terras Verdejantes|Terras Verdejantes]]. Nenhum goblin sabe dizer quem foram seus construtores, que deuses invocavam ou o que os varreu dali, deixando apenas corredores inclinados e pedras lavradas para afundar lentamente no brejo.
+Uma **civilização élfica extinta** ergueu essas estruturas eras antes da chegada dos dragões ao vale, na mesma época das ruínas das [[Geografia/Terras Verdejantes|Terras Verdejantes]]. Os goblins desconhecem quem foram seus construtores, que deuses cultuavam ou o que causou sua queda.
 
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-Entre a água rasa e as raízes que tentam escalar o mármore, destacam-se os **Pavilhões Semi-Submersos**: átrios abertos onde troncos grossos abraçam arcos ogivais partidos, formando passarelas naturais e traiçoeiras acima da lâmina d'água. Abaixo deles escondem-se **Câmaras Seladas**, salões inferiores vedados contra a umidade do brejo onde o ar permanece parado há séculos. Pelas paredes e lintéis ainda sobrevivem **Inscrições Indecifráveis**, frisos gastos pela chuva em um alfabeto antigo que ninguém no vale consegue ler.
+- **Pavilhões Semi-Submersos:** Átrios abertos onde raízes grossas envolvem arcos ogivais partidos sobre a lâmina d'água.
+- **Câmaras Seladas:** Salões inferiores vedados contra a umidade do brejo, com ar parado há séculos.
+- **Inscrições Indecifráveis:** Frisos desgastados pela chuva em um alfabeto antigo que ninguém no vale lê.
 
 ### NPCs e Criaturas da Região
-Nenhuma tribo monta acampamento ou finca palafitas aqui. Para os [[Tribos/Masca-Musgo|Masca-Musgo]], o mármore é terra estéril e amaldiçoada — um ponto morto onde o ciclo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] recua e nada bom brota da podridão.
+Nenhuma tribo monta acampamento ou finca palafitas aqui. Para os [[Tribos/Masca-Musgo|Masca-Musgo]], o mármore é terra estéril e amaldiçoada, onde o ciclo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] não se sustenta.
 
 ## Perigos e Recursos
-Explorar as Pedras Mortas é caminhar sobre equilíbrio vencido pelo tempo. Lajes rachadas e arcos instáveis ameaçam ceder sob o peso de quem sobe neles, enquanto os acessos subterrâneos que mergulham sob a água permanecem fechados ao conhecimento das tribos.
-
-Ainda assim, o perigo atrai quem precisa de metal. Ferragens antigas e peças metálicas arrancadas dos pórticos são ocasionalmente aproveitadas por artesãos como [[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]], quando algum batedor tem coragem suficiente para trazê-las até a forja.
+- **Estrutura Instável:** Lajes rachadas e arcos antigos ameaçam ceder sob peso, e os acessos subterrâneos permanecem inexplorados pelas tribos.
+- **Ferragens Antigas:** Peças metálicas arrancadas dos pórticos são ocasionalmente aproveitadas por artesãos como [[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]], quando algum batedor se arrisca a buscá-las.
 
 ## O que se Conta pelo Pântano
-- **Criaturas de Fogo e Fumaça:** Nenhuma jangada atraca nas Pedras Mortas depois que o sol baixa. Pelas fogueiras contidas do vale, corre de boca em boca que **criaturas de fogo e fumaça** patrulham os túneis sob o mármore — e ninguém que desceu lá embaixo jamais voltou para desmentir.
+- **Criaturas de Fogo e Fumaça:** Nenhuma jangada atraca nas Pedras Mortas depois do pôr do sol. Corre entre as tribos que **criaturas de fogo e fumaça** patrulham os túneis sob o mármore e ninguém que desceu até lá voltou.
 
 ---
 

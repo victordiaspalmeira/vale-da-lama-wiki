@@ -44,7 +44,7 @@ Não há campos abertos nem caminhos firmes contínuos. O vale se divide em cana
 | [[Geografia/Terras Verdejantes\|Terras Verdejantes]] | Além das Ruínas (fora do vale) | [[Criaturas/Ulok\|Ulok, a Grande Javali]] | Alto |
 
 ## História
-Eras antes dos goblins, uma civilização élfica extinta ergueu os pórticos de mármore hoje conhecidos como [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]]. Séculos atrás, após a **[[Historia/A Grande Morte Lenta|Grande Morte Lenta]]** e a **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**, os goblins libertos das minas do oeste caçaram e exterminaram os [[Tribos/Povo Dragão|Dragões Vermelhos]] em fuga pelo vale — culminando na queda da Matriarca **Cinderath** nas profundezas do lago central. A decomposição secular desses corpos tornou as águas ácidas e turvas, abriu bolsões de gás sob a lama e adubou o solo para o [[Cosmologia/Micelio Dourado|Micélio Dourado]].
+Eras antes dos goblins do oeste, construtores antigos e desconhecidos ergueram os pórticos de mármore hoje conhecidos como [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]]. Séculos atrás, após a **[[Historia/A Grande Morte Lenta|Grande Morte Lenta]]** e a **[[Historia/Primeira Cacada Sagrada|Primeira Caçada Sagrada]]**, os goblins libertos das minas do oeste caçaram e exterminaram os [[Tribos/Povo Dragão|Dragões Vermelhos]] em fuga pelo vale — culminando na queda da Matriarca **[[NPCs/Cinderath|Cinderath]]** nas profundezas do lago central, que se tornou seu túmulo submerso.
 
 ## Sociedade e Pontos de Interesse
 1. **Centro — [[Geografia/Lago da Grande Tirana|O Lago da Grande Tirana]]:** Bacia circular funda e oleosa, evitada pelas tribos por servir de arena a feras espirituais e domínio a [[Deuses-Fera/Og'gath|Og'gath]].

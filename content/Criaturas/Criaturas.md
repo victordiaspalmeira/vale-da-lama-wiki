@@ -6,13 +6,13 @@ aliases: ["Criaturas", "Feras do Vale"]
 
 # Criaturas e Feras
 
-Fora das passarelas guardadas, dos cais de madeira encharcada e da vigília das fogueiras baixas, a fauna do [[Geografia/Vale da Lama|Vale da Lama]] obedece a uma lei mais antiga que qualquer pacto tribal: tudo o que vinga na névoa de esporos e na água parada aprende a matar em silêncio ou a tomar o território à força. Entre canais turvos onde o salitre corrói o casco das jangadas e o dossel estala sob o peso do lodo, nenhuma trilha é neutra e nenhum ruído na vegetação vem sem dono.
+Fora das passarelas guardadas, dos cais e do alcance das fogueiras, a fauna do [[Geografia/Vale da Lama|Vale da Lama]] é hostil e territorial. Nos canais turvos de água salobra e sob o dossel carregado de esporos, predadores atacam sem aviso e cada área de caça tem dono.
 
-Muitas das feras que rondam o brejo carregam sangue, vínculo ou servidão direta aos **[[Deuses-Fera/Deus-Fera|Deuses-Fera]]** — o que converte uma caçada apressada em sacrilégio. Ferir uma cria errada perto das [[Geografia/Areas Sagradas de Desova|Áreas Sagradas de Desova]] ou ao redor do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] raramente termina na morte do bicho: atrai a retaliação das tribos que o guardam e desperta o ressentimento de águas que nunca esquecem o cheiro de sangue derramado sem rito.
+Boa parte das feras do brejo possui sangue, vínculo ou servidão direta aos **[[Deuses-Fera/Deus-Fera|Deuses-Fera]]**, o que torna a caça indiscriminada um risco político e religioso. Ferir uma cria protegida perto das [[Geografia/Areas Sagradas de Desova|Áreas Sagradas de Desova]] ou do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] provoca retaliação imediata das tribos que a guardam.
 
 ## Diretório de Feras e Ameaças
 
-Abaixo reúnem-se as criaturas, crias divinas e presenças temidas cuja passagem deixou rastro conhecido pelos batedores do vale — além dos rumores que ainda afastam os goblins das fronteiras de pedra e mata limpa.
+Criaturas, crias divinas e ameaças conhecidas pelos batedores do vale, além dos rumores registrados nas fronteiras de pedra e mata limpa:
 
 | Criatura | Porte | Habitat | Perigo | Vínculo |
 |----------|-------|---------|--------|---------|

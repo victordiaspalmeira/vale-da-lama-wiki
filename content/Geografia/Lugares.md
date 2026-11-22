@@ -6,14 +6,14 @@ aliases: ["Lugares do Vale da Lama", "Regiões do Vale da Lama"]
 
 # Geografia e Lugares
 
-O **[[Geografia/Vale da Lama|Vale da Lama]]** forma uma bacia pantanosa fechada entre as escarpas áridas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], as águas frias do [[Geografia/Mar das Brumas|Mar das Brumas]] e as matas além das ruínas antigas. Rios lentos descem do oeste carregando sedimentos, turfa e restos orgânicos até convergir no grande espelho negro do centro do vale, antes de escoar em canais estreitos para o mar. Aqui não existem estradas calçadas nem marcos de pedra seguros: cada travessia é uma negociação entre o peso do corpo, a profundidade do lodo e a paciência de quem vigia as águas.
+O **[[Geografia/Vale da Lama|Vale da Lama]]** é uma bacia pantanosa fechada entre as escarpas áridas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], o [[Geografia/Mar das Brumas|Mar das Brumas]] e as matas além das ruínas antigas. Rios lentos descem do oeste carregando sedimentos, turfa e restos orgânicos até convergir na bacia central do vale, antes de escoar em canais estreitos para o mar. Não há estradas calçadas nem marcos de pedra: toda travessia depende de ler a profundidade do lodo e evitar quem vigia as águas.
 
 ## A Paisagem em Camadas
-Viajar pelo vale obriga o caminhante a escolher entre três andares igualmente traiçoeiros, cada qual com suas próprias regras de sobrevivência e seus próprios predadores:
+O vale se divide em três níveis principais de circulação, cada um com seus próprios obstáculos e predadores:
 
-Nos **Canais e Brejos**, o chão quase nunca sustenta quem caminha às cegas. Passagens rasas de lama engolem botas e jangadas sem aviso, e o único guia confiável são estacas de osso fincadas abaixo da superfície turva, cuja leitura exige olho treinado de batedor. Nas **Raízes e Palafitas**, a vida sedentária se agarra ao que permanece firme: ali os povos escavam moradias nos [[Geografia/Cogumelos Nodosos|Cogumelos Nodosos]], calafetam tábuas com piche contra a umidade e erguem passarelas e caldeirões acima da linha d'água. Mais alto ainda estende-se o **Dossel Superior**, um segundo mundo de galhos varridos pelo vento salgado do mar, onde os [[Tribos/Tece-Pele|Tece-Pele]] esticam redes de seda prateada muito acima da neblina parada que sufoca o chão.
+Nos **Canais e Brejos**, o chão raramente sustenta quem caminha às cegas. Passagens rasas de lama atolam botas e jangadas; o único guia confiável são estacas de osso fincadas abaixo da superfície turva, cuja leitura exige prática de batedor. Nas **Raízes e Palafitas**, concentram-se os assentamentos permanentes: ali os povos escavam moradias nos [[Geografia/Cogumelos Nodosos|Cogumelos Nodosos]], calafetam tábuas com piche contra a umidade e erguem passarelas e caldeirões acima da linha d'água. No **Dossel Superior**, os galhos altos varridos pelo vento salgado do mar abrigam os [[Tribos/Tece-Pele|Tece-Pele]], que esticam redes de seda prateada acima da neblina parada do brejo.
 
-Entre essas zonas habitadas permanecem clareiras, poços e ruínas que quase todos evitam por instinto ou juramento. Seja pelo peso silencioso das feras espirituais no lago central, pelo betume inflamável que borbulha a oeste ou pela esterilidade fria das pedras antigas, sair das rotas conhecidas raramente termina sem perda.
+Entre essas zonas habitadas permanecem clareiras, poços e ruínas evitados pelas tribos — seja pelas feras espirituais no lago central, pelo betume inflamável a oeste ou pela pedra fria das ruínas antigas. Sair das rotas conhecidas raramente termina sem perda.
 
 ## Diretório de Regiões e Marcos
 

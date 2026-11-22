@@ -24,26 +24,26 @@ aliases: ["Charr'uk", "A Tartaruga-Mofo", "Tartaruga-Mofo"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Charr'uk**, chamada de **a Tartaruga-Mofo**, cochila meio submersa nos bancos de lama mornos a oeste das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]. Tão lenta que muitas vezes passa por uma pequena ilhota de terra firme, é um dos poucos Deuses-Fera menores que toleram a presença silenciosa de viajantes — contanto que ninguém lhe fira o casco nem traga fogo para perto de sua carapaça.
+**Charr'uk**, chamada de **a Tartaruga-Mofo**, cochila meio submersa nos bancos de lama a oeste das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]. Lenta a ponto de parecer uma ilhota firme, é um dos poucos Deuses-Fera menores que toleram viajantes silenciosos — desde que ninguém lhe fira o casco nem acenda fogo por perto.
 
 ## Aparência
-Seu casco largo e rachado parece um pedaço de barranco arrastado pela cheia, sustentando tufos de musgo comum, líquen cinzento e pequenas samambaias enraizadas nas frestas da pedra viva.
+Seu casco largo e rachado lembra um barranco arrastado pela cheia, coberto por musgo comum, líquen cinzento e pequenas samambaias.
 
 ## Personalidade e Maneirismos
-Pacífica até a teimosia, Charr'uk mal abre os olhos amarelados quando uma jangada encosta em sua borda. Aceita com calma que batedores exaustos subam em seu casco para descansar fora da água — mas, ao sentir o menor cheiro de fumaça ou o calor de uma brasa, afunda de uma vez na lama profunda para apagar o atrevido junto consigo.
+Pacífica e teimosa, mal abre os olhos amarelos quando uma jangada encosta em sua borda. Aceita que batedores exaustos descansem sobre o casco, mas ao menor cheiro de fumaça ou calor de brasa afunda de vez na lama para apagar o fogo junto com quem o trouxe.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Viajantes que deixam algumas raízes doces ou brotos frescos na água diante de seu focinho ganham uma pausa rara acima da linha dos brejos. Sua carapaça funciona como refúgio temporário contra predadores menores da água rasa, desde que o silêncio seja respeitado.
+Viajantes que deixam raízes doces ou brotos frescos diante de seu focinho ganham um ponto de descanso seco acima dos brejos. O casco serve de refúgio temporário contra predadores menores da água rasa, desde que em silêncio.
 
 ## Relações e Alianças
-* **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]:** À margem da tribo [[Tribos/Masca-Musgo|Masca-Musgo]] e indiferente aos ritos de [[Geografia/Raiz-Funda|Raiz-Funda]], Charr'uk é tida como serva da vontade de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] — carregando musgo vivo nas costas e afundando sem piedade quem ousa profanar a água parada com fogo.
-* **Viajantes e Exilados:** Quem cruza o limite entre o oeste e o sul sem abrigo seguro às vezes torce para encontrar a "ilhota que respira devagar".
+* **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]:** À margem da tribo [[Tribos/Masca-Musgo|Masca-Musgo]] e indiferente aos ritos de [[Geografia/Raiz-Funda|Raiz-Funda]], Charr'uk é tida como **serva da vontade de Nyog'Sothep** à parte da tribo, carregando musgo vivo nas costas e afundando quem profana a água parada com fogo.
+* **Viajantes e Exilados:** Quem cruza o limite entre o oeste e o sul sem abrigo seguro às vezes procura a "ilhota que respira devagar".
 
 ## O que se Conta pelo Pântano
-- **A Ilha que Afunda:** Dizem que um grupo de forasteiros acendeu uma fogueira pequena sobre uma ilhota de musgo no sul para secar as botas — e antes que a chama pegasse força, a ilha inteira abriu dois olhos amarelos e mergulhou levando tudo ao fundo.
+- **A Ilha que Afunda:** Contam que forasteiros acenderam uma fogueira sobre uma ilhota de musgo no sul para secar as botas; antes que o fogo pegasse força, a ilha abriu dois olhos amarelos e mergulhou com tudo.
 
 ---
 

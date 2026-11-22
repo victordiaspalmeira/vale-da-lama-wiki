@@ -26,28 +26,28 @@ aliases: ["Varga", "Capitã da Guarda"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Varga**, a **Capitã da Guarda** de [[Geografia/Raiz-Funda|Raiz-Funda]], transforma o mangue ancestral e os canais de lama ao redor da aldeia em uma barreira viva e silenciosa. Sob seu comando, raízes retorcidas e águas paradas deixam de ser apenas refúgio para se tornarem armadilha contra invasores, predadores e exilados que ousem tentar o caminho de volta.
+**Varga**, a **Capitã da Guarda** de [[Geografia/Raiz-Funda|Raiz-Funda]], comanda a defesa periférica da aldeia entre o mangue e os canais de lama, barrando invasores, predadores e exilados que tentem retornar.
 
 ## Aparência
 *A preencher.*
 
 ## Personalidade e Maneirismos
-Pragmática, severa e avessa a concessões, Varga não negocia quando o assunto toca a segurança das palafitas e as leis da tribo. Para ela, cada brecha tolerada hoje é um cadáver boiando nos canais amanhã.
+Pragmática, severa e avessa a concessões, Varga não negocia quando o assunto é a segurança das palafitas e as leis da tribo.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Varga comanda toda a defesa periférica de [[Geografia/Raiz-Funda|Raiz-Funda]]. Posiciona batedores e sentinelas no alto das arcadas de mangue, mantendo vigília contínua por meio de códigos de assobios que imitam aves e anfíbios do pântano para anunciar movimentos sem alertar quem se aproxima.
+Varga coordena batedores e sentinelas no alto das arcadas de mangue, usando códigos de assobios que imitam aves e anfíbios do pântano para transmitir alertas sem denunciar as posições da vigia.
 
-Sob a lâmina d'água escura, suas patrulhas mantêm as trilhas submersas sinalizadas apenas por estacas de osso, enquanto cercam os acessos externos da aldeia com armadilhas de brejo — redes de cipó trançado e estacas ocultas prontas para rasgar quem desviar do caminho certo.
+Sob a água escura, suas patrulhas mantêm as trilhas submersas marcadas apenas por estacas de osso e cercam os acessos externos com armadilhas de brejo — redes de cipó trançado e estacas ocultas para quem desvia da rota.
 
 ## Relações e Alianças
-* **[[Exilados/Exilados|Exilados]]:** Sob suas ordens diretas, as sentinelas recebem qualquer exilado que tente se reaproximar de Raiz-Funda com flechas de aviso fincadas na lama — e atiram para matar se o banido insistir em avançar um passo.
-* **[[Tribos/Jardineiros|Os Jardineiros]]:** A autoridade da guarda regular de Varga cessa exatamente nos limites externos do [[Geografia/Jardim Dourado|Jardim Dourado]]. Além daquelas pontes, a proteção do santuário e do [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] pertence exclusivamente aos Jardineiros, subordinados ao alto clero.
+* **[[Exilados/Exilados|Exilados]]:** Suas sentinelas recebem qualquer banido que se aproxime de Raiz-Funda com flechas de aviso fincadas na lama — e atiram para matar se o exilado der mais um passo.
+* **[[Tribos/Jardineiros|Os Jardineiros]]:** A autoridade da guarda de Varga termina nos limites externos do [[Geografia/Jardim Dourado|Jardim Dourado]]; além das pontes internas, a proteção do santuário e do [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] cabe apenas aos Jardineiros.
 
 ## O que se Conta pelo Pântano
-* **O Som antes da Flecha:** Quem se aproxima de Raiz-Funda fora das trilhas marcadas aprende cedo a distinguir o canto real de uma ave do assobio curto e seco das sentinelas de Varga — e descobre ainda mais depressa que um segundo aviso raramente vem sem uma ponta de osso cortando a neblina.
+* **O Som antes da Flecha:** Quem se aproxima de Raiz-Funda fora das trilhas marcadas aprende a distinguir o canto real de uma ave do assobio curto das sentinelas de Varga — um segundo aviso raramente vem sem uma ponta de osso.
 
 ---
 

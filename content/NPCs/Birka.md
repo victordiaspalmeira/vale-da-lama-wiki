@@ -26,12 +26,12 @@ aliases: ["Birka", "Mão-Ácida", "Birka, a Mão-Ácida"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Birka**, conhecida nos canais como a **Mão-Ácida**, extrai do lodo e das raízes aquilo que outros povos só arrancariam com fogo. Junto às passarelas úmidas do [[Geografia/Raiz-Funda#O Cais das Jangadas e Oficinas|Cais das Jangadas]], entre tonéis de madeira inchada e vapores que ardem nas narinas, ela fermenta seivas cáusticas e curte couros espessos sem jamais riscar uma única faísca.
+**Birka**, a **Mão-Ácida**, é a alquimista e curtidora de [[Geografia/Raiz-Funda|Raiz-Funda]]. Instalada junto às passarelas do [[Geografia/Raiz-Funda#O Cais das Jangadas e Oficinas|Cais das Jangadas e Oficinas]], produz seivas cáusticas, antídotos, filtros respiratórios e couros curtidos sem usar fogo.
 
-Sua oficina é um dos pilares silenciosos da sobrevivência em [[Geografia/Raiz-Funda|Raiz-Funda]]. Sem as peles tratadas, os antídotos e os filtros que saem de suas cubas frias, nenhum caçador [[Tribos/Masca-Musgo|Masca-Musgo]] atravessaria as regiões sufocantes do brejo ou voltaria inteiro das expedições além das arcadas de mangue.
+Suas cubas frias abastecem os caçadores [[Tribos/Masca-Musgo|Masca-Musgo]] com equipamento resistente à umidade e proteção contra os gases e venenos do brejo.
 
 ## Aparência
-Os anos inclinados sobre cubas de maceração cobraram seu preço na própria carne: Birka traz os **dedos manchados** de modo permanente por taninos escuros, seivas cáusticas e ácidos naturais do brejo, como se a pele tivesse absorvido a cor das misturas que manipula. Um cheiro acre, misto de casca fermentada, lodo azedo e reagentes frios, acompanha cada movimento seu — odor que impregna suas vestes úmidas e anuncia sua presença nas passarelas antes mesmo que seus passos soem na madeira.
+Birka tem os **dedos manchados** de forma permanente por taninos escuros, seivas cáusticas e ácidos naturais das cubas de maceração. Suas vestes úmidas carregam um cheiro acre de casca fermentada, lodo azedo e reagentes frios, perceptível à distância nas passarelas.
 
 ## Personalidade e Maneirismos
 *A preencher.*
@@ -40,16 +40,16 @@ Os anos inclinados sobre cubas de maceração cobraram seu preço na própria ca
 *A preencher.*
 
 ## Função e Ocupação
-Nos tonéis alinhados junto ao cais, Birka leva ao limite a disciplina da [[Tribos/Preparacao a Frio|Preparação a Frio]], obedecendo ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] em um ofício que, em outras terras, dependeria de caldeirões e fornalhas. Onde não há brasa, ela emprega tempo, podridão controlada e paciência: deixa que ervas, secreções e cascas do pântano trabalhem na sombra até gerarem elixires fermentados, ácidos corrosivos e antídotos capazes de conter venenos do brejo.
+Birka aplica a [[Tribos/Preparacao a Frio|Preparação a Frio]] em estrita obediência ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], substituindo caldeirões e fornalhas por maceração, fermentação e podridão controlada. Em tonéis de madeira, processa ervas, secreções e cascas do pântano para obter elixires fermentados, ácidos corrosivos e antídotos contra venenos locais.
 
-Da mesma paciência fria nascem os couros que vestem a tribo. Birka curte peles e couros espessos em banhos de taninos vegetais até que resistam à umidade constante sem apodrecer. Em parceria estreita com [[NPCs/Snikk|Snikk]], ela molda e sela as [[Cosmologia/Mascara de Ervas Amargas|Máscaras de Ervas Amargas]] — peças vitais que barram a névoa doce de esporos do [[Geografia/Jardim Dourado|Jardim Dourado]] e os bolsões de gás fétido dos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]].
+Também curte peles e couros em banhos de taninos vegetais para evitar que apodreçam na umidade do brejo. Em parceria com [[NPCs/Snikk|Snikk]], molda e sela as [[Cosmologia/Mascara de Ervas Amargas|Máscaras de Ervas Amargas]], usadas contra os esporos do [[Geografia/Jardim Dourado|Jardim Dourado]] e os gases dos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]].
 
 ## Relações e Alianças
-* **[[Tribos/Tece-Pele|Tece-Pele]]:** Quando os nômades do dossel descem das copas, é à oficina de Birka que muitos se dirigem primeiro. Em **escambo** direto e sem rodeios, ela troca peles curtidas e reagentes alquímicos por fios resistentes da [[Tribos/Teia Prateada|Teia Prateada]] e por notícias frescas das fronteiras do vale.
-* **[[NPCs/Snikk|Snikk]] e [[NPCs/Torg|Torg]]:** Seu trabalho sustenta duas frentes essenciais da aldeia. Com o Curandeiro-Chefe, divide a confecção das máscaras de esporos que permitem pisar no santuário e nas turfeiras; ao construtor do cais, fornece o couro tratado que vira botas de brejo, tiras e amarrações firmes contra a podridão das águas.
+* **[[Tribos/Tece-Pele|Tece-Pele]]:** Recebe os nômades do dossel quando descem ao cais, trocando peles curtidas e reagentes alquímicos em escambo direto por fios da [[Tribos/Teia Prateada|Teia Prateada]] e notícias das fronteiras do vale.
+* **[[NPCs/Snikk|Snikk]] e [[NPCs/Torg|Torg]]:** Com o Curandeiro-Chefe, divide a confecção das máscaras de esporos; ao construtor do cais, fornece o couro tratado para botas de brejo, tiras e amarrações.
 
 ## O que se Conta pelo Pântano
-* **Olfato de Ácido e Seda:** Os remadores que atracam jangadas perto das oficinas dizem que não precisam erguer os olhos para as copas quando o ar muda. Basta o vapor acre dos tonéis de Birka se misturar ao silêncio súbito das passarelas para todos saberem que algum batedor [[Tribos/Tece-Pele|Tece-Pele]] acabou de descer das alturas, trazendo seda prateada para trocar por frascos frios.
+* **Olfato de Ácido e Seda:** Remadores que atracam perto das oficinas dizem que, quando o vapor acre dos tonéis se mistura ao silêncio repentino das passarelas, algum batedor [[Tribos/Tece-Pele|Tece-Pele]] acabou de descer das copas com seda prateada para trocar por frascos frios.
 
 ---
 

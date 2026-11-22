@@ -24,21 +24,21 @@ aliases: ["Exilados", "Os Exilados", "Exilados de Raiz-Funda"]
 
 ## Descrição
 
-Os **Exilados** são antigos moradores de [[Geografia/Raiz-Funda|Raiz-Funda]] expulsos da tribo [[Tribos/Masca-Musgo|Masca-Musgo]] por sentença de [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]], proferida diante da aldeia na [[Geografia/Casa do Anciao|Casa do Ancião]]. O banimento recai sobre quem rompe as leis das passarelas, mancha a honra das caçadas ao recuar diante do perigo, trai a [[Cosmologia/Lei da Troca|Lei da Troca]] ou profana os tabus de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
+Os **Exilados** são antigos moradores de [[Geografia/Raiz-Funda|Raiz-Funda]] expulsos da tribo [[Tribos/Masca-Musgo|Masca-Musgo]] por sentença de [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]], proferida diante da aldeia na [[Geografia/Casa do Anciao|Casa do Ancião]]. O banimento pune quem viola as leis das passarelas, recua diante do perigo nas caçadas, trai a [[Cosmologia/Lei da Troca|Lei da Troca]] ou profana os tabus de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
-No brejo, sobreviver depende de andar junto; perder a tribo significa perder tudo o que mantém um goblin vivo entre a lama e as marés. Fora das câmaras escavadas nos [[Geografia/Cogumelos Nodosos|Cogumelos Nodosos]] e das estivas de madeira encharcada, não há fogueira baixa para secar o couro, vigia para dar o alarme nem curandeiro para conter uma infecção de esporos ou mordida de pântano.
+No brejo, a sobrevivência depende do grupo. Fora das câmaras escavadas nos [[Geografia/Cogumelos Nodosos|Cogumelos Nodosos]] e das estivas de madeira, o banido perde o acesso às fogueiras, à vigília das sentinelas e aos curandeiros para tratar infecções de esporos ou mordidas.
 
 ## O Peso do Banimento
 
-Mais duro do que a fome ou a solidão das águas paradas é o corte espiritual que acompanha a sentença. Ao cruzar a última passarela para fora de [[Geografia/Raiz-Funda|Raiz-Funda]], o banido perde para sempre o direito de repousar sobre a turfa úmida do [[Geografia/Jardim Dourado|Jardim Dourado]] e de retornar à rede micelial pelo [[Cosmologia/Ciclo da Devolucao|Ciclo da Devolução]]. Para um Masca-Musgo, morrer longe daqueles leitos fúngicos é apodrecer sem rito na lama anônima ou virar pasto de carniceiros, apagado da memória silenciosa do deus.
+Além do isolamento físico, a sentença corta o vínculo espiritual do condenado. Ao deixar [[Geografia/Raiz-Funda|Raiz-Funda]], o exilado perde o direito de ser enterrado no [[Geografia/Jardim Dourado|Jardim Dourado]] e de retornar à rede micelial pelo [[Cosmologia/Ciclo da Devolucao|Ciclo da Devolução]]. Morrer fora da tribo significa apodrecer na lama sem rito fúnebre, esquecido pelo deus.
 
-Diferente da [[Cosmologia/Sentenca do Esquecimento|Sentença do Esquecimento]] — que amarra o culpado de crimes capitais com fogo a uma estaca na lama profunda até o brejo reclamá-lo —, o exílio poupa o fôlego do condenado apenas para entregá-lo ao peso diário da própria expulsão.
+Diferente da [[Cosmologia/Sentenca do Esquecimento|Sentença do Esquecimento]] — que amarra culpados de crimes capitais com fogo a uma estaca na lama profunda até morrerem —, o exílio poupa a vida do condenado, mas o força a sobreviver sem apoio.
 
 ## Fronteiras e Sobrevivência
 
-Sem abrigo em nenhuma aldeia do [[Geografia/Vale da Lama|Vale da Lama]], os exilados erram pelas margens neutras ou hostis onde a turfa cede sob os pés: as bordas lamacentas do [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]], os arredores frios das [[Geografia/Ruinas dos Sem-Nome|Pedras Mortas]] e as faixas de fronteira entre territórios tribais. Ali, cada passo fora das trilhas conhecidas exige tatear o fundo com cautela, entre o cheiro de salitre, o estalo do mangue e a vigília de feras que caçam o que anda sozinho.
+Sem abrigo em nenhuma aldeia do [[Geografia/Vale da Lama|Vale da Lama]], os exilados circulam pelas margens do [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]], pelos arredores das [[Geografia/Ruinas dos Sem-Nome|Pedras Mortas]] e pelas faixas de fronteira entre territórios tribais. Fora das trilhas marcadas, o terreno instável e os predadores tornam qualquer deslocamento arriscado para quem anda sozinho.
 
-Não há registro de perdão nem de retorno. Quem ousa aproximar-se novamente dos limites de Raiz-Funda encontra primeiro o silêncio das arcadas vigiadas pelas sentinelas de [[NPCs/Varga|Varga]] — depois, o assobio seco de uma flecha de aviso cravada na madeira ou na lama, e uma segunda flecha para matar caso dê mais um passo.
+Não há registro de perdão nem de retorno. Quem se aproxima novamente dos limites de Raiz-Funda enfrenta as sentinelas de [[NPCs/Varga|Varga]]: a primeira flecha serve de aviso na madeira ou na lama; a segunda mata.
 
 ## Exilados Conhecidos
 
@@ -50,8 +50,8 @@ Não há registro de perdão nem de retorno. Quem ousa aproximar-se novamente do
 
 ## O que se Conta pelo Pântano
 
-- **Olhos Além da Névoa:** Nas estivas baixas do cais, vigias comentam que, nas noites em que a névoa de esporos engrossa sobre a lâmina d'água, vultos costumam parar exatamente fora do alcance das flechas, observando o brilho das lanternas de Raiz-Funda antes de sumir no mangue.
-- **Passos Sem Estaca:** Entre caçadores jovens, repete-se o aviso de que um exilado não pode confiar nas antigas trilhas submersas: sem o direito de voltar às estacas de osso da tribo, cada travessia no brejo é uma aposta às cegas contra a lama funda.
+- **Olhos Além da Névoa:** Vigias das estivas baixas do cais relatam vultos parados logo fora do alcance das flechas em noites de névoa de esporos, observando as lanternas de Raiz-Funda antes de recuar para o mangue.
+- **Passos Sem Estaca:** Caçadores jovens repetem que exilados não podem confiar nas antigas trilhas submersas; sem acesso às estacas de osso da tribo, cada travessia no brejo vira uma aposta contra a lama funda.
 
 ---
 

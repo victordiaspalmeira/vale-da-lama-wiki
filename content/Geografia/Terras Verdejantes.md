@@ -23,27 +23,27 @@ aliases: ["Terras Verdejantes", "As Terras Verdejantes"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-As **Terras Verdejantes** estendem-se já fora do [[Geografia/Vale da Lama|Vale da Lama]], logo além das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]]. Quem atravessa a pedra fria das Pedras Mortas deixa para trás a névoa ácida, a turfa e os Cogumelos Nodosos e pisa em uma floresta viva que resiste ao avanço do pântano — um lugar onde o chão segura o passo e a luz cai sem passar por chapéus de fungo.
+As **Terras Verdejantes** estendem-se fora do [[Geografia/Vale da Lama|Vale da Lama]], logo além das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]]. Quem atravessa as Pedras Mortas deixa para trás a névoa ácida, a turfa e os Cogumelos Nodosos e entra em uma floresta de solo firme onde o pântano não avança.
 
 ## Geografia e Ambiente
-Em contraste direto com o brejo opressivo do vale, aqui se abrem bosques frondosos, matas limpas e terra firme coberta de folhas sadias. Não há cheiro de gás sulfuroso nem lama que suga as botas. A região é conhecida por suas propriedades ligadas à **cura e à harmonia**, onde alguma força desconhecida barra a expansão de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] e mantém o lodo afastado da linha das árvores.
+Em contraste com o brejo do vale, a região possui bosques frondosos, matas limpas e terra firme sem gás sulfuroso nem atoleiros. O local é conhecido por propriedades ligadas à **cura e à harmonia**, onde uma força desconhecida impede a expansão de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] e mantém o lodo afastado.
 
 ## História
-Elfos habitaram essas matas em eras passadas, deixando para trás ruínas antigas irmãs das [[Geografia/Ruinas dos Sem-Nome|Pedras Mortas]], hoje tomadas por trepadeiras e sombra limpa em vez de lama.
+Elfos habitaram essas matas em eras passadas, deixando ruínas antigas semelhantes às das [[Geografia/Ruinas dos Sem-Nome|Pedras Mortas]], hoje cobertas por trepadeiras em vez de lama.
 
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-Sob a copa fechada das árvores ainda repousam **Ruínas Antigas**, estruturas esquecidas erguidas com a mesma pedra clara vista ao norte e a leste do lago central, agora silenciosas e envoltas pela mata viva.
+Sob as árvores permanecem **Ruínas Antigas**, estruturas esquecidas da mesma pedra clara vista ao norte e a leste do lago central.
 
 ### NPCs e Criaturas da Região
-- **[[Criaturas/Ulok|Ulok, a Grande Javali]]:** Contrariando a fama serena da floresta, Ulok governa parte da região ao lado de sua numerosa prole, tornando cada clareira um território vigiado por presas e cascos.
+- **[[Criaturas/Ulok|Ulok, a Grande Javali]]:** Governa parte da floresta ao lado de sua numerosa prole, mantendo clareiras e trilhas sob vigilância constante.
 
 ## Perigos e Recursos
-Quem entra nas Terras Verdejantes atraído pelas matas sadias e pelas ervas associadas à cura descobre depressa que a ausência do pântano não significa segurança. O maior perigo da floresta é a fúria súbita de [[Criaturas/Ulok|Ulok]], que investe sem provocação aparente contra intrusos — somada às brigas violentas entre seus muitos filhos, que rasgam o sub-bosque quando disputam comida ou espaço.
+Embora atraia viajantes pelas matas sadias e ervas associadas à cura, a floresta oferece risco imediato: [[Criaturas/Ulok|Ulok]] investe sem provocação aparente contra intrusos, e seus muitos filhos travam brigas violentas pelo sub-bosque quando disputam comida ou espaço.
 
 ## O que se Conta pelo Pântano
-- **Onde a Lama Para:** Goblins que espiaram além das Pedras Mortas falam com estranheza de um mato sem bolor onde a água corre clara e o ar não arde no peito. Mas logo baixam a voz e dão um passo atrás, lembrando que aquela paz verde pertence às presas de Ulok.
+- **Onde a Lama Para:** Goblins que espiaram além das Pedras Mortas falam de um mato sem bolor, com água clara e ar limpo — mas lembram logo em seguida que aquela região pertence às presas de Ulok.
 
 ---
 

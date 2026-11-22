@@ -24,26 +24,26 @@ aliases: ["Bzz'kul", "O Saco-de-Gás", "Moscardo do Lodo"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Bzz'kul**, chamado pelos barqueiros de **o Saco-de-Gás**, é um [[Deuses-Fera/Deus-Fera|Deus-Fera menor]] que ronda os canais parados entre [[Geografia/Raiz-Funda|Raiz-Funda]] e os [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa e Brejo do Musgo-Negro]]. Entre as entidades espirituais do vale, figura entre as mais fracas e covardes — mas seu corpo saturado de vapores podres basta para transformar uma travessia descuidada em sufocamento na neblina.
+**Bzz'kul**, chamado pelos barqueiros de **o Saco-de-Gás**, é um [[Deuses-Fera/Deus-Fera|Deus-Fera menor]] que ronda os canais parados entre [[Geografia/Raiz-Funda|Raiz-Funda]] e os [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa e Brejo do Musgo-Negro]]. É uma das entidades mais fracas e covardes do vale, mas os vapores em seu corpo podem sufocar viajantes descuidados.
 
 ## Aparência
-Tem a forma de um moscardo do tamanho de um javali, sustentado por asas finas e úmidas que zumbem com peso arrastado. Seu abdômen estufado e quase transparente deixa ver bolsas de gás amarelado e grumos de matéria em fermentação balançando a cada voo baixo sobre a água.
+Moscardo do tamanho de um javali, com asas finas e úmidas de zumbido arrastado. Seu abdômen inchado e quase transparente revela bolsas de gás amarelado e matéria em fermentação.
 
 ## Personalidade e Maneirismos
-Covarde diante de grupos armados ou lanças erguidas, Bzz'kul evita o confronto franco. Prefere pairar na névoa atrás de jangadas solitárias, testando a coragem de viajantes pelo barulho e fugindo para os juncos se alguém enfrentar seu zumbido sem recuar.
+Covarde diante de grupos armados, evita confronto direto. Paira atrás de jangadas solitárias para testar a reação dos viajantes e foge para os juncos se alguém enfrentar seu zumbido sem recuar.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Alimentando-se de gases de brejo e restos apodrecidos, Bzz'kul exige tributo barato de quem cruza seus remansos: um pedaço de carniça fétida atirado na lama longe da canoa. Quando é ferido ou acossado sem saída, sua carapaça rompe em bolsas menores que liberam nuvens espessas e ardidas, obrigando qualquer perseguidor a vestir imediatamente sua [[Cosmologia/Mascara de Ervas Amargas|Máscara de Ervas Amargas]].
+Alimenta-se de gases de brejo e restos podres. Exige um tributo simples de quem cruza seus remansos: carniça jogada na lama longe da canoa. Quando ferido ou encurralado, bolsas menores de sua carapaça se rompem e liberam nuvens espessas e ardidas, obrigando perseguidores a usar imediatamente a [[Cosmologia/Mascara de Ervas Amargas|Máscara de Ervas Amargas]].
 
 ## Relações e Alianças
-* **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]:** Embora não possua altar nem ligação com o clero dos [[Tribos/Masca-Musgo|Masca-Musgo]], Bzz'kul atua como **servo da vontade de Nyog'Sothep** à parte da tribo — espalhando fermentação, esporos e enxames menores pelos canais parados onde a decomposição precisa avançar.
-* **Extratores de Piche:** Os trabalhadores que levam caça fresca a [[Deuses-Fera/Suuhr|Suuhr]] costumam separar tripas velhas e sobras estragadas para distrair Bzz'kul no caminho de volta.
+* **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]:** Não possui altar nem ligação com o clero dos [[Tribos/Masca-Musgo|Masca-Musgo]], mas age como **servo da vontade de Nyog'Sothep** à parte da tribo, espalhando fermentação, esporos e enxames menores pelos canais parados.
+* **Extratores de Piche:** Os trabalhadores que levam caça fresca a [[Deuses-Fera/Suuhr|Suuhr]] costumam separar tripas e sobras estragadas para distrair Bzz'kul na volta.
 
 ## O que se Conta pelo Pântano
-- **Zumbido de Bolha:** Barqueiros novatos às vezes confundem o zumbido rouco de Bzz'kul com um bando comum de moscas — até o ar ficar amarelo e o almoço da véspera subir à garganta.
+- **Zumbido de Bolha:** Barqueiros novatos confundem o zumbido de Bzz'kul com um bando comum de moscas — até o ar ficar amarelo e queimar a garganta.
 
 ---
 

@@ -23,7 +23,7 @@ aliases: ["Povo Dragão", "Dragões Vermelhos", "Os Filhos de Ashkor", "Cinderat
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-O **Povo Dragão** designa os **Dragões Vermelhos** da linhagem **Os Filhos de Ashkor**, antigos senhores que habitaram as galerias secas das [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]] — nunca as águas baixas do [[Geografia/Vale da Lama|Vale da Lama]]. Por eras incontáveis, mantiveram os goblins dobrados sob a **escravidão do fogo**, usando o sopro ígneo e o castigo pelas chamas para esmagar qualquer sombra de revolta na pedra.
+O **Povo Dragão** designa os **Dragões Vermelhos** da linhagem **Os Filhos de Ashkor**, antigos senhores das galerias secas das [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]] — nunca do [[Geografia/Vale da Lama|Vale da Lama]]. Por eras incontáveis, mantiveram os goblins sob a **escravidão do fogo**, usando chamas para punir e conter revoltas.
 
 ## Aparência e Traços
 *A preencher.*
@@ -32,13 +32,13 @@ O **Povo Dragão** designa os **Dragões Vermelhos** da linhagem **Os Filhos de 
 *A preencher.*
 
 ## História
-Por gerações incontáveis nas entranhas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], os Filhos de Ashkor acorrentaram os goblins ao trabalho forçado nas minas subterrâneas. Ali, longe da chuva e do lodo, a obediência era cobrada pelo terror do fogo: qualquer falha na escavação ou na entrega do minério pagava-se com carne queimada e cinza seca.
+Nas entranhas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], os Filhos de Ashkor acorrentaram gerações de goblins ao trabalho forçado nas minas subterrâneas. Qualquer falha na escavação ou na entrega do minério era punida com fogo.
 
-A ruína dos tiranos começou em silêncio, quando os cativos acharam o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]] em uma das câmaras fundas das minas e receberam as visões febris do [[Cosmologia/Micelio Dourado|Micélio Dourado]]. Durante vinte anos — a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] —, os escravizados sopraram e espalharam esporos finos em sabotagem paciente, minando por dentro os pulmões e os corpos milenares dos Dragões Vermelhos sem que os senhores percebessem o veneno que respiravam.
+A queda começou quando os cativos acharam o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]] em uma câmara funda e receberam as visões do [[Cosmologia/Micelio Dourado|Micélio Dourado]]. Durante vinte anos — a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] —, os escravizados espalharam esporos pelas galerias, minando em silêncio a saúde dos Dragões Vermelhos.
 
-A sabotagem pesou depressa demais sobre o dragão jovem **Vexar**, expondo o mal fúngico antes da hora. Furiosos, os Dragões avançaram para esmagar a rebelião pelo fogo, mas [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] interveio através da **Lua Nova**, potencializou o Micélio Dourado na carne dos opressores e os impediu de resistir à horda que se levantava das galerias. Depois de uma noite inteira de combate sob a pedra e o céu escuro, os sobreviventes abandonaram suas fortalezas na serra e fugiram em revoada para o **leste**.
+Quando o dragão jovem **Vexar** adoeceu depressa demais, o plano foi exposto. Os Dragões tentaram esmagar a rebelião pelo fogo, mas [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] interveio sob a **Lua Nova**, potencializou o Micélio Dourado nos corpos dos opressores e impediu que resistissem ao levante. Após uma noite de combate, os sobreviventes abandonaram as minas e fugiram para o **leste**.
 
-A fuga terminou na lama. Perseguidos pelo vale inteiro na **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**, todos os fugitivos tombaram sob lanças de osso, venenos e número. A maior deles — a Matriarca **Cinderath** (a *Grande Tirana*) — caiu pesadamente nas águas negras do lago central que já existia no vale, hoje chamado [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
+Perseguidos pelo vale na **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**, todos os fugitivos tombaram. A maior deles — a Matriarca **Cinderath** (a *Grande Tirana*) — caiu nas águas do lago central que já existia no vale, hoje chamado [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 ## Organização e Ocupações
 *A preencher.*

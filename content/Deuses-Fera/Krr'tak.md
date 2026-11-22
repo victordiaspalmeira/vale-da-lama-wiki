@@ -27,27 +27,27 @@ aliases: ["Krr'tak", "Espadachim", "Espadachi", "A Espadachim"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Krr'tak**, temida nos cais do [[Geografia/Vale da Lama|Vale da Lama]] como **a Espadachim**, ronda os juncos altos e os mangues fechados que separam os [[Tribos/Masca-Musgo|Masca-Musgo]] (a oeste) dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] (a nordeste). Não possui tribo devota, altares nem xamãs que falem em seu nome. Ela patrulha essa faixa disputada por puro instinto de caça — e sua simples passagem basta para manter os dois povos apartados pelo medo.
+**Krr'tak**, chamada nos cais do [[Geografia/Vale da Lama|Vale da Lama]] de **a Espadachim**, ronda os juncos altos e mangues fechados entre os [[Tribos/Masca-Musgo|Masca-Musgo]] (a oeste) e os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] (a nordeste). Não possui tribo devota, altares nem xamãs; patrulha essa faixa por instinto de caça e mantém os dois povos afastados pelo medo.
 
 ## Aparência
-Krr'tak tem a forma de um louva-a-deus colossal, erguido entre os troncos encharcados como um espectro de quitina e lâmina. Seus braços dianteiros terminam em gumes serrilhados capazes de ceifar madeira e carne no mesmo golpe, enquanto asas translúcidas vibram no ar pesado de umidade instantes antes do bote.
+Louva-a-deus colossal de quitina. Seus braços dianteiros terminam em gumes serrilhados capazes de cortar madeira e carne no mesmo golpe, e suas asas translúcidas vibram antes do bote.
 
 ## Personalidade e Maneirismos
-A Espadachim carrega um **senso de humor pastelão e extremamente violento**. Sua paciência é curta como um pavio molhado: mesmo quando reconhece um goblin e decide poupá-lo à primeira vista, qualquer provocação, gesto apressado ou inconveniência mínima basta para que ela mate da maneira mais brusca possível, sem aviso nem piedade.
+Tem um **senso de humor pastelão e extremamente violento** e paciência curta. Mesmo quando reconhece um goblin e decide poupá-lo, qualquer provocação, gesto apressado ou inconveniência mínima basta para que ela mate de forma brusca e sem aviso.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Sem culto nem território fixo além da faixa de fronteira, Krr'tak desliza entre o plano etéreo e o físico ao longo dos mangues, tal como [[Deuses-Fera/Og'gath|Og'gath]] faz nas águas do centro. Surge onde o junco se fecha e desaparece sem deixar trilha na lama quando a caça termina.
+Sem culto nem território fixo além da fronteira, Krr'tak transita entre o plano etéreo e o físico ao longo dos mangues, como [[Deuses-Fera/Og'gath|Og'gath]] faz no lago central. Surge onde o junco fecha e some sem deixar rastros após a caça.
 
-Sua fome se volta contra **criaturas descendentes de outros Deuses** — sobretudo [[Deuses-Fera/Deus-Fera|Deuses-Fera]] menores e suas crias —, embora qualquer intruso descuidado que pise em seu caminho acabe igualmente estripado. Por isso, entre os [[Tribos/Masca-Musgo|Masca-Musgo]] e os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]], a presença de Krr'tak funciona como uma barreira viva e imprevisível: ninguém atravessa a divisa sem calcular o risco de encontrar suas lâminas.
+Alimenta-se de **criaturas descendentes de outros Deuses** — sobretudo [[Deuses-Fera/Deus-Fera|Deuses-Fera]] menores e suas crias —, mas qualquer intruso em seu caminho também é morto. Entre os [[Tribos/Masca-Musgo|Masca-Musgo]] e os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]], sua presença serve como barreira natural na divisa.
 
 ## Relações e Alianças
-* **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]:** Embora abata quase tudo o que cruza sua trilha, Krr'tak **acha péssimo o gosto de Goblins** e **evita matá-los por uma dívida antiga com Nyog'Sothep**. Trata-se, porém, de uma trégua frágil, sustentada apenas pelo respeito forçado ao pacto e desfeita ao menor insulto ou imprudência.
+* **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]:** Krr'tak **acha péssimo o gosto de Goblins** e **evita matá-los por uma dívida antiga com Nyog'Sothep**. A trégua é frágil e se desfaz diante de qualquer insulto ou imprudência.
 
 ## O que se Conta pelo Pântano
-- **O Estalo Antes do Golpe:** Batedores que patrulham a divisa entre os mangues juram que, segundos antes de a Espadachim surgir, os insetos do brejo emudecem de uma vez só. Logo depois, um estalo seco — igual ao som de duas lâminas batendo uma contra a outra — corta a névoa parada entre os troncos.
+- **O Estalo Antes do Golpe:** Batedores da divisa contam que, segundos antes de a Espadachim surgir, os insetos do brejo calam ao mesmo tempo e um estalo seco de duas lâminas corta o mangue.
 
 ---
 

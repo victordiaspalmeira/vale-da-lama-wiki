@@ -29,16 +29,16 @@ Nos criadouros abafados e semi-submersos sob os bancos de barro do sul, as sangu
 
 Em sangrias controladas, os cuidadores prendem as criaturas à pele de voluntários para drenar o sangue na medida exata — o bastante para aliviar o corpo sem matar um adulto saudável, salvo nas noites reservadas a sacrifícios especiais. Na crença da tribo, o bicho suga o mal junto com o fluxo, "limpando" o sangue dos doentes.
 
-O que sobra nas ânforas não se desperdiça. O sangue recolhido alimenta as oferendas devidas a [[Deuses-Fera/Sss'kar|Sss'kar]] e sustenta os ritos secretos com que os *anciãos vampíricos* — como o centenário [[NPCs/Murok|Murok]] — bebem vitalidade alheia para esticar a própria carne além de um século.
+O que sobra nas ânforas não se desperdiça. O sangue recolhido alimenta as oferendas devidas a [[Deuses-Fera/Sss'kar|Sss'kar]] e sustenta os ritos secretos com que os *anciãos vampíricos* — como o centenário [[NPCs/Murok|Murok]] — bebem vitalidade alheia para prolongar a própria vida além de um século.
 
 ## Origem e Tradição
 *A preencher.*
 
 ## Prática e Tabus
-Ao contrário dos [[Tribos/Masca-Musgo|Masca-Musgo]], que entregam os mortos à turfa do [[Geografia/Jardim Dourado|Jardim Dourado]] para dissolver o corpo no solo, os Ventre-Inchado creem que o sangue guarda a própria essência da vida. Retê-lo nas ânforas, oferecê-lo ao fundo escuro e bebê-lo em ritual fortalece tanto o Deus-Fera quanto seus devotos, mantendo longe o fim que os outros goblins aceitam como natural.
+Ao contrário dos [[Tribos/Masca-Musgo|Masca-Musgo]], que entregam os mortos à turfa do [[Geografia/Jardim Dourado|Jardim Dourado]] para dissolver o corpo no solo, os Ventre-Inchado creem que o sangue guarda a essência da vida. Retê-lo nas ânforas, oferecê-lo ao fundo escuro e bebê-lo em ritual fortalece o Deus-Fera e seus devotos, afastando a morte comum.
 
 ## O que se Conta pelo Pântano
-- **Chafurdo Dentro do Barro:** Quem rema perto dos canais fechados do sul diz que um som úmido, pesado e lento dentro das ânforas denuncia uma câmara semi-submersa antes mesmo de se ver a entrada na lama — e ninguém quer parar o barco para descobrir se o sangue ali dentro veio de um voluntário da tribo ou de alguém que se perdeu na neblina.
+- **Chafurdo Dentro do Barro:** Quem rema perto dos canais fechados do sul diz que um som úmido e pesado dentro das ânforas denuncia uma câmara semi-submersa antes mesmo de se ver a entrada na lama — e ninguém para o barco para conferir se o sangue ali dentro veio de um voluntário da tribo ou de alguém perdido na neblina.
 
 ---
 

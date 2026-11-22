@@ -23,24 +23,24 @@ aliases: ["Criaturas de Fogo e Fumaça"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-As **Criaturas de Fogo e Fumaça** pertencem à fronteira mais temida do [[Geografia/Vale da Lama|Vale da Lama]]: os rumores que cercam os túneis ocultos sob as [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]], chamadas pelos goblins de *As Pedras Mortas*. Ninguém no pântano possui prova direta de sua natureza, mas o medo que inspiram basta para manter jangadas e batedores longe do mármore pálido assim que a tarde cai.
+As **Criaturas de Fogo e Fumaça** são presenças relatadas apenas em rumores sobre os túneis ocultos sob as [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]], chamadas pelos goblins de *As Pedras Mortas*. Não há prova direta de sua natureza no [[Geografia/Vale da Lama|Vale da Lama]], mas o receio que provocam basta para manter jangadas e batedores longe do mármore pálido ao cair da tarde.
 
 ## Aparência e Anatomia
 *A preencher.* *(Os goblins nunca exploraram a região suficientemente a fundo para confirmar a forma exata dessas presenças.)*
 
 ## Comportamento e Ecologia
-Tudo o que se atribui a essas presenças vem de relatos indiretos e da recusa obstinada dos batedores em descer além das escadarias quebradas. Segundo as histórias repetidas longe das pedras, as entidades patrulham galerias fechadas e câmaras subterrâneas que se estendem abaixo das colunas de mármore, em um subsolo seco e estéril onde nem o lodo do brejo nem os esporos conseguem se firmar.
+Tudo o que se atribui a essas entidades vem de relatos indiretos e da recusa dos batedores em descer além das escadarias quebradas. Segundo as histórias, patrulham galerias fechadas e câmaras subterrâneas abaixo das colunas de mármore, em um subsolo seco e estéril onde lodo e esporos não se firmam.
 
-O próprio ambiente das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]] alimenta a desconfiança: ali o cheiro de turfa cede lugar à pedra fria e sem musgo, e qualquer som ecoa de volta sem a amortização do mangue. Para quem cresceu ouvindo o estalo da madeira molhada, a ideia de algo feito de brasa e fumaça caminhando em corredores fechados soa como uma inversão antinatural de tudo o que vive no vale.
+O ambiente das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]] reforça a desconfiança: ali o cheiro de turfa cede lugar à pedra fria e sem musgo, e qualquer som ecoa sem o abafamento do mangue. A ideia de criaturas de brasa e fumaça circulando em corredores fechados parece contrária a tudo o que vive no vale.
 
 ## Uso e Relações com as Tribos
-Para os [[Tribos/Masca-Musgo|Masca-Musgo]], moldados pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] e pela devoção à podridão fértil de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], a simples suspeita de fogo e fumaça vivos num lugar onde nem o bolor vinga basta para selar o tabu contra as ruínas. No pântano, a chama é contida, domada em caldeirões e controlada para não consumir o que sustenta a vida; vê-la associada a sentinelas errantes sob a terra desperta repulsa quase religiosa.
+Para os [[Tribos/Masca-Musgo|Masca-Musgo]], regidos pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] e devotos da podridão fértil de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], a suspeita de fogo vivo em um lugar onde nem o bolor cresce sela o tabu contra as ruínas. No pântano, a chama é mantida sob controle em caldeirões; vê-la associada a sentinelas subterrâneas desperta repulsa religiosa.
 
-Por isso, nenhuma tribo reivindica as Pedras Mortas como área de caça ou coleta, e as raras expedições que se aproximam da borda das ruínas fazem-no de dia, em silêncio, sem jamais tentar abrir passagem para o subsolo.
+Nenhuma tribo reivindica as Pedras Mortas para caça ou coleta. As raras expedições que chegam à borda das ruínas ocorrem de dia, em silêncio, sem tentar abrir passagem para o subsolo.
 
 ## O que se Conta pelo Pântano
-- **Fronteira Sem Rastros:** Nas passarelas do brejo, dizem que nenhum batedor ousa acender tocha perto das Pedras Mortas — não por falta de coragem, mas pelo pavor de que o cheiro de fumaça chame resposta lá de baixo e algo feito de chama atravesse a boca dos túneis.
-- **Nenhuma Jangada ao Anoitecer:** Barqueiros repetem que, quando o sol baixa por trás das colunas pálidas, a água ao redor das ruínas parece mais quieta do que o resto do vale, e ninguém jamais voltou das galerias fundas para contar se o rumor é exagero ou sentença.
+- **Fronteira Sem Rastros:** Batedores evitam acender tochas perto das Pedras Mortas por medo de que o cheiro de fumaça chame resposta lá de baixo e algo feito de chama saia pela boca dos túneis.
+- **Nenhuma Jangada ao Anoitecer:** Barqueiros afirmam que, quando o sol desce atrás das colunas pálidas, a água ao redor das ruínas fica mais quieta que o resto do vale, e ninguém que desceu às galerias fundas voltou.
 
 ---
 

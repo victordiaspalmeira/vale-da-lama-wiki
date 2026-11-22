@@ -24,25 +24,25 @@ aliases: ["Thul'maak", "O Verme-do-Abismo-Negro", "Verme-do-Abismo-Negro"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Thul'maak**, chamado em raros murmúrios de **o Verme-do-Abismo-Negro**, escava lentamente as camadas mais fundas de turfa e lama abaixo do [[Geografia/Rio Lodo-Negro|Rio Lodo-Negro]] e das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]. Tão vasto quanto silencioso, rivaliza em poder bruto com os maiores Deuses-Fera do vale — capaz de engolir ilhotas inteiras e redesenhar o fundo do brejo sem sequer mostrar a cabeça acima da superfície.
+**Thul'maak**, chamado em voz baixa de **o Verme-do-Abismo-Negro**, escava as camadas profundas de turfa e lama abaixo do [[Geografia/Rio Lodo-Negro|Rio Lodo-Negro]] e das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]. Rivaliza em poder bruto com os maiores Deuses-Fera do vale e pode engolir ilhotas inteiras sem emergir.
 
 ## Aparência
-Quando um trecho de seu corpo rompe o lodo durante cheias raras, revela anéis largos de carne negra e placas calcificadas cobertas de vermes menores e lama ácida, com largura suficiente para esmagar várias árvores de mangue de uma só vez.
+Quando parte do corpo rompe o lodo em cheias raras, revela anéis largos de carne negra e placas calcificadas cobertas de vermes menores e lama ácida, largos o bastante para esmagar várias árvores de mangue de uma só vez.
 
 ## Personalidade e Maneirismos
-Lento, cego e quase geológico em seu ritmo, Thul'maak não caça goblins na superfície nem disputa altares. Sua ameaça vem da própria escala: quando se move sob o pântano, o solo cede, raízes antigas afundam em redemoinhos de barro e canais mudam de curso da noite para o dia.
+Lento, cego e quase geológico, não caça goblins nem disputa altares. Quando se move sob o pântano, o solo cede, raízes afundam em redemoinhos de barro e canais mudam de curso da noite para o dia.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Thul'maak revira as camadas mortas do sul, abrindo bolsões profundos onde gases presos sobem à tona e sepultando trilhas antigas sob toneladas de lama negra. Nenhuma tribo tenta domá-lo ou caçá-lo.
+Revira as camadas mortas do sul, abre bolsões profundos por onde gases sobem à tona e soterra trilhas antigas sob lama negra. Nenhuma tribo tenta domá-lo ou caçá-lo.
 
 ## Relações e Alianças
-* **[[Tribos/Ventre-Inchado|Ventre-Inchado]]:** Até os anciãos do sul, devotos da colossal [[Deuses-Fera/Sss'kar|Sss'kar]], recuam para plataformas mais altas e prendem suas ânforas quando a lama escura começa a vibrar em ondas curtas sem vento.
+* **[[Tribos/Ventre-Inchado|Ventre-Inchado]]:** Até os anciãos do sul, devotos de [[Deuses-Fera/Sss'kar|Sss'kar]], recuam para plataformas mais altas e prendem suas ânforas quando a lama escura vibra em ondas curtas sem vento.
 
 ## O que se Conta pelo Pântano
-- **O Chão que Desce:** Caçadores do sul contam que, certa vez, uma ilhota inteira de barro firme desapareceu em silêncio durante a madrugada — deixando apenas um poço negro sem fundo onde até a vara mais longa não tocava nada.
+- **O Chão que Desce:** Caçadores do sul contam que uma ilhota inteira de barro firme desapareceu em silêncio durante a madrugada, deixando apenas um poço negro onde nem a vara mais longa tocava o fundo.
 
 ---
 

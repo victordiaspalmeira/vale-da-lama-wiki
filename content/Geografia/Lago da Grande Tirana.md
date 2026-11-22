@@ -23,36 +23,31 @@ aliases: ["O Lago da Grande Tirana", "Lago da Grande Tirana", "Lago Central"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-No coração do [[Geografia/Vale da Lama|Vale da Lama]], o **Lago da Grande Tirana** abre uma bacia circular de águas negras, pesadas e imóveis como óleo frio. Para ali convergem os cursos que descem das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] após atravessar turfeiras e brejos, mas nenhuma canoa cruza sua superfície sem pagar o preço da temeridade. Os povos do vale mantêm distância das margens: ali, feras espirituais disputam caça, predadores descem sob a neblina para beber e [[Deuses-Fera/Og'gath|Og'gath]] vigia sem descanso.
+No centro do [[Geografia/Vale da Lama|Vale da Lama]], o **Lago da Grande Tirana** forma uma bacia circular profunda de águas negras e oleosas, para onde convergem os cursos que descem das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]. Sem recursos aproveitáveis nem rotas seguras, o lago é evitado por todas as tribos: serve de bebedouro para grandes predadores, arena de disputas entre feras espirituais, território patrulhado por [[Deuses-Fera/Og'gath|Og'gath]] e túmulo submerso de [[NPCs/Cinderath|Cinderath]].
 
 ## Geografia e Ambiente
-Onde os brejos vizinhos permitem sentir o fundo com a ponta de uma vara, o lago central afunda em um abismo sem medida, capaz de engolir jangadas inteiras sem devolver sequer uma lasca de madeira. A água não reflete o céu com nitidez; devolve apenas um brilho turvo e gorduroso, intocado por aguapés, juncos ou raízes flutuantes. O silêncio na borda da bacia pesa mais do que no resto do pântano — nem insetos zumbem por muito tempo sobre a lâmina parada.
-
-De tempos em tempos, o lodo profundo estremece e cospe bolhas largas de gás esverdeado e fétido. Quando estouram, o ar fica espesso com gosto de podridão antiga e enxofre, enquanto a ondulação lenta empurra para as margens esporos dormentes e lascas de osso calcificado. Nessa lama saturada de restos, o [[Cosmologia/Micelio Dourado|Micélio Dourado]] vinga com uma força quase febril, tingindo a beira da água de âmbar pálido em meio à podridão.
+Ao contrário dos brejos rasos ao redor, o lago central é fundo o bastante para engolir embarcações inteiras sem deixar rastro. Quase nenhuma vegetação cresce em suas águas opacas e imóveis. Ocasionalmente, bolhas de gás fétido sobem do lodo profundo e estouram na superfície, espalhando cheiro de enxofre e matéria em decomposição.
 
 ## História
-A bacia já existia muito antes da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]], escavada pelo encontro natural das águas que cortam o vale desde o oeste. Durante eras, foi apenas o reservatório silencioso para onde escorria a chuva das escarpas.
+A bacia já existia muito antes da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]], formada naturalmente pela convergência das águas vindas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]].
 
-Tudo mudou ao término da **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**. Encurralada após a queda de seu povo, a Matriarca **Cinderath** — a maior entre os [[Tribos/Povo Dragão|Dragões Vermelhos]] (Os Filhos de Ashkor) em fuga — tombou ali dentro, e as águas negras fecharam-se sobre suas escamas. Desde então, o lago leva seu título. Em dias raros de calmaria absoluta, quando a névoa se abre e a superfície deixa de tremer, batedores juram enxergar silhuetas imensas e distorcidas repousando lá embaixo, sob o peso da lama.
+Ao final da [[Historia/Primeira Cacada Sagrada|Primeira Caçada Sagrada]], a Matriarca [[NPCs/Cinderath|Cinderath]] — a maior entre os [[Tribos/Povo Dragão|Dragões Vermelhos]] em fuga — tombou ali dentro, dando ao lago seu nome atual. Seus restos repousam no fundo do abismo subaquático, visíveis apenas como silhuetas distorcidas em dias raros de calmaria absoluta.
 
 ## Sociedade e Pontos de Interesse
-
-### Pontos de Interesse
-Nenhuma tribo ergue palafitas sobre estas águas nem finca estacas de rota em suas bordas. As **Ilhotas Centrais** e as **Margens Lodosas** permanecem terras sem dono, reduzidas a bebedouro de feras e arena muda onde apenas os mais fortes sobrevivem ao anoitecer. Quem se aproxima precisa ler a lama a cada passo, pois a borda cede sem aviso e o barro escuro segura a perna como boca faminta.
+Nenhuma tribo mantém assentamentos, cais ou rotas de pesca na bacia. As ilhotas centrais e as margens lodosas permanecem desabitadas.
 
 ### NPCs e Criaturas da Região
-- **[[Deuses-Fera/Og'gath|Og'gath (Sapo-Trovão do Lago Central)]]:** Anfíbio colossal que reivindica as ilhotas e patrulha as margens com lentidão paciente. Não desperdiça fôlego caçando à toa, mas esmaga sob o peso do corpo e da língua qualquer intruso que avance além do limite tolerado.
-- **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]:** Avistada recentemente nas cercanias do lago, muito além de seu território habitual ao sul — sinal que inquieta até os batedores mais calejados.
+- **[[Deuses-Fera/Og'gath|Og'gath (Sapo-Trovão do Lago Central)]]:** Anfíbio colossal que ocupa as ilhotas do lago e patrulha suas margens, atacando quem se aproxima demais.
+- **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]:** Avistada recentemente nas proximidades do lago, longe de seu território habitual no sul.
 
 ## Perigos e Recursos
-Aproximar-se da bacia exige mais do que olhos atentos para a água. As bolhas de gás fétido que sobem do fundo envenenam o ar rente à margem, obrigando qualquer batedor prudente a ajustar sua [[Cosmologia/Mascara de Ervas Amargas|Máscara de Ervas Amargas]] antes de deixar o abrigo das raízes. Um descuido na respiração basta para turvar a vista e entregar o corpo à lama.
-
-Ainda assim, o risco atrai quem precisa do que o lago alimenta. O [[Cosmologia/Micelio Dourado|Micélio Dourado]] que brota nas bordas enriquecidas possui vigor incomum, colhido apenas por quem ousa rastejar entre os vapores e o alcance de [[Deuses-Fera/Og'gath|Og'gath]], trocando o pavor da margem por esporos de alto valor.
+- **Sem Utilidade Prática:** O lago não oferece recursos exploráveis às tribos; além de não abrigar cultivo útil nem pesca segura, suas margens cedem com facilidade.
+- **Feras e Gases:** As bordas concentram disputas entre feras espirituais, grandes predadores que vão se hidratar e bolsões de gás tóxico que exigem [[Cosmologia/Mascara de Ervas Amargas|Máscara de Ervas Amargas]].
 
 ## O que se Conta pelo Pântano
-- **O Que Procura o Sapo-Trovão:** Nas passarelas de [[Geografia/Raiz-Funda|Raiz-Funda]], batedores juram entre goles de caldo frio que Og'gath não patrulha o lago apenas por posse — ele fareja o vento e revira o barro das margens com patas imensas, como quem procura algo perdido na lama há tempo demais.
-- **Águas que Esquentam:** Quem se arrisca até a beira da bacia volta falando baixo, quase sem fôlego, que a água profunda está ficando morna sob os dedos — como se a carcaça da Grande Tirana, lá no fundo do abismo, voltasse a arder em silêncio.
+- **O Que Procura o Sapo-Trovão:** Batedores de [[Geografia/Raiz-Funda|Raiz-Funda]] comentam que Og'gath patrulha as margens como quem procura algo perdido na lama — embora ninguém saiba o quê.
+- **Águas que Esquentam:** Alguns exploradores afirmam que as águas profundas onde repousa a carcaça da Grande Tirana vêm esquentando de maneira incomum.
 
 ---
 
-**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]] | [[Historia/A Grande Morte Lenta|A Grande Morte Lenta]] | [[Historia/Cacada Sagrada|A Caçada Sagrada]] | [[Deuses-Fera/Og'gath|Og'gath]] | [[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]]
+**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]] | [[Historia/A Grande Morte Lenta|A Grande Morte Lenta]] | [[Historia/Primeira Cacada Sagrada|Primeira Caçada Sagrada]] | [[NPCs/Cinderath|Cinderath]] | [[Deuses-Fera/Og'gath|Og'gath]] | [[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]

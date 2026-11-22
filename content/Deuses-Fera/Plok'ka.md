@@ -24,25 +24,25 @@ aliases: ["Plok'ka", "O Sapo-Bolha", "Sapo-Bolha"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Plok'ka**, chamado pelos caçadores de **o Sapo-Bolha**, esconde-se nos charcos rasos e mornos entre os limites de [[Geografia/Raiz-Funda|Raiz-Funda]] e a borda da [[Geografia/Costa Salobra|Costa Salobra]]. Fraco em força bruta e quase cômico à primeira vista, defende suas poças com estouros surdos e muco ardido que arruínam botas, peles e olhos desprotegidos.
+**Plok'ka**, chamado pelos caçadores de **o Sapo-Bolha**, esconde-se nos charcos rasos entre os limites de [[Geografia/Raiz-Funda|Raiz-Funda]] e a [[Geografia/Costa Salobra|Costa Salobra]]. Fraco em combate direto, defende suas poças com estouros surdos e muco ácido que arruína botas, peles e olhos.
 
 ## Aparência
-Do tamanho de um cão grande, Plok'ka tem corpo achatado, pele gelatinosa quase transparente e dezenas de bolsas inchadas ao longo do dorso que vibram com líquido turvo e ácido.
+Do tamanho de um cão grande, tem corpo achatado, pele gelatinosa quase transparente e dezenas de bolsas inchadas no dorso cheias de líquido turvo e ácido.
 
 ## Personalidade e Maneirismos
-Medroso e irritadiço, passa o dia quase enterrado na lama rasa, deixando apenas os olhos salientes acima da água. Quando alguém pisa perto demais, infla o papo até dobrar de tamanho antes de soltar um jato ácido e pular para longe.
+Medroso e irritadiço, passa o dia quase enterrado na lama rasa, com apenas os olhos acima da água. Quando alguém pisa perto demais, infla o papo até dobrar de tamanho, solta um jato ácido e salta para longe.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Alimenta-se de larvas, lesmas e insetos aquáticos nos charcos de água parada. Não guarda fronteiras por propósito, mas sua presença constante torna certas passagens rasas traiçoeiras para patrulhas apressadas de ambos os lados.
+Alimenta-se de larvas, lesmas e insetos aquáticos nos charcos parados. Embora não guarde fronteiras de propósito, torna várias passagens rasas traiçoeiras para patrulhas apressadas.
 
 ## Relações e Alianças
-* **Batedores e Curtidores:** As pústulas estouradas de Plok'ka deixam manchas ácidas que apenas couros bem preparados como os de [[NPCs/Birka|Birka]] suportam sem rasgar.
+* **Batedores e Curtidores:** O muco das pústulas de Plok'ka corrói couro comum; apenas peças bem tratadas, como as de [[NPCs/Birka|Birka]], resistem sem rasgar.
 
 ## O que se Conta pelo Pântano
-- **Poça que Borbulha Sem Gás:** Se a água rasa começa a fazer *plok-plok* ritmado sem cheiro de enxofre, é hora de recuar dois passos — a menos que você queira voltar para a aldeia sem sola nas botas.
+- **Poça que Borbulha Sem Gás:** Se a água rasa começa a fazer *plok-plok* ritmado sem cheiro de enxofre, é hora de recuar antes de perder a sola das botas.
 
 ---
 

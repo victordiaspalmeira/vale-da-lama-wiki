@@ -22,12 +22,12 @@ aliases: ["Deuses-Fera", "Deus-Fera", "Deuses-Fera Menores"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-No [[Geografia/Vale da Lama|Vale da Lama]], **Deuses-Fera** são entidades colossais que atravessam com naturalidade a membrana entre o plano etéreo e a lama fétida do pântano. Diferentes de um **[[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]]** como [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], cuja vastidão não cabe em forma alguma, essas divindades vestem carne tangível — feita de carapaça salgada, seda prateada, sangue estagnado ou betume quente — e imprimem sua fome, seu cheiro e sua lei sobre regiões inteiras do vale.
+No [[Geografia/Vale da Lama|Vale da Lama]], **Deuses-Fera** são entidades colossais que transitam entre o plano etéreo e o plano físico. Diferentes de um **[[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]]** como [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], que não cabe em forma alguma, essas divindades têm corpo material — feito de carapaça, seda, sangue ou betume — e impõem seu domínio sobre regiões específicas do vale.
 
 ## Natureza e Funcionamento
-Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], a própria dependência da matéria e dos ciclos biológicos rebaixa os Deuses-Fera diante de um Deus Verdadeiro. Os [[Tribos/Masca-Musgo|Masca-Musgo]] ensinam que [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] não mantém corte de avatares nem envia Deuses-Fera para cumprir seus desígnios; cada uma dessas feras sagradas responde apenas ao próprio apetite e ao domínio que reclama.
+Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], a dependência da matéria e dos ciclos biológicos torna os Deuses-Fera inferiores a um Deus Verdadeiro. Os [[Tribos/Masca-Musgo|Masca-Musgo]] ensinam que [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] não mantém corte de avatares nem envia Deuses-Fera em seu nome; cada criatura responde ao próprio apetite e ao território que ocupa.
 
-Na prática das passarelas e canoas, contudo, distância cósmica pouco vale quando a água começa a ferver sob o casco. Onde a sombra de um Deus-Fera toca o junco ou o mangue, sua vontade é lei imediata. Nenhuma tribo do vale subestima essas forças: ignorar os sinais de território, pescar além do limite ou pisar em um Território Sagrado de Desova cobra seu preço na carne, quase sempre antes que haja tempo de remar de volta.
+Nas passarelas e canoas, porém, essa distinção pouco importa. Onde um Deus-Fera se estabelece, sua vontade vale como lei local. Nenhuma tribo ignora essas fronteiras: desrespeitar seus sinais, pescar além do limite ou invadir um Território Sagrado de Desova costuma ser fatal.
 
 ### Deuses-Fera Conhecidos
 
@@ -58,15 +58,15 @@ Na prática das passarelas e canoas, contudo, distância cósmica pouco vale qua
 ## Prática e Tabus
 
 ### Regras de Caçada: Ninhadas vs. Territórios Sagrados de Desova
-A sobrevivência no pântano exige saber onde termina a caça comum e onde começa o domínio do sagrado. Entre os caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]], duas leis não escritas separam o ofício honrado da profanação mortal:
+Entre os caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]], duas regras separam a caça comum da profanação:
 
-- **Ninhadas:** Áreas naturais de reprodução de bestas comuns. O abate em ninhadas é permitido para sustentar as tribos, mas a ganância é punida pelo próprio costume: nunca se extermina toda a prole, deixando sempre ao menos um par adulto para que o ciclo do brejo não seque.
-- **Territórios Sagrados de Desova:** Berçários onde Deuses-Fera e suas crias diretas depositam ovos, como as enseadas rasas de [[Deuses-Fera/Karkinos|Karkinos]] na [[Geografia/Costa Salobra|Costa Salobra]]. Fora da estação de acasalamento, a entrada é proibida sob pena de morte ou maldição; mesmo durante a temporada, nenhum grupo pisa naquelas águas sem permissão formal dos xamãs da tribo guardiã.
+- **Ninhadas:** Áreas naturais de reprodução de bestas comuns. O abate é permitido para sustentar as tribos, mas proíbe-se exterminar toda a prole: deixa-se sempre ao menos um par adulto para manter o ciclo.
+- **Territórios Sagrados de Desova:** Berçários onde Deuses-Fera e suas crias depositam ovos, como as enseadas rasas de [[Deuses-Fera/Karkinos|Karkinos]] na [[Geografia/Costa Salobra|Costa Salobra]]. Fora da estação de acasalamento, a entrada é proibida sob pena de morte ou maldição; mesmo durante a temporada, exige permissão formal dos xamãs da tribo guardiã.
 
 ## O que se Conta pelo Pântano
-- **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]** *(Lago da Grande Tirana / Sul — Perigo Alto)*: Pescadores que empurraram a vara longe demais nas águas paradas do sul juram ter visto a superfície escura estufar como um odre podre, instantes antes de uma sombra lenta e pesada deslizar por baixo da jangada sem deixar marola.
-- **[[Deuses-Fera/Krr'tak|Krr'tak (a Espadachim)]]** *(Entre Masca-Musgo e Ferve-Alga — Perigo Alto)*: Batedores da fronteira contam que o pior sinal não é o rugido, mas o silêncio súbito: quando todos os insetos do brejo calam ao mesmo tempo, só resta baixar a lança, prender a respiração e torcer para não estar no caminho de duas lâminas serrilhadas.
-- **[[Deuses-Fera/Og'gath|Og'gath (Sapo-Trovão do Lago Central)]]** *(Lago da Grande Tirana — Perigo Extremo)*: Nas noites abafadas e sem vento, um coaxar tão grave quanto um tambor de guerra sobe do meio do lago e faz tremer a madeira úmida das palafitas de Raiz-Funda — aviso claro de que o gigante voltou a rondar as ilhotas.
+- **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]** *(Lago da Grande Tirana / Sul — Perigo Alto)*: Pescadores que avançaram demais nas águas paradas do sul viram a superfície estufar antes de uma sombra pesada passar por baixo da jangada sem deixar marola.
+- **[[Deuses-Fera/Krr'tak|Krr'tak (a Espadachim)]]** *(Entre Masca-Musgo e Ferve-Alga — Perigo Alto)*: Batedores da fronteira dizem que, quando todos os insetos do brejo calam ao mesmo tempo, só resta baixar a lança e prender a respiração.
+- **[[Deuses-Fera/Og'gath|Og'gath (Sapo-Trovão do Lago Central)]]** *(Lago da Grande Tirana — Perigo Extremo)*: Em noites sem vento, um coaxar grave como um tambor sobe do meio do lago e faz tremer as palafitas de Raiz-Funda.
 
 ---
 

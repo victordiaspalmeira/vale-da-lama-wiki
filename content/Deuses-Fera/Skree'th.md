@@ -24,25 +24,25 @@ aliases: ["Skree'th", "O Morcego-Neblina", "Morcego-Neblina"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Skree'th**, temido nas noites fechadas como **o Morcego-Neblina**, empoleira-se nos galhos ocos das árvores mortas que cercam as [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]] sem jamais cruzar para dentro das câmaras de pedra. É um Deus-Fera menor e traiçoeiro, cujo maior perigo não está na mordida, mas na voz falsa que solta através da neblina.
+**Skree'th**, chamado nas noites fechadas de **o Morcego-Neblina**, empoleira-se nos galhos ocos das árvores mortas ao redor das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]], sem nunca entrar nas câmaras de pedra. É um Deus-Fera menor e traiçoeiro, mais perigoso pela voz falsa na neblina do que pela mordida.
 
 ## Aparência
-Do porte de um cervo magro, Skree'th tem pelos brancos manchados de fuligem úmida e membranas de asa finas e esgarçadas, que ondulam como farrapos de névoa quando ele plana sem fazer barulho.
+Do porte de um cervo magro, tem pelos brancos manchados de fuligem úmida e asas finas e rasgadas que planam sem fazer ruído.
 
 ## Personalidade e Maneirismos
-Arisco e zombeteiro, evita batalhas diretas e foge ao primeiro ferimento sério. Em vez de atacar de frente, imita assobios de vigia, chamados de socorro e ruídos de canoa para atrair batedores solitários para longe da trilha segura.
+Arisco e zombeteiro, evita combate direto e foge ao primeiro ferimento sério. Imita assobios de vigia, pedidos de socorro e ruídos de canoa para atrair batedores solitários para fora da trilha segura.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Caça presas pequenas à noite nos arredores das Pedras Mortas, bebendo sangue quente antes de recolher-se ao amanhecer dentro de troncos ocos. Serve de aviso vivo para quem se aproxima demais das ruínas: quando os assobios da neblina começam a responder do alto em ecos errados, é sinal de que Skree'th está acordado.
+Caça presas pequenas à noite perto das Pedras Mortas, bebe sangue quente e recolhe-se ao amanhecer dentro de troncos ocos. Quando os assobios da neblina respondem em ecos errados, sabe-se que Skree'th está acordado.
 
 ## Relações e Alianças
-* **Batedores e [[Exilados/Exilados|Exilados]]:** Até quem ronda a borda das ruínas aprende a nunca seguir um assobio vindo da névoa sem confirmação visual.
+* **Batedores e [[Exilados/Exilados|Exilados]]:** Quem ronda a borda das ruínas aprende a nunca seguir um assobio vindo da neblina sem confirmação visual.
 
 ## O que se Conta pelo Pântano
-- **O Vigia que Não Existe:** Sentinelas juram já ter ouvido o sinal exato de troca de turno vindo de galhos onde nenhum goblin havia subido naquela noite.
+- **O Vigia que Não Existe:** Sentinelas juram já ter ouvido o sinal exato de troca de turno vindo de galhos onde nenhum goblin havia subido.
 
 ---
 

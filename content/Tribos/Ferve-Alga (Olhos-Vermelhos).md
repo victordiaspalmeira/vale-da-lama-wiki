@@ -23,22 +23,22 @@ aliases: ["Ferve-Alga", "Olhos-Vermelhos", "Tribo do Nordeste", "Deus-Caranguejo
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-Os **Ferve-Alga**, chamados pelos vizinhos de **Olhos-Vermelhos**, ocupam a faixa nordeste do [[Geografia/Vale da Lama|Vale da Lama]], onde a lama doce dos rios encontra o sal e a neblina fria do **Mar das Brumas**. Nas ilhotas da **[[Geografia/Costa Salobra|Costa Salobra]]**, erguem sua vida entre crostas brancas de salitre, vapor ardido e fumaça que nunca apaga, obedecendo às marés que acreditam nascer da respiração de **[[Deuses-Fera/Karkinos|Karkinos, o Deus-Caranguejo]]**.
+Os **Ferve-Alga**, chamados pelos vizinhos de **Olhos-Vermelhos**, ocupam o nordeste do [[Geografia/Vale da Lama|Vale da Lama]], onde os rios encontram o **Mar das Brumas**. Vivem nas ilhotas da **[[Geografia/Costa Salobra|Costa Salobra]]**, entre salitre, vapor de salmoura e fumaça constante, guiando suas rotinas pelas marés que atribuem à respiração de **[[Deuses-Fera/Karkinos|Karkinos, o Deus-Caranguejo]]**.
 
 ## Aparência e Traços
-O apelido **Olhos-Vermelhos** não vem de fúria em combate, mas da própria rotina diante das fornalhas. Inclinados por horas sobre água salgada e algas em ebulição, os Ferve-Alga carregam pálpebras irritadas e olhos perpetuamente avermelhados pelo vapor salino e pela fumaça grossa que sopra dos caldeirões.
+O apelido **Olhos-Vermelhos** vem do trabalho contínuo sobre os caldeirões de água salgada e algas em ebulição: têm pálpebras irritadas e olhos constantemente avermelhados pelo vapor salino e pela fumaça.
 
-O vento marinho e o salitre seco deixam riscos brancos sobre a pele curtida. Suas vestes, braçadeiras e escudos improvisados nascem do que a maré devolve à praia: carapaças espessas, conchas gigantes presas com tiras de couro e ossos marinhos curados em salmoura até endurecerem como pedra.
+O salitre seco marca sua pele com crostas brancas. Vestes, braçadeiras e escudos improvisados são feitos de carapaças espessas, conchas gigantes amarradas com couro e ossos marinhos curados em salmoura até endurecer.
 
 ## Cultura e Crenças
 
 ### O Culto a Karkinos e a Respiração das Marés
-Para a tribo, toda a costa obedece ao sono colossal de [[Deuses-Fera/Karkinos|Karkinos]], adormecido sob a [[Geografia/Costa Salobra|Costa Salobra]]. Cada avanço da maré cheia e cada recuo da vazante marcam o ritmo lento de seu peito sob as águas turvas. Nas noites de lua cheia, os devotos entram nas poças rasas para oferecer peixes e crustáceos ao Deus-Caranguejo e dançar em círculo, imitando o peso e o estalo de suas pinças escarlates.
+Para a tribo, a costa obedece ao sono de [[Deuses-Fera/Karkinos|Karkinos]], adormecido sob a [[Geografia/Costa Salobra|Costa Salobra]]. O avanço e o recuo das marés marcam sua respiração sob a água. Nas noites de lua cheia, os devotos entram nas poças rasas para oferecer peixes e crustáceos ao Deus-Caranguejo e dançar em círculo, imitando o estalo de suas pinças escarlates.
 
 ### Ritos da Salmoura e Devolução às Marés
-Ao contrário dos [[Tribos/Masca-Musgo|Masca-Musgo]], que entregam seus mortos à turfa do [[Geografia/Jardim Dourado|Jardim Dourado]], os Ferve-Alga não confiam corpos à terra nem ao fogo: devolvem os falecidos às marés da costa para alimentar os filhos de Karkinos e fechar o ciclo das águas salobras.
+Ao contrário dos [[Tribos/Masca-Musgo|Masca-Musgo]], que entregam seus mortos à turfa do [[Geografia/Jardim Dourado|Jardim Dourado]], os Ferve-Alga não confiam corpos à terra nem ao fogo: devolvem os falecidos às marés da costa para alimentar os filhos de Karkinos.
 
-Entre os vivos, a **[[Tribos/Salmoura e Sal Cristalizado|salmoura fervente]]** mede coragem, resistência e fé. Diante dos xamãs, jovens iniciados engolem goles de salmoura quente como rito de passagem, provando que suportam o ardor do sal na garganta e o bafo das fornalhas sem recuar um passo.
+Entre os vivos, a **[[Tribos/Salmoura e Sal Cristalizado|salmoura fervente]]** serve de prova de resistência. Diante dos xamãs, jovens iniciados engolem goles de salmoura quente como rito de passagem, suportando o ardor do sal e o calor das fornalhas sem recuar.
 
 ### A Lei Sagrada das Áreas de Desova
 > [!warning] Zona Proibida
@@ -50,9 +50,9 @@ Invadir esses berçários está entre as ofensas mais graves do litoral, punida 
 Os Ferve-Alga vivem na [[Geografia/Costa Salobra|Costa Salobra]] **desde tempos imemoriais**, muito antes de os [[Tribos/Masca-Musgo|Masca-Musgo]] descerem das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] após a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]]. Geração após geração, moldaram suas paliçadas, suas canções e seus calendários ao ritmo das marés de [[Deuses-Fera/Karkinos|Karkinos]], às enseadas de desova e à fervura constante de algas que mantém a tribo de pé.
 
 ## Organização e Ocupações
-As aldeias erguem-se nas ilhotas mais secas da Costa Salobra, cercadas por **paliçadas de conchas gigantes e ossos marinhos** que rangem quando o vento do mar sopra forte. Os **Xamãs das Áreas de Desova** concentram a autoridade religiosa e territorial: vigiam o avanço e o recuo das marés, leem os sinais na espuma e concedem ou negam passagem às enseadas protegidas.
+As aldeias erguem-se nas ilhotas mais secas da Costa Salobra, cercadas por **paliçadas de conchas gigantes e ossos marinhos**. Os **Xamãs das Áreas de Desova** detêm a autoridade religiosa e territorial: vigiam as marés, interpretam sinais na espuma e concedem ou negam acesso às enseadas protegidas.
 
-A economia da tribo pulsa nos **Caldeirões**, grandes bojos de ferro e barro grosso mantidos sobre fogueiras que não apagam nem sob garoa fria. Neles, algas e água do mar fervem até virar [[Tribos/Salmoura e Sal Cristalizado|salmoura concentrada e sal cristalizado]] — bens preciosos na umidade do vale para curar carnes e couros, limpar ferimentos contra infecções e sustentar o escambo na costa.
+A economia da tribo gira em torno dos **Caldeirões** de ferro e barro grosso, mantidos sobre fogueiras constantes. Neles, algas e água do mar fervem até virar [[Tribos/Salmoura e Sal Cristalizado|salmoura concentrada e sal cristalizado]] — usados para curar carnes e couros, limpar ferimentos e sustentar o escambo na costa.
 
 ## Relações e Diplomacia
 * **[[Tribos/Masca-Musgo|Masca-Musgo]]:** O Nordeste e o Oeste sustentam uma trégua tensa e desgastante. O porte e o número das fogueiras acesas dia e noite sob os caldeirões ferem o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] dos devotos do oeste; no dia a dia, o atrito maior vem das **fronteiras entre os territórios**, cruzadas com frequência pelos dois lados e difíceis de cobrar no labirinto de canais e bancos de lama. Quando há troca entre as tribos, tudo corre por **escambo**.

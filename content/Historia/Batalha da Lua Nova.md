@@ -22,23 +22,23 @@ aliases: ["Batalha da Lua Nova", "A Batalha da Lua Nova"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-A **Batalha da Lua Nova** encerrou a guerra surda da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] e partiu ao meio a **escravidão do fogo** imposta pelos **Filhos de Ashkor**. Numa única noite sem lua, quando a escuridão apagou os contornos das escarpas, os antigos cativos ergueram-se contra seus senhores a céu aberto e no ventre sufocante das galerias de pedra.
+A **Batalha da Lua Nova** encerrou a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] e pôs fim à **escravidão do fogo** imposta pelos **Filhos de Ashkor**. Em uma única noite sem lua, os cativos enfrentaram seus senhores tanto nas galerias subterrâneas quanto nas encostas externas.
 
 ## Antecedentes
-Durante duas décadas após o achado do [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]], os goblins travaram uma guerra que não deixava marcas visíveis à luz das tochas. Dia após dia, em tarefas miúdas de limpeza, escavação e transporte, espalharam a poeira fina dos esporos pelas frestas úmidas, pelos leitos de pedra e pelas câmaras dos [[Tribos/Povo Dragão|Dragões Vermelhos]], deixando que a podridão trabalhasse no silêncio dos pulmões milenares.
+Durante vinte anos após a descoberta do [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]], os goblins espalharam esporos nas frestas, leitos de pedra e câmaras dos [[Tribos/Povo Dragão|Dragões Vermelhos]] durante o trabalho nas minas. O fungo corroeu os pulmões dos dragões em silêncio.
 
-O plano, contudo, quase se desfez pela pressa. A sobrecarga de sabotagem derrubou cedo demais o dragão jovem [[NPCs/Vexar|Vexar]], cujo corpo ainda não suportava o veneno lento como os mais velhos. Ao farejarem o rastro estranho dos esporos antes do tempo previsto, os senhores dracônicos compreenderam que a doença não viera da rocha, mas das mãos que arrastavam correntes. Furiosos, desceram às minas para esmagar a rebelião antes que a noite terminasse.
+O excesso de sabotagem, porém, derrubou cedo demais o dragão jovem [[NPCs/Vexar|Vexar]], menos resistente que os adultos. Ao detectar o rastro dos esporos antes da hora, os dragões perceberam a origem da doença e desceram às minas para esmagar os escravos.
 
 ## O Decorrer dos Acontecimentos
-A escolha dos tiranos veio tarde, e o céu sem lua já pertencia a outro poder. No breu cerrado da **Lua Nova**, [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] despertou e potencializou o [[Cosmologia/Micelio Dourado|Micélio Dourado]], fazendo o fungo ferver tanto no sangue dos goblins quanto nas entranhas já minadas de seus algozes.
+A reação veio tarde demais. No escuro da **Lua Nova**, [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] potencializou o [[Cosmologia/Micelio Dourado|Micélio Dourado]] tanto no sangue dos goblins quanto nas entranhas já comprometidas dos dragões.
 
-Onde antes havia escravos famintos que raspavam musgo da pedra para sobreviver, surgiu uma horda tomada pela febre sagrada do fungo, indiferente ao medo que por gerações lhe dobrara a espinha. Os Dragões Vermelhos ainda cuspiram fogo contra as galerias e o pé da serra, mas seus corpos traídos por vinte anos de corrosão interna falharam no momento decisivo. Sem fôlego para sustentar o cerco contra a investida implacável dos libertos, os sobreviventes viram a noite virar contra si. Ao cabo de horas inteiras de combate entre fumaça, pedra estilhaçada e cheiro doce de esporos, os dragões remanescentes abandonaram suas fortalezas nas montanhas e bateram asas para o **leste**, em fuga desordenada sobre a escuridão.
+Tomados pela febre do fungo, os antigos escravos avançaram sem recuar diante das chamas. Os Dragões Vermelhos ainda cuspiram fogo pelas galerias e pelo pé da serra, mas seus corpos enfraquecidos por vinte anos de corrosão interna não resistiram ao cerco. Após horas de combate entre fumaça, rocha quebrada e esporos, os dragões sobreviventes abandonaram as fortalezas nas montanhas e fugiram para o **leste**.
 
 ## Consequências
-A retirada dracônica não trouxe descanso nem silêncio às minas. Os goblins sabiam que um tirano vivo, ainda que ferido, apenas esperaria a hora de voltar com brasas mais quentes. Sem esperar o amanhecer esfriar a cinza do combate, os libertos abandonaram as galerias de pedra e iniciaram a [[Historia/Primeira Cacada Sagrada|Primeira Caçada Sagrada]], lançando-se vale abaixo no encalço de cada fugitivo.
+Os goblins não deram trégua aos fugitivos, cientes de que um dragão ferido ainda poderia retornar. Sem esperar o amanhecer, deixaram as galerias de pedra e iniciaram a [[Historia/Primeira Cacada Sagrada|Primeira Caçada Sagrada]], descendo para o vale no encalço de cada sobrevivente.
 
 ## Legado no Vale
-Nas histórias guardadas em [[Geografia/Raiz-Funda|Raiz-Funda]], a noite da Lua Nova marca o instante exato em que a paciência silenciosa do Micélio Dourado vergou e quebrou a tirania do fogo. Dela brotou o chão livre onde se ergueriam as moradas nos Cogumelos Nodosos e a promessa viva que ainda hoje move cada jovem partido na [[Historia/Cacada Sagrada|Caçada Sagrada]].
+Em [[Geografia/Raiz-Funda|Raiz-Funda]], a noite da Lua Nova marca o momento em que o Micélio Dourado quebrou o domínio do fogo. Dessa vitória vieram a posse do território oeste e a tradição da [[Historia/Cacada Sagrada|Caçada Sagrada]].
 
 ---
 

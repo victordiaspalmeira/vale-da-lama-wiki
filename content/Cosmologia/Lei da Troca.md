@@ -22,27 +22,27 @@ aliases: ["Lei da Troca", "A Lei da Troca", "Reciprocidade"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-Nascida do [[Cosmologia/Animismo|Animismo]] do vale, a **Lei da Troca** rege cada passo dentro do [[Geografia/Vale da Lama|Vale da Lama]]. Para os [[Tribos/Masca-Musgo|Masca-Musgo]], ninguém possui o pântano nem compra direito eterno sobre suas águas: toda vida tirada, toda madeira derrubada e todo canal atravessado abre uma dívida silenciosa — e nada se toma do brejo sem devolução imediata em equilíbrio.
+Nascida do [[Cosmologia/Animismo|Animismo]] do vale, a **Lei da Troca** rege cada atividade dentro do [[Geografia/Vale da Lama|Vale da Lama]]. Para os [[Tribos/Masca-Musgo|Masca-Musgo]], ninguém é dono do pântano: toda vida tirada, madeira derrubada e canal atravessado abre uma dívida que exige devolução imediata.
 
 ## Natureza e Funcionamento
-Mais do que etiqueta de viajantes, a lei traduz uma certeza dura de sobrevivência: quem vive no pântano só recebe abrigo, caça e remédio enquanto aceita retribuir na mesma medida. Ao colher [[Cosmologia/Micelio Dourado|Micélio Dourado]], retirar piche dos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]], cortar madeira de mangue ou partir em [[Historia/Cacada Sagrada|Caçada Sagrada]], a dívida se paga em gestos concretos e cotidianos:
+Quem vive no pântano só recebe abrigo, caça e remédio enquanto retribui na mesma medida. Ao colher [[Cosmologia/Micelio Dourado|Micélio Dourado]], retirar piche dos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]], cortar madeira de mangue ou partir em [[Historia/Cacada Sagrada|Caçada Sagrada]], a dívida é paga com gestos concretos:
 
-- **Pedir passagem:** Antes de entrar em trilhas fechadas pelo junco ou em águas desconhecidas, o viajante anuncia sua intenção em voz baixa, reconhecendo que pisa em território vivo.
-- **Deixar penhor na lama:** Ao colher ou cortar algo, deposita-se um sinal pessoal de respeito na raiz ou na margem — um dente de leite guardado, uma mecha de cabelo, uma lasca de garra ou uma pequena tigela de pasta fermentada.
-- **Cantar ou narrar ao anoitecer:** Ao cair da névoa, histórias contadas em voz baixa ou cantos antigos devolvem lembrança ao brejo que deu pouso seco até o amanhecer.
-- **Devolver o primeiro pedaço do coração:** Na caçada, o caçador abre a presa ainda quente e entrega ao musgo o primeiro pedaço cru do coração abatido, honrando o ciclo que permitiu a captura.
+- **Pedir passagem:** Antes de entrar em trilhas fechadas ou águas desconhecidas, o viajante anuncia sua intenção em voz baixa.
+- **Deixar penhor na lama:** Ao colher ou cortar algo, deposita-se um sinal pessoal na raiz ou na margem — um dente de leite guardado, uma mecha de cabelo, uma lasca de garra ou uma tigela pequena de pasta fermentada.
+- **Cantar ou narrar ao anoitecer:** Ao cair da noite, histórias ou cantos em voz baixa retribuem ao brejo o pouso seco até o amanhecer.
+- **Devolver o primeiro pedaço do coração:** Na caçada, o caçador abre a presa ainda quente e entrega ao musgo o primeiro pedaço cru do coração abatido.
 
 ## Origem e Tradição
-A lei brota diretamente da visão [[Cosmologia/Animismo|animista]] de que árvores, águas paradas, ferramentas e trilhas guardam lembrança de quem as trata com respeito ou com descaso ganancioso.
+A lei decorre diretamente da visão [[Cosmologia/Animismo|animista]] de que árvores, águas, ferramentas e trilhas guardam memória de quem as trata com respeito ou ganância.
 
 ## Prática e Tabus
-Quem colhe sem pedir, derruba além do necessário, mata por capricho ou ignora a proporção entre o que toma e o que devolve desperta a hostilidade lenta do brejo. Primeiro vêm os avisos: trilhas conhecidas se fecham sob os pés, tábuas e cabos apodrecem depressa ou somem na lama, cortes simples inflamam com febre teimosa e predadores passam a seguir o rastro do infrator sem descanso.
+Quem colhe sem pedir, derruba além do necessário ou mata por capricho desperta a hostilidade do brejo. Trilhas conhecidas se fecham, tábuas e cabos apodrecem depressa ou somem na lama, cortes simples inflamam com febre e predadores passam a seguir o rastro do infrator.
 
-Quando a dívida se acumula e o pântano cobra caro demais, moradores e visitantes procuram [[NPCs/Zog|Zog (Voz-de-Esporo)]], que lê os sinais do solo e aponta o que precisa voltar à lama para aplacar a ofensa — enquanto disputas e quebras internas entre membros da comunidade seguem para julgamento diante da aldeia com [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]].
+Quando a dívida se acumula, moradores e visitantes procuram [[NPCs/Zog|Zog (Voz-de-Esporo)]], que lê os sinais do solo e indica o que deve voltar à lama para aplacar a ofensa. Disputas e quebras internas entre membros da comunidade seguem para julgamento diante da aldeia com [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]].
 
 ## O que se Conta pelo Pântano
-- **O Peso da Dívida:** Batedores das passarelas dizem que o pântano perdoa a ignorância de um forasteiro só uma vez; quem insiste em tomar sem devolver logo descobre que até a lama sob as botas cobra o que lhe devem.
-- **O Preço do Desperdício:** Em noites de neblina densa perto dos canais, pescadores juram que quem joga peixe fora por capricho acorda no dia seguinte com a rede vazia ou rasgada por dentes que não deixaram rastro na água.
+- **O Peso da Dívida:** Batedores das passarelas dizem que o pântano perdoa a ignorância de um forasteiro só uma vez; quem insiste em tomar sem devolver descobre que a lama sob as botas cobra o que lhe devem.
+- **O Preço do Desperdício:** Pescadores juram que quem joga peixe fora por capricho acorda no dia seguinte com a rede vazia ou rasgada por dentes que não deixaram rastro na água.
 
 ---
 

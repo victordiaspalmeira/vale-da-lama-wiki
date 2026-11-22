@@ -25,9 +25,9 @@ aliases: ["Nokk"]
 
 # Nokk
 
-**Nokk** é um antigo habitante de [[Geografia/Raiz-Funda|Raiz-Funda]] lançado fora da tribo [[Tribos/Masca-Musgo|Masca-Musgo]] para errar como [[Exilados/Exilados|exilado]] pelo [[Geografia/Vale da Lama|Vale da Lama]]. Longe da proteção das estivas de madeira e do abrigo dos [[Geografia/Cogumelos Nodosos|Cogumelos Nodosos]], sua sobrevivência se resume ao que consegue arrancar da lama fria e das bordas esquecidas do brejo, onde nenhuma aldeia oferece teto, troca justa ou abrigo contra a névoa de esporos.
+**Nokk** é um antigo habitante de [[Geografia/Raiz-Funda|Raiz-Funda]] expulso dos [[Tribos/Masca-Musgo|Masca-Musgo]] para viver como [[Exilados/Exilados|exilado]] pelo [[Geografia/Vale da Lama|Vale da Lama]]. Sem acesso às estivas de madeira ou aos [[Geografia/Cogumelos Nodosos|Cogumelos Nodosos]], sobrevive do que consegue extrair das margens do brejo, sem aldeia que lhe dê abrigo, troca ou proteção contra a névoa de esporos.
 
-Sobre ele pesa a mesma sentença irrevogável ditada por [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] a todos os expulsos: a perda de lugar entre os vivos e da devolução aos leitos de turfa do [[Geografia/Jardim Dourado|Jardim Dourado]]. Caso ouse testar a vigilância de Raiz-Funda, encontrará apenas o aviso seco das flechas de [[NPCs/Varga|Varga]] antes do segundo passo.
+A sentença de [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] é irrevogável e lhe nega o sepultamento no [[Geografia/Jardim Dourado|Jardim Dourado]]. Caso se aproxime dos limites de Raiz-Funda, as sentinelas de [[NPCs/Varga|Varga]] disparam uma flecha de aviso e matam no segundo passo.
 
 ## Aparência
 *A preencher.*

@@ -26,29 +26,27 @@ aliases: ["Gnarl", "Gnarl Martelo-Torto"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Gnarl Martelo-Torto** guarda e contém a única forja mantida acesa com regularidade em [[Geografia/Raiz-Funda|Raiz-Funda]]. Onde a aldeia se ergue entre habitações escavadas nos imensos Cogumelos Nodosos e palafitas de madeira encharcada, sua bigorna isolada marca o limite estreito entre a necessidade de metal e o terror ancestral das chamas.
-
-Dia após dia, entre o chiado da água tocando o barro quente e o cheiro contido de fuligem, Gnarl prova que a brasa pode dobrar o ferro como ferramenta sem jamais voltar a servir de arma de tirania.
+**Gnarl Martelo-Torto** mantém a única forja acesa com regularidade em [[Geografia/Raiz-Funda|Raiz-Funda]], aldeia erguida entre habitações escavadas nos imensos Cogumelos Nodosos e palafitas sobre canais. Sua bigorna isolada atende à necessidade de metal sem violar o tabu contra as chamas.
 
 ## Aparência
 *A preencher.*
 
 ## Personalidade e Maneirismos
-Rabugento, seco e de poucas palavras, Gnarl não tolera distração nem gracejo perto das brasas. Qualquer descuido junto ao fogo atrai sua bronca imediata — rigor áspero que, longe de afastá-lo da comunidade, lhe garante respeito profundo em toda [[Geografia/Raiz-Funda|Raiz-Funda]].
+Rabugento, seco e de poucas palavras, Gnarl não tolera distração nem gracejos perto das brasas. Qualquer descuido junto ao fogo recebe bronca imediata, rigor que lhe garante respeito em [[Geografia/Raiz-Funda|Raiz-Funda]].
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Sua oficina ocupa uma **ilhota de pedra e barro batido** cercada por canais na borda externa de [[Geografia/Raiz-Funda|Raiz-Funda]], distante o bastante para que nenhuma faísca errante alcance as raízes vivas ou a turfa seca. Ali, Gnarl mantém a brasa baixa e obediente ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]: o calor existe apenas como **fogo-ferramenta**, jamais para forjar armas incendiárias, punir ou ferir.
+Sua oficina ocupa uma **ilhota de pedra e barro batido** cercada por canais na borda externa de [[Geografia/Raiz-Funda|Raiz-Funda]], longe das raízes vivas e da turfa seca. Ali, mantém a brasa baixa em obediência ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], usando apenas **fogo-ferramenta** e jamais produzindo armas incendiárias ou instrumentos de punição.
 
-Como os [[Tribos/Masca-Musgo|Masca-Musgo]] não escavam minas no pântano, o metal trabalhado por Gnarl nasce da recuperação paciente. Ele recolhe sucatas, ferragens antigas e peças trazidas de fora do vale ou das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]], endireitando lâminas empenadas e reforçando ferramentas desgastadas. Já para o equipamento cotidiano da tribo — lanças de caça, anzóis, pontas e escudos —, abandona a brasa e trabalha madeira de mangue curada e osso tratado segundo a [[Tribos/Preparacao a Frio|Preparação a Frio]].
+Como os [[Tribos/Masca-Musgo|Masca-Musgo]] não escavam minas no pântano, Gnarl trabalha com sucata, ferragens antigas e peças recuperadas fora do vale ou nas [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]], endireitando lâminas e reforçando ferramentas. Para o equipamento comum da tribo — lanças de caça, anzóis, pontas e escudos —, dispensa a forja e trabalha madeira de mangue curada e osso tratado segundo a [[Tribos/Preparacao a Frio|Preparação a Frio]].
 
 ## Relações e Alianças
-* **[[NPCs/Kruk|Kruk]] e [[NPCs/Varga|Varga]]:** O trabalho de Gnarl sustenta as pontas de lança e as lâminas que patrulham o brejo. É para sua ilhota que tanto o Mestre dos Caçadores quanto a Capitã da Guarda enviam armas lascadas para reparo antes de novas incursões ou rondas nas arcadas.
+* **[[NPCs/Kruk|Kruk]] e [[NPCs/Varga|Varga]]:** Repara e reforça as lâminas e pontas de lança usadas pelas patrulhas e expedições do Mestre dos Caçadores e da Capitã da Guarda.
 
 ## O que se Conta pelo Pântano
-* **O Fogo que Não Morde:** Jovens que se preparam para a [[Historia/Cacada Sagrada|Caçada Sagrada]] costumam parar na borda do canal fronteiro à forja apenas para observar a brasa baixa de Gnarl cercada de água por todos os lados. Na aldeia, não há lição mais clara sobre a distância entre o calor domado que molda uma lâmina e a chama profana dos antigos mestres.
+* **O Fogo que Não Morde:** Jovens prestes a partir na [[Historia/Cacada Sagrada|Caçada Sagrada]] param na borda do canal em frente à forja para observar a brasa baixa de Gnarl cercada de água — exemplo concreto da diferença entre o calor domado da ferramenta e a chama dos antigos mestres.
 
 ---
 

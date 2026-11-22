@@ -25,9 +25,9 @@ aliases: ["Skrit"]
 
 # Skrit
 
-**Skrit** pertence ao rol dos [[Exilados/Exilados|exilados]] que um dia chamaram [[Geografia/Raiz-Funda|Raiz-Funda]] de lar e hoje vagam pelas franjas do [[Geografia/Vale da Lama|Vale da Lama]]. Expulso dos [[Tribos/Masca-Musgo|Masca-Musgo]] pela palavra de [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]], perdeu o amparo das caçadas em grupo, das passarelas vigiadas e do cheiro conhecido da fuligem baixa que sustenta a vida na aldeia.
+**Skrit** é um dos [[Exilados/Exilados|exilados]] de [[Geografia/Raiz-Funda|Raiz-Funda]] que vagam pelas franjas do [[Geografia/Vale da Lama|Vale da Lama]]. Banido dos [[Tribos/Masca-Musgo|Masca-Musgo]] por sentença de [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]], perdeu o apoio das caçadas em grupo, das passarelas vigiadas e das fogueiras da aldeia.
 
-No pântano, o banimento não termina com a travessia da fronteira: ele nega ao condenado o descanso no [[Geografia/Jardim Dourado|Jardim Dourado]] e o retorno à rede de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] pelo [[Cosmologia/Ciclo da Devolucao|Ciclo da Devolução]]. Para Skrit, a antiga morada permanece fechada pela vigília constante das sentinelas de [[NPCs/Varga|Varga]], prontas para responder a qualquer aproximação com flechas de aviso e morte certa se insistir.
+O exílio lhe nega também o sepultamento no [[Geografia/Jardim Dourado|Jardim Dourado]] e o retorno à rede de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] pelo [[Cosmologia/Ciclo da Devolucao|Ciclo da Devolução]]. Os limites de Raiz-Funda permanecem fechados pelas sentinelas de [[NPCs/Varga|Varga]], que respondem a qualquer aproximação com uma flecha de aviso e disparo letal em caso de insistência.
 
 ## Aparência
 *A preencher.*

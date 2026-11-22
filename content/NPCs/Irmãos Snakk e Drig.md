@@ -26,34 +26,32 @@ aliases: ["Irmãos Snakk e Drig", "Snakk e Drig", "Snakk", "Drig"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-Os **Irmãos Snakk e Drig** são os **Coveiros-Sacerdotes** do [[Geografia/Jardim Dourado|Jardim Dourado]] e integrantes da ordem fechada dos **[[Tribos/Jardineiros|Jardineiros]]**, no coração de [[Geografia/Raiz-Funda|Raiz-Funda]]. Criados sob as arcadas úmidas da necrópole e longe da luz direta do sol, vivem imersos no cheiro doce de esporos e turfa revolvida.
-
-Cabe a eles receber os mortos dos [[Tribos/Masca-Musgo|Masca-Musgo]], conduzir sua decomposição sagrada, colher o [[Cosmologia/Micelio Dourado|Micélio Dourado]] na medida exata da necessidade e guardar as pontes do círculo interno contra qualquer passo profano.
+Os **Irmãos Snakk e Drig** são os **Coveiros-Sacerdotes** do [[Geografia/Jardim Dourado|Jardim Dourado]] e membros da ordem dos **[[Tribos/Jardineiros|Jardineiros]]**, em [[Geografia/Raiz-Funda|Raiz-Funda]]. Criados sob as arcadas úmidas da necrópole e longe do sol direto, cuidam dos mortos dos [[Tribos/Masca-Musgo|Masca-Musgo]], da colheita controlada do [[Cosmologia/Micelio Dourado|Micélio Dourado]] e da guarda das pontes do círculo interno.
 
 ## Aparência
-Snakk e Drig são gêmeos de pele pálida e olhos leitosos, desbotados por anos inteiros dentro da penumbra âmbar e da névoa espessa de esporos do santuário. Onde outros goblins trazem marcas de sol, vento ou salitre, os dois parecem moldados pela sombra úmida dos canteiros fúngicos.
+Snakk e Drig são gêmeos de pele pálida e olhos leitosos, desbotados por anos contínuos na penumbra âmbar e na névoa de esporos do santuário.
 
 ## Personalidade e Maneirismos
-Fora de seus ritos, Snakk e Drig demonstram pouca malícia: são meio burros, lentos para acompanhar argumentos retorcidos e inteiramente indiferentes às intrigas que fervem no cais. Não discutem política tribal nem disputam prestígio nas fogueiras.
+Fora dos ritos, são meio burros, lentos para acompanhar argumentos complexos e indiferentes às intrigas do cais. Não participam de disputas políticas nem buscam prestígio.
 
-Essa lentidão, porém, engana quem os subestima. Diante das ordens do alto clero, obedecem sem hesitar um instante; e, se algum intruso tenta violar os canteiros sagrados, a hesitação desaparece por completo — os dois revelam-se combatentes exímios, lutando com uma precisão brutal para defender o solo do santuário.
+Diante das ordens do alto clero, porém, obedecem sem hesitar. Se algum intruso viola os canteiros sagrados, revelam-se combatentes exímios e defendem o santuário com brutalidade e precisão.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Nos leitos de turfa do Jardim Dourado, os gêmeos conduzem cada cadáver pelos três estágios do [[Cosmologia/Ciclo da Devolucao|Ciclo da Devolução]]. Durante *O Inchaço* (dias 1 a 3), lavam o corpo com água de mangue e retiram metais e couros que ainda sirvam aos vivos; durante *A Floração* (dias 4 a 12), inclinam-se sobre a pele para ler os desenhos do bolor e honrar a memória do falecido; passado o 13º dia (*O Retorno*), recolhem os ossos limpos ou deixam que o restante afunde na lama fértil.
+Nos leitos de turfa do Jardim Dourado, os gêmeos conduzem cada cadáver pelos três estágios do [[Cosmologia/Ciclo da Devolucao|Ciclo da Devolução]]: em *O Inchaço* (dias 1 a 3), lavam o corpo com água de mangue e recolhem metais e couros reaproveitáveis; em *A Floração* (dias 4 a 12), examinam os padrões do bolor para honrar a memória do morto; após o 13º dia (*O Retorno*), recolhem os ossos limpos ou deixam o restante afundar na lama.
 
-Além dos ritos fúnebres, zelam pelos canteiros bioluminescentes ao redor do monte central. Colhem o [[Cosmologia/Micelio Dourado|Micélio Dourado]] sob a medida severa da [[Cosmologia/Lei da Troca|Lei da Troca]], garantindo que nada seja arrancado por ganância ou desperdício.
+Também zelam pelos canteiros bioluminescentes ao redor do monte central e colhem o [[Cosmologia/Micelio Dourado|Micélio Dourado]] sob a [[Cosmologia/Lei da Troca|Lei da Troca]], impedindo extrações por ganância ou desperdício.
 
 ## Relações e Alianças
-* **[[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]:** Obedecem diretamente ao líder espiritual de Raiz-Funda, que supervisiona os ritos do santuário e determina quando o círculo interno deve se fechar.
-* **[[Tribos/Jardineiros|Jardineiros]]:** Dividem a vigília silenciosa nas passagens do círculo interno, onde a guarda regular de [[NPCs/Varga|Varga]] não tem autoridade para entrar.
-* **[[NPCs/Snikk|Snikk]]:** Entregam ao Curandeiro-Chefe as porções puras de [[Cosmologia/Micelio Dourado|Micélio Dourado]] usadas no tratamento de ferimentos graves — sabendo que a mesma mão que recebe o remédio às vezes devolve o corpo que não resistiu.
+* **[[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]:** Respondem diretamente ao líder espiritual de Raiz-Funda, que supervisiona os ritos e ordena o fechamento do círculo interno.
+* **[[Tribos/Jardineiros|Jardineiros]]:** Dividem a vigília nas passagens do círculo interno, onde a guarda regular de [[NPCs/Varga|Varga]] não tem autoridade.
+* **[[NPCs/Snikk|Snikk]]:** Fornecem ao Curandeiro-Chefe as porções puras de [[Cosmologia/Micelio Dourado|Micélio Dourado]] usadas no tratamento de ferimentos graves.
 
 ## O que se Conta pelo Pântano
-* **Olhos que Leem o Bolor:** Quem nunca pisou além das pontes internas garante que Snakk e Drig conseguem narrar a vida inteira de um goblin apenas pela cor, pela espessura e pelo traçado das hifas que brotam sobre o peito durante *A Floração*.
-* **Pás que Não Erram:** Nas fogueiras fora do santuário, caçadores mais ousados costumam rir da lentidão dos gêmeos para entender uma piada — mas nenhum deles tem coragem de testar o alcance dos dois perto dos canteiros dourados.
+* **Olhos que Leem o Bolor:** Quem nunca cruzou as pontes internas garante que Snakk e Drig conseguem narrar a vida de um goblin apenas pela cor, espessura e traçado das hifas que crescem sobre o peito em *A Floração*.
+* **Pás que Não Erram:** Caçadores mais ousados zombam da lentidão dos gêmeos para entender piadas, mas nenhum se arrisca a testá-los perto dos canteiros dourados.
 
 ---
 

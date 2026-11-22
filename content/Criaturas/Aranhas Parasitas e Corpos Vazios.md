@@ -23,26 +23,26 @@ aliases: ["Aranhas Parasitas", "Corpos Vazios"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-Os **Corpos Vazios** tomados por **Aranhas Parasitas** são a lembrança ambulante do preço cobrado por [[Deuses-Fera/Mael'ra|Mael'ra, a Deusa-Fera Aranha]] quando um devedor atrasa ou descumpre o pagamento do [[Tribos/Suturas em Carne Viva|Vínculo com a Teia]]. Vencido o prazo, o [[Cosmologia/Fio Espiritual|Fio Espiritual]] retrai-se e arranca a alma até o covil da deusa para ser devorada, deixando para trás uma casca que se recusa a tombar na lama.
+Os **Corpos Vazios** tomados por **Aranhas Parasitas** são o resultado da cobrança de [[Deuses-Fera/Mael'ra|Mael'ra, a Deusa-Fera Aranha]] quando um devedor atrasa ou descumpre o pagamento do [[Tribos/Suturas em Carne Viva|Vínculo com a Teia]]. Vencido o prazo, o [[Cosmologia/Fio Espiritual|Fio Espiritual]] retrai-se e puxa a alma até o covil da deusa para ser devorada, deixando a casca de pé no pântano.
 
 ## Aparência e Anatomia
-À distância, sob a neblina doce de esporos, um Corpo Vazio ainda imita a silhueta da criatura que um dia foi: pele, farrapos de roupa ou escamas permanecem no lugar, sem cortes óbvios que expliquem a ruína interna. Basta aproximar-se, porém, para que o engano se desfaça. Os olhos estão vidrados e secos, sem piscar diante da fumaça ou dos insetos, e os membros movem-se em trancos duros, como se puxados por tendões ressecados que já não obedecem a nenhum pensamento.
+À distância, um Corpo Vazio conserva a silhueta de quem era: pele, farrapos de roupa ou escamas permanecem no lugar, sem ferimentos externos óbvios. De perto, o aspecto denuncia a perda da vida: os olhos ficam vidrados, secos e sem piscar diante da fumaça ou dos insetos, e os membros se movem em trancos duros.
 
-Por dentro, a carcaça foi transformada em berçário vivo. Cavidades esvaziadas acolhem ninhadas compactas de aranhas parasitas pequenas que se acomodam sob a pele esticada, mantendo a casca de pé enquanto consomem o resto de umidade do hospedeiro e aguardam o momento de romper para fora.
+Por dentro, a carcaça serve de berçário. As cavidades esvaziadas abrigam ninhadas compactas de aranhas parasitas pequenas sob a pele esticada, que mantêm o corpo de pé enquanto consomem a umidade restante e aguardam o momento de romper para fora.
 
 ## Comportamento e Ecologia
-Sem vontade, fome ou medo para guiá-los, esses receptáculos erram sem rumo definido pelos canais estreitos, bancos de turfa e trilhas alagadas do [[Geografia/Vale da Lama|Vale da Lama]]. Não caçam à maneira de uma fera comum, nem fogem do fogo ou do barulho de passos; apenas avançam em linhas tortas, arrastando os pés pelo lodo até esbarrarem em raízes ou seres vivos.
+Sem vontade, fome ou medo, esses receptáculos erram sem rumo pelos canais estreitos, bancos de turfa e trilhas alagadas do [[Geografia/Vale da Lama|Vale da Lama]]. Não caçam nem fogem do fogo ou de ruídos; apenas avançam em linhas tortas, arrastando os pés pelo lodo até esbarrar em raízes ou seres vivos.
 
-Quando perturbados ou quando o ciclo da ninhada amadurece, o equilíbrio frágil da casca se rompe. As aranhas parasitas irrompem em enxame pela boca, pelas juntas ou por fendas abertas na pele, espalhando-se sobre o que estiver ao alcance enquanto a carcaça desaba de vez na água parada.
+Quando perturbados ou quando a ninhada amadurece, a pele cede. As aranhas parasitas irrompem em enxame pela boca, pelas juntas ou por fendas abertas no corpo, atacando o que estiver por perto enquanto a carcaça desaba na água parada.
 
 ## Uso e Relações com as Tribos
-Entre os [[Tribos/Tece-Pele|Tece-Pele]] e todas as tribos vizinhas do pântano, vigora uma regra tácita de cautela absoluta: ninguém toca, saqueia nem recolhe um Corpo Vazio. Enterrá-lo ou tentar aproveitar seus pertences é visto como imprudência fatal — não apenas pelo risco do enxame oculto sob a pele, mas por respeito temeroso à cobrança de [[Deuses-Fera/Mael'ra|Mael'ra]].
+Entre os [[Tribos/Tece-Pele|Tece-Pele]] e as tribos vizinhas vigora uma regra prática: ninguém toca, saqueia ou enterra um Corpo Vazio. Aproximar-se ou recolher seus pertences envolve risco imediato de romper o enxame oculto e é visto como interferência perigosa na cobrança de [[Deuses-Fera/Mael'ra|Mael'ra]].
 
-Cada receptáculo visto à deriva serve de sermão silencioso para quem pensa em buscar favores no alto das copas: no brejo, nenhuma dívida selada com um fio espiritual caduca, e quem tenta escapar do prazo acaba carregando a própria sentença pelas trilhas que antes percorria vivo.
+Cada receptáculo à deriva funciona como aviso concreto no pântano: dívidas seladas com fio espiritual não caducam.
 
 ## O que se Conta pelo Pântano
-- **Passos sem Rumo:** Remadores de águas turvas avisam aos novatos para calar o remo, apagar o tição e deixar a correnteza afastar a canoa se virem alguém andando duro e em linha torta entre os mangues — antes que o peito da casca se abra com um estalo seco e o enxame desperte na escuridão.
-- **Sussurro de Sutura:** Nas fogueiras de [[Geografia/Raiz-Funda|Raiz-Funda]], cochicha-se que, se alguém ouvir um estalido miúdo vindo de dentro da garganta de um viajante que não responde ao próprio nome, já é tarde demais para puxar faca: a alma daquele corpo já foi mastigada há dias no covil da aranha.
+- **Passos sem Rumo:** Remadores avisam aos novatos para calar o remo, apagar o tição e deixar a correnteza afastar a canoa se virem alguém andando duro e em linha torta entre os mangues — antes que o peito rache com um estalo seco.
+- **Estalido na Garganta:** Nas fogueiras de [[Geografia/Raiz-Funda|Raiz-Funda]], diz-se que ouvir um estalo miúdo vindo da garganta de um viajante que não responde ao próprio nome significa que já é tarde para puxar faca: a alma daquele corpo foi devorada há dias.
 
 ---
 

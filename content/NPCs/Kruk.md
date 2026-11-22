@@ -26,25 +26,25 @@ aliases: ["Kruk", "Mestre dos Caçadores"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Kruk**, o **Mestre dos Caçadores** de [[Geografia/Raiz-Funda|Raiz-Funda]], sustenta na lama e no sangue a linha tênue que separa a sobrevivência da temeridade. À frente das [[Historia/Cacada Sagrada|Caçadas Sagradas]], faz valer na prática as leis antigas que mantêm os [[Tribos/Masca-Musgo|Masca-Musgo]] vivos entre Deuses-Fera famintos e fronteiras hostis.
+**Kruk**, o **Mestre dos Caçadores** de [[Geografia/Raiz-Funda|Raiz-Funda]], conduz as [[Historia/Cacada Sagrada|Caçadas Sagradas]] e garante que os caçadores [[Tribos/Masca-Musgo|Masca-Musgo]] respeitem os limites do pântano e os territórios dos Deuses-Fera.
 
 ## Aparência
-Veterano de corpo curtido pelo brejo, Kruk traz a pele marcada por cicatrizes antigas — sulcos de presas, espinhos e armadilhas acumulados ao longo de uma vida inteira patrulhando canais estreitos e bancos de lodo profundo.
+Veterano de corpo curtido pelo brejo, Kruk tem a pele marcada por cicatrizes antigas de presas, espinhos e armadilhas acumuladas em patrulhas pelos canais e bancos de lodo.
 
 ## Personalidade e Maneirismos
-Tradicionalista, metódico e cauteloso até o osso, Kruk carrega a certeza de que a tribo só sobrevive enquanto não provoca forças maiores do que suas lanças podem abater. Segue sem desvios a [[Cosmologia/Lei da Troca|Lei da Troca]], o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] e as [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|regras de ninhadas e territórios sagrados de desova]], tratando qualquer atalho como convite ao desastre.
+Tradicionalista, metódico e cauteloso, Kruk acredita que a tribo só sobrevive enquanto não provoca forças maiores do que suas lanças podem abater. Segue à risca a [[Cosmologia/Lei da Troca|Lei da Troca]], o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] e as [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|regras de ninhadas e territórios sagrados de desova]].
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-À frente das [[Historia/Cacada Sagrada|Caçadas Sagradas]], Kruk conhece cada canal, banco de lodo e rastro do [[Geografia/Vale da Lama|Vale da Lama]] — inclusive as passagens traiçoeiras que levam até o [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]]. Cabe a ele conduzir os jovens iniciados pela provação que os torna adultos perante [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], exigindo que o sacrifício da carne e a devolução ao ciclo se cumpram sem pressa nem erro.
+Kruk lidera as [[Historia/Cacada Sagrada|Caçadas Sagradas]] e conhece os canais, bancos de lodo e rastros do [[Geografia/Vale da Lama|Vale da Lama]], incluindo as passagens até o [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]]. Conduz os jovens iniciados pela provação que os torna adultos perante [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], exigindo o cumprimento exato do sacrifício da carne e da devolução ao ciclo.
 
 ## Relações e Alianças
-* **[[NPCs/Grixa|Grixa]]:** Sua autoridade tradicional enfrenta oposição direta da batedora de elite. Enquanto Kruk insiste nas rotas conhecidas e na prudência antiga, Grixa pressiona por incursões mais ousadas e arriscadas nas zonas disputadas do pântano, acendendo um conflito aberto sobre o rumo das próximas expedições.
+* **[[NPCs/Grixa|Grixa]]:** Enfrenta oposição direta da batedora de elite. Enquanto Kruk insiste nas rotas conhecidas e na prudência, Grixa pressiona por incursões ousadas nas zonas disputadas do pântano, dividindo a confiança dos caçadores.
 
 ## O que se Conta pelo Pântano
-* **O Peso das Cicatrizes:** Nas fogueiras contidas de Raiz-Funda, os mais velhos apontam cada cicatriz antiga no corpo de Kruk como uma lição viva sobre o motivo pelo qual não se invade enseada de desova nem se provoca [[Deuses-Fera/Krr'tak|Krr'tak]] sem necessidade.
+* **O Peso das Cicatrizes:** Nas fogueiras de Raiz-Funda, os mais velhos apontam as cicatrizes de Kruk como lembrete do motivo pelo qual não se invade enseada de desova nem se provoca [[Deuses-Fera/Krr'tak|Krr'tak]] sem necessidade.
 
 ---
 

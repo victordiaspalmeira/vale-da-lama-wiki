@@ -22,22 +22,22 @@ aliases: ["Primeira Caçada Sagrada", "A Primeira Caçada Sagrada"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-A **Primeira Caçada Sagrada** fechou o ciclo de sangue e podridão da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]]. Em vez de parar para celebrar a vitória entre as rochas das montanhas, os goblins libertos abandonaram as minas para trás e avançaram pelo pântano desconhecido, decididos a não poupar nenhum dos antigos opressores enquanto ainda restasse fôlego sob suas escamas.
+A **Primeira Caçada Sagrada** encerrou a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]]. Em vez de permanecer nas montanhas após a vitória, os goblins libertos avançaram pelo pântano desconhecido para eliminar todos os antigos opressores em fuga.
 
 ## Antecedentes
-Derrotados nas galerias subterrâneas pela ação paciente dos esporos e pelo [[Cosmologia/Micelio Dourado|Micélio Dourado]] potencializado na [[Historia/Batalha da Lua Nova|Batalha da Lua Nova]], os sobreviventes da linhagem **Os Filhos de Ashkor** bateram asas para o leste sobre o [[Geografia/Vale da Lama|Vale da Lama]]. Carregavam os pulmões corroídos pela doença fúngica e a fúria ferida de quem perdera o trono de pedra, mas os goblins sabiam que deixar qualquer dragão escapar significava esperar pelo dia em que o fogo voltaria aos céus.
+Derrotados nas minas pelos esporos e pelo [[Cosmologia/Micelio Dourado|Micélio Dourado]] potencializado na [[Historia/Batalha da Lua Nova|Batalha da Lua Nova]], os sobreviventes da linhagem **Os Filhos de Ashkor** fugiram para o leste sobre o [[Geografia/Vale da Lama|Vale da Lama]]. Mesmo com os pulmões corroídos pela doença fúngica, continuavam perigosos; os goblins sabiam que qualquer sobrevivente poderia se recuperar e voltar com fogo.
 
 ## O Decorrer dos Acontecimentos
-Sem cavalos, sem mapas e sem medo da lama que lhes engolia os tornozelos, os libertos desceram das escarpas e cortaram brejos, mangues e águas paradas no rastro dos fugitivos. A marcha foi implacável e coletiva: onde um dragão pousava para tomar fôlego entre as raízes ou tentar apagar o ardor interno na água fria, o bando se fechava ao redor até abatê-lo. Nenhum dos [[Tribos/Povo Dragão|Dragões Vermelhos]] em retirada conseguiu cruzar o vale com vida.
+Sem montarias nem mapas, os libertos desceram as escarpas e atravessaram brejos, mangues e águas paradas no rastro dos fugitivos. Sempre que um dragão pousava para descansar ou buscar alívio na água fria, o bando se fechava sobre ele até abatê-lo. Nenhum dos [[Tribos/Povo Dragão|Dragões Vermelhos]] em retirada escapou com vida.
 
-A perseguição alcançou seu ápice na grande bacia central que recolhe as águas vindas do oeste. Ali tombou a maior de todos eles, a Matriarca [[NPCs/Cinderath|Cinderath]] (*a Grande Tirana*). Seu corpo imenso mergulhou nas águas negras e paradas do lago, afundando até o leito escuro e dando àquela bacia o nome que carrega até hoje: [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
+A perseguição terminou na bacia central que recolhe os rios vindos do oeste. Ali tombou a Matriarca [[NPCs/Cinderath|Cinderath]] (*a Grande Tirana*). Seu corpo afundou nas águas escuras, dando à bacia o nome de [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 ## Consequências
-- **Fundação de Raiz-Funda:** Livres da escravidão do fogo e sem senhores para vigiar seus passos, os sobreviventes se estabeleceram no setor oeste do vale. Escavaram suas primeiras moradas nos imensos Cogumelos Nodosos e ergueram palafitas sobre a água rasa para fundar [[Geografia/Raiz-Funda|Raiz-Funda]], guardando o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] sob a proteção silenciosa do [[Geografia/Jardim Dourado|Jardim Dourado]].
-- **Pacto contra o Fogo Profano:** Da lembrança viva das correntes e das queimaduras nasceu o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], selado para que nenhum goblin livre voltasse a punir ou guerrear com o fogo como seus antigos mestres faziam.
+- **Fundação de Raiz-Funda:** Livres da escravidão do fogo, os sobreviventes se assentaram no oeste do vale. Escavaram moradas nos Cogumelos Nodosos e ergueram palafitas para fundar [[Geografia/Raiz-Funda|Raiz-Funda]], abrigando o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] no [[Geografia/Jardim Dourado|Jardim Dourado]].
+- **Pacto contra o Fogo Profano:** Da memória das queimaduras nasceu o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], proibindo qualquer goblin livre de usar o fogo para punir ou guerrear como faziam os dragões.
 
 ## Legado no Vale
-A perseguição fundadora não se apagou com a morte dos tiranos: ela deu forma ao rito contínuo da [[Historia/Cacada Sagrada|Caçada Sagrada]]. Por meio dele, cada nova geração dos [[Tribos/Masca-Musgo|Masca-Musgo]] desce novamente à lama em bando, revive em carne e risco a caçada aos Dragões Vermelhos e entrega a carne e o tributo da presa em gratidão a [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
+A perseguição original deu origem ao rito contínuo da [[Historia/Cacada Sagrada|Caçada Sagrada]]. Por meio dele, cada geração dos [[Tribos/Masca-Musgo|Masca-Musgo]] retorna ao brejo em bando para reviver a caçada aos Dragões Vermelhos e oferecer carne e tributos a [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
 ---
 

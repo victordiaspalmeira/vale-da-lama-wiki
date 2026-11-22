@@ -24,25 +24,25 @@ aliases: ["Gorg'mull", "O Bagre-Fundo", "Barba-de-Lodo"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Gorg'mull**, ou **o Bagre-Fundo**, arrasta sua barriga pesada pelo leito lamacento do [[Geografia/Rio Lodo-Negro|Rio Lodo-Negro]]. Cego, preguiçoso e pouco afeito a perseguições em terra firme, é um Deus-Fera menor cuja força se sente apenas quando uma vara de pescar ou uma âncora de pedra desce fundo demais na correnteza negra.
+**Gorg'mull**, ou **o Bagre-Fundo**, habita o leito lamacento do [[Geografia/Rio Lodo-Negro|Rio Lodo-Negro]]. Cego e preguiçoso, raramente persegue presas na superfície, mas representa perigo para quem desce linhas de pesca ou âncoras fundo demais na correnteza.
 
 ## Aparência
-Seu corpo achatado e mole mede o comprimento de duas jangadas grandes, coberto por muco espesso e pele branca sem brilho. Da bocarra larga pendem barbilhões longos e escuros que lembram raízes apodrecidas ondulando no fundo do rio.
+Corpo achatado do comprimento de duas jangadas grandes, coberto por muco espesso e pele branca opaca. Da boca larga pendem barbilhões longos e escuros, parecidos com raízes podres.
 
 ## Personalidade e Maneirismos
-Lento e guloso, Gorg'mull prefere esperar que o rio lhe traga comida e sucata. Raramente ataca nadadores por maldade pura, mas abocanha sem pensar qualquer coisa que vibre ou afunde perto de sua boca.
+Lento e guloso, espera que o rio lhe traga alimento e detritos. Raramente ataca nadadores sem provocação, mas abocanha qualquer objeto que vibre ou afunde perto de sua boca.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-O Bagre-Fundo funciona como um coletor involuntário do leito do Rio Lodo-Negro: engole remos quebrados, pedras de lastro, ossos e fragmentos de ferro enferrujado levados pela água. Quem atira um naco generoso de carne crua num remanso fundo às vezes vê Gorg'mull boiar por um instante e cuspir na margem pedaços de metal corroído que guardava no estômago.
+Engole remos quebrados, pedras de lastro, ossos e ferro enferrujado levados pela corrente. Quem joga um naco de carne crua em um remanso fundo às vezes vê Gorg'mull boiar por um instante e cuspir na margem pedaços de metal corroído acumulados no estômago.
 
 ## Relações e Alianças
-* **Artesãos e Sucateiros:** Raramente, objetos cuspidos por Gorg'mull nos remansos acabam trocados em escambo até chegar às mãos de ferreiros como [[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]].
+* **Artesãos e Sucateiros:** Objetos cuspidos por Gorg'mull nos remansos às vezes chegam por escambo às mãos de ferreiros como [[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]].
 
 ## O que se Conta pelo Pântano
-- **O Pescado Pesado:** Quem sente a linha puxar como se tivesse fisgado uma pedra viva no Rio Lodo-Negro aprende depressa a cortar a corda — antes que a jangada inteira seja arrastada para a boca do Bagre-Fundo.
+- **O Pescado Pesado:** Quem sente a linha puxar como se tivesse fisgado uma pedra viva no Rio Lodo-Negro corta a corda depressa, antes que a jangada seja arrastada para o fundo.
 
 ---
 

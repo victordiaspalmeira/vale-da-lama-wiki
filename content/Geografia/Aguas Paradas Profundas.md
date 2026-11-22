@@ -23,12 +23,12 @@ aliases: ["As Águas Paradas Profundas", "Águas Paradas Profundas", "Sul Profun
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-As **Águas Paradas Profundas** estendem-se ao sul do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], entre a mata fechada e o **[[Geografia/Rio Lodo-Negro|Rio Lodo-Negro]]**. Ali o [[Geografia/Vale da Lama|Vale da Lama]] perde a voz: a correnteza morre, o ar deixa de correr e poucos forasteiros têm estômago ou imprudência para meter o remo além da boca do primeiro canal.
+As **Águas Paradas Profundas** estendem-se ao sul do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], entre a mata fechada e o **[[Geografia/Rio Lodo-Negro|Rio Lodo-Negro]]**. Ali a correnteza cessa, o ar fica parado e poucos forasteiros avançam além da boca do primeiro canal.
 
 ## Geografia e Ambiente
-Longe da brisa salgada da [[Geografia/Costa Salobra|Costa Salobra]] e das copas altas do noroeste, árvores retorcidas entrelaçam os galhos em cortinas cerradas de cipós até fechar o céu num teto contínuo. Quase nenhuma claridade rompe a folhagem. Embaixo, o calor assenta sobre espelhos de água negra sem fio de corrente, e o vapor morno gruda na pele como suor velho.
+Ao contrário da [[Geografia/Costa Salobra|Costa Salobra]] e das copas do noroeste, a região forma um teto fechado de árvores retorcidas e cipós que bloqueia quase toda a luz solar. O ar é quente, parado e úmido sobre canais de água negra sem correnteza.
 
-Não há chão em que se possa confiar. Entre os braços mortos do rio, ilhotas de lodo mole enganam a vista com aparência de barranco firme, mas cedem até a cintura ao primeiro passo apressado. Quem rema por ali precisa testar o fundo com a vara a cada braçada e vigiar a superfície lisa demais para ser natural.
+Não há solo firme confiável. Entre os braços mortos do rio, bancos de lodo mole parecem barrancos secos, mas afundam até a cintura sob peso. A travessia exige sondar o fundo com vara a cada braçada e vigiar a superfície imóvel.
 
 ## História
 *A preencher.*
@@ -36,9 +36,9 @@ Não há chão em que se possa confiar. Entre os braços mortos do rio, ilhotas 
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-Sob os bancos de barro mais fundos da região, longe da claridade e dos olhos de passagem, os [[Tribos/Ventre-Inchado|Ventre-Inchado]] escavam suas **Câmaras Semi-Submersas**. São tocas baixas, úmidas e fechadas ao ar do vale, onde a tribo guarda reservatórios de fermentação e fileiras de ânforas de barro e couro úmido atestadas de [[Tribos/Sanguessugas Gigantes|sanguessugas gigantes]].
+Sob os bancos de barro mais fundos, os [[Tribos/Ventre-Inchado|Ventre-Inchado]] escavam **Câmaras Semi-Submersas**. Nessas tocas baixas e úmidas, mantêm reservatórios de fermentação e fileiras de ânforas de barro e couro cheias de [[Tribos/Sanguessugas Gigantes|sanguessugas gigantes]].
 
-É nesse **Domínio Recluso** que a tribo se mantém apartada do restante do pântano — evitando sobretudo qualquer trato próximo com os [[Tribos/Masca-Musgo|Masca-Musgo]]. Na penumbra das margens e das câmaras alagadas, conduzem seus ritos de sangue para [[Deuses-Fera/Sss'kar|Sss'kar]], sem testemunhas de fora nem fogo alto que denuncie sua presença.
+Esse **Domínio Recluso** isola a tribo do restante do pântano, sobretudo dos [[Tribos/Masca-Musgo|Masca-Musgo]]. Nas margens escuras e câmaras alagadas, realizam ritos de sangue para [[Deuses-Fera/Sss'kar|Sss'kar]] sem testemunhas externas nem fogueiras altas que revelem sua posição.
 
 ### NPCs e Criaturas da Região
 - **[[NPCs/Murok|Murok, o Ancião Centenário]]:** O mais velho dos anciãos vampíricos (+120 anos), que raramente deixa sua câmara semi-submersa sob o barro.
@@ -46,12 +46,12 @@ Sob os bancos de barro mais fundos da região, longe da claridade e dos olhos de
 - **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]:** Fera colossal ligada ao culto de Sss'kar, criada nestes brejos.
 
 ## Perigos e Recursos
-Na água estagnada das profundezas, o menor corte na canela ou uma gola engolida por descuido abre caminho para infecções rápidas e parasitas aquáticos que se alojam na carne sem alarde. A própria geografia trabalha contra o invasor: canais sem saída dobram sobre si mesmos entre paredes de raízes e lama, permitindo que quem conhece os desvios do lodo cerque uma jangada antes que ela consiga virar de bordo.
+A água estagnada transmite infecções rápidas por qualquer ferimento exposto e abriga parasitas que se alojam na carne. Os canais sem saída dobram sobre si mesmos entre raízes e lama, permitindo que batedores locais cerquem uma jangada antes que ela consiga manobrar.
 
-O único recurso abundante ali é temido pelo resto do vale — as **[[Tribos/Sanguessugas Gigantes|sanguessugas gigantes]]**, criadas e alimentadas em ânforas pelos Ventre-Inchado para sangrias e oferendas de sangue a Sss'kar.
+O único recurso abundante são as **[[Tribos/Sanguessugas Gigantes|sanguessugas gigantes]]**, criadas em ânforas pelos Ventre-Inchado para sangrias e oferendas a Sss'kar.
 
 ## O que se Conta pelo Pântano
-Nos cais de [[Geografia/Raiz-Funda|Raiz-Funda]], nenhum caçador sério aceita baixar o remo além da boca do lago por moeda ou escambo fácil. Os veteranos costumam cuspir na água antes de falar do sul: dizem que, na fronteira do nordeste, a fumaça dos caldeirões e os assobios dos Ferve-Alga ao menos dão aviso de onde está o inimigo. Nas Águas Paradas Profundas, nada anuncia a hora do bote — quando a superfície mexe, a coisa já está debaixo da jangada, sob o barro ou na garganta.
+Nos cais de [[Geografia/Raiz-Funda|Raiz-Funda]], caçadores experientes recusam escoltas além da boca do lago, mesmo por bom pagamento. Dizem que no nordeste a fumaça dos caldeirões e os assobios dos Ferve-Alga ao menos denunciam o inimigo; no sul, nada avisa antes do ataque — quando a água se move, a ameaça já está sob a jangada ou na lama.
 
 ---
 

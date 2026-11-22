@@ -24,25 +24,25 @@ aliases: ["Vor'gash", "O Leviatã-das-Brumas", "Leviatã-das-Brumas"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Vor'gash**, nomeado apenas em sussurros como **o Leviatã-das-Brumas**, habita as águas fundas e enevoadas do [[Geografia/Mar das Brumas|Mar das Brumas]], além dos bancos de areia da [[Geografia/Costa Salobra|Costa Salobra]]. Entre os Deuses-Fera conhecidos nos limites do vale, figura entre os mais colossais e temíveis — uma força primordial da névoa aberta diante da qual nenhuma jangada ou paliçada de ossos oferece proteção real.
+**Vor'gash**, chamado apenas em voz baixa de **o Leviatã-das-Brumas**, habita as águas fundas e enevoadas do [[Geografia/Mar das Brumas|Mar das Brumas]], além dos bancos de areia da [[Geografia/Costa Salobra|Costa Salobra]]. É um dos maiores e mais temidos Deuses-Fera do vale, diante do qual nenhuma jangada ou paliçada de ossos oferece proteção.
 
 ## Aparência
-Ninguém que tenha visto Vor'gash inteiro voltou à costa. Os relatos falam de uma montanha viva envolta em nevoeiro gelado: tentáculos pálidos grossos como troncos de mangue, barbatanas esfiapadas e uma bocarra circular sem olhos cercada por anéis de dentes cinzentos.
+Ninguém que o viu inteiro voltou à costa. Os relatos falam de uma massa colossal envolta em nevoeiro frio: tentáculos pálidos grossos como troncos de mangue, barbatanas esfiapadas e uma bocarra circular sem olhos cercada por anéis de dentes cinzentos.
 
 ## Personalidade e Maneirismos
-Indiferente às disputas mesquinhas entre as tribos do pântano, Vor'gash só se aproxima da costa durante marés de tempestade ou neblinas anormalmente espessas, arrastando tudo o que flutua além dos baixios rasos.
+Indiferente às disputas das tribos do pântano, só se aproxima da costa durante tempestades ou neblinas espessas, arrastando tudo o que flutua além dos baixios rasos.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Vor'gash é a fronteira viva que impede qualquer expedição goblin de se aventurar pelo mar aberto. Enquanto [[Deuses-Fera/Karkinos|Karkinos]] governa as marés e enseadas da costa, o Leviatã-das-Brumas reclama o que está além da linha branca das ondas — e até os xamãs mais ousados respeitam essa divisão.
+Forma a fronteira viva que impede expedições goblins pelo mar aberto. Enquanto [[Deuses-Fera/Karkinos|Karkinos]] governa as marés e enseadas da costa, o Leviatã-das-Brumas domina o que está além da linha das ondas — divisão respeitada até pelos xamãs mais ousados.
 
 ## Relações e Alianças
-* **[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]:** Quando a neblina do mar traz cheiro frio de ozônio e peixe podre para cima das ilhotas, os Ferve-Alga cobrem os caldeirões, recolhem os barcos e aguardam em silêncio absoluto até a maré baixar.
+* **[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]:** Quando a neblina do mar traz cheiro frio de ozônio e peixe podre para as ilhotas, os Ferve-Alga cobrem os caldeirões, recolhem os barcos e esperam em silêncio até a maré baixar.
 
 ## O que se Conta pelo Pântano
-- **A Maré Sem Vento:** Os velhos da Costa Salobra dizem que, se uma onda alta e gelada bater nas paliçadas de conchas numa noite sem vento algum, Vor'gash passou raspando na barra externa.
+- **A Maré Sem Vento:** Os velhos da Costa Salobra dizem que, se uma onda alta e gelada bate nas paliçadas de conchas numa noite sem vento, Vor'gash passou raspando na barra externa.
 
 ---
 

@@ -6,14 +6,14 @@ aliases: ["Cosmologia", "Fé e Leis do Vale"]
 
 # Cosmologia, Fé e Leis do Vale
 
-No [[Geografia/Vale da Lama|Vale da Lama]], fé não é abstração de livros nem promessa distante após a morte: é regra imediata de sobrevivência. Quem pisa nas passarelas de madeira encharcada ou atravessa canais turvos sob a névoa de esporos aprende depressa que o pântano não perdoa descuido. Os habitantes enxergam o brejo sob a ótica do **[[Cosmologia/Animismo|Animismo]]** — um organismo vivo dotado de memória e vontade, no qual águas, trilhas, raízes e até ferramentas guardam intenção e cobram respeito de quem as usa.
+No [[Geografia/Vale da Lama|Vale da Lama]], fé não é abstração nem promessa pós-morte: é regra prática de sobrevivência. Os habitantes enxergam o brejo sob a ótica do **[[Cosmologia/Animismo|Animismo]]** — um organismo vivo dotado de memória e vontade, no qual águas, trilhas, raízes e ferramentas cobram respeito de quem as usa.
 
 ## Duas Ordens do Sagrado e Leis Comuns
-A espiritualidade do vale divide-se entre duas ordens distintas de poder, cada qual exigindo cautela própria:
-- **[[Cosmologia/Deus Verdadeiro|Deuses Verdadeiros]]:** Entidades supremas sem corpo físico definido nem trono palpável, que agem por leis naturais, sinais indiretos, esporos e manifestações raras — como **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]**, venerado no oeste por meio do [[Cosmologia/Ciclo da Devolucao|Ciclo da Devolução]] e do cultivo controlado do [[Cosmologia/Micelio Dourado|Micélio Dourado]].
-- **[[Deuses-Fera/Deus-Fera|Deuses-Fera]]:** Entidades regionais colossais que transitam entre o etéreo e a carne, presas a territórios específicos do pântano, às suas marés e às linhagens de criaturas que os cercam.
+A espiritualidade do vale divide-se entre duas ordens de poder:
+- **[[Cosmologia/Deus Verdadeiro|Deuses Verdadeiros]]:** Entidades supremas sem corpo físico definido que agem por leis naturais, sinais indiretos, esporos e manifestações raras — como **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]**, venerado no oeste por meio do [[Cosmologia/Ciclo da Devolucao|Ciclo da Devolução]] e do cultivo controlado do [[Cosmologia/Micelio Dourado|Micélio Dourado]].
+- **[[Deuses-Fera/Deus-Fera|Deuses-Fera]]:** Entidades regionais colossais que transitam entre o etéreo e o físico, ligadas a territórios específicos do pântano, às suas marés e às linhagens de criaturas que os cercam.
 
-Para não atrair a hostilidade do solo ou a ruína sobre toda a aldeia, os povos submetem o cotidiano a pactos rígidos. A **[[Cosmologia/Lei da Troca|Lei da Troca]]** exige compensação imediata sempre que algo é colhido, derrubado ou abatido no brejo, lembrando que ninguém é dono da terra. Já o **[[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]** separa a brasa contida do fogo-ferramenta da chama usada para ferir, punir ou cremar — crime punido com a implacável [[Cosmologia/Sentenca do Esquecimento|Sentença do Esquecimento]].
+O cotidiano obedece a pactos rígidos para evitar a hostilidade do solo ou a ruína da aldeia. A **[[Cosmologia/Lei da Troca|Lei da Troca]]** exige compensação imediata sempre que algo é colhido, derrubado ou abatido no brejo. Já o **[[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]** separa o fogo-ferramenta da chama usada para ferir, punir ou cremar — crime punido com a [[Cosmologia/Sentenca do Esquecimento|Sentença do Esquecimento]].
 
 ## Divindades e Categorias
 

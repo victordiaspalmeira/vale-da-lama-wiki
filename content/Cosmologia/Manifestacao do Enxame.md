@@ -23,22 +23,22 @@ aliases: ["Manifestação do Enxame", "A Manifestação do Enxame"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-Na **Manifestação do Enxame**, [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] — normalmente disperso pela rede invisível do micélio subterrâneo e pelos esporos que flutuam na umidade — condensa sua presença em um único ponto do [[Geografia/Vale da Lama|Vale da Lama]]. É o mais próximo de um rosto visível que o Deus Fúngico concede aos mortais, e ninguém o testemunha sem sentir o peso do solo sob os joelhos.
+Na **Manifestação do Enxame**, [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] — normalmente disperso pela rede subterrânea de micélio e pelos esporos — concentra sua presença em um único ponto do [[Geografia/Vale da Lama|Vale da Lama]]. É o mais próximo de uma forma visível que o Deus Fúngico concede aos mortais.
 
 ## Natureza e Funcionamento
-O fenômeno é raro e nunca ocorre por capricho. Durante rituais solenes de grande peso ou diante de profanações graves contra o ciclo da decomposição, a água parada estremece e uma nuvem cerrada de **moscas negras e dourado-metálicas** brota da lama úmida, das frestas das cascas e das raízes submersas.
+O fenômeno é raro e nunca ocorre por capricho. Durante rituais solenes ou diante de profanações graves contra o ciclo da decomposição, a água parada estremece e uma nuvem densa de **moscas negras e dourado-metálicas** brota da lama úmida, das frestas das cascas e das raízes submersas.
 
-O enxame não se espalha ao vento como insetos comuns: ergue-se em coluna densa e fechada, escurecendo o ar úmido com reflexos de bronze sujo, enquanto produz um zumbido grave e contínuo que parece nascer dentro do crânio e reverberar pelos ossos de quem está por perto.
+O enxame não se dispersa ao vento: ergue-se em coluna fechada, escurecendo o ar, enquanto produz um zumbido grave e contínuo que reverbera no crânio e nos ossos de quem está próximo.
 
 ## Origem e Tradição
-A própria imagem da mosca entalhada em minúcia sobre a boca aberta de um sapo no [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] ecoa essa ligação antiquíssima entre o Deus Fúngico e os enxames que devoram e devolvem a carne ao brejo.
+A imagem da mosca entalhada em minúcia sobre a boca aberta de um sapo no [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] reflete essa ligação antiga entre o Deus Fúngico e os enxames que devoram e devolvem a carne ao brejo.
 
 ## Prática e Tabus
-Quando a nuvem se ergue em [[Geografia/Raiz-Funda|Raiz-Funda]] ou sob as arcadas do [[Geografia/Jardim Dourado|Jardim Dourado]], toda conversa cessa de imediato e até os sacerdotes mais antigos abaixam a cabeça em silêncio absoluto. Ninguém ergue a mão para espantar os insetos, pois o gesto seria insulto aberto diante da divindade. Para os devotos, ser tocado pelas asas frias do enxame sem levar picadas é sinal raríssimo de bênção — uma aprovação silenciosa que marca o escolhido por anos.
+Quando a nuvem se ergue em [[Geografia/Raiz-Funda|Raiz-Funda]] ou no [[Geografia/Jardim Dourado|Jardim Dourado]], toda conversa cessa e até os sacerdotes mais antigos baixam a cabeça em silêncio. Ninguém ergue a mão para espantar os insetos, pois o gesto seria insulto direto à divindade. Para os devotos, ser tocado pelas asas do enxame sem levar picadas é sinal raro de bênção.
 
 ## O que se Conta pelo Pântano
-- **O Zumbido nos Ossos:** Quem já ficou diante da Manifestação do Enxame conta que o som não entra só pelos ouvidos — faz vibrar os dentes, o peito e cada junta do corpo, como aviso implacável de que nada no vale escapa à rede do micélio.
-- **Silêncio de Ferro:** Veteranos de Raiz-Funda dizem que, antes mesmo de a primeira mosca romper a turfa, os sapos e aves do mangue calam de golpe, deixando no ar apenas o cheiro doce de folha podre.
+- **O Zumbido nos Ossos:** Quem já ficou diante da Manifestação do Enxame conta que o som faz vibrar os dentes, o peito e as juntas, lembrando que nada no vale escapa ao micélio.
+- **Silêncio de Ferro:** Veteranos de Raiz-Funda dizem que, antes de a primeira mosca romper a turfa, os sapos e as aves do mangue calam de golpe.
 
 ---
 

@@ -23,10 +23,10 @@ aliases: ["Rio Lodo-Negro", "O Rio Lodo-Negro"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-O **Rio Lodo-Negro** corta a borda meridional do [[Geografia/Vale da Lama|Vale da Lama]], margeando as [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]. Suas águas carregadas de sedimentos correm para leste sem trégua até se ramificarem no [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]] e alcançarem o [[Geografia/Mar das Brumas|Mar das Brumas]], levando consigo o cheiro de turfa, raízes podres e lodo revolvido do sul.
+O **Rio Lodo-Negro** corta a borda sul do [[Geografia/Vale da Lama|Vale da Lama]], margeando as [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]. Suas águas carregadas de sedimentos correm para leste até se ramificarem no [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]] e alcançarem o [[Geografia/Mar das Brumas|Mar das Brumas]].
 
 ## Geografia e Ambiente
-Ao contrário dos brejos estagnados logo acima dele, onde a água parece morta sob a nata verde, o rio mantém correnteza contínua e pesada. Entre margens baixas e escorregadias de lama escura, o fluxo arrasta detritos vegetais, troncos encharcados e lodo denso que nunca deixa enxergar o fundo. Uma faixa constante de neblina rasteira acompanha o leito rente à superfície, apagando a silhueta de quem navega a poucos metros da margem.
+Ao contrário dos brejos estagnados ao norte, o rio mantém correnteza contínua e pesada entre margens baixas de lama escura. O fluxo arrasta detritos vegetais, troncos encharcados e lodo denso que torna a água completamente opaca. Uma faixa de neblina rasteira acompanha o leito, reduzindo a visibilidade a poucos metros da margem.
 
 ## História
 *A preencher.*
@@ -34,13 +34,13 @@ Ao contrário dos brejos estagnados logo acima dele, onde a água parece morta s
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-Ao longo de boa parte de seu curso, o rio serve de **Limite Sul** — uma fronteira líquida logo abaixo do território fechado e silencioso dos reclusos [[Tribos/Ventre-Inchado|Ventre-Inchado]]. Mais para o leste, o leito principal perde a força de um canal único e se desfaz na **Ligação com o Delta**, abrindo-se no emaranhado de ilhotas lamacentas e braços de água do [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]].
+Ao longo de seu curso, o rio forma o **Limite Sul** abaixo do território fechado dos [[Tribos/Ventre-Inchado|Ventre-Inchado]]. Mais a leste, o leito principal se divide na **Ligação com o Delta**, abrindo-se nas ilhotas lamacentas e braços de água do [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]].
 
 ### NPCs e Criaturas da Região
 *A preencher.*
 
 ## Perigos e Recursos
-Navegar pelo Lodo-Negro exige braço firme no remo e olhos atentos à deriva. Suas correntes turvas puxam jangadas descuidadas para longe da margem, arrastando embarcações rumo ao labirinto mutável do delta antes que o remador perceba a mudança do fundo. A isso se soma o risco constante da proximidade direta com a borda hostil dos [[Tribos/Ventre-Inchado|Ventre-Inchado]], que vigiam o sul em silêncio e não toleram curiosos encostando na lama de suas águas.
+Navegar pelo Lodo-Negro exige controle constante do remo: suas correntes puxam jangadas descuidadas para o labirinto mutável do delta. A proximidade direta com a borda sul também expõe viajantes à vigilância hostil dos [[Tribos/Ventre-Inchado|Ventre-Inchado]], que não toleram intrusos em suas águas.
 
 ## O que se Conta pelo Pântano
 *A preencher.*

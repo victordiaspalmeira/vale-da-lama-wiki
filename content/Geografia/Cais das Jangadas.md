@@ -23,12 +23,12 @@ aliases: ["Cais das Jangadas", "O Cais das Jangadas e Oficinas", "Oficinas de Ra
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**O Cais das Jangadas e Oficinas** é a faixa mais ruidosa de [[Geografia/Raiz-Funda|Raiz-Funda]]. Ali, as passarelas de madeira descem até a lâmina d'água para receber embarcações, aprontar equipamentos de travessia e conduzir o escambo com visitantes neutros — tudo sob o olho atento de [[NPCs/Torg|Torg]] e [[NPCs/Birka|Birka (a Mão-Ácida)]].
+**O Cais das Jangadas e Oficinas** é o setor mais movimentado de [[Geografia/Raiz-Funda|Raiz-Funda]]. Suas passarelas descem até a água para receber embarcações, fabricar equipamentos de travessia e conduzir o escambo com visitantes neutros, sob supervisão de [[NPCs/Torg|Torg]] e [[NPCs/Birka|Birka (a Mão-Ácida)]].
 
 ## Geografia e Ambiente
-No cais, o cheiro espesso e quente do piche usado para calafetar jangadas briga o dia inteiro com o azedo penetrante dos tonéis de fermentação e curtume. Estacas de mangue encharcadas rangem contra os cascos chatos a cada marola, enquanto pilhas de madeira tratada, couros esticados em armações e potes de barro bojudos disputam espaço nas pranchas estreitas sobre a lama.
+No cais, o cheiro de piche quente mistura-se ao odor azedo dos tonéis de fermentação e curtume. Estacas de mangue rangem contra cascos chatos, enquanto pilhas de madeira tratada, armações de couro e potes de barro ocupam as pranchas sobre a lama.
 
-É a fronteira molhada entre a aldeia e o brejo aberto: quem chega de fora enxerga primeiro as tábuas escuras de umidade, ouve o baque surdo das ferramentas de osso e madeira e sente na garganta o vapor ácido dos tanques antes mesmo de pisar em terra seca.
+Como fronteira entre a aldeia e o brejo aberto, é o primeiro ponto visto por quem chega de fora: tábuas escuras de umidade, batidas constantes de ferramentas de osso e madeira e o vapor ácido dos tanques.
 
 ## História
 *A preencher.*
@@ -36,7 +36,7 @@ No cais, o cheiro espesso e quente do piche usado para calafetar jangadas briga 
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-No **Estaleiro de Jangadas**, [[NPCs/Torg|Torg]] ergue, calafeta e repara embarcações de fundo chato capazes de deslizar sobre palmos rasos de água sem encalhar. Entre tábuas e cordas, também costura botas largas de couro e raquetes de mangue — peças indispensáveis para qualquer batedor que precise marchar sobre o lodo fundo sem afundar até os joelhos.
+No **Estaleiro de Jangadas**, [[NPCs/Torg|Torg]] constrói e repara embarcações de fundo chato para águas rasas, além de fabricar botas largas de couro e raquetes de mangue para travessia sobre lodo fundo.
 
 Logo ao lado alinham-se os **Tonéis da Mão-Ácida**, onde [[NPCs/Birka|Birka]] conduz a [[Tribos/Preparacao a Frio|Preparação a Frio]]. Sem chama nem fervura proibida, seus tanques fermentam antídotos, curtem peles em taninos vegetais e moldam o couro espesso das [[Cosmologia/Mascara de Ervas Amargas|Máscaras de Ervas Amargas]] usadas contra os esporos do vale.
 
@@ -47,10 +47,10 @@ Na borda extrema das passarelas fica o **Ponto de Escambo**, onde mensageiros [[
 - **[[NPCs/Birka|Birka (a Mão-Ácida)]]:** Alquimista, curtidora e ponte comercial com os Tece-Pele.
 
 ## Perigos e Recursos
-O cais concentra a oficina de sobrevivência de Raiz-Funda: dali saem jangadas calafetadas, calçados de brejo, couros curtidos, reagentes alquímicos, antídotos e máscaras contra esporos. Para moradores, o risco se resume a um passo em falso nas pranchas escorregadias de piche ou ao vapor cáustico dos tonéis; para estranhos, o perigo é outro — ninguém amarra uma jangada ali sem ter carga, rosto e intenção pesados na hora por quem trabalha nas docas.
+O setor produz os equipamentos básicos de sobrevivência da aldeia: jangadas, calçados de brejo, couros curtidos, reagentes, antídotos e máscaras contra esporos. Para moradores, o risco limita-se às pranchas escorregadias de piche e ao vapor cáustico dos tonéis; estranhos que atracam ali têm carga, rosto e intenção avaliados de imediato pelos trabalhadores das docas.
 
 ## O que se Conta pelo Pântano
-Pelas passarelas de Raiz-Funda, corre a certeza de que o cais é o termômetro verdadeiro da aldeia. Antes mesmo que um vigia sopre o sinal ou que a notícia suba até a [[Geografia/Casa do Anciao|Casa do Ancião]], jura-se que Birka e Torg já sabem quem remou perto das fronteiras, que carga trazia na proa e que troca veio pedir.
+Nas passarelas de Raiz-Funda, diz-se que o cais sabe de tudo antes do conselho: muito antes de um vigia dar o sinal ou a notícia chegar à [[Geografia/Casa do Anciao|Casa do Ancião]], Birka e Torg já sabem quem remou perto das fronteiras, o que trazia na proa e que troca veio pedir.
 
 ---
 

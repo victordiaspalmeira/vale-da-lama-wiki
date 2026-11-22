@@ -24,25 +24,25 @@ aliases: ["Nhar'gath", "O Jacaré-Tronco", "Jacaré-Tronco"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Nhar'gath**, temido pelos viajantes como **o Jacaré-Tronco**, patrulha os canais estreitos e mutáveis do [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]]. Sem o alcance mítico dos maiores senhores do vale, compensa com brutalidade paciente: quem erra um atalho no labirinto de ilhotas descobre tarde demais que o tronco caído atravessado no canal tem olhos amarelos e mandíbulas de pedra.
+**Nhar'gath**, chamado de **o Jacaré-Tronco**, patrulha os canais estreitos e mutáveis do [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]]. Sem o alcance mítico dos maiores senhores do vale, compensa com emboscadas pacientes: quem erra o caminho no labirinto de ilhotas descobre tarde demais que o tronco atravessado no canal tem olhos amarelos.
 
 ## Aparência
-Longo como três jangadas enfileiradas, Nhar'gath veste placas negras tão espessas quanto madeira de mangue petrificada, incrustadas de cracas, lodo seco e raízes mortas que quebram sua silhueta na superfície escura.
+Longo como três jangadas enfileiradas, coberto por placas negras espessas incrustadas de cracas, lodo seco e raízes mortas.
 
 ## Personalidade e Maneirismos
-Frio e calculista, prefere a emboscada ao combate aberto. Flutua sem mover uma escama até a embarcação encostar em sua cauda, só então fechando as mandíbulas sobre a borda da jangada ou arrastando o remador para baixo da lama.
+Frio e calculista, prefere a emboscada ao combate aberto. Flutua imóvel até a embarcação encostar em sua cauda e só então fecha as mandíbulas sobre a borda da jangada ou arrasta o remador para baixo da lama.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Nhar'gath cobra pedágio silencioso nos desvios mais fundos do delta. Quem conhece seus sinais atira um quarto de carne fresca na água parada antes de entrar no canal estreito; enquanto ele devora a oferta sem pressa, a passagem fica livre por alguns minutos preciosos.
+Cobra pedágio silencioso nos desvios fundos do delta. Quem conhece seus hábitos joga um quarto de carne fresca na água antes de entrar no canal estreito; enquanto ele devora a oferta, a passagem fica livre por alguns minutos.
 
 ## Relações e Alianças
-* **Contrabandistas e [[Exilados/Exilados|Exilados]]:** Viajantes solitários que cruzam o delta aprendem a reconhecer as marcas de garras nos barrancos para saber onde o Jacaré-Tronco está dormindo naquele dia.
+* **Contrabandistas e [[Exilados/Exilados|Exilados]]:** Viajantes solitários que cruzam o delta observam marcas de garras nos barrancos para saber onde o Jacaré-Tronco descansa naquele dia.
 
 ## O que se Conta pelo Pântano
-- **O Tronco que Muda de Margem:** Remadores veteranos observam sempre o mesmo conselho: se um tronco grande que estava na curva esquerda ontem apareceu na curva direita hoje, não empurre a vara contra ele.
+- **O Tronco que Muda de Margem:** Remadores veteranos seguem uma regra simples: se um tronco grande estava na curva esquerda ontem e apareceu na direita hoje, não empurre a vara contra ele.
 
 ---
 

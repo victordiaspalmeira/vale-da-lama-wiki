@@ -22,22 +22,22 @@ aliases: ["Ídolo de Nyog'Sothep", "Ídolo de Madeira", "O Ídolo"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-O **Ídolo de Nyog'Sothep** é a relíquia fundadora da fé dos [[Tribos/Masca-Musgo|Masca-Musgo]] e o segredo mais bem guardado de [[Geografia/Raiz-Funda|Raiz-Funda]]: uma escultura antiga de madeira que desencadeou a fuga da escravidão do fogo e hoje repousa sob vigilância cerrada no coração do [[Geografia/Jardim Dourado|Jardim Dourado]].
+O **Ídolo de Nyog'Sothep** é a relíquia fundadora dos [[Tribos/Masca-Musgo|Masca-Musgo]]: uma escultura antiga de madeira que desencadeou a fuga da escravidão do fogo e hoje permanece sob guarda cerrada no coração do [[Geografia/Jardim Dourado|Jardim Dourado]], em [[Geografia/Raiz-Funda|Raiz-Funda]].
 
 ## Natureza e Funcionamento
-À primeira vista, a relíquia não tem ouro batido nem pedras preciosas: mostra uma **mosca entalhada em minúcia**, com asas e patas recortadas em madeira escura, pousada sobre a **boca aberta de um sapo de madeira mais rústico**. Ainda assim, a peça nunca secou nem apodreceu. Mesmo séculos depois de deixar as galerias das montanhas, a madeira segue viva por dentro, brotando pequenas porções de [[Cosmologia/Micelio Dourado|Micélio Dourado]] pelas frestas do entalhe e ao redor da base úmida.
+Sem ouro nem pedras preciosas, a peça mostra uma **mosca entalhada em minúcia**, com asas e patas recortadas em madeira escura, pousada sobre a **boca aberta de um sapo de madeira mais rústico**. Apesar dos séculos desde que deixou as minas, a madeira nunca secou nem apodreceu: segue viva por dentro e brota pequenas porções de [[Cosmologia/Micelio Dourado|Micélio Dourado]] pelas frestas do entalhe e ao redor da base.
 
 ## Origem e Tradição
-Nos tempos de cativeiro sob os [[Tribos/Povo Dragão|Dragões Vermelhos]], goblins escravizados romperam uma câmara esquecida dentro das minas das [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]] e ali encontraram o Ídolo. Famintos e castigados pelo calor das fornalhas, mascaram o [[Cosmologia/Micelio Dourado|Micélio Dourado]] que crescia da madeira escura e foram tomados por **visões febris** — visões que revelaram o caminho da revolta silenciosa, abrindo os vinte anos de sabotagem com esporos e a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] que derrubou os senhores do fogo.
+Durante o cativeiro sob os [[Tribos/Povo Dragão|Dragões Vermelhos]], goblins escravizados romperam uma câmara esquecida nas minas das [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]] e encontraram o Ídolo. Famintos, mascaram o [[Cosmologia/Micelio Dourado|Micélio Dourado]] que crescia da madeira e tiveram **visões febris** que revelaram o caminho da revolta, dando início aos vinte anos de sabotagem com esporos e à [[Historia/A Grande Morte Lenta|Grande Morte Lenta]].
 
 ## Prática e Tabus
-Depois da fuga das montanhas e da **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**, a tribo carregou a relíquia consigo até o [[Geografia/Vale da Lama|Vale da Lama]]. Hoje o Ídolo repousa no interior do **[[Geografia/Jardim Dourado|Jardim Dourado]]** em [[Geografia/Raiz-Funda|Raiz-Funda]], guardado dia e noite pelos **[[Tribos/Jardineiros|Jardineiros]]** — força própria subordinada diretamente ao alto clero e independente das patrulhas de [[NPCs/Varga|Varga]].
+Após a fuga das montanhas e a **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**, a tribo trouxe a relíquia para o [[Geografia/Vale da Lama|Vale da Lama]]. O Ídolo repousa no interior do **[[Geografia/Jardim Dourado|Jardim Dourado]]**, vigiado dia e noite pelos **[[Tribos/Jardineiros|Jardineiros]]** — força subordinada diretamente ao alto clero e independente das patrulhas de [[NPCs/Varga|Varga]].
 
-O acesso à câmara é vedado à aldeia comum e restrito **apenas ao alto clero**, como o [[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]], que responde pela guarda espiritual da peça diante da tribo.
+O acesso à câmara é proibido à aldeia comum e restrito **apenas ao alto clero**, como o [[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]].
 
 ## O que se Conta pelo Pântano
-- **A Relíquia Proibida:** Mesmo entre os anciãos de Raiz-Funda, quase ninguém viu o Ídolo com os próprios olhos; a maioria conhece seu feitio pelas histórias de [[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]] sobre o dia em que a madeira brotou ouro na escuridão das minas e ensinou o medo aos dragões.
-- **Madeira que Respira:** Guardas que rendem o turno nos limites do Jardim Dourado juram que, nas noites mais abafadas, o zumbido fino de uma única mosca parece sair de dentro do santuário onde ninguém entra sem permissão.
+- **A Relíquia Proibida:** Mesmo entre os anciãos de Raiz-Funda, quase ninguém viu o Ídolo de perto; a maioria conhece sua forma pelas histórias de [[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]] sobre o dia em que a madeira brotou ouro nas minas.
+- **Madeira que Respira:** Guardas que rendem o turno nos limites do Jardim Dourado juram ouvir, nas noites abafadas, o zumbido fino de uma única mosca vindo de dentro do santuário fechado.
 
 ---
 

@@ -26,9 +26,7 @@ aliases: ["Snikk", "Curandeiro-Chefe"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Snikk**, o **Curandeiro-Chefe** de [[Geografia/Raiz-Funda|Raiz-Funda]], sustenta a linha estreita entre a carne rasgada e a podridão em um pântano onde qualquer corte mal lavado infecciona e mata em poucos dias. Caçadores, artesãos e sentinelas dos [[Tribos/Masca-Musgo|Masca-Musgo]] dependem de suas mãos quando o brejo cobra sangue.
-
-Por força desse ofício vital, Snikk figura entre os poucos moradores autorizados a cruzar as pontes internas do [[Geografia/Jardim Dourado|Jardim Dourado]].
+**Snikk**, o **Curandeiro-Chefe** de [[Geografia/Raiz-Funda|Raiz-Funda]], trata ferimentos graves e infecções dos caçadores, artesãos e sentinelas [[Tribos/Masca-Musgo|Masca-Musgo]] em um ambiente onde qualquer corte mal lavado mata em poucos dias. Por força do ofício, figura entre os poucos autorizados a cruzar as pontes internas do [[Geografia/Jardim Dourado|Jardim Dourado]].
 
 ## Aparência
 *A preencher.*
@@ -40,16 +38,16 @@ Por força desse ofício vital, Snikk figura entre os poucos moradores autorizad
 *A preencher.*
 
 ## Função e Ocupação
-O trabalho de Snikk une a botânica áspera do mangue à fé prática em [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], sempre sob a disciplina da [[Tribos/Preparacao a Frio|Preparação a Frio]] e do [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]. Nos casos mais graves, aplica cataplasmas puros de [[Cosmologia/Micelio Dourado|Micélio Dourado]] sobre feridas abertas para fechar tecidos e conter infecções pantanosas que matariam um ferido comum. Cada dose, porém, exige cálculo rigoroso: Snikk conhece bem o risco da **Ascensão** para quem recebe Micélio em excesso.
+Snikk combina a botânica do mangue ao culto de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], sempre sob a [[Tribos/Preparacao a Frio|Preparação a Frio]] e o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]. Nos casos graves, aplica cataplasmas puros de [[Cosmologia/Micelio Dourado|Micélio Dourado]] em feridas abertas para fechar tecidos e conter infecções. Cada dose exige cálculo estrito para evitar o risco da **Ascensão**.
 
-Além das curas, seleciona os feixes secos de ervas amargas e aromáticas que recheiam as [[Cosmologia/Mascara de Ervas Amargas|Máscaras de Ervas Amargas]], preparando os filtros que barram a névoa doce e sufocante dos esporos do [[Geografia/Jardim Dourado|Jardim Dourado]] e os vapores fétidos dos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]].
+Também seleciona as ervas amargas e aromáticas que recheiam as [[Cosmologia/Mascara de Ervas Amargas|Máscaras de Ervas Amargas]], filtrando os esporos do [[Geografia/Jardim Dourado|Jardim Dourado]] e os gases dos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]].
 
 ## Relações e Alianças
-* **[[NPCs/Birka|Birka (a Mão-Ácida)]]:** Fabrica em parceria com a curtidora as [[Cosmologia/Mascara de Ervas Amargas|Máscaras de Ervas Amargas]] — enquanto Birka curte e sela o couro a frio nos tonéis do cais, Snikk prepara as ervas que filtram os esporos.
-* **[[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]]:** Cruza o caminho dos coveiros-sacerdotes no [[Geografia/Jardim Dourado|Jardim Dourado]] ao buscar [[Cosmologia/Micelio Dourado|Micélio Dourado]] fresco — e sabe, melhor que qualquer outro na aldeia, reconhecer o instante em que um ferido já não pertence aos vivos e deve seguir para o *Ciclo da Devolução*.
+* **[[NPCs/Birka|Birka (a Mão-Ácida)]]:** Produz em parceria com a curtidora as [[Cosmologia/Mascara de Ervas Amargas|Máscaras de Ervas Amargas]] — Birka prepara o couro a frio no cais e Snikk monta os filtros de ervas.
+* **[[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]]:** Retira [[Cosmologia/Micelio Dourado|Micélio Dourado]] fresco com os coveiros-sacerdotes no [[Geografia/Jardim Dourado|Jardim Dourado]] e encaminha os feridos sem salvação ao *Ciclo da Devolução*.
 
 ## O que se Conta pelo Pântano
-* **A Mão que Decide:** Caçadores feridos nas fronteiras dizem que entrar na cabana de Snikk é descobrir, no silêncio de um exame rápido, se a dívida com o brejo ainda pode ser adiada com cataplasmas de Micélio — ou se só resta descer às águas rasas do Jardim Dourado.
+* **A Mão que Decide:** Caçadores feridos dizem que entrar na cabana de Snikk é saber, após um exame rápido e silencioso, se a vida ainda pode ser salva com Micélio ou se resta apenas descer às águas rasas do Jardim Dourado.
 
 ---
 

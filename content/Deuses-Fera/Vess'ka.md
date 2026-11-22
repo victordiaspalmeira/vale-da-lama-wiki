@@ -24,26 +24,26 @@ aliases: ["Vess'ka", "A Lacraia-de-Casca", "Lacraia-de-Casca"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Vess'ka**, chamada de **a Lacraia-de-Casca**, rasteja pela madeira apodrecida e pelas raízes ocas nos limites baixos das [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]]. É uma divindade-fera menor e arisca, que foge da luz direta e só mostra suas pinças venenosas quando alguém arromba os troncos ocos onde esconde suas crias.
+**Vess'ka**, chamada de **a Lacraia-de-Casca**, rasteja pela madeira podre e pelas raízes ocas nos limites baixos das [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]]. É uma divindade-fera menor e arisca, que foge da luz direta e só ataca quando alguém arromba os troncos ocos onde esconde suas crias.
 
 ## Aparência
-Estreita e comprida como uma passarela de madeira, Vess'ka veste anéis de quitina negra manchada de musgo, com dezenas de patas amareladas que produzem um estalido seco e contínuo sobre a casca úmida.
+Estreita e comprida como uma passarela de madeira, veste anéis de quitina negra manchada de musgo, com dezenas de patas amareladas que estalam sobre a casca úmida.
 
 ## Personalidade e Maneirismos
-Esquiva e territorial apenas no escuro, evita grandes predadores e foge para frestas estreitas ao menor sinal de grupo armado. Seu veneno entorpece os membros sem matar de imediato, dando-lhe tempo para arrastar presas pequenas para dentro dos troncos podres.
+Esquiva e territorial apenas no escuro, evita grandes predadores e foge para frestas ao menor sinal de grupo armado. Seu veneno paralisa os membros sem matar de imediato, permitindo-lhe arrastar presas pequenas para dentro dos troncos podres.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Vess'ka ajuda a limpar a madeira caída de larvas e besouros grandes, mantendo um território estreito sob o dossel onde até as [[Criaturas/Aranhas Gigantes do Dossel|Aranhas Gigantes do Dossel]] raramente descem por falta de espaço entre os troncos emaranhados.
+Limpa a madeira caída de larvas e besouros grandes e mantém um território estreito sob o dossel, onde as [[Criaturas/Aranhas Gigantes do Dossel|Aranhas Gigantes do Dossel]] raramente descem por falta de espaço entre os troncos.
 
 ## Relações e Alianças
-* **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]:** Longe de [[Geografia/Raiz-Funda|Raiz-Funda]] e sem qualquer obediência ao clero dos [[Tribos/Masca-Musgo|Masca-Musgo]], Vess'ka serve silenciosamente à vontade de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] — abrindo a madeira morta por dentro para que a umidade, os esporos e a podridão consumam o que tombou no dossel.
-* **[[Tribos/Tece-Pele|Tece-Pele]]:** Os nômades conhecem o som de suas patas na madeira molhada e evitam cortar ou abrir troncos caídos que apresentem marcas de mandíbula na casca.
+* **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]:** Longe de [[Geografia/Raiz-Funda|Raiz-Funda]] e sem ligação com o clero dos [[Tribos/Masca-Musgo|Masca-Musgo]], Vess'ka serve à vontade de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] à parte da tribo, abrindo a madeira morta por dentro para que a umidade, os esporos e a podridão consumam o que caiu no dossel.
+* **[[Tribos/Tece-Pele|Tece-Pele]]:** Os nômades reconhecem o som de suas patas na madeira molhada e evitam abrir troncos caídos com marcas de mandíbula na casca.
 
 ## O que se Conta pelo Pântano
-- **Madeira que Estala:** Se um tronco caído começa a estalar por dentro sem ninguém pisar nele, nenhum batedor do noroeste enfia a mão para procurar cogumelos.
+- **Madeira que Estala:** Se um tronco caído estala por dentro sem ninguém pisar nele, nenhum batedor do noroeste enfia a mão ali para procurar cogumelos.
 
 ---
 

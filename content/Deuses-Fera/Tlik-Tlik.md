@@ -24,25 +24,25 @@ aliases: ["Tlik-Tlik", "A Garça-Ossuda", "Garça-Ossuda"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Tlik-Tlik**, conhecida pelos pescadores como **a Garça-Ossuda**, espreita os juncais rasos ao norte do [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]]. Menor em porte e poder do que os grandes senhores do brejo, impõe respeito pelo bote silencioso e pela teimosia com que cobra pedágio de cada cesto de pesca que passa à vista de seus olhos.
+**Tlik-Tlik**, conhecida pelos pescadores como **a Garça-Ossuda**, espreita os juncais rasos ao norte do [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]]. Menor em porte do que os grandes senhores do vale, impõe respeito pelo bote silencioso e pelo pedágio que cobra de cada cesto de pesca.
 
 ## Aparência
-Alta e esquelética, com penas cinzentas coladas ao corpo pelo lodo, Tlik-Tlik parece feita de gravetos molhados e ossos de peixe. Seu bico longo de marfim amarelado traz dentes finos e serrilhados na borda, capazes de rasgar couro úmido num único estalo.
+Alta e esquelética, com penas cinzentas coladas ao corpo pelo lodo, parece feita de gravetos molhados e ossos de peixe. Seu bico longo de marfim amarelado tem borda serrilhada capaz de rasgar couro úmido num estalo.
 
 ## Personalidade e Maneirismos
-Paciente ao extremo, permanece horas inteiras imóvel sobre uma única perna, confundindo-se com raízes mortas. Não guarda rancor duradouro, mas detesta ser ignorada: se um barqueiro passa remando em silêncio sem atirar dois peixes na água rasa, ela salta sobre o casco para bicar os olhos ou virar a cesta inteira.
+Paciente, passa horas imóvel sobre uma perna, confundida com raízes mortas. Não guarda rancor longo, mas não aceita ser ignorada: se um barqueiro passa sem jogar dois peixes na água rasa, salta sobre o casco para bicar os olhos ou virar o cesto.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Tlik-Tlik patrulha os baixios de água turva onde peixes miúdos se escondem entre os juncos. Para quem conhece seus hábitos, o pacto é simples e rápido — dois peixes frescos lançados antes da curva do juncal compram passagem livre sem um arranhão.
+Patrulha os baixios turvos onde peixes miúdos se escondem entre os juncos. Dois peixes frescos jogados antes da curva do juncal compram passagem livre.
 
 ## Relações e Alianças
-* **Contrabandistas e Pescadores:** Até figuras solitárias que cruzam o delta carregam sempre peixes de sobra no fundo da jangada para evitar o bico da Garça-Ossuda.
+* **Contrabandistas e Pescadores:** Quem cruza o delta carrega sempre peixes de sobra no fundo da jangada para evitar o bico da Garça-Ossuda.
 
 ## O que se Conta pelo Pântano
-- **O Graveto que Pisca:** Batedores dizem que o truque para não ser surpreendido no juncal é observar o reflexo da água: se um galho seco tiver sombra de duas asas e piscar devagar, já é tarde para guardar a vara.
+- **O Graveto que Pisca:** Batedores observam o reflexo da água no juncal: se um galho seco tiver sombra de duas asas e piscar devagar, já é tarde para guardar a vara.
 
 ---
 

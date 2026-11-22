@@ -22,23 +22,23 @@ aliases: ["Salmoura Fervente", "Sal Cristalizado", "Salmoura"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-A **salmoura fervente** e o **sal cristalizado** sustentam a mesa, a fé e o escambo dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] na [[Geografia/Costa Salobra|Costa Salobra]]. Fervidos em grandes caldeirões de ferro e barro grosso sobre fogueiras incessantes nas ilhotas mais secas do nordeste, impregnam o ar da costa com vapor salgado e fumaça espessa — dando aos habitantes as pálpebras ardidas e os olhos vermelhos que os distinguem em todo o brejo.
+A **salmoura fervente** e o **sal cristalizado** sustentam a alimentação, a fé e o escambo dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] na [[Geografia/Costa Salobra|Costa Salobra]]. Produzidos em grandes caldeirões de ferro e barro grosso sobre fogueiras contínuas nas ilhotas do nordeste, geram vapor salgado e fumaça densa — causa das pálpebras irritadas e dos olhos vermelhos característicos da tribo.
 
 ## Natureza e Funcionamento
-Nos **Caldeirões** da Costa Salobra, algas colhidas na vazante e água salobra das marés fervem por horas sem trégua até o caldo engrossar, espumar e soltar crostas de sal branco nas bordas do ferro.
+Nos **Caldeirões** da Costa Salobra, algas colhidas na vazante e água salobra das marés fervem por horas até o caldo engrossar e formar crostas de sal branco nas bordas do ferro.
 
-Na umidade sufocante do [[Geografia/Vale da Lama|Vale da Lama]], onde carne fresca cria larvas e couro apodrece em poucos dias, esse **sal cristalizado** vale mais do que qualquer metal: conserva provisões para marchas longas, seca peles e puxa o escambo ao longo da faixa costeira. Já a **salmoura**, aplicada em doses medidas sobre cortes abertos, limpa a ferida com ardor brutal e impede que as infecções do pântano tomem a carne.
+Na umidade do [[Geografia/Vale da Lama|Vale da Lama]], onde carne e couro estragam rápido, o **sal cristalizado** vale mais do que metal: conserva provisões para marchas, seca peles e sustenta o escambo na costa. A **salmoura**, aplicada sobre cortes abertos, limpa a ferida com ardor intenso e contém infecções do pântano.
 
 ## Origem e Tradição
 *A preencher.*
 
 ## Prática e Tabus
-Mais do que ofício, a fervura marca a fé da tribo diante de [[Deuses-Fera/Karkinos|Karkinos]]. Nos ritos de passagem conduzidos pelos xamãs, jovens iniciados erguem conchas de salmoura ainda fervente e bebem goles pequenos sem desviar o olhar — provando na carne da garganta que suportam o ardor do sal e o bafo das fornalhas sem recuar.
+A fervura também integra o culto a [[Deuses-Fera/Karkinos|Karkinos]]. Nos ritos de passagem conduzidos pelos xamãs, jovens iniciados bebem goles pequenos de salmoura ainda fervente para provar que suportam o ardor do sal e o calor das fornalhas sem recuar.
 
-Essa mesma devoção alimenta o atrito mais fundo com o oeste. O porte e a quantidade das fogueiras acesas dia e noite sob os caldeirões — junto à fumaça pesada que se espalha pela neblina — ferem diretamente o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] dos [[Tribos/Masca-Musgo|Masca-Musgo]], mantendo uma tensão religiosa constante entre as duas margens do vale.
+Essa prática alimenta atritos com o oeste: o porte e o número das fogueiras acesas dia e noite sob os caldeirões ferem o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] dos [[Tribos/Masca-Musgo|Masca-Musgo]], mantendo tensão constante entre as duas margens.
 
 ## O que se Conta pelo Pântano
-- **Ardor nos Olhos:** Batedores que já se aproximaram da costa contam nas passarelas que basta uma estação trabalhando ao lado daqueles caldeirões para entender por que nenhum Ferve-Alga consegue esconder o vermelho das pálpebras na neblina — e por que tantos carregam cicatrizes brancas de respingo nos braços.
+- **Ardor nos Olhos:** Batedores que observam a costa dizem que uma única estação junto aos caldeirões explica as pálpebras vermelhas de todo Ferve-Alga e as cicatrizes brancas de respingos em seus braços.
 
 ---
 
