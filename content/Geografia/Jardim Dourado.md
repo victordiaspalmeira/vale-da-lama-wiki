@@ -30,7 +30,7 @@ O santuário forma uma clareira abobadada por troncos e raízes colossais de man
 Pequenas pontes de madeira ligam os bancos de turfa sobre águas rasas e turvas. O ar dentro da abóbada é quente, parado e espesso, carregado de um odor doce como fruta passada em fermentação. O silêncio quase cerimonial do lugar é cortado apenas pelo gotejar lento da umidade nas folhas e pelo zumbido grave e contínuo de enxames de moscas.
 
 ## História
-Após a derrota dos [[Tribos/Povo Dragão|Dragões Vermelhos]] na [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] e a travessia para o leste na Primeira Caçada Sagrada, os sobreviventes trouxeram das minas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] a relíquia que havia iniciado sua libertação: o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]]. Ao fundarem [[Geografia/Raiz-Funda|Raiz-Funda]], consagraram a clareira central sob as raízes mais fundas como morada definitiva do Ídolo, transformando o lugar no centro espiritual, funerário e botânico dos Masca-Musgo.
+Após a derrota dos [[Tribos/Povo Dragão|Dragões Vermelhos]] na [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] e a travessia para o leste na [[Historia/Cacada Sagrada|Primeira Caçada Sagrada]], os sobreviventes trouxeram das minas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] a relíquia que havia iniciado sua libertação: o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]]. Ao fundarem [[Geografia/Raiz-Funda|Raiz-Funda]], consagraram a clareira central sob as raízes mais fundas como morada definitiva do Ídolo, transformando o lugar no centro espiritual, funerário e botânico dos Masca-Musgo.
 
 ## Sociedade e Pontos de Interesse
 

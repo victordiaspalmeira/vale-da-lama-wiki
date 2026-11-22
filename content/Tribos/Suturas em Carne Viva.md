@@ -20,27 +20,30 @@ aliases: ["Suturas em Carne Viva", "Vínculo com a Teia", "Fio Espiritual", "Cob
 
 # Suturas em Carne Viva e Vínculo com a Teia
 
-Os nômades [[Tribos/Tece-Pele|Tece-Pele]] são temidos e respeitados por sua destreza com agulhas de osso fino e fios resistentes da [[Tribos/Teia Prateada|Teia Prateada]]. Para eles, costurar carne é tanto medicina quanto oração a [[Deuses-Fera/Mael'ra|Mael'ra]].
+<blockquote class="epigraph">*A preencher.*</blockquote>
+
+Para os nômades [[Tribos/Tece-Pele|Tece-Pele]], costurar carne é ao mesmo tempo medicina, ofício e oração a [[Deuses-Fera/Mael'ra|Mael'ra, a Deusa-Fera Aranha]]. Armados com **agulhas finas de osso** e fios resistentes da [[Tribos/Teia Prateada|Teia Prateada]], são temidos e procurados em todo o [[Geografia/Vale da Lama|Vale da Lama]] tanto pela precisão cirúrgica quanto pelos pactos espirituais que ligam os devedores da teia.
 
 ## Natureza e Funcionamento
-- **Cura em Combate:** Fechamento rápido de ferimentos graves enquanto o paciente ainda está consciente, usando seda prateada de decomposição lenta.
-- **Rituais de União:** Costura simbólica unindo dois indivíduos ou aliados perante a teia.
-- **Modificações Corporais:** Implante direto de placas de pele e osso no próprio corpo como proteção.
+A seda prateada colhida das aranhas gigantes do dossel possui resistência incomum e decomposição lenta, permitindo aos Tece-Pele realizar três tipos principais de suturas:
+- **Cura em Combate:** Fechamento rápido de ferimentos graves enquanto o paciente ainda está consciente, mantendo carne e vasos unidos sob condições extremas.
+- **Rituais de União:** Costura simbólica que une dois indivíduos ou aliados perante a teia, selando pactos de lealdade.
+- **Modificações Corporais:** Implante direto de placas de pele e osso no próprio corpo como proteção contra os perigos do pântano.
 
 ## Origem e Tradição
 *A preencher.*
 
 ## Prática e Tabus
-### O Vínculo com a Teia (Favores de Mael'ra)
-Enquanto informações comuns são negociadas em troca de outras informações, quem pede um **favor específico** a [[Deuses-Fera/Mael'ra|Mael'ra]] precisa aceitar um **vínculo com a teia**:
 
-1. **O Fio Espiritual:** O devedor é amarrado espiritualmente à teia de Mael'ra ao receber o favor.
-2. **Prazo de Pagamento:** Se o preço combinado não for pago em tempo hábil, o fio espiritual puxa sua **alma** até o covil da Deusa-Fera Aranha.
-3. **Almas Devoradas e Corpos Vazios:** As almas roubadas são devoradas por Mael'ra, e os **corpos vazios vagam pelo pântano servindo de berçário para aranhas parasitas**.
+### O Vínculo com a Teia (Favores de Mael'ra)
+Enquanto notícias e segredos comuns são trocados pelos Tece-Pele por outras informações equivalentes, quem pede um **favor específico** a [[Deuses-Fera/Mael'ra|Mael'ra]] precisa aceitar um **vínculo espiritual com a teia**:
+1. **O Fio Espiritual:** Ao receber o favor, o solicitante é amarrado por um fio espiritual invisível ao plano comum.
+2. **Prazo de Pagamento:** O favor exige retribuição dentro de um tempo hábil acordado.
+3. **Almas Devoradas e Corpos Vazios:** Se o preço não for pago no prazo, o fio espiritual se retrai e puxa a **alma** do devedor até o covil de Mael'ra, onde é **devorada** — enquanto o **corpo vazio continua vagando pelo pântano, servindo de berçário para aranhas parasitas**.
 
 ## O que se Conta pelo Pântano
-*A preencher.*
+- **O Preço da Agulha e do Fio:** Quem busca um Tece-Pele em busca de socorro rápido aprende a perguntar primeiro se a sutura será paga em escambo — ou se a ajuda vem amarrada a um favor de Mael'ra.
 
 ---
 
-**Veja também:** [[Tribos/Tece-Pele|Tece-Pele]] | [[Tribos/Teia Prateada|Teia Prateada]] | [[Deuses-Fera/Mael'ra|Mael'ra]]
+**Veja também:** [[Tribos/Tece-Pele|Tece-Pele]] | [[Tribos/Teia Prateada|Teia Prateada]] | [[Deuses-Fera/Mael'ra|Mael'ra]] | [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]]

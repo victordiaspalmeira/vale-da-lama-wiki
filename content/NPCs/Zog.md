@@ -24,10 +24,12 @@ aliases: ["Zog", "Voz-de-Esporo", "Zog, o Xamã Animista"]
 
 # Zog (Voz-de-Esporo)
 
-**Zog**, conhecido como **Voz-de-Esporo**, é o xamã animista de [[Geografia/Raiz-Funda|Raiz-Funda]].
+<blockquote class="epigraph">*A preencher.*</blockquote>
+
+**Zog**, conhecido em [[Geografia/Raiz-Funda|Raiz-Funda]] como **Voz-de-Esporo**, é o xamã animista dos [[Tribos/Masca-Musgo|Masca-Musgo]]. Se [[NPCs/Sacerdote-Chefe Malok|Malok]] guarda o alto culto e os segredos do santuário, é a Zog que caçadores, construtores e viajantes recorrem quando o próprio pântano parece fechar seus caminhos ou cobrar uma dívida esquecida.
 
 ## Aparência
-Anda coberto de amuletos de dentes, conchas e ossos que tilintam a cada passo.
+Anda sempre coberto de amuletos de dentes, conchas e ossos que tilintam baixinho a cada passo pelas passarelas de madeira.
 
 ## Personalidade e Maneirismos
 *A preencher.*
@@ -36,15 +38,16 @@ Anda coberto de amuletos de dentes, conchas e ossos que tilintam a cada passo.
 *A preencher.*
 
 ## Função e Ocupação
-- **Lei da Troca:** Conhece profundamente a [[Cosmologia/Lei da Troca|Lei da Troca]] e orienta caçadores e viajantes sobre como pedir passagem, oferendar ao pântano e reparar quebras de reciprocidade.
-- **Visões de Musgo:** Conduz rituais em que pequenas lascas de [[Cosmologia/Micelio Dourado|Micélio Dourado]] são mascadas para sentir as correntes vivas do micélio subterrâneo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
+- **Guardião da Lei da Troca:** Zog compreende profundamente a filosofia da [[Cosmologia/Lei da Troca|Lei da Troca]] e o [[Cosmologia/Animismo|Animismo]] do vale. Quando ferramentas apodrecem rápido demais, jangadas emperram ou trilhas conhecidas parecem se fechar na neblina, os moradores o procuram para interpretar o que foi quebrado e qual restituição deve ser devolvida ao solo.
+- **Visões do Micélio:** Conduz rituais em que pequenas lascas de [[Cosmologia/Micelio Dourado|Micélio Dourado]] são mascadas com cautela para sentir as correntes vivas da rede subterrânea de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], mantendo sempre o cuidado para não ultrapassar o limite que leva à *Ascensão*.
 
 ## Relações e Alianças
-*A preencher.*
+* **[[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]]:** Enquanto Zog orienta como reparar quebras espirituais com o pântano, cabe a Velho Rói-Raiz julgar conflitos e infrações internas diante da aldeia.
+* **[[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]:** Compõe com Malok e os [[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]] o núcleo espiritual de [[Geografia/Raiz-Funda|Raiz-Funda]].
 
 ## O que se Conta pelo Pântano
-*A preencher.*
+- **O Tilintar na Neblina:** Moradores dizem que o som dos amuletos de Zog anuncia quando alguém quebrou a Lei da Troca em silêncio — pois antes mesmo de a aldeia descobrir a falta, o xamã já sente a mudança no humor das águas e das raízes.
 
 ---
 
-**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Animismo|Animismo]] | [[Cosmologia/Lei da Troca|Lei da Troca]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]]
+**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Animismo|Animismo]] | [[Cosmologia/Lei da Troca|Lei da Troca]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]]

@@ -12,6 +12,10 @@ aliases: ["Cosmologia", "Fé e Leis do Vale"]
 |--------|------|--------|
 | [[Cosmologia/Deus Verdadeiro\|Deus Verdadeiro]] | Categoria | Entidades supremas sem forma física definida e de ação indireta |
 | [[Cosmologia/Nyog'Sothep\|Nyog'Sothep]] | Deus Verdadeiro | Entidade fúngica primordial ligada à decomposição, esporos e Ciclo da Devolução |
+| [[Cosmologia/Manifestacao do Enxame\|Manifestação do Enxame]] | Manifestação Divina | Nuvem rara de moscas negras e dourado-metálicas cujo zumbido ressoa nos ossos |
+| [[Cosmologia/Ciclo da Devolucao\|Ciclo da Devolução]] | Rito Funerário | Retorno em três estágios (*Inchaço*, *Floração*, *Retorno*) no Jardim Dourado |
+| [[Cosmologia/Ascensao Fungica\|Ascensão Fúngica]] | Fenômeno Sagrado | Estágio final do excesso de Micélio Dourado rumo às raízes do Jardim Dourado |
+| [[Cosmologia/Fio Espiritual\|O Fio Espiritual]] | Pacto Espiritual | Laço invisível de Mael'ra que cobra a alma de quem não paga um favor no prazo |
 | [[Deuses-Fera/Deus-Fera\|Deuses-Fera]] | Categoria | Entidades espirituais regionais que transitam entre o etéreo e o físico |
 
 ## Relíquias, Recursos e Equipamentos

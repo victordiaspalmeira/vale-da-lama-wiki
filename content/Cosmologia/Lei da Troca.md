@@ -20,27 +20,27 @@ aliases: ["Lei da Troca", "A Lei da Troca", "Reciprocidade"]
 
 # A Lei da Troca
 
-O princípio central da convivência cotidiana no [[Geografia/Vale da Lama|Vale da Lama]] — nascido do [[Cosmologia/Animismo|Animismo]] local — é a **Lei da Troca**: nada no pântano é tomado de graça, e toda retirada exige compensação imediata.
+<blockquote class="epigraph">*A preencher.*</blockquote>
+
+Nascida do [[Cosmologia/Animismo|Animismo]] local, a **Lei da Troca** é o princípio filosófico e espiritual que governa a convivência com o [[Geografia/Vale da Lama|Vale da Lama]]. Para os [[Tribos/Masca-Musgo|Masca-Musgo]], o pântano não pertence a ninguém de forma definitiva: toda vida tirada, toda madeira cortada e todo caminho atravessado cria uma dívida silenciosa com o lugar — e nada é tomado de graça sem que algo seja devolvido em equilíbrio.
 
 ## Natureza e Funcionamento
-Antes de colher cogumelos medicinais, cortar madeira de mangue, beber de uma nascente desconhecida ou abater uma presa em uma [[Historia/Cacada Sagrada|caçada]], um habitante do vale realiza um gesto simples de reciprocidade:
-
-- Pingar três gotas de sangue na raiz antes de entrar numa trilha densa para pedir passagem segura;
-- Enterrar um dente de leite, mecha de cabelo ou lasca de garra na lama ao acampar;
+Mais do que uma lista fria de etiquetas, a Lei da Troca expressa a consciência de que quem vive no brejo só pode receber enquanto aceitar retribuir. Na prática cotidiana — seja ao colher [[Cosmologia/Micelio Dourado|Micélio Dourado]], extrair piche dos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]], cortar madeira de mangue ou partir em uma [[Historia/Cacada Sagrada|Caçada Sagrada]] —, esse reconhecimento toma a forma de gestos simples de reciprocidade:
+- Pedir passagem antes de entrar em trilhas densas ou águas desconhecidas;
+- Deixar na lama um sinal pessoal de respeito (como um dente de leite, mecha de cabelo, lasca de garra ou tigela de pasta fermentada);
 - Cantar ou contar uma história em voz baixa ao anoitecer em sinal de respeito ao ambiente;
-- Deixar uma tigela de pasta fermentada na borda de uma poça parada antes de coletar água ou ervas;
-- Devolver o primeiro pedaço cru do coração de uma presa abatida ao musgo para honrar o ciclo.
+- Devolver ao musgo o primeiro pedaço cru do coração de uma presa abatida, honrando o ciclo que permitiu a caçada.
 
 ## Origem e Tradição
-Nasce diretamente da visão [[Cosmologia/Animismo|animista]] do vale, segundo a qual cada árvore, trilha e poça de água possui memória e intenção.
+A lei brota diretamente da visão [[Cosmologia/Animismo|animista]] segundo a qual árvores, águas, ferramentas e trilhas guardam memória de quem as trata com respeito ou com descaso.
 
 ## Prática e Tabus
-Aqueles que colhem sem pedir, matam por esporte ou desrespeitam os locais sagrados atraem a hostilidade do próprio pântano: trilhas parecem fechar-se sob seus pés, ferramentas apodrecem ou se perdem na lama, ferimentos inflamam com facilidade e predadores locais passam a seguir seu rastro.
+Aqueles que colhem sem pedir, matam por esporte ou ignoram a medida entre o que se toma e o que se devolve atraem a hostilidade do próprio pântano: trilhas parecem fechar-se sob os pés, ferramentas apodrecem ou se perdem na lama, ferimentos inflamam com facilidade e predadores locais passam a seguir seu rastro.
 
-Quando um habitante ou visitante precisa reparar uma quebra da Lei da Troca, recorre a [[NPCs/Zog|Zog]], o Xamã Animista, que orienta qual oferenda ou restituição deve ser devolvida ao solo — enquanto disputas internas sobre essas quebras são julgadas por [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]].
+Quando um habitante ou visitante precisa reparar uma quebra da Lei da Troca, recorre a [[NPCs/Zog|Zog (Voz-de-Esporo)]], que orienta qual restituição deve ser devolvida ao solo — enquanto disputas e infrações internas são julgadas diante da aldeia por [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]].
 
 ## O que se Conta pelo Pântano
-*A preencher.*
+- **O Peso da Dívida:** Batedores dizem que o pântano perdoa a ignorância de um forasteiro apenas uma vez; quem insiste em tomar sem devolver descobre rápido que até a lama sob as botas passa a cobrar o que é devido.
 
 ---
 

@@ -15,40 +15,52 @@ aliases: ["Tribo do Sul", "Ventre-Inchado", "Sss'kar", "Sanguessugas"]
     <tr><td><b>Base</b></td><td><a href="../Geografia/Aguas-Paradas-Profundas" class="internal">Águas Paradas Profundas</a></td></tr>
     <tr><td><b>Devoção</b></td><td><a href="../Deuses-Fera/Sss'kar" class="internal">Sss'kar</a></td></tr>
     <tr><td><b>Liderança</b></td><td><a href="../NPCs/Murok" class="internal">Murok, o Ancião Centenário</a> (+120 anos)</td></tr>
-    <tr><td><b>Relações</b></td><td>Evitados / rivais dos <a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
+    <tr><td><b>Relações</b></td><td>Raramente interagem com outros povos; evitados pelos <a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
   </table>
 </div>
 
 # Ventre-Inchado
 
-A tribo **Ventre-Inchado** habita o Sul profundo do [[Geografia/Vale da Lama|Vale da Lama]], nas regiões mais escuras, abafadas e sem correnteza do pântano. Adoram **[[Deuses-Fera/Sss'kar|Sss'kar]]**, uma sanguessuga [[Deuses-Fera/Deus-Fera|Deus-Fera]] colossal que habita as águas paradas do sul e exige sangue como oferenda.
+<blockquote class="epigraph">*A preencher.*</blockquote>
+
+Os **Ventre-Inchado** são a mais reclusa e inquietante das tribos do [[Geografia/Vale da Lama|Vale da Lama]]. Escondidos nas trevas abafadas das **[[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]**, entre a floresta fechada e o Rio Lodo-Negro no extremo sul, raramente atravessam os canais em direção ao restante dos povos do pântano. Enquanto os [[Tribos/Masca-Musgo|Masca-Musgo]] aceitam a morte como devolução ao solo, os Ventre-Inchado agarram-se à carne e ao pulso vivo, cultuando **[[Deuses-Fera/Sss'kar|Sss'kar]]**, uma sanguessuga [[Deuses-Fera/Deus-Fera|Deus-Fera]] colossal que exige sangue como oferenda.
 
 ## Aparência e Traços
-Têm pele pálida, abdômens dilatados pelo consumo habitual de bebidas fermentadas e sangue ritual, e olhos vermelhos sensíveis à luz direta.
+Adaptados a um setor do pântano onde quase nenhuma luz solar atravessa as copas entrelaçadas de cipós e árvores retorcidas, os Ventre-Inchado apresentam uma aparência pálida e doentia aos olhos dos demais goblins. Seus olhos vermelhos são extremamente sensíveis à claridade direta, levando-os a evitar áreas abertas durante o dia.
+
+O traço que lhes dá nome é o **abdômen dilatado**, inchado pelo consumo habitual de bebidas fermentadas na umidade estagnada do sul e de sangue ritual. Os mais antigos dentre eles — os chamados *anciãos vampíricos* — tornam-se ainda mais extremos: figuras esqueléticas de pele quase translúcida, que sobrevivem muito além do tempo natural de sua espécie.
 
 ## Cultura e Crenças
-Os Ventre-Inchado criam **[[Tribos/Sanguessugas Gigantes|sanguessugas gigantes]]** em ânforas de barro e recipientes de couro úmido, utilizando-as tanto em sangrias medicinais quanto em rituais de oferenda a Sss'kar. A drenagem é feita de forma controlada — nunca o suficiente para matar um adulto saudável, exceto em sacrifícios especiais.
 
-Ao contrário dos [[Tribos/Masca-Musgo|Masca-Musgo]], que aceitam a morte como parte do [[Cosmologia/Nyog'Sothep#O Ciclo da Devolução|ciclo de decomposição]], os Ventre-Inchado buscam prolongar a vida física por meio do sangue.
+### A Essência da Vida no Sangue
+Para os Ventre-Inchado, o sangue não é apenas um fluido do corpo — é a própria **essência da vida**. Acreditam que derramar e oferecer sangue a [[Deuses-Fera/Sss'kar|Sss'kar]] fortalece tanto o Deus-Fera quanto aquele que realiza a oferenda. Em contraste direto com o [[Cosmologia/Nyog'Sothep#O Ciclo da Devolução|Ciclo da Devolução]] dos [[Tribos/Masca-Musgo|Masca-Musgo]], os devotos de Sss'kar não buscam dissolver a consciência na terra: buscam **prolongar a vida física** pelo poder do sangue.
+
+### Sanguessugas Vivas e Sangrias Rituais
+O símbolo prático dessa fé repousa em ânforas de barro e recipientes de couro úmido espalhados pelos abrigos da tribo: **[[Tribos/Sanguessugas Gigantes|sanguessugas gigantes]]** criadas e mantidas vivas pelos Ventre-Inchado. Elas servem tanto para sangrias que a tribo acredita "limparem" o sangue de enfermos quanto para rituais de drenagem cerimonial.
+
+No cotidiano, essa drenagem é cuidadosamente dosada para extrair vitalidade sem matar um adulto saudável — embora existam sacrifícios especiais reservados às ocasiões mais sombrias do culto.
 
 ## História
 *A preencher.*
 
 ## Organização e Ocupações
-### Os Anciãos Centenários
-Os líderes da tribo são chamados de **anciãos vampíricos** — figuras esqueléticas de pele translúcida que vivem muito além da expectativa normal de sua espécie:
-- Consomem sangue regularmente em rituais secretos para prolongar a vida
-- Têm pele pálida e olhos vermelhos
-- Passam semanas sem ingerir alimentos sólidos, vivendo apenas de sangue
+Nas margens lodosas sem correnteza das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]], os Ventre-Inchado escavam **câmaras semi-submersas sob os bancos de barro**, mantendo criadouros de sanguessugas vivas e reservatórios de fermentação longe da luz e dos olhares de fora.
 
-O mais antigo deles, conhecido como **[[NPCs/Murok|Murok, o Ancião Centenário]]**, teria mais de 120 anos e raramente deixa sua câmara nas profundezas do sul.
+### Os Anciãos Centenários
+A liderança espiritual da tribo repousa nos **anciãos vampíricos**, venerados pela longevidade sombria conquistada em rituais secretos:
+- Consomem sangue regularmente para estender a vida além de um século.
+- Possuem pele pálida e translúcida e olhos vermelhos sensíveis à luz.
+- Podem passar semanas inteiras sem ingerir qualquer alimento sólido, sustentando-se apenas de sangue.
+
+O mais antigo e isolado de todos é **[[NPCs/Murok|Murok, o Ancião Centenário]]**, com mais de 120 anos, que raramente deixa sua câmara submersa nas profundezas do sul.
 
 ## Relações e Diplomacia
-São evitados pelos [[Tribos/Masca-Musgo|Masca-Musgo]] e mantêm pouco contato direto com as demais tribos do vale.
+Os Ventre-Inchado **raramente interagem com o restante dos povos do vale**. Isolados nas águas estagnadas do sul, quase não participam das disputas cotidianas de fronteira que marcam o norte e o oeste. Ainda assim, são deliberadamente evitados pelos [[Tribos/Masca-Musgo|Masca-Musgo]], que enxergam a recusa da morte e os rituais de sangue como o avesso do ciclo natural de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
 ## O que se Conta pelo Pântano
-*A preencher.*
+- **A Rainha fora do Sul:** O avistamento recente da colossal [[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]] próxima ao [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] — muito além das Águas Paradas Profundas — despertou inquietação entre caçadores e batedores de outras tribos.
+- **Sussurros sob o Barro:** Forasteiros evitam remar nos canais fechados e abafados do sul não apenas pelas doenças e parasitas, mas pelo medo de serem capturados vivos para alimentar as ânforas de sangue dos anciãos centenários.
 
 ---
 
-**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]] | [[Deuses-Fera/Sss'kar|Sss'kar]] | [[Tribos/Masca-Musgo|Masca-Musgo]] | [[Tribos/Sanguessugas Gigantes|Sanguessugas Gigantes]]
+**Veja também:** [[Geografia/Vale da Lama|Vale da Lama]] | [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]] | [[Deuses-Fera/Sss'kar|Sss'kar]] | [[Tribos/Sanguessugas Gigantes|Sanguessugas Gigantes]] | [[NPCs/Murok|Murok]] | [[Tribos/Masca-Musgo|Masca-Musgo]]

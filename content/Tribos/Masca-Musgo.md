@@ -89,7 +89,7 @@ A sociedade Masca-Musgo se organiza em [[Geografia/Raiz-Funda|Raiz-Funda]], alde
 ## Relações e Diplomacia
 Todo comércio no vale funciona inteiramente por **escambo**, sem qualquer moeda comum:
 - **[[Tribos/Tece-Pele|Tece-Pele]]:** Mantêm trocas regulares de peles curtidas e reagentes alquímicos (negociados por [[NPCs/Birka|Birka]]) em troca de fios da [[Tribos/Teia Prateada|Teia Prateada]] e informações do pântano.
-- **[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]:** Preservam uma trégua tensa, marcada pelo desconforto diante das grandes fogueiras dos caldeirões de salmoura e por atritos frequentes na manutenção das fronteiras entre os territórios — desrespeitadas com frequência de ambos os lados, mas difíceis de punir.
+- **[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]:** Preservam uma trégua tensa, marcada pelo desconforto diante das grandes fogueiras dos caldeirões de [[Tribos/Salmoura e Sal Cristalizado|salmoura]] e por atritos frequentes na manutenção das fronteiras entre os territórios — desrespeitadas com frequência de ambos os lados, mas difíceis de punir.
 - **[[Tribos/Ventre-Inchado|Ventre-Inchado]]:** Raramente interagem com o restante dos povos do vale e são deliberadamente evitados pelos Masca-Musgo, que veem a busca por longevidade através do sangue como o avesso do Ciclo da Devolução.
 
 ## O que se Conta pelo Pântano

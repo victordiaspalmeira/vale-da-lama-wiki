@@ -26,6 +26,7 @@ aliases: ["Tribos", "Tribos do Vale da Lama"]
 | [[Tribos/Sanguessugas Gigantes\|Sanguessugas Gigantes]] | [[Tribos/Ventre-Inchado\|Ventre-Inchado]] | Criadas em ânforas para sangrias e oferendas a Sss'kar |
 | [[Tribos/Suturas em Carne Viva\|Suturas em Carne Viva]] | [[Tribos/Tece-Pele\|Tece-Pele]] | Cirurgias com seda de aranha e o Vínculo com a Teia |
 | [[Tribos/Teia Prateada\|Teia Prateada]] | [[Tribos/Tece-Pele\|Tece-Pele]] | Símbolo de Mael'ra feito de seda das aranhas do dossel |
+| [[Tribos/Escambo no Vale\|Escambo no Vale]] | Todas as tribos | Sistema de troca direta sem moeda comum em todo o pântano |
 
 ---
 

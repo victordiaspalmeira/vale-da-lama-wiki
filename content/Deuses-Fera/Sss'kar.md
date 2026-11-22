@@ -25,10 +25,12 @@ aliases: ["Sss'kar", "Sanguessuga das Águas Paradas", "Rainha-Sanguessuga de Á
 
 # Sss'kar
 
-**Sss'kar** é uma sanguessuga colossal — um [[Deuses-Fera/Deus-Fera|Deus-Fera]] que habita as águas paradas e escuras do sul do [[Geografia/Vale da Lama|Vale da Lama]]. É adorado pela tribo [[Tribos/Ventre-Inchado|Ventre-Inchado]].
+<blockquote class="epigraph">*A preencher.*</blockquote>
+
+**Sss'kar** é uma sanguessuga colossal — um [[Deuses-Fera/Deus-Fera|Deus-Fera]] que habita as águas paradas, escuras e abafadas do sul do [[Geografia/Vale da Lama|Vale da Lama]]. Adorado pela reclusa tribo [[Tribos/Ventre-Inchado|Ventre-Inchado]], encarna a recusa da morte e a busca pela permanência da carne através do sangue.
 
 ## Aparência
-Uma sanguessuga colossal adaptada às águas turvas e paradas do sul do pântano.
+Uma sanguessuga colossal adaptada às águas turvas e imóveis das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]].
 
 ## Personalidade e Maneirismos
 *A preencher.*
@@ -49,4 +51,4 @@ Uma sanguessuga colossal adaptada às águas turvas e paradas do sul do pântano
 
 ---
 
-**Veja também:** [[Deuses-Fera/Deus-Fera|Deus-Fera]] | [[Tribos/Ventre-Inchado|Ventre-Inchado]] | [[Geografia/Vale da Lama|Vale da Lama]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]]
+**Veja também:** [[Deuses-Fera/Deus-Fera|Deus-Fera]] | [[Tribos/Ventre-Inchado|Ventre-Inchado]] | [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]] | [[NPCs/Murok|Murok]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]]

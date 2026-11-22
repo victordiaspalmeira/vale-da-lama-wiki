@@ -22,20 +22,22 @@ aliases: ["Rainha-Sanguessuga de Águas Paradas", "Rainha-Sanguessuga"]
 
 # Rainha-Sanguessuga de Águas Paradas
 
-A **Rainha-Sanguessuga de Águas Paradas** é uma sanguessuga gigantesca que habita as águas paradas do sul do [[Geografia/Vale da Lama|Vale da Lama]].
+<blockquote class="epigraph">*A preencher.*</blockquote>
+
+A **Rainha-Sanguessuga de Águas Paradas** é uma fera colossal ligada às profundezas escuras do sul do [[Geografia/Vale da Lama|Vale da Lama]]. Embora seu habitat natural sejam as águas sem correnteza das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]], seus deslocamentos recentes até as proximidades do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] transformaram sua presença em motivo de alerta para caçadores e batedores de todo o pântano.
 
 ## Aparência e Anatomia
-Sanguessuga gigantesca de pele pálida e boca circular dentada.
+Uma sanguessuga gigantesca de pele pálida e boca circular dentada, adaptada a deslizar em silêncio sob águas turvas, raízes submersas e canais de lodo espesso.
 
 ## Comportamento e Ecologia
-Habita normalmente as águas paradas profundas do sul do vale.
+Habita normalmente as águas negras, abafadas e estagnadas das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]. Contudo, tem demonstrado comportamento errante, aventurando-se muito além de seu território habitual até as margens do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] — ponto central onde grandes predadores vão se hidratar e feras espirituais disputam território.
 
 ## Uso e Relações com as Tribos
-É associada aos [[Tribos/Ventre-Inchado|Ventre-Inchado]] e ao culto de [[Deuses-Fera/Sss'kar|Sss'kar]].
+A criatura é diretamente associada aos [[Tribos/Ventre-Inchado|Ventre-Inchado]] e ao culto de [[Deuses-Fera/Sss'kar|Sss'kar]], a sanguessuga Deus-Fera colossal do sul. Enquanto a tribo mantém exemplares menores de [[Tribos/Sanguessugas Gigantes|sanguessugas gigantes]] em ânforas de barro e couro úmido para seus rituais de sangue, a Rainha-Sanguessuga vaga livre pelos canais profundos.
 
 ## O que se Conta pelo Pântano
-A criatura foi avistada recentemente próxima ao [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], muito além de seu território habitual nas [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]].
+- **Longe do Sul:** Batedores que vigiam as rotas centrais relatam que a Rainha-Sanguessuga foi avistada recentemente próxima ao [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], alimentando receios sobre o que pode estar atraindo criaturas do sul profundo para o centro do vale.
 
 ---
 
-**Veja também:** [[Deuses-Fera/Sss'kar|Sss'kar]] | [[Tribos/Ventre-Inchado|Ventre-Inchado]] | [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]] | [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]
+**Veja também:** [[Deuses-Fera/Sss'kar|Sss'kar]] | [[Tribos/Ventre-Inchado|Ventre-Inchado]] | [[Tribos/Sanguessugas Gigantes|Sanguessugas Gigantes]] | [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]] | [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]

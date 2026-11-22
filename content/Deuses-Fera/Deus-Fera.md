@@ -11,24 +11,23 @@ aliases: ["Deuses-Fera", "Deus-Fera", "Deuses-Fera Menores"]
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Categoria de divindades / entidades</td></tr>
-    <tr><td><b>Natureza</b></td><td>Entidades espirituais que transitam entre o etéreo e o físico</td></tr>
-    <tr><td><b>Principais</b></td><td><a href="../Deuses-Fera/Karkinos" class="internal">Karkinos</a>, <a href="../Deuses-Fera/Sss'kar" class="internal">Sss'kar</a>, <a href="../Deuses-Fera/Mael'ra" class="internal">Deusa-Fera Aranha</a></td></tr>
-    <tr><td><b>Contraste</b></td><td><a href="../Cosmologia/Nyog'Sothep" class="internal">Nyog'Sothep</a> (<a href="../Cosmologia/Deus-Verdadeiro" class="internal">Deus Verdadeiro</a>, sem forma física definida)</td></tr>
-    <tr><td><b>Territórios</b></td><td>Áreas Sagradas de Desova e domínios tribais</td></tr>
+    <tr><td><b>Praticantes</b></td><td><a href="../Tribos/Ferve-Alga-(Olhos-Vermelhos)" class="internal">Ferve-Alga</a>, <a href="../Tribos/Ventre-Inchado" class="internal">Ventre-Inchado</a>, <a href="../Tribos/Tece-Pele" class="internal">Tece-Pele</a></td></tr>
+    <tr><td><b>Ligação Espiritual</b></td><td>Entidades regionais entre o etéreo e o físico</td></tr>
+    <tr><td><b>Local / Uso</b></td><td><a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a> (domínios e áreas de desova)</td></tr>
+    <tr><td><b>Status</b></td><td>Ativo</td></tr>
   </table>
 </div>
 
 # Deus-Fera
 
-## Descrição
+<blockquote class="epigraph">*A preencher.*</blockquote>
 
-No [[Geografia/Vale da Lama|Vale da Lama]], **Deuses-Fera** são entidades espirituais que habitam regiões específicas do pântano e recebem culto direto das tribos locais. Embora também sejam seres espirituais, eles **transitam com muito mais facilidade entre o plano etéreo e o plano físico** do que um **[[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]]** como [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] (que não possui forma física definida e raramente interage diretamente com o mundo material). Por isso, os Deuses-Fera manifestam formas físicas colossais e possuem territórios delimitados ligados à carne, ao sangue, às marés ou à teia.
+No [[Geografia/Vale da Lama|Vale da Lama]], **Deuses-Fera** são entidades espirituais colossais que habitam regiões específicas do pântano e — em vários casos — recebem culto direto das tribos locais. Embora sejam seres espirituais, **transitam com muito mais facilidade entre o plano etéreo e o plano físico** do que um **[[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]]** como [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], manifestando corpos gigantescos e territórios marcados pela carne, pelo sangue, pelas marés ou pela teia.
 
-## Visão do Clero de Raiz-Funda
+## Natureza e Funcionamento
+Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], os Deuses-Fera são entidades menores quando comparados a um Deus Verdadeiro, justamente por sua proximidade com o plano físico e o ciclo biológico. Os [[Tribos/Masca-Musgo|Masca-Musgo]] afirmam que [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] não possui corte de avatares nem comanda Deuses-Fera menores para agir em seu nome. Ainda assim, todas as tribos do pântano reconhecem o poder real dessas entidades e evitam provocar sua fúria ou invadir seus Territórios Sagrados de Desova.
 
-Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera são entidades menores quando comparados a um Deus Verdadeiro, justamente por sua proximidade com o plano físico e o ciclo biológico. Os [[Tribos/Masca-Musgo|Masca-Musgo]] afirmam que [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] não possui corte de avatares nem comanda Deuses-Fera menores para agir em seu nome. Ainda assim, as tribos do pântano reconhecem o poder real dessas entidades e evitam provocar sua fúria ou invadir seus Territórios Sagrados de Desova.
-
-## Deuses-Fera Conhecidos
+### Deuses-Fera Conhecidos
 
 | Deus-Fera | Forma | Domínio / Região | Tribo Devota |
 |-----------|-------|------------------|--------------|
@@ -39,20 +38,21 @@ Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera 
 | [[Deuses-Fera/Krr'tak\|Krr'tak (a Espadachim)]] | Louva-a-deus colossal | Entre [[Tribos/Masca-Musgo\|Masca-Musgo]] e [[Tribos/Ferve-Alga (Olhos-Vermelhos)\|Ferve-Alga]] | Nenhuma conhecida |
 | [[Deuses-Fera/Suuhr\|Suuhr]] | Cobra de piche líquido | [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro\|Brejo do Musgo-Negro]] (Oeste) | Oferendas de caça fresca |
 
-## Regras de Caçada: Ninhadas vs. Territórios Sagrados de Desova
+## Origem e Tradição
+*A preencher.*
 
+## Prática e Tabus
+
+### Regras de Caçada: Ninhadas vs. Territórios Sagrados de Desova
 Entre os caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]], duas regras distinguem uma caçada honrada de uma violação sagrada:
-
 - **Ninhadas:** Áreas naturais de reprodução de bestas comuns. Caçar em ninhadas é permitido, desde que nunca se extermine toda a prole, deixando sempre ao menos um par adulto para manter o equilíbrio do ciclo.
-- **Territórios Sagrados de Desova:** Berçários vinculados a divindades ou tribos — como as enseadas de [[Deuses-Fera/Karkinos|Karkinos]] na Costa Salobra e os arredores do [[Geografia/Jardim Dourado|Jardim Dourado]]. **Caçar nesses locais é estritamente proibido.**
+- **Territórios Sagrados de Desova:** Berçários onde Deuses-Fera e suas crias diretas depositam ovos (como as enseadas de [[Deuses-Fera/Karkinos|Karkinos]] na [[Geografia/Costa Salobra|Costa Salobra]]). A entrada é estritamente proibida fora da estação de acasalamento, e durante ela exige permissão formal dos xamãs da tribo guardiã.
 
-## Crias, Arautos e Feras Lendárias (Rumores)
-
-- **[[Criaturas/Pinça-de-Sal|Pinça-de-Sal (Cria de Karkinos)]]** *(Costa Salobra — Perigo Médio)*
+## O que se Conta pelo Pântano
 - **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]** *(Lago da Grande Tirana / Sul — Perigo Alto)*
 - **[[Deuses-Fera/Krr'tak|Krr'tak (a Espadachim)]]** *(Entre Masca-Musgo e Ferve-Alga — Perigo Alto)*
 - **[[Deuses-Fera/Og'gath|Og'gath (Sapo-Trovão do Lago Central)]]** *(Lago da Grande Tirana — Perigo Extremo)*
 
 ---
 
-**Veja também:** [[Deuses-Fera/Karkinos|Karkinos]], [[Deuses-Fera/Sss'kar|Sss'kar]], [[Deuses-Fera/Mael'ra|Deusa-Fera Aranha]], [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Micelio Dourado|Micélio Dourado]], [[Geografia/Vale da Lama|Vale da Lama]]
+**Veja também:** [[Deuses-Fera/Karkinos|Karkinos]] | [[Deuses-Fera/Sss'kar|Sss'kar]] | [[Deuses-Fera/Mael'ra|Deusa-Fera Aranha]] | [[Deuses-Fera/Og'gath|Og'gath]] | [[Deuses-Fera/Krr'tak|Krr'tak]] | [[Deuses-Fera/Suuhr|Suuhr]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]]

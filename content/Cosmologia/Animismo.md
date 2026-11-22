@@ -20,22 +20,23 @@ aliases: ["Animismo", "Animismo do Vale"]
 
 # Animismo
 
-Para os habitantes do [[Geografia/Vale da Lama|Vale da Lama]], o pântano não é um cenário inerte — é um organismo vivo e atento, permeado pela vontade de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] e pelas forças primordiais que habitam as águas, as raízes e os fungos.
+<blockquote class="epigraph">*A preencher.*</blockquote>
+
+Para os habitantes do [[Geografia/Vale da Lama|Vale da Lama]], o pântano não é um cenário passivo nem um simples estoque de madeira, água e caça: é um organismo vivo, atento e dotado de memória, permeado pela presença de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] e pelas forças primordiais que habitam as raízes, os fungos e os canais escuros.
 
 ## Natureza e Funcionamento
-Nessa visão de mundo, tudo no brejo possui memória e intenção, sem necessidade de templos ou panteões paralelos:
-
-- **Ferramentas e Embarcações:** Uma jangada lembra da árvore de onde foi cortada; uma lança de osso carrega o peso da besta que a cedeu. Objetos feitos sem respeito ou com materiais roubados costumam emperrar, rachar ou afundar na pior hora.
-- **Trilhas e Águas:** Cada caminho na lama responde à maneira como é tratado. Quem caminha com atenção e compensa o que retira encontra raízes firmes; quem devasta ou desperdiça sente a lama ceder sob os pés.
+Nessa visão de mundo, tudo no brejo possui memória e intenção, sem necessidade de templos de pedra ou panteões paralelos:
+- **Ferramentas e Embarcações:** Uma jangada lembra da árvore de onde foi cortada; uma lança de osso carrega o peso da fera que a cedeu. Objetos feitos sem respeito ou com materiais tomados sem retribuição costumam emperrar, rachar ou afundar na pior hora.
+- **Trilhas e Águas:** Cada caminho na lama responde à maneira como é tratado. Quem caminha com atenção e reconhece sua dívida encontra raízes firmes sob os pés; quem devasta ou desperdiça sente o lodo ceder e os canais se fecharem na neblina.
 
 ## Origem e Tradição
 *A preencher.*
 
 ## Prática e Tabus
-É desse respeito ao pântano vivo que nasce a prática cotidiana da [[Cosmologia/Lei da Troca|Lei da Troca]]. Quando sinais de hostilidade aparecem — como ferramentas apodrecendo rápido demais ou trilhas que se fecham na neblina —, os moradores recorrem a [[NPCs/Zog|Zog (Voz-de-Esporo)]] para interpretar o que foi quebrado e qual restituição deve ser feita ao solo.
+É desse respeito ao pântano vivo que nasce a filosofia cotidiana da [[Cosmologia/Lei da Troca|Lei da Troca]]. Quando sinais de hostilidade aparecem — como tábuas que apodrecem depressa demais ou trilhas conhecidas que parecem trair o passo —, os moradores de [[Geografia/Raiz-Funda|Raiz-Funda]] recorrem a [[NPCs/Zog|Zog (Voz-de-Esporo)]] para interpretar o que foi quebrado e qual restituição deve ser feita ao solo.
 
 ## O que se Conta pelo Pântano
-*A preencher.*
+- **Madeira que Recusa o Prego:** No cais de Raiz-Funda, conta-se que até um prego de osso ou uma tábua de mangue pode revelar pelo som se foi tirada do brejo com respeito ou em dívida aberta.
 
 ---
 
