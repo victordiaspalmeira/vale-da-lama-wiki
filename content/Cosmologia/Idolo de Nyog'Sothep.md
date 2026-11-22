@@ -29,7 +29,7 @@ O ídolo produz pequenas quantidades de [[Cosmologia/Micelio Dourado|Micélio Do
 Durante a era de escravidão sob os [[Tribos/Povo Dragão|Dragões Vermelhos]], os Goblins descobriram o ídolo em uma câmara escavada dentro das minas das [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]]. Ao mastigarem o Micélio Dourado que brotava da peça, receberam **intensas visões febris** que revelaram o caminho para se livrarem da escravidão do fogo — dando início aos vinte anos de sabotagem com esporos e à [[Historia/A Grande Morte Lenta|Grande Morte Lenta]].
 
 ## Prática e Tabus
-Após a fuga e a Primeira Caçada Sagrada, a relíquia foi trazida para o [[Geografia/Vale da Lama|Vale da Lama]]. Hoje, o Ídolo permanece guardado no interior do **[[Geografia/Jardim Dourado|Jardim Dourado]]** em [[Geografia/Raiz-Funda|Raiz-Funda]], protegido por uma **ordem própria de guardas subordinada diretamente ao alto clero** (independente da guarda regular de [[NPCs/Varga|Varga]]) e acessível **apenas a membros do alto clero** (como o [[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]).
+Após a fuga e a Primeira Caçada Sagrada, a relíquia foi trazida para o [[Geografia/Vale da Lama|Vale da Lama]]. Hoje, o Ídolo permanece guardado no interior do **[[Geografia/Jardim Dourado|Jardim Dourado]]** em [[Geografia/Raiz-Funda|Raiz-Funda]], protegido pelos **[[Tribos/Jardineiros|Jardineiros]]** — uma ordem própria de guardas subordinada diretamente ao alto clero (independente da guarda regular de [[NPCs/Varga|Varga]]) — e acessível **apenas a membros do alto clero** (como o [[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]).
 
 ## O que se Conta pelo Pântano
 *A preencher.*

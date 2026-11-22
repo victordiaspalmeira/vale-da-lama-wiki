@@ -11,6 +11,7 @@ aliases: ["Tribos", "Tribos do Vale da Lama"]
 | Tribo / Povo | Território | Devoção | Relações no Vale |
 |--------------|------------|---------|------------------|
 | [[Tribos/Masca-Musgo\|Masca-Musgo]] | Oeste ([[Geografia/Raiz-Funda\|Raiz-Funda]]) | [[Cosmologia/Nyog'Sothep\|Nyog'Sothep]] | Comércio com Tece-Pele; atrito de fronteira com Ferve-Alga; evitam Ventre-Inchado |
+| [[Tribos/Jardineiros\|Os Jardineiros]] | [[Geografia/Jardim Dourado\|Jardim Dourado]] (Raiz-Funda) | [[Cosmologia/Nyog'Sothep\|Nyog'Sothep]] | Ordem de guardas subordinada ao alto clero; independentes de [[NPCs/Varga\|Varga]] |
 | [[Tribos/Ferve-Alga (Olhos-Vermelhos)\|Ferve-Alga (Olhos-Vermelhos)]] | Nordeste ([[Geografia/Costa Salobra\|Costa Salobra]]) | [[Deuses-Fera/Karkinos\|Karkinos]] | Trégua tensa e disputas de fronteira com Masca-Musgo |
 | [[Tribos/Ventre-Inchado\|Ventre-Inchado]] | Sul ([[Geografia/Aguas Paradas Profundas\|Águas Paradas Profundas]]) | [[Deuses-Fera/Sss'kar\|Sss'kar]] | Raramente interagem com os demais povos |
 | [[Tribos/Tece-Pele\|Tece-Pele]] | Nômades ([[Geografia/Copas da Teia Prateada\|Copas da Teia Prateada]]) | [[Deuses-Fera/Mael'ra\|Mael'ra]] | Mercadores e mensageiros neutros (escambo com Birka) |

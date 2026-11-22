@@ -381,8 +381,9 @@ article img {
 .hub-card-image img {
   display: block;
   width: 100%;
-  height: 130px;
+  height: 155px;
   object-fit: cover;
+  object-position: center 20%;
   margin: 0 !important;
   box-sizing: border-box;
   border: 1px solid var(--vale-border-dark);

@@ -32,8 +32,8 @@ O **[[Geografia/Vale da Lama|Vale da Lama]]** é uma bacia pantanosa vasta, úmi
     <div class="hub-card-image"><img src="./assets/masca-musgo.jpg" alt="Guerreiros e batedores Masca-Musgo" /></div>
     <p>As tribos goblins do pântano, seus ofícios, disputas e antigos senhores.</p>
     <ul>
-      <li><a href="./Tribos/Masca-Musgo" class="internal">Masca-Musgo</a> (Oeste)</li>
-      <li><a href="./Tribos/Ferve-Alga-(Olhos-Vermelhos)" class="internal">Ferve-Alga / Olhos-Vermelhos</a> (Nordeste)</li>
+      <li><a href="./Tribos/Masca-Musgo" class="internal">Masca-Musgo</a> (Oeste) &amp; <a href="./Tribos/Jardineiros" class="internal">Jardineiros</a></li>
+      <li><a href="./Tribos/Ferve-Alga-(Olhos-Vermelhos)" class="internal">Ferve-Alga (Olhos-Vermelhos)</a> (Nordeste)</li>
       <li><a href="./Tribos/Ventre-Inchado" class="internal">Ventre-Inchado</a> (Sul)</li>
       <li><a href="./Tribos/Tece-Pele" class="internal">Tece-Pele</a> (Nômades) &amp; <a href="./Tribos/Povo-Dragão" class="internal">Povo Dragão</a></li>
     </ul>
