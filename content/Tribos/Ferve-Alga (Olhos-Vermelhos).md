@@ -23,44 +23,44 @@ aliases: ["Ferve-Alga", "Olhos-Vermelhos", "Tribo do Nordeste", "Deus-Caranguejo
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-Os **Ferve-Alga**, conhecidos entre os vizinhos do pântano pelo apelido de **Olhos-Vermelhos**, dominam a faixa nordeste do [[Geografia/Vale da Lama|Vale da Lama]], onde a lama doce dos rios encontra o sal e a névoa fria do **Mar das Brumas**. Assentados nas ilhotas da **[[Geografia/Costa Salobra|Costa Salobra]]**, vivem entre crostas brancas de salitre, vapor salgado e fumaça contínua, sob o ritmo das marés que acreditam serem governadas pela respiração de seu deus adormecido: **[[Deuses-Fera/Karkinos|Karkinos, o Deus-Caranguejo]]**.
+Os **Ferve-Alga**, chamados pelos vizinhos de **Olhos-Vermelhos**, ocupam a faixa nordeste do [[Geografia/Vale da Lama|Vale da Lama]], onde a lama doce dos rios encontra o sal e a neblina fria do **Mar das Brumas**. Nas ilhotas da **[[Geografia/Costa Salobra|Costa Salobra]]**, vivem entre crostas brancas de salitre, vapor ardido e fumaça contínua, seguindo as marés que acreditam nascer da respiração de **[[Deuses-Fera/Karkinos|Karkinos, o Deus-Caranguejo]]**.
 
 ## Aparência e Traços
-O apelido **Olhos-Vermelhos** não vem de fúria em batalha, mas do próprio cotidiano da costa. Passando dias inteiros inclinados sobre caldeirões fumegantes de água salgada e algas em ebulição, os membros da tribo carregam uma irritação crônica nas pálpebras e olhos perpetuamente avermelhados pelo vapor salino e pela fumaça constante.
+O apelido **Olhos-Vermelhos** não vem de fúria em combate, mas da fumaça dos próprios caldeirões. Inclinados por horas sobre água salgada e algas em ebulição, os Ferve-Alga carregam pálpebras irritadas e olhos perpetuamente avermelhados pelo vapor salino.
 
-Suas peles trazem o ressecamento do vento marinho e marcas brancas de salitre seco, enquanto suas vestes e escudos improvisados aproveitam o que a costa oferece em abundância: carapaças espessas, conchas gigantes e ossos marinhos curados em salmoura.
+O vento marinho resseca suas peles e deixa riscos brancos de salitre seco sobre o corpo. Vestes, braçadeiras e escudos improvisados aproveitam o que dá na maré: carapaças espessas, conchas gigantes e ossos curados em salmoura.
 
 ## Cultura e Crenças
 
 ### O Culto a Karkinos e a Respiração das Marés
-Para os Ferve-Alga, o mundo litorâneo obedece ao sono colossal de [[Deuses-Fera/Karkinos|Karkinos]], que repousa sob a [[Geografia/Costa Salobra|Costa Salobra]]. Cada avanço da maré alta e cada recuo da vazante correspondem ao ritmo profundo de sua respiração. Em cerimônias de lua cheia, a tribo reúne-se nas águas rasas para oferecer peixes e crustáceos ao Deus-Caranguejo e executar danças de garra que celebram a força de suas pinças escarlates.
+Para a tribo, toda a costa obedece ao sono colossal de [[Deuses-Fera/Karkinos|Karkinos]], adormecido sob a [[Geografia/Costa Salobra|Costa Salobra]]. Cada avanço da maré cheia e cada recuo da vazante marcam o ritmo lento de sua respiração. Nas noites de lua cheia, os devotos entram nas águas rasas para oferecer peixes e crustáceos ao Deus-Caranguejo e dançar imitando a força de suas pinças escarlates.
 
 ### Ritos da Salmoura e Devolução às Marés
-Diferente dos [[Tribos/Masca-Musgo|Masca-Musgo]], que enterram seus mortos na turfa do [[Geografia/Jardim Dourado|Jardim Dourado]], os Ferve-Alga não confiam seus corpos ao solo nem os consomem no fogo: devolvem seus mortos às marés da costa para que alimentem os filhos de Karkinos e retornem ao ciclo das águas salobras.
+Ao contrário dos [[Tribos/Masca-Musgo|Masca-Musgo]], que entregam seus mortos à turfa do [[Geografia/Jardim Dourado|Jardim Dourado]], os Ferve-Alga não confiam corpos à terra nem ao fogo: devolvem os falecidos às marés da costa para alimentar os filhos de Karkinos e fechar o ciclo das águas salobras.
 
-Entre os vivos, a **[[Tribos/Salmoura e Sal Cristalizado|salmoura fervente]]** é prova de fé e coragem. Jovens iniciados bebem pequenas doses de salmoura quente diante dos xamãs como rito de passagem, provando que suportam o ardor do sal e o calor dos caldeirões sem recuar.
+Entre os vivos, a **[[Tribos/Salmoura e Sal Cristalizado|salmoura fervente]]** mede coragem e fé. Jovens iniciados engolem pequenas doses de salmoura quente diante dos xamãs como rito de passagem, provando que suportam o ardor do sal e o bafo das fornalhas sem recuar.
 
 ### A Lei Sagrada das Áreas de Desova
 > [!warning] Zona Proibida
-> Na Costa Salobra existem enseadas rasas onde Karkinos e seus descendentes depositam ovos. A entrada nessas áreas é estritamente proibida a qualquer pessoa fora da estação de acasalamento, e mesmo durante a estação exige permissão formal dos xamãs da tribo.
+> Na Costa Salobra existem enseadas rasas onde Karkinos e seus descendentes depositam ovos. A entrada nessas áreas é estritamente proibida fora da estação de acasalamento — e, mesmo durante ela, exige permissão formal dos xamãs da tribo.
 
-Violar essas enseadas é uma das ofensas mais graves conhecidas na costa. Os Ferve-Alga afirmam que quem invade ou caça nos berçários atrai diretamente a ira de [[Deuses-Fera/Karkinos|Karkinos]] — na forma de ataques de caranguejos gigantes, doenças severas na pele e afogamentos inexplicáveis em águas rasas (veja [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|Territórios Sagrados de Desova]]).
+Invadir esses berçários está entre as ofensas mais graves do litoral. Os Ferve-Alga juram que quem entra ou caça ali atrai a ira de [[Deuses-Fera/Karkinos|Karkinos]] na forma de ataques de caranguejos gigantes, feridas ruins na pele e afogamentos inexplicáveis em água rasa (veja [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|Territórios Sagrados de Desova]]).
 
 ## História
-Os Ferve-Alga habitam a [[Geografia/Costa Salobra|Costa Salobra]] e o pântano **desde tempos imemoriais**, muito antes da chegada dos [[Tribos/Masca-Musgo|Masca-Musgo]] vindos das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] após a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]]. Ao longo de gerações incontáveis, moldaram sua sobrevivência em torno das marés de [[Deuses-Fera/Karkinos|Karkinos]], das enseadas de desova e da fervura constante de algas e água salgada.
+Os Ferve-Alga vivem na [[Geografia/Costa Salobra|Costa Salobra]] **desde tempos imemoriais**, muito antes de os [[Tribos/Masca-Musgo|Masca-Musgo]] descerem das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] após a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]]. Geração após geração, moldaram seus costumes ao ritmo das marés de [[Deuses-Fera/Karkinos|Karkinos]], às enseadas de desova e à fervura constante de algas.
 
 ## Organização e Ocupações
-As aldeias dos Ferve-Alga erguem-se nas ilhotas mais secas da Costa Salobra, protegidas por **paliçadas construídas com conchas gigantes e ossos marinhos**. A autoridade religiosa e territorial concentra-se nos **Xamãs das Áreas de Desova**, responsáveis por vigiar o calendário das marés e conceder ou negar passagem às enseadas protegidas.
+As aldeias erguem-se nas ilhotas mais secas da Costa Salobra, cercadas por **paliçadas de conchas gigantes e ossos marinhos**. Os **Xamãs das Áreas de Desova** concentram a autoridade religiosa e territorial: vigiam o calendário das marés e concedem ou negam passagem às enseadas protegidas.
 
-No centro econômico da tribo estão os **Caldeirões**: grandes recipientes de ferro e barro grosso mantidos sobre fogueiras constantes. Ali, os Ferve-Alga fervem algas e água do mar para extrair [[Tribos/Salmoura e Sal Cristalizado|salmoura concentrada e sal cristalizado]] — recursos vitais na umidade do vale para conservar carnes e peles, purificar ferimentos contra infecções pantanosas e sustentar o escambo na faixa costeira.
+A economia da tribo pulsa nos **Caldeirões**, grandes bojos de ferro e barro grosso mantidos sobre fogueiras que não apagam. Neles, algas e água do mar fervem até virar [[Tribos/Salmoura e Sal Cristalizado|salmoura concentrada e sal cristalizado]] — bens preciosos na umidade do vale para curar carnes e couros, limpar ferimentos contra infecções e sustentar o escambo na costa.
 
 ## Relações e Diplomacia
-* **[[Tribos/Masca-Musgo|Masca-Musgo]]:** A relação entre o Nordeste e o Oeste vive sob uma trégua tensa e desgastante. Por um lado, o tamanho e o número das fogueiras acesas dia e noite sob os caldeirões dos Ferve-Alga chocam profundamente os devotos do [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]. Por outro, a maior fonte de atrito prático no cotidiano é a **manutenção das fronteiras entre os territórios**, frequentemente desrespeitadas de ambos os lados, mas difíceis de punir no labirinto de canais. Quando há trocas entre grupos, todo o comércio ocorre por **escambo**.
-* **[[Deuses-Fera/Krr'tak|Krr'tak (a Espadachim)]]:** Entre o território dos Ferve-Alga e o dos Masca-Musgo ergue-se o domínio predatório de Krr'tak, servindo como uma barreira natural perigosa e imprevisível que separa as duas tribos.
+* **[[Tribos/Masca-Musgo|Masca-Musgo]]:** O Nordeste e o Oeste sustentam uma trégua tensa e desgastante. O porte e o número das fogueiras acesas dia e noite sob os caldeirões ferem o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] dos devotos do oeste; no dia a dia, o atrito maior vem das **fronteiras entre os territórios**, cruzadas com frequência pelos dois lados e difíceis de cobrar no labirinto de canais. Quando há troca entre as tribos, tudo corre por **escambo**.
+* **[[Deuses-Fera/Krr'tak|Krr'tak (a Espadachim)]]:** Entre o território Ferve-Alga e o dos Masca-Musgo caça [[Deuses-Fera/Krr'tak|Krr'tak]], barreira viva e imprevisível que separa as duas tribos.
 
 ## O que se Conta pelo Pântano
-- **Olhos que Ardem:** Viajantes dizem que se reconhece um Ferve-Alga na neblina antes mesmo de ver suas armas — basta o cheiro forte de sal fervido e o brilho avermelhado dos olhos irritados pela fumaça.
-- **Cuidado com os Caranguejos Jovens:** A presença recente de [[Criaturas/Pinça-de-Sal|Pinça-de-Sal]] nas águas rasas da Costa Salobra serve de aviso constante: ferir uma cria ligada a Karkinos sem permissão dos xamãs costuma custar caro.
+- **Cheiro de Sal Antes da Lança:** Batedores do oeste dizem que um Ferve-Alga nunca chega em silêncio na neblina — o cheiro forte de sal fervido vem na frente, seguido pelo brilho avermelhado dos olhos ardidos de fumaça.
+- **Não Mexa nas Poças Rasas:** Quem viu [[Criaturas/Pinça-de-Sal|Pinça-de-Sal]] rondando a Costa Salobra avisa logo nas fogueiras: ferir uma cria ligada a Karkinos sem licença dos xamãs costuma custar mais do que a própria pele.
 
 ---
 

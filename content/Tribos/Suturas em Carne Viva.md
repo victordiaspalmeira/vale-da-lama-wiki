@@ -22,13 +22,13 @@ aliases: ["Suturas em Carne Viva", "Vínculo com a Teia", "Fio Espiritual", "Cob
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-Para os nômades [[Tribos/Tece-Pele|Tece-Pele]], costurar carne é ao mesmo tempo medicina, ofício e oração a [[Deuses-Fera/Mael'ra|Mael'ra, a Deusa-Fera Aranha]]. Armados com **agulhas finas de osso** e fios resistentes da [[Tribos/Teia Prateada|Teia Prateada]], são temidos e procurados em todo o [[Geografia/Vale da Lama|Vale da Lama]] tanto pela precisão cirúrgica quanto pelos pactos espirituais que ligam os devedores da teia.
+Para os nômades [[Tribos/Tece-Pele|Tece-Pele]], costurar carne une medicina, ofício e prece a [[Deuses-Fera/Mael'ra|Mael'ra, a Deusa-Fera Aranha]]. De **agulhas finas de osso** e carretéis da [[Tribos/Teia Prateada|Teia Prateada]] na mão, cruzam o [[Geografia/Vale da Lama|Vale da Lama]] tão procurados pela mão firme na sutura quanto temidos pelos pactos que amarram quem pede ajuda à teia.
 
 ## Natureza e Funcionamento
-A seda prateada colhida das aranhas gigantes do dossel possui resistência incomum e decomposição lenta, permitindo aos Tece-Pele realizar três tipos principais de suturas:
-- **Cura em Combate:** Fechamento rápido de ferimentos graves enquanto o paciente ainda está consciente, mantendo carne e vasos unidos sob condições extremas.
-- **Rituais de União:** Costura simbólica que une dois indivíduos ou aliados perante a teia, selando pactos de lealdade.
-- **Modificações Corporais:** Implante direto de placas de pele e osso no próprio corpo como proteção contra os perigos do pântano.
+A seda prateada colhida das aranhas gigantes do dossel resiste à umidade e apodrece devagar, permitindo aos Tece-Pele três usos principais:
+- **Cura em Combate:** Fechar cortes profundos enquanto o ferido ainda respira e sente a agulha, mantendo carne e vasos juntos sob aperto extremo.
+- **Rituais de União:** Costurar simbolicamente dois aliados perante a teia para selar pactos de lealdade.
+- **Modificações Corporais:** Implantar placas de pele e osso na própria carne como armadura viva contra o pântano.
 
 ## Origem e Tradição
 *A preencher.*
@@ -36,13 +36,13 @@ A seda prateada colhida das aranhas gigantes do dossel possui resistência incom
 ## Prática e Tabus
 
 ### O Vínculo com a Teia (Favores de Mael'ra)
-Enquanto notícias e segredos comuns são trocados pelos Tece-Pele por outras informações equivalentes, quem pede um **favor específico** a [[Deuses-Fera/Mael'ra|Mael'ra]] precisa aceitar um **vínculo espiritual com a teia**:
-1. **O Fio Espiritual:** Ao receber o favor, o solicitante é amarrado por um fio espiritual invisível ao plano comum.
-2. **Prazo de Pagamento:** O favor exige retribuição dentro de um tempo hábil acordado.
-3. **Almas Devoradas e Corpos Vazios:** Se o preço não for pago no prazo, o fio espiritual se retrai e puxa a **alma** do devedor até o covil de Mael'ra, onde é **devorada** — enquanto o **corpo vazio continua vagando pelo pântano, servindo de berçário para aranhas parasitas**.
+Notícias comuns se pagam com outras notícias equivalentes. Quem pede um **favor específico** a [[Deuses-Fera/Mael'ra|Mael'ra]], porém, aceita um **vínculo espiritual com a teia**:
+1. **O Fio Espiritual:** Ao receber o favor, o pedinte fica preso por um fio espiritual invisível ao plano comum.
+2. **Prazo de Pagamento:** O favor cobra retribuição dentro do tempo hábil combinado.
+3. **Almas Devoradas e Corpos Vazios:** Se o preço atrasa, o fio se retrai e arrasta a **alma** do devedor até o covil de Mael'ra, onde é **devorada** — enquanto o **corpo vazio segue vagando pelo pântano como berçário para aranhas parasitas**.
 
 ## O que se Conta pelo Pântano
-- **O Preço da Agulha e do Fio:** Quem busca um Tece-Pele em busca de socorro rápido aprende a perguntar primeiro se a sutura será paga em escambo — ou se a ajuda vem amarrada a um favor de Mael'ra.
+- **Pergunte Antes da Agulha:** No cais, quem já precisou de socorro às pressas avisa: antes de deixar um Tece-Pele furar sua pele com osso e seda, pergunte se a costura se paga em carga — ou se a linha vem amarrada a um favor de Mael'ra.
 
 ---
 

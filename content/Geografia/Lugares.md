@@ -6,7 +6,17 @@ aliases: ["Lugares do Vale da Lama", "Regiões do Vale da Lama"]
 
 # Geografia e Lugares
 
-Diretório das regiões, assentamentos, santuários e fronteiras do [[Geografia/Vale da Lama|Vale da Lama]] e arredores.
+O **[[Geografia/Vale da Lama|Vale da Lama]]** forma uma bacia pantanosa fechada entre as escarpas áridas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], as águas frias do [[Geografia/Mar das Brumas|Mar das Brumas]] e as matas além das ruínas antigas. Rios lentos descem do oeste carregando sedimentos, turfa e restos orgânicos até convergir no grande espelho negro do centro do vale, antes de escoar em canais estreitos para o mar.
+
+## A Paisagem em Camadas
+Viajar pelo vale exige escolher entre três níveis igualmente traiçoeiros:
+- **Os Canais e Brejos:** Passagens rasas de lama que engole botas e jangadas sem aviso, marcadas apenas por estacas de osso conhecidas pelos batedores locais.
+- **As Raízes e Palafitas:** Onde os povos sedentários escavam abrigos nos [[Geografia/Cogumelos Nodosos|Cogumelos Nodosos]] ou erguem passarelas e caldeirões acima da linha d'água.
+- **O Dossel Superior:** O segundo andar de galhos altos varridos pelo vento marinho, onde os [[Tribos/Tece-Pele|Tece-Pele]] esticam redes de seda acima da neblina parada.
+
+Ao redor das áreas habitadas permanecem zonas evitadas por quase todos — seja pelo perigo das feras espirituais no lago central, pelo piche inflamável dos poços a oeste ou pela esterilidade silenciosa das pedras antigas.
+
+## Diretório de Regiões e Marcos
 
 | Lugar | Direção / Região | Domínio / Facção | Perigo |
 |-------|------------------|------------------|--------|

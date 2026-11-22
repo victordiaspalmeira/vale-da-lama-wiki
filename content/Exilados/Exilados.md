@@ -24,9 +24,9 @@ aliases: ["Exilados", "Os Exilados", "Exilados de Raiz-Funda"]
 
 ## Descrição
 
-Os **Exilados** são antigos moradores de [[Geografia/Raiz-Funda|Raiz-Funda]] expulsos da tribo [[Tribos/Masca-Musgo|Masca-Musgo]] após julgamento de [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] por violarem as normas da aldeia, a honra das caçadas, a [[Cosmologia/Lei da Troca|Lei da Troca]] ou os tabus religiosos de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
+Os **Exilados** são antigos moradores de [[Geografia/Raiz-Funda|Raiz-Funda]] expulsos da tribo [[Tribos/Masca-Musgo|Masca-Musgo]] por sentença de [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]]. O banimento pune quem rompe as normas da aldeia, mancha a honra das caçadas, trai a [[Cosmologia/Lei da Troca|Lei da Troca]] ou profana os tabus de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
-Sem proteção das arcadas de mangue e sem direito ao retorno no [[Geografia/Jardim Dourado|Jardim Dourado]], sobrevivem errando pelas regiões neutras ou hostis do [[Geografia/Vale da Lama|Vale da Lama]]. Nunca houve um caso de perdão ou retorno após o exílio: qualquer exilado que tente se reaproximar de Raiz-Funda é recebido com flechas de aviso disparadas pelas sentinelas — e, caso insista em avançar, é morto no local.
+Fora das passarelas e das arcadas de mangue, perdem também o direito de repousar no [[Geografia/Jardim Dourado|Jardim Dourado]]. Resta-lhes errar pelas margens neutras ou hostis do [[Geografia/Vale da Lama|Vale da Lama]], onde a turfa cede sob os pés e nenhuma fogueira de tribo os acolhe. Não há registro de perdão: quem cruza de volta os limites de Raiz-Funda encontra apenas o silêncio da vigilância — e o assobio das flechas antes do segundo passo.
 
 ## Exilados Conhecidos
 

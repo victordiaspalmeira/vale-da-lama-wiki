@@ -26,30 +26,30 @@ aliases: ["Malok", "Sacerdote-Chefe Malok"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Sacerdote-Chefe Malok** é o líder espiritual e político máximo dos [[Tribos/Masca-Musgo|Masca-Musgo]] em [[Geografia/Raiz-Funda|Raiz-Funda]]. Em uma sociedade que não reconhece reis nem muralhas, sua autoridade nasce da guarda do [[Geografia/Jardim Dourado|Jardim Dourado]], da custódia do [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] e do equilíbrio delicado entre a fé e a sobrevivência da aldeia.
+**Sacerdote-Chefe Malok** lidera os [[Tribos/Masca-Musgo|Masca-Musgo]] em [[Geografia/Raiz-Funda|Raiz-Funda]] na fé e nas decisões da aldeia. Onde não há reis nem muralhas, sua palavra nasce da guarda do [[Geografia/Jardim Dourado|Jardim Dourado]], da custódia do [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] e do equilíbrio tenso entre devoção e sobrevivência.
 
 ## Aparência
-Idoso e encurvado pelos anos no brejo, veste um manto escuro onde crescem pequenos fungos vivos alimentados pela umidade do pântano.
+Idoso e encurvado pelos anos no brejo, veste um manto escuro onde brotam pequenos fungos vivos, alimentados pela umidade constante do pântano.
 
 ## Personalidade e Maneirismos
-Malok pondera cada palavra antes de falar e zela acima de tudo pela harmonia e coesão da aldeia, evitando decisões precipitadas que possam atrair a fúria do pântano ou romper a trégua tensa nas fronteiras.
+Malok pesa cada palavra antes de falar e evita decisões apressadas que possam atrair a fúria do pântano ou romper a trégua tensa nas fronteiras.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Como autoridade máxima do clero de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] em [[Geografia/Raiz-Funda|Raiz-Funda]]:
-- **Guardião dos Segredos e do Ídolo:** É uma das poucas figuras com acesso irrestrito ao círculo interno do [[Geografia/Jardim Dourado|Jardim Dourado]] e ao [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]].
-- **Comando dos Jardineiros:** Sob sua autoridade direta responde a ordem própria de sentinelas conhecida como **[[Tribos/Jardineiros|Os Jardineiros]]**, independente da guarda regular de [[NPCs/Varga|Varga]].
-- **Direção da Tribo:** Orienta as decisões políticas de Raiz-Funda diante das disputas de fronteira com os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] e das questões que envolvem as leis sagradas da aldeia.
+À frente do clero de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] em [[Geografia/Raiz-Funda|Raiz-Funda]]:
+- **Guardião dos Segredos e do Ídolo:** Figura rara com acesso irrestrito ao círculo interno do [[Geografia/Jardim Dourado|Jardim Dourado]] e ao [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]].
+- **Comando dos Jardineiros:** Comanda diretamente **[[Tribos/Jardineiros|Os Jardineiros]]**, ordem de sentinelas separada da guarda regular de [[NPCs/Varga|Varga]].
+- **Direção da Tribo:** Guia as decisões de Raiz-Funda nas disputas de fronteira com os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] e nos julgamentos que tocam as leis sagradas da aldeia.
 
 ## Relações e Alianças
 * **[[Tribos/Jardineiros|Os Jardineiros]]:** Ordem de guardas subordinada diretamente a Malok e ao alto clero para proteger o santuário e o Ídolo.
 * **[[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]]:** Supervisiona os coveiros-sacerdotes encarregados do *Ciclo da Devolução* e da colheita controlada do [[Cosmologia/Micelio Dourado|Micélio Dourado]].
-* **[[NPCs/Zog|Zog]] e [[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]]:** Compõe com o xamã animista e a decana o eixo espiritual e tradicional da tribo.
+* **[[NPCs/Zog|Zog]] e [[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]]:** Forma com o xamã animista e a decana o eixo espiritual e tradicional da tribo.
 
 ## O que se Conta pelo Pântano
-- **O Manto que Respira:** Caçadores mais novos comentam em voz baixa que os fungos vivos no manto de Malok florescem mais rápido nos dias em que o ar do Jardim Dourado fica mais pesado — como se o próprio santuário acompanhasse o sacerdote por onde ele caminha.
+- **O Manto que Respira:** Caçadores mais novos cochicham que os fungos no manto de Malok florescem mais rápido nos dias em que a névoa do Jardim Dourado engrossa — como se o santuário respirasse junto com o sacerdote por onde ele passa.
 
 ---
 

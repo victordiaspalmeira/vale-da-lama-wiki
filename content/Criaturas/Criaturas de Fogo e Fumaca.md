@@ -23,19 +23,19 @@ aliases: ["Criaturas de Fogo e Fumaça"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-As **Criaturas de Fogo e Fumaça** são entidades temidas nos relatos dos goblins do [[Geografia/Vale da Lama|Vale da Lama]], supostamente vistas ou imaginadas patrulhando os túneis ocultos sob as [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]] (*As Pedras Mortas*).
+As **Criaturas de Fogo e Fumaça** povoam os relatos mais sombrios do [[Geografia/Vale da Lama|Vale da Lama]] como guardiãs invisíveis dos túneis sob as [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]] (*As Pedras Mortas*).
 
 ## Aparência e Anatomia
 *A preencher.* *(Os goblins nunca exploraram a região suficientemente a fundo para confirmar a forma exata dessas presenças.)*
 
 ## Comportamento e Ecologia
-Segundo as superstições locais, patrulham as galerias e câmaras seladas sob as colunas de mármore pálido das Ruínas dos Sem-Nome.
+Segundo as histórias contadas longe das pedras, essas presenças rondam as galerias fechadas e câmaras subterrâneas abaixo das colunas de mármore pálido.
 
 ## Uso e Relações com as Tribos
-Para os [[Tribos/Masca-Musgo|Masca-Musgo]] — regidos pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] e pela reverência ao ciclo de decomposição —, a simples ideia de criaturas associadas ao fogo e à fumaça dentro de ruínas estéreis ao bolor reforça o repúdio absoluto ao lugar.
+Para os [[Tribos/Masca-Musgo|Masca-Musgo]], guiados pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] e pela devoção à podridão fértil, a simples suspeita de fogo e fumaça vivos num lugar onde nem o bolor vinga basta para selar o tabu contra as ruínas.
 
 ## O que se Conta pelo Pântano
-- **O Motivo do Medo:** Os goblins nunca exploraram as Ruínas dos Sem-Nome justamente por medo e superstição de encontrar essas criaturas de fogo e fumaça nos túneis ocultos.
+- **Fronteira Sem Rastros:** Nas passarelas do brejo, dizem que nenhum batedor ousa acender tocha perto das Pedras Mortas — não por falta de coragem, mas pelo pavor de que algo feito de chama e fumaça responda lá de dentro.
 
 ---
 

@@ -22,7 +22,7 @@ aliases: ["Micélio Dourado", "Aurumycota sothepi", "Ascensão"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-O **Micélio Dourado** (*Aurumycota sothepi*) é uma variedade rara de micélio fúngico simbiótico que brota onde a presença de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] é mais intensa. Substância sagrada dos [[Tribos/Masca-Musgo|Masca-Musgo]], ele ilumina a penumbra do [[Geografia/Jardim Dourado|Jardim Dourado]] com um brilho âmbar vivo, cura ferimentos graves e abre visões do mundo subterrâneo — mas cobra daqueles que abusam de seu poder o retorno definitivo ao solo.
+O **Micélio Dourado** (*Aurumycota sothepi*) brota onde a presença de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] pulsa mais forte. Substância sagrada dos [[Tribos/Masca-Musgo|Masca-Musgo]], acende a penumbra do [[Geografia/Jardim Dourado|Jardim Dourado]] com um brilho âmbar vivo, fecha feridas graves e abre visões do mundo subterrâneo — mas cobra o retorno ao solo de quem abusa do seu poder.
 
 ## Natureza e Funcionamento
 
@@ -31,21 +31,21 @@ O **Micélio Dourado** (*Aurumycota sothepi*) é uma variedade rara de micélio 
 - **Visão:** Mascado em pequenas lascas durante rituais conduzidos por [[NPCs/Zog|Zog]], permite sentir as correntes vivas do micélio subterrâneo e ter visões do ciclo de decomposição por 1 hora, deixando o usuário levemente desorientado (**Estupefato 1**).
 
 ## Origem e Tradição
-Na história dos [[Tribos/Masca-Musgo|Masca-Musgo]], suas primeiras porções foram encontradas dentro e ao redor do **[[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]]** nas minas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], dando aos goblins escravizados as visões febris que iniciaram a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] — e tendo seu poder potencializado pela **Lua Nova** na noite da libertação.
+Os primeiros filamentos apareceram dentro e ao redor do **[[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]]**, nas minas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]. As visões febris provocadas pelo fungo deram início à [[Historia/A Grande Morte Lenta|Grande Morte Lenta]], e seu poder atingiu o auge sob a **Lua Nova** na noite da libertação.
 
-Apesar de o Micélio Dourado ter se tornado o centro espiritual da tribo, o nome **Masca-Musgo** persistiu porque precede a descoberta do Micélio: nas montanhas e arredores, o musgo comum era uma das principais fontes de comida quando os goblins não podiam escolher o que comer. Hoje, o Micélio Dourado é especialmente potente quando colhido nos canteiros bioluminescentes do [[Geografia/Jardim Dourado|Jardim Dourado]] ou nas margens do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
+Mesmo depois de o Micélio Dourado se tornar o centro espiritual da tribo, o nome **Masca-Musgo** permaneceu porque é mais antigo: nas montanhas e arredores, o musgo comum matava a fome dos goblins quando não podiam escolher o que comer. Hoje, o Micélio Dourado cresce com mais vigor nos canteiros bioluminescentes do [[Geografia/Jardim Dourado|Jardim Dourado]] e nas margens do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 ## Prática e Tabus
-Para os [[Tribos/Masca-Musgo|Masca-Musgo]], colher o Micélio Dourado exige respeito absoluto à [[Cosmologia/Lei da Troca|Lei da Troca]], tarefa conduzida nos canteiros do santuário pelos [[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]].
+Colher o Micélio Dourado exige obediência estrita à [[Cosmologia/Lei da Troca|Lei da Troca]], tarefa conduzida nos canteiros do santuário pelos [[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]].
 
 ### Risco da Ascensão
 > [!warning] Consumo Excessivo
 > O consumo excessivo de Micélio Dourado (mais de uma dose por semana) provoca a brotação de filamentos dourados sob a pele e nas unhas (**Drenado 1**).
 
-Os [[Tribos/Masca-Musgo|Masca-Musgo]] não encaram o estágio final desse processo como doença, mas como uma **Ascensão** voluntária: o portador abandona a fala e caminha sozinho pelas pontes do [[Geografia/Jardim Dourado|Jardim Dourado]] para se deitar entre as raízes e se unir à rede micelial de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
+Os [[Tribos/Masca-Musgo|Masca-Musgo]] não veem o estágio final desse processo como doença, mas como **Ascensão**: o portador cala a voz e caminha sozinho pelas pontes do [[Geografia/Jardim Dourado|Jardim Dourado]] para se deitar entre as raízes e se unir à rede micelial de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
 ## O que se Conta pelo Pântano
-- **O Ouro que Cresce no Escuro:** Diz-se em [[Geografia/Raiz-Funda|Raiz-Funda]] que, nos dias em que o ar do santuário esquenta e a bioluminescência âmbar pulsa mais forte, até os caçadores mais céticos lembram que o mesmo ouro que os libertou dos dragões ainda pede respeito a cada dose.
+- **O Ouro que Cresce no Escuro:** Em [[Geografia/Raiz-Funda|Raiz-Funda]], quando o ar do santuário esquenta e a luz âmbar pulsa mais forte, até os caçadores mais céticos lembram que o mesmo ouro que derrubou os dragões ainda cobra respeito a cada dose.
 
 ---
 

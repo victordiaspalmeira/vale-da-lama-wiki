@@ -6,6 +6,15 @@ aliases: ["Cosmologia", "Fé e Leis do Vale"]
 
 # Cosmologia, Fé e Leis do Vale
 
+No [[Geografia/Vale da Lama|Vale da Lama]], fé não é abstração nem promessa distante: é regra de sobrevivência. Os habitantes enxergam o pântano sob a ótica do **[[Cosmologia/Animismo|Animismo]]** — um organismo vivo dotado de memória, no qual águas, trilhas e ferramentas guardam intenção e cobram respeito.
+
+## Duas Ordens do Sagrado e Leis Comuns
+A espiritualidade do vale divide-se entre duas forças distintas:
+- **[[Cosmologia/Deus Verdadeiro|Deuses Verdadeiros]]:** Entidades supremas sem corpo físico definido que agem por sinais indiretos, esporos e manifestações raras — como **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]**, adorado no oeste pelo [[Cosmologia/Ciclo da Devolucao|Ciclo da Devolução]] e pelo cultivo do [[Cosmologia/Micelio Dourado|Micélio Dourado]].
+- **[[Deuses-Fera/Deus-Fera|Deuses-Fera]]:** Entidades regionais colossais que transitam entre o etéreo e a carne, ligadas a territórios específicos do pântano, suas marés e suas linhagens de feras.
+
+Para não atrair a ruína sobre si ou sobre a aldeia, os povos submetem o cotidiano a leis rígidas: a **[[Cosmologia/Lei da Troca|Lei da Troca]]** exige compensação imediata sempre que algo é colhido ou caçado, enquanto o **[[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]** separa o fogo-ferramenta permitido do fogo-profano punido com a [[Cosmologia/Sentenca do Esquecimento|Sentença do Esquecimento]].
+
 ## Divindades e Categorias
 
 | Página | Tipo | Resumo |
@@ -23,7 +32,7 @@ aliases: ["Cosmologia", "Fé e Leis do Vale"]
 | Página | Tipo | Resumo |
 |--------|------|--------|
 | [[Cosmologia/Idolo de Nyog'Sothep\|Ídolo de Nyog'Sothep]] | Relíquia | Escultura de madeira achada nas minas do oeste; guardada no Jardim Dourado |
-| [[Cosmologia/Micelio Dourado\|Micélio Dourado]] | Recurso Sagrado | Musgo-fungo simbiótico usado em cura, visões e Ascensão fúngica |
+| [[Cosmologia/Micelio Dourado\|Micélio Dourado]] | Recurso Sagrado | Fungo simbiótico usado em cura, visões e Ascensão fúngica |
 | [[Cosmologia/Mascara de Ervas Amargas\|Máscara de Ervas Amargas]] | Equipamento | Respirador de couro curtido a frio contra esporos densos e gases |
 
 ## Crenças, Leis e Punições

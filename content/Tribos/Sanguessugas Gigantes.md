@@ -22,21 +22,21 @@ aliases: ["Sanguessugas Gigantes", "Sanguessugas Vivas", "Ânforas de Sanguessug
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-As **sanguessugas gigantes** são criadas e mantidas vivas pelos [[Tribos/Ventre-Inchado|Ventre-Inchado]] dentro de ânforas de barro e recipientes de couro úmido nas câmaras escuras das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]. Longe de serem tratadas como pragas, funcionam simultaneamente como instrumento medicinal, recipiente de oferendas e extensão simbólica do culto a [[Deuses-Fera/Sss'kar|Sss'kar]], a sanguessuga Deus-Fera colossal do sul.
+Os [[Tribos/Ventre-Inchado|Ventre-Inchado]] criam e mantêm **sanguessugas gigantes** vivas dentro de ânforas de barro e odres de couro úmido nas câmaras escuras das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]. Longe de tratá-las como praga, usam essas criaturas como instrumento de cura, vaso de oferendas e extensão do culto a [[Deuses-Fera/Sss'kar|Sss'kar]], a sanguessuga Deus-Fera colossal do sul.
 
 ## Natureza e Funcionamento
-Nos criadouros abafados sob os bancos de barro do sul, as sanguessugas são conservadas úmidas e vivas para uso imediato:
-- **Sangrias Controladas:** São aplicadas na pele para drenar sangue de voluntários de forma dosada — nunca o suficiente para matar um adulto saudável, exceto em sacrifícios especiais — e também na crença da tribo de "limpar" o sangue de enfermos.
-- **Oferendas e Longevidade:** O sangue recolhido alimenta as oferendas diretas a [[Deuses-Fera/Sss'kar|Sss'kar]] e sustenta os rituais secretos pelos quais os *anciãos vampíricos* da tribo (como [[NPCs/Murok|Murok]]) prolongam a vida além de um século.
+Nos criadouros abafados sob os bancos de barro do sul, as sanguessugas permanecem úmidas e prontas para o uso:
+- **Sangrias Controladas:** Prendem-se à pele de voluntários para drenar sangue na medida certa — sem matar um adulto saudável, salvo em sacrifícios especiais — ou, na crença da tribo, para "limpar" o sangue dos doentes.
+- **Oferendas e Longevidade:** O sangue recolhido alimenta as oferendas a [[Deuses-Fera/Sss'kar|Sss'kar]] e sustenta os ritos secretos com que os *anciãos vampíricos* (como [[NPCs/Murok|Murok]]) esticam a vida além de um século.
 
 ## Origem e Tradição
 *A preencher.*
 
 ## Prática e Tabus
-Ao contrário da devolução dos mortos ao solo defendida pelos [[Tribos/Masca-Musgo|Masca-Musgo]], o uso das sanguessugas vivas reflete a convicção dos Ventre-Inchado de que o sangue é a essência da vida — e que retê-lo, oferecê-lo e consumi-lo em ritual fortalece tanto o deus quanto seus devotos.
+Ao contrário dos [[Tribos/Masca-Musgo|Masca-Musgo]], que devolvem os mortos à turfa, os Ventre-Inchado creem que o sangue guarda a própria essência da vida — e que retê-lo, oferecê-lo e bebê-lo em ritual fortalece tanto o deus quanto seus devotos.
 
 ## O que se Conta pelo Pântano
-- **Ânforas no Escuro:** Batedores que evitam os canais fechados do sul dizem que o som úmido dentro das ânforas de barro dos Ventre-Inchado denuncia quando uma câmara semi-submersa está próxima — e que ninguém deseja descobrir se o sangue ali dentro veio de voluntários ou de prisioneiros.
+- **Chafurdo Dentro do Barro:** Quem rema perto dos canais fechados do sul diz que um som úmido e pesado dentro das ânforas denuncia uma câmara semi-submersa antes mesmo de se ver a entrada — e ninguém quer parar para descobrir se o sangue ali dentro veio de um voluntário ou de alguém que se perdeu no brejo.
 
 ---
 

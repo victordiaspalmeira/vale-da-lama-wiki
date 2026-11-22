@@ -22,19 +22,19 @@ aliases: ["Batalha da Lua Nova", "A Batalha da Lua Nova"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-A **Batalha da Lua Nova** foi o confronto noturno que encerrou os vinte anos de sabotagem silenciosa da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] nas [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]]. Foi a noite em que os goblins cativos enfrentaram abertamente os [[Tribos/Povo Dragão|Dragões Vermelhos]] (Os Filhos de Ashkor), pondo fim à **escravidão do fogo** e forçando os antigos senhores a fugir para o leste.
+A **Batalha da Lua Nova** encerrou a guerra surda da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] e quebrou a **escravidão do fogo** imposta pelos **Filhos de Ashkor**. Numa única noite sem lua, os cativos enfrentaram seus antigos senhores a céu aberto e nas galerias de pedra.
 
 ## Antecedentes
-Por duas décadas após a descoberta do [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]], os goblins espalharam os esporos finos do Deus Fúngico pelas minas e câmaras dracônicas, enfraquecendo pouco a pouco os corpos milenares dos Dragões Vermelhos. Contudo, o excesso de sabotagem acabou adoecendo rápido demais o dragão jovem **[[NPCs/Vexar|Vexar]]**. Ao perceberem o padrão dos esporos antes da hora, os Dragões ligaram os pontos e investiram com fúria para esmagar a rebelião.
+Por duas décadas após a descoberta do [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]], os goblins espalharam esporos pelas galerias e câmaras dracônicas, corroendo por dentro os corpos milenares dos [[Tribos/Povo Dragão|Dragões Vermelhos]]. O excesso de sabotagem, porém, derrubou cedo demais o dragão jovem [[NPCs/Vexar|Vexar]]. Ao reconhecer o rastro dos esporos antes da hora, os senhores dracônicos desceram com fúria para esmagar a rebelião de uma vez.
 
 ## O Decorrer dos Acontecimentos
-Naquela noite de **Lua Nova**, a intervenção de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] potencializou o poder do [[Cosmologia/Micelio Dourado|Micélio Dourado]]. Já minados por vinte anos de esporos, os antigos governantes não conseguiram se defender contra a investida da horda goblin. Após uma noite de batalha incansável, os Dragões Vermelhos sobreviventes abandonaram seus domínios nas montanhas e voaram para o **leste**, em fuga.
+No breu da **Lua Nova**, [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] potencializou o [[Cosmologia/Micelio Dourado|Micélio Dourado]]. Minados por vinte anos de podridão interna, os dragões não conseguiram sustentar a defesa contra a investida da horda goblin. Ao cabo de uma noite inteira de combate, os sobreviventes abandonaram suas fortalezas nas montanhas e bateram asas para o **leste**, em fuga.
 
 ## Consequências
-A retirada dracônica não encerrou a guerra: imediatamente após a batalha, os goblins abandonaram as minas e iniciaram a **[[Historia/Primeira Cacada Sagrada|Primeira Caçada Sagrada]]** para exterminar cada dragão em fuga.
+A retirada dracônica não encerrou a guerra: sem esperar o amanhecer esfriar, os libertos deixaram as minas para trás e deram início à [[Historia/Primeira Cacada Sagrada|Primeira Caçada Sagrada]], decididos a abater cada fugitivo.
 
 ## Legado no Vale
-A noite da Lua Nova é lembrada como o momento em que o poder silencioso do Micélio Dourado superou a tirania do fogo, abrindo caminho para a fundação de [[Geografia/Raiz-Funda|Raiz-Funda]] e para o rito contínuo da [[Historia/Cacada Sagrada|Caçada Sagrada]].
+A noite da Lua Nova marca a hora em que a força silenciosa do Micélio Dourado superou a tirania do fogo, abrindo caminho para a fundação de [[Geografia/Raiz-Funda|Raiz-Funda]] e para o rito contínuo da [[Historia/Cacada Sagrada|Caçada Sagrada]].
 
 ---
 

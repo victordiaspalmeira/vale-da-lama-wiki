@@ -23,35 +23,34 @@ aliases: ["O Lago da Grande Tirana", "Lago da Grande Tirana", "Lago Central"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-Localizado bem no centro do [[Geografia/Vale da Lama|Vale da Lama]], o **Lago da Grande Tirana** é uma grande bacia circular de águas negras, paradas, profundas e oleosas — ponto natural de convergência das águas vindas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]. Embora seja o marco geográfico central do pântano, os povos do vale, no geral, o **evitam a qualquer custo**: suas margens são palco de disputas entre feras espirituais, bebedouro de grandes predadores e domínio patrulhado por [[Deuses-Fera/Og'gath|Og'gath]].
+No coração do [[Geografia/Vale da Lama|Vale da Lama]], o **Lago da Grande Tirana** abre uma bacia circular de águas negras, paradas e oleosas. Embora receba o curso das águas que descem das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], os povos do vale evitam suas margens a qualquer custo: ali, feras espirituais disputam território, grandes predadores descem para beber e [[Deuses-Fera/Og'gath|Og'gath]] vigia sem descanso.
 
 ## Geografia e Ambiente
-Diferente dos pântanos rasos e enraizados ao redor, as águas do lago central são extremamente fundas, espelhadas e opacas — fundas o bastante para engolir embarcações inteiras sem deixar rastro. Quase não há vegetação emergindo do centro da bacia.
+Diferente dos brejos rasos e enraizados ao redor, o lago central é fundo o bastante para engolir embarcações inteiras sem deixar rastro. Quase nenhuma vegetação rompe a superfície espelhada e opaca.
 
-Ocasionalmente, bolhas de gás fétido e esverdeado sobem das profundezas — que vêm esquentando de forma incomum —, trazendo esporos antigos e fragmentos de ossos calcificados para as margens lodosas, onde brota com força o [[Cosmologia/Micelio Dourado|Micélio Dourado]].
+De tempos em tempos, bolhas de gás fétido e esverdeado estouram na água parada, empurrando esporos antigos e fragmentos de ossos calcificados para as margens lodosas — solo fértil onde o [[Cosmologia/Micelio Dourado|Micélio Dourado]] brota com vigor incomum.
 
 ## História
-O lago já existia muito antes da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]]: ele é o ponto natural de **convergência das águas que se originam nas [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]** e atravessam todo o vale.
+O lago já existia muito antes da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]], formado pela convergência natural das águas que cruzam o vale desde o oeste.
 
-Ao final da **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**, a Matriarca **Cinderath** — a maior dos [[Tribos/Povo Dragão|Dragões Vermelhos]] (Os Filhos de Ashkor) em fuga do Extremo Oeste — tombou nas águas negras do lago, dando-lhe seu nome atual. Seus restos titânicos mantêm-se silenciosamente exclusivamente bem no fundo do abismo subaquático, visíveis apenas como silhuetas sombrias e distorcidas em dias de calmaria absoluta.
+Ao final da **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**, a Matriarca **Cinderath** — a maior dos [[Tribos/Povo Dragão|Dragões Vermelhos]] (Os Filhos de Ashkor) em fuga — tombou nessas águas, dando ao lago seu nome atual. Seus restos titânicos jazem no fundo do abismo, visíveis apenas como silhuetas distorcidas em dias de calmaria absoluta.
 
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-- **As Ilhotas Centrais e Margens Lodosas:** Não há assentamentos de nenhuma tribo. Os povos do vale evitam o grande lago devido à concentração de perigos e feras espirituais.
+- **As Ilhotas Centrais e Margens Lodosas:** Nenhuma tribo ergue palafitas aqui; o silêncio da água parada serve apenas de arena e bebedouro para as feras do vale.
 
 ### NPCs e Criaturas da Região
-- **[[Deuses-Fera/Og'gath|Og'gath (Sapo-Trovão do Lago Central)]]:** Anfíbio colossal que habita as ilhotas do lago e patrulha suas margens sem descanso; embora não seja muito agressivo, ataca qualquer um que chegue perto demais.
-- **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]:** Avistada recentemente próxima ao lago, muito além de seu território habitual no sul.
+- **[[Deuses-Fera/Og'gath|Og'gath (Sapo-Trovão do Lago Central)]]:** Anfíbio colossal que habita as ilhotas e patrulha as margens. Não caça sem motivo, mas esmaga qualquer intruso que avance além da conta.
+- **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]:** Avistada recentemente nas proximidades do lago, muito além de seu território habitual ao sul.
 
 ## Perigos e Recursos
-- **Campo de Disputas e Predadores:** O lago é o local onde muitas **feras espirituais batalham entre si** e onde os **grandes predadores se hidratam**.
-- **Gases Fétidos:** Bolhas que estouram na superfície exigem uso de [[Cosmologia/Mascara de Ervas Amargas|Máscara de Ervas Amargas]] por batedores que se aproximem das margens.
-- **Recursos:** [[Cosmologia/Micelio Dourado|Micélio Dourado]] potente que brota nas margens lodosas.
+- **Gases Fétidos:** As bolhas que sobem do fundo exigem o uso de [[Cosmologia/Mascara de Ervas Amargas|Máscara de Ervas Amargas]] por batedores que se aproximam das margens.
+- **Recursos:** [[Cosmologia/Micelio Dourado|Micélio Dourado]] potente que cresce na lama enriquecida das bordas.
 
 ## O que se Conta pelo Pântano
-- **O Que Procura o Sapo-Trovão:** Todos no vale sabem que Og'gath patrulha as margens do Lago da Grande Tirana como se procurasse por algo — mas ninguém sabe dizer o quê.
-- **Águas que Esquentam:** Batedores comentam com inquietação que as profundezas negras onde repousa a carcaça da Grande Tirana vêm esquentando de maneira incomum.
+- **O Que Procura o Sapo-Trovão:** Nas passarelas de [[Geografia/Raiz-Funda|Raiz-Funda]], batedores juram que Og'gath não patrulha o lago apenas por território — ele fareja e revira as margens como quem procura algo perdido na lama.
+- **Águas que Esquentam:** Quem se arrisca até a beira da bacia volta falando baixo que a água profunda está ficando morna, como se a carcaça da Grande Tirana no fundo voltasse a arder.
 
 ---
 

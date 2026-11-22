@@ -26,7 +26,7 @@ aliases: ["Vó Mofo-Velho", "Decana"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Vó Mofo-Velho** é a habitante mais antiga de [[Geografia/Raiz-Funda|Raiz-Funda]] e ocupa o papel respeitado de **Decana** dos [[Tribos/Masca-Musgo|Masca-Musgo]]. Em uma aldeia que não grava sua história em pedra seca, ela é a memória viva de como os goblins sobreviveram à escravidão do fogo, derrubaram os antigos mestres e aprenderam a viver sob a proteção de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
+**Vó Mofo-Velho** é a moradora mais antiga de [[Geografia/Raiz-Funda|Raiz-Funda]] e a **Decana** dos [[Tribos/Masca-Musgo|Masca-Musgo]]. Em uma aldeia que não grava o passado em pedra seca, guarda na memória viva como os goblins sobreviveram à escravidão do fogo, derrubaram os antigos mestres e aprenderam a viver sob [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
 ## Aparência
 *A preencher.*
@@ -38,17 +38,17 @@ aliases: ["Vó Mofo-Velho", "Decana"]
 *A preencher.*
 
 ## Função e Ocupação
-Reside na [[Geografia/Raiz-Funda#A Casa do Ancião|Casa do Ancião]], entrelaçada entre três raízes-mestras no nível intermediário de Raiz-Funda:
-- **Guardiã da Memória Oral:** É ela quem preserva e transmite os relatos da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]], da **Primeira Caçada Sagrada**, da origem do [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] e da razão pela qual o nome ancestral Masca-Musgo foi mantido desde os tempos de escassez nas montanhas.
-- **Recepção de Visitantes:** Recebe forasteiros e mensageiros conduzidos até a Casa do Ancião para parlamentar, avaliando intenções antes que qualquer assunto chegue ao círculo interno da tribo.
-- **Acesso ao Santuário:** Por sua idade e posição, é uma das poucas figuras da aldeia autorizadas a cruzar as pontes do círculo interno do [[Geografia/Jardim Dourado|Jardim Dourado]].
+Vive na [[Geografia/Raiz-Funda#A Casa do Ancião|Casa do Ancião]], entrelaçada entre três raízes-mestras no nível intermediário de Raiz-Funda:
+- **Guardiã da Memória Oral:** Preserva e transmite os relatos da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]], da **Primeira Caçada Sagrada**, da origem do [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] e da razão pela qual o nome Masca-Musgo persistiu desde os tempos de escassez nas montanhas.
+- **Recepção de Visitantes:** Recebe forasteiros e mensageiros levados à Casa do Ancião para parlamentar, avaliando intenções antes que qualquer assunto alcance o círculo interno da tribo.
+- **Acesso ao Santuário:** Pela idade e posição, figura entre os poucos moradores autorizados a cruzar as pontes internas do [[Geografia/Jardim Dourado|Jardim Dourado]].
 
 ## Relações e Alianças
 * **[[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]]:** Divide a [[Geografia/Raiz-Funda#A Casa do Ancião|Casa do Ancião]] com o Juiz das Disputas, formando com ele a voz da tradição e da lei na aldeia.
-* **[[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]:** Compartilha com o líder espiritual a autoridade sobre a memória e os ritos que mantêm a coesão dos [[Tribos/Masca-Musgo|Masca-Musgo]].
+* **[[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]:** Compartilha com o líder espiritual a autoridade sobre a memória e os ritos que sustentam os [[Tribos/Masca-Musgo|Masca-Musgo]].
 
 ## O que se Conta pelo Pântano
-- **A Voz Antes das Passarelas:** Dizem em Raiz-Funda que nenhum jovem entende de verdade o peso de completar uma [[Historia/Cacada Sagrada|Caçada Sagrada]] até ouvir Vó Mofo-Velho lembrar o gosto do musgo raspado nas pedras úmidas e o terror das chamas dracônicas.
+- **A Voz Antes das Passarelas:** Em Raiz-Funda, diz-se que nenhum jovem entende de verdade o peso de voltar de uma [[Historia/Cacada Sagrada|Caçada Sagrada]] até ouvir Vó Mofo-Velho lembrar o gosto do musgo raspado nas pedras úmidas e o terror das chamas dracônicas.
 
 ---
 

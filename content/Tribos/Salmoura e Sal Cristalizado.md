@@ -22,22 +22,22 @@ aliases: ["Salmoura Fervente", "Sal Cristalizado", "Salmoura"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-A **salmoura fervente** e o **sal cristalizado** são a base da sobrevivência, da fé e do escambo dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] na [[Geografia/Costa Salobra|Costa Salobra]]. Extraídos em grandes caldeirões de ferro e barro grosso mantidos sobre fogueiras constantes nas ilhotas mais secas do nordeste, dão à costa seu cheiro característico de vapor salgado — e aos próprios habitantes o apelido de *Olhos-Vermelhos*.
+A **salmoura fervente** e o **sal cristalizado** sustentam a mesa, a fé e o escambo dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] na [[Geografia/Costa Salobra|Costa Salobra]]. Fervidos em grandes caldeirões de ferro e barro grosso sobre fogueiras incessantes nas ilhotas mais secas do nordeste, impregnam o ar da costa com vapor salgado — e dão aos habitantes os olhos vermelhos que os distinguem no brejo.
 
 ## Natureza e Funcionamento
-Nos **Caldeirões** da Costa Salobra, algas e água salobra das marés são fervidas por horas até concentrar a salmoura e separar os cristais de sal:
-- **Conservação e Escambo:** Na umidade opressiva do [[Geografia/Vale da Lama|Vale da Lama]], onde carnes e peles apodrecem depressa, o sal cristalizado é um recurso raro e valioso para conservar alimentos e couros, sustentando trocas por escambo na faixa costeira.
-- **Purificação de Ferimentos:** Em doses controladas, a salmoura é aplicada para limpar e purificar cortes e feridas contra as infecções comuns do pântano.
+Nos **Caldeirões** da Costa Salobra, algas e água salobra das marés fervem por horas até a salmoura engrossar e soltar cristais de sal:
+- **Conservação e Escambo:** Na umidade pesada do [[Geografia/Vale da Lama|Vale da Lama]], onde carne e couro apodrecem em dias, o sal cristalizado vale ouro para conservar mantimentos e peles, puxando as trocas por escambo na faixa costeira.
+- **Purificação de Ferimentos:** Em doses medidas, a salmoura limpa cortes e impede que as infecções do pântano tomem a carne.
 
 ## Origem e Tradição
 *A preencher.*
 
 ## Prática e Tabus
-- **Ritos de Coragem:** Entre os Ferve-Alga, a salmoura quente é também prova de devoção a [[Deuses-Fera/Karkinos|Karkinos]]. Os iniciados bebem pequenas quantidades de salmoura fervente diante dos xamãs para provar coragem e resistência.
-- **Atrito Religioso com o Oeste:** O número e o tamanho das fogueiras acesas dia e noite sob os caldeirões — somados à fumaça espessa que sobe da costa — geram atrito religioso constante com os [[Tribos/Masca-Musgo|Masca-Musgo]], cautelosos diante do [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]].
+- **Ritos de Coragem:** Diante dos xamãs de [[Deuses-Fera/Karkinos|Karkinos]], jovens iniciados bebem goles de salmoura fervente para provar coragem e aguentar o ardor sem pestanejar.
+- **Atrito Religioso com o Oeste:** O porte e a quantidade das fogueiras acesas dia e noite sob os caldeirões — e a fumaça espessa que sobe da costa — mantêm um atrito religioso constante com os [[Tribos/Masca-Musgo|Masca-Musgo]], fiéis ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]].
 
 ## O que se Conta pelo Pântano
-- **O Ardor que Marca a Tribo:** Batedores de outras regiões dizem que basta passar uma única estação junto aos caldeirões de salmoura para entender por que nenhum Ferve-Alga consegue esconder os olhos vermelhos na neblina.
+- **Ardor nos Olhos:** Batedores que já se aproximaram da costa contam nas passarelas que basta uma estação ao lado daqueles caldeirões para entender por que nenhum Ferve-Alga consegue esconder o vermelho das pálpebras na neblina.
 
 ---
 

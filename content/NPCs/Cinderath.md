@@ -39,14 +39,14 @@ Durante a era das minas nas [[Geografia/Montanhas do Oeste|Montanhas do Extremo 
 Perseguida pelos goblins durante a **[[Historia/Primeira Cacada Sagrada|Primeira Caçada Sagrada]]**, Cinderath tombou no grande lago central do vale — bacia antiga já formada pela convergência das águas vindas das Montanhas do Oeste.
 
 ## Função e Ocupação
-Seus restos titânicos mantêm-se silenciosamente exclusivamente bem no fundo do abismo subaquático do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
+Seus restos titânicos repousam no fundo abissal do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 ## Relações e Alianças
 * **[[Tribos/Povo Dragão|Os Filhos de Ashkor]]:** Linhagem de Dragões Vermelhos da qual era a maior representante, incluindo o dragão jovem [[NPCs/Vexar|Vexar]].
 * **[[Tribos/Masca-Musgo|Masca-Musgo]]:** Nos éditos e anátemas de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], servir aos dragões antigos é estritamente proibido.
 
 ## O que se Conta pelo Pântano
-- **Silhueta nas Profundezas:** Em dias de calmaria absoluta, diz-se que os restos submersos da Grande Tirana ainda podem ser vislumbrados como silhuetas sombrias e distorcidas no fundo do lago — cujas águas profundas vêm esquentando de forma incomum.
+- **Silhueta nas Profundezas:** Remadores que atravessam o lago em dias de calmaria juram enxergar a ossada imensa da Grande Tirana distorcida sob a água escura — e comentam, em voz baixa, que o fundo anda mais quente do que devia.
 
 ---
 

@@ -25,7 +25,7 @@ aliases: ["Nokk"]
 
 # Nokk
 
-**Nokk** é um antigo morador de [[Geografia/Raiz-Funda|Raiz-Funda]], atualmente [[Exilados/Exilados|exilado]] da aldeia.
+**Nokk** é um antigo morador de [[Geografia/Raiz-Funda|Raiz-Funda]] que vive hoje como [[Exilados/Exilados|exilado]] pelo pântano.
 
 ## Aparência
 *A preencher.*

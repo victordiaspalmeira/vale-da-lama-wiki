@@ -24,25 +24,25 @@ aliases: ["Suuhr", "Deus Menor Cobra", "Cobra do Brejo do Musgo-Negro"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Suuhr** é um [[Deuses-Fera/Deus-Fera|Deus-Fera menor]] em forma de serpente que habita os [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa e Brejo do Musgo-Negro]], na faixa ocre-acinzentada encostada ao sopé das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]. Enquanto os goblins de [[Geografia/Raiz-Funda|Raiz-Funda]] dependem daquela região instável para extrair piche natural, sabem que as poças negras pertencem antes à grande cobra líquida que ali repousa.
+**Suuhr** é um [[Deuses-Fera/Deus-Fera|Deus-Fera menor]] em forma de serpente que repousa nos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa e Brejo do Musgo-Negro]], na faixa ocre-acinzentada encostada ao sopé das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]. Os goblins de [[Geografia/Raiz-Funda|Raiz-Funda]] dependem daquelas poças fumegantes para extrair piche, mas nunca esquecem a quem o betume pertence.
 
 ## Aparência
-Suuhr se materializa usando o próprio piche dos poços de turfa, sendo seu corpo inteiramente feito dele. É **muito gorda** e **flui como líquido** pela superfície escura e entre as poças borbulhantes do brejo, confundindo-se com o próprio betume até decidir se erguer.
+Seu corpo nasce do próprio piche dos poços de turfa. **Muito gorda**, Suuhr **flui como líquido** escuro entre as poças borbulhantes do brejo, confundindo-se com a nata negra do solo até decidir erguer a cabeça.
 
 ## Personalidade e Maneirismos
-É extremamente **preguiçosa**. Ao contrário de entidades errantes ou agressivas por impulso, prefere poupar esforços, repousar no piche morno e aceitar presentes fáceis em vez de perseguir presas sem necessidade.
+É extremamente **preguiçosa**. Em vez de caçar ou perseguir intrusos, prefere poupar esforços, aquecer-se no betume morno e aceitar comida fácil na beira da poça.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Habita o Brejo do Musgo-Negro e os poços de piche. Aqueles que entram em seu território — como os extratores de piche que abastecem [[NPCs/Torg|Torg]] para calafetar as jangadas e palafitas de Raiz-Funda — costumam levar **oferendas de caça fresca**, especialmente **sapos e coelhos**, que Suuhr aceita de bom grado em troca de passagem e coleta tranquila.
+Quem entra nos poços — como os extratores que abastecem [[NPCs/Torg|Torg]] com piche para calafetar jangadas e palafitas em Raiz-Funda — leva **oferendas de caça fresca**, sobretudo **sapos e coelhos**. Suuhr aceita o agrado sem cerimônia e deixa a coleta seguir em paz.
 
 ## Relações e Alianças
-* **Extratores de Raiz-Funda:** Não há uma tribo devota exclusiva ao seu culto, mas os trabalhadores que vão até os Poços de Turfa respeitam sua presença e trazem caça fresca para manter a boa vontade da serpente.
+* **Extratores de Raiz-Funda:** Embora não tenha tribo devota exclusiva, os trabalhadores dos Poços de Turfa mantêm sua boa vontade com caça fresca antes de mergulhar as varas no piche.
 
 ## O que se Conta pelo Pântano
-- **Piche que se Move:** Coletores experientes avisam aos novatos que jamais enfiem a vara longa em uma mancha de piche que pareça espessa demais sem antes oferecer um sapo ou coelho — pois a mancha pode ser a própria Suuhr tirando um cochilo à tona.
+- **Piche que se Move:** Coletores veteranos avisam aos novatos que jamais enfiem a vara longa numa mancha de betume espessa demais sem antes atirar um sapo ou coelho — porque a mancha pode ser a própria Suuhr tirando um cochilo à tona.
 
 ---
 

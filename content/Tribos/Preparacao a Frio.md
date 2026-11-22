@@ -22,23 +22,23 @@ aliases: ["Preparação a Frio", "Alquimia a Frio"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-A **Preparação a Frio** reúne o conjunto de técnicas artesanais, culinárias e alquímicas que sustentam o cotidiano dos [[Tribos/Masca-Musgo|Masca-Musgo]] em [[Geografia/Raiz-Funda|Raiz-Funda]]. Embora a tribo aceite o caráter transformativo do fogo na alquimia, no artesanato e no preparo de alimentos, o uso da chama não é uma prática tão enraizada no dia a dia quanto o trabalho sem fogo — tanto pela umidade constante sob os mangues e Cogumelos Nodosos quanto pela cautela cultural herdada do [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]].
+A **Preparação a Frio** reúne as técnicas artesanais, culinárias e alquímicas que sustentam o dia a dia dos [[Tribos/Masca-Musgo|Masca-Musgo]] em [[Geografia/Raiz-Funda|Raiz-Funda]]. Embora a tribo aceite o poder transformativo do fogo na alquimia, no artesanato e no preparo de alimentos, a chama aparece bem menos no cotidiano do que o trabalho sem fogo — tanto pela umidade constante sob os mangues e Cogumelos Nodosos quanto pela cautela herdada do [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]].
 
 ## Natureza e Funcionamento
-Nos tonéis, bancadas e passarelas da aldeia, o calor é substituído pelo tempo, pela acidez natural e pela química do próprio pântano:
-- **Alimentos:** Em vez de grandes fogueiras de cozinha, carnes, raízes e fungos são fermentados e curados em ácidos naturais, tratados com esporos e seivas cáusticas.
-- **Curtume de Couro:** [[NPCs/Birka|Birka (a Mão-Ácida)]] curte peles e couros com taninos e processos químicos frios junto aos tonéis do [[Geografia/Raiz-Funda#O Cais das Jangadas e Oficinas|Cais das Jangadas]].
-- **Alquimia:** Elixires, ácidos e antídotos contra venenos do pântano são fermentados a frio por Birka, extraindo potência da decomposição controlada.
-- **Madeira, Osso e Piche:** Armas cotidianas de osso curado e madeira de mangue são moldadas por [[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]] (que reserva o fogo-ferramenta baixo exclusivamente para trabalhar metal recuperado na [[Geografia/Raiz-Funda#A Forja Periférica de Gnarl|Forja Periférica]]), enquanto [[NPCs/Torg|Torg]] calafeta jangadas a frio com piche dos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]].
+Nos tonéis, bancadas e passarelas da aldeia, o tempo, a acidez natural e a química do pântano fazem o trabalho do calor:
+- **Alimentos:** Em vez de grandes fogueiras de cozinha, carnes, raízes e fungos fermentam e curam em ácidos naturais, tratados com esporos e seivas cáusticas.
+- **Curtume de Couro:** [[NPCs/Birka|Birka (a Mão-Ácida)]] curte peles e couros com taninos e banhos frios junto aos tonéis do [[Geografia/Raiz-Funda#O Cais das Jangadas e Oficinas|Cais das Jangadas]].
+- **Alquimia:** Elixires, ácidos e antídotos contra venenos do brejo fermentam a frio nas mãos de Birka, extraindo potência da decomposição controlada.
+- **Madeira, Osso e Piche:** Armas cotidianas de osso curado e madeira de mangue ganham forma nas bancadas de [[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]] (que reserva o fogo-ferramenta baixo só para metal recuperado na [[Geografia/Raiz-Funda#A Forja Periférica de Gnarl|Forja Periférica]]), enquanto [[NPCs/Torg|Torg]] calafeta jangadas a frio com piche dos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]].
 
 ## Origem e Tradição
-A preferência pela Preparação a Frio nasceu diretamente da adaptação dos sobreviventes da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] à vida sob as arcadas úmidas de [[Geografia/Raiz-Funda|Raiz-Funda]]. Cercados por madeira, raízes vivas, fibras secas e gases inflamáveis nas bordas do oeste, os Masca-Musgo aprenderam a fazer da fermentação e dos ácidos do brejo sua principal ferramenta de trabalho.
+O hábito nasceu da adaptação direta dos sobreviventes da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] às arcadas úmidas de [[Geografia/Raiz-Funda|Raiz-Funda]]. Cercados por madeira encharcada, raízes vivas, fibras e bolsões de gás inflamável nas bordas do oeste, os Masca-Musgo transformaram a fermentação e os ácidos do brejo em sua oficina principal.
 
 ## Prática e Tabus
-Mesmo sem chamas, o trabalho a frio obedece à [[Cosmologia/Lei da Troca|Lei da Troca]]: toda seiva extraída, madeira cortada ou piche recolhido nos poços exige gesto de reciprocidade. A própria confecção das [[Cosmologia/Mascara de Ervas Amargas|Máscaras de Ervas Amargas]] por [[NPCs/Birka|Birka]] e [[NPCs/Snikk|Snikk]] depende desse método para não ressecar nem destruir as propriedades das ervas.
+Mesmo sem chamas, o trabalho a frio obedece à [[Cosmologia/Lei da Troca|Lei da Troca]]: cada seiva colhida, madeira cortada ou piche recolhido nos poços pede gesto de retorno. A própria costura das [[Cosmologia/Mascara de Ervas Amargas|Máscaras de Ervas Amargas]] por [[NPCs/Birka|Birka]] e [[NPCs/Snikk|Snikk]] depende desse método para não ressecar nem queimar a força das ervas.
 
 ## O que se Conta pelo Pântano
-- **O Cheiro do Cais:** Forasteiros que se aproximam das oficinas de Raiz-Funda estranham não ver colunas de fumaça sobre as casas — apenas o vapor ácido e frio dos tonéis de Birka e o som seco de madeira e osso sendo trabalhados à sombra dos Cogumelos Nodosos.
+- **Aldeia Sem Fumaça:** Viajantes que chegam pelo canal estranham não ver colunas de fumaça sobre as copas de Raiz-Funda — só o cheiro ácido e frio que sobe dos tonéis de Birka e o estalo seco de osso e madeira sendo talhados à sombra dos Cogumelos Nodosos.
 
 ---
 

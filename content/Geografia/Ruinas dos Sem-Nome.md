@@ -24,30 +24,30 @@ aliases: ["As Ruínas dos Sem-Nome", "Ruínas dos Sem-Nome", "As Pedras Mortas"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-As **Ruínas dos Sem-Nome** — chamadas pelos goblins de **As Pedras Mortas** — ocupam a península norte-central e as margens leste do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]. Erguidas por mãos muito anteriores aos dragões e aos próprios goblins, permanecem como um ponto estranho e silencioso no meio do [[Geografia/Vale da Lama|Vale da Lama]]: um lugar de pedra fria onde a decomposição do pântano parece perder força.
+As **Ruínas dos Sem-Nome** — que os goblins chamam de **As Pedras Mortas** — ocupam a península norte-central e as margens leste do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]. Erguidas muito antes dos dragões e dos próprios goblins, formam um enclave de pedra fria no meio do [[Geografia/Vale da Lama|Vale da Lama]] onde a podridão do pântano parece perder força.
 
 ## Geografia e Ambiente
-O sítio é formado por conjuntos de estruturas arquitetônicas esguias e refinadas, hoje inclinadas e parcialmente engolidas pela lama: colunas estriadas partidas, arcos ogivais pontiagudos de mármore branco acinzentado e torres arruinadas. Onde o musgo e os fungos conseguem se agarrar ao mármore, crescem de forma lenta e doentia, contrastando com a pujança úmida do restante do vale.
+Colunas estriadas partidas, arcos ogivais de mármore branco-acinzentado e torres arruinadas inclinam-se sobre a lama, parcialmente engolidas pela água rasa. Onde o musgo e os fungos conseguem se agarrar à pedra lisa, crescem ralos e doentios — contraste brusco com a fartura úmida do resto do vale.
 
 ## História
-As ruínas foram erguidas por uma **civilização élfica extinta** eras antes da chegada dos dragões ao [[Geografia/Vale da Lama|Vale da Lama]], na mesma época antiga das estruturas espalhadas pelas [[Geografia/Terras Verdejantes|Terras Verdejantes]]. Os goblins atuais desconhecem completamente quem as construiu ou por que desapareceram.
+Uma **civilização élfica extinta** ergueu essas estruturas eras antes da chegada dos dragões ao vale, na mesma época das ruínas espalhadas pelas [[Geografia/Terras Verdejantes|Terras Verdejantes]]. Nenhum goblin sabe dizer quem foram seus construtores ou o que os varreu dali.
 
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-- **Pavilhões Semi-Submersos:** Átrios abertos onde raízes grossas abraçam os arcos ogivais de mármore, formando passarelas naturais sobre a água rasa.
-- **Câmaras Seladas:** Salões inferiores ainda vedados da umidade do brejo, livres da podridão e com o ar parado há séculos.
-- **Inscrições Indecifráveis:** Frisos desgastados em um alfabeto antigo que nenhum habitante atual do vale consegue ler.
+- **Pavilhões Semi-Submersos:** Átrios abertos onde raízes grossas abraçam os arcos ogivais de mármore, formando passarelas naturais acima da água.
+- **Câmaras Seladas:** Salões inferiores vedados contra a umidade do brejo, com o ar parado há séculos.
+- **Inscrições Indecifráveis:** Frisos gastos em um alfabeto antigo que ninguém no vale consegue ler.
 
 ### NPCs e Criaturas da Região
-Nenhuma tribo habita as ruínas. Para os [[Tribos/Masca-Musgo|Masca-Musgo]], o lugar é considerado **"estéril" ou amaldiçoado** — um ponto morto onde o ciclo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] parece recuar.
+Nenhuma tribo monta acampamento aqui. Para os [[Tribos/Masca-Musgo|Masca-Musgo]], o mármore é terra estéril e amaldiçoada — um ponto morto onde o ciclo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] recua.
 
 ## Perigos e Recursos
-- **Perigos:** Estruturas instáveis, câmaras seladas de uma era desconhecida e o temor de túneis ocultos jamais explorados.
-- **Recursos:** Ferragens antigas e peças recuperadas ocasionalmente aproveitadas por artesãos como [[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]].
+- **Perigos:** Lajes e arcos instáveis prontos para ceder, além de acessos subterrâneos jamais explorados.
+- **Recursos:** Ferragens antigas e peças metálicas que artesãos como [[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]] ocasionalmente aproveitam quando chegam até a forja.
 
 ## O que se Conta pelo Pântano
-- **Criaturas de Fogo e Fumaça:** Os goblins nunca exploraram as Ruínas dos Sem-Nome por medo e superstição: corre entre as tribos o rumor de que **criaturas de fogo e fumaça** patrulham os túneis ocultos sob as Pedras Mortas.
+- **Criaturas de Fogo e Fumaça:** Nenhuma jangada atraca nas Pedras Mortas depois do entardecer. Pelas fogueiras baixas do vale, corre que **criaturas de fogo e fumaça** patrulham os túneis sob o mármore — e ninguém jamais voltou lá embaixo para desmentir.
 
 ---
 

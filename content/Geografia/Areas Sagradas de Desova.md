@@ -23,10 +23,10 @@ aliases: ["Áreas Sagradas de Desova", "Territórios Sagrados de Desova", "Área
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-As **Áreas Sagradas de Desova** são enseadas rasas e protegidas ao longo da [[Geografia/Costa Salobra|Costa Salobra]], no nordeste do [[Geografia/Vale da Lama|Vale da Lama]], onde [[Deuses-Fera/Karkinos|Karkinos]] e seus descendentes crustáceos depositam seus ovos. Mais do que locais de reprodução animal, são territórios invioláveis vigiados pelos xamãs dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] e respeitados até pelos caçadores rivais de [[Geografia/Raiz-Funda|Raiz-Funda]].
+As **Áreas Sagradas de Desova** recortam a [[Geografia/Costa Salobra|Costa Salobra]] em enseadas rasas onde [[Deuses-Fera/Karkinos|Karkinos]] e suas crias depositam seus ovos. Mais do que simples berçários, são chãos intocados: os xamãs dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] vigiam suas margens de perto, e até caçadores rivais de [[Geografia/Raiz-Funda|Raiz-Funda]] baixam as lanças antes de cruzar essas águas.
 
 ## Geografia e Ambiente
-Enseadas de águas salobras rasas, cercadas por manguezais baixos, crostas de salitre e bancos de lodo costeiro que ficam parcialmente protegidos das correntes mais fortes do [[Geografia/Mar das Brumas|Mar das Brumas]].
+Manguezais baixos, crostas brancas de salitre e bancos de lodo cercam as enseadas rasas, abrigando-as das correntes mais violentas do [[Geografia/Mar das Brumas|Mar das Brumas]]. A água ali é morna e salobra, entrecortada por estalos de carapaças na lama.
 
 ## História
 *A preencher.*
@@ -34,18 +34,18 @@ Enseadas de águas salobras rasas, cercadas por manguezais baixos, crostas de sa
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-- **Lei de Acesso:** A entrada nessas áreas é estritamente proibida a qualquer pessoa fora da estação de acasalamento. Mesmo durante a estação permitida, exige autorização formal dos **Xamãs das Áreas de Desova** dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]].
-- **Distinção das Ninhadas:** Mesmo entre os [[Tribos/Masca-Musgo|Masca-Musgo]], as regras da [[Historia/Cacada Sagrada|Caçada Sagrada]] distinguem claramente as *ninhadas* comuns (onde se caça sem exterminar a prole) dos *Territórios Sagrados de Desova*, nos quais é proibido caçar.
+- **Lei de Acesso:** Ninguém pisa nessas enseadas fora da estação de acasalamento. Mesmo no período permitido, a entrada exige licença formal dos **Xamãs das Áreas de Desova** dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]].
+- **Distinção das Ninhadas:** Até entre os [[Tribos/Masca-Musgo|Masca-Musgo]], a [[Historia/Cacada Sagrada|Caçada Sagrada]] separa as *ninhadas* comuns — onde se caça poupando a prole — dos *Territórios Sagrados de Desova*, onde toda caça é proibida.
 
 ### NPCs e Criaturas da Região
 - **[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Xamãs das Áreas de Desova]]:** Guardiões religiosos e fiscais da costa.
 - **[[Criaturas/Pinça-de-Sal|Pinça-de-Sal]]:** Cria de Karkinos avistada nas águas rasas da região.
 
 ## Perigos e Recursos
-- **A Ira de Karkinos:** Violar os berçários atrai ataques de caranguejos gigantes, doenças de pele e afogamentos misteriosos em águas rasas, além da reação imediata dos Ferve-Alga.
+- **A Ira de Karkinos:** Violar os berçários provoca ataques de caranguejos gigantes, doenças de pele e afogamentos inexplicáveis em água rasa — além da resposta imediata dos Ferve-Alga.
 
 ## O que se Conta pelo Pântano
-- **Respeito Acima das Fronteiras:** Mesmo com os atritos frequentes de fronteira entre Masca-Musgo e Ferve-Alga, caçadores veteranos como [[NPCs/Kruk|Kruk]] ensinam que invadir uma área de desova é provocar uma fúria que nenhum escambo consegue apaziguar.
+- **Respeito Acima das Fronteiras:** Nas fogueiras de fronteira, veteranos como [[NPCs/Kruk|Kruk]] costumam cortar qualquer bravata de novato com um aviso curto: brigar com os Ferve-Alga por sal ou canal é coisa do pântano, mas meter o pé numa enseada de desova acorda uma fúria que nenhum escambo paga.
 
 ---
 

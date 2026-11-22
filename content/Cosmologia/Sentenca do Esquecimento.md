@@ -22,28 +22,28 @@ aliases: ["Sentença do Esquecimento", "Marca de Cinza Fria"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-Quando alguém viola o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] — traindo o pacto de nunca punir, causar dor, combater ou destruir carne e solo como faziam os antigos [[Tribos/Povo Dragão|Dragões Vermelhos]] —, o caso é julgado por [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]], o Juiz das Disputas, diante de toda a aldeia reunida na [[Geografia/Raiz-Funda#A Casa do Ancião|Casa do Ancião]] de [[Geografia/Raiz-Funda|Raiz-Funda]].
+Quando alguém viola o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] — quebrando o juramento de nunca punir, ferir, combater ou destruir carne e solo como faziam os antigos [[Tribos/Povo Dragão|Dragões Vermelhos]] —, [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]], o Juiz das Disputas, convoca o julgamento diante da aldeia na [[Geografia/Raiz-Funda#A Casa do Ancião|Casa do Ancião]], em [[Geografia/Raiz-Funda|Raiz-Funda]].
 
 ## Natureza e Funcionamento
 
 ### A Marca de Cinza Fria (Infrações Menores)
-Aplicada a forasteiros que cometem infrações menores por ignorância das leis do vale:
-- Todos os itens inflamáveis do infrator são confiscados.
-- O infrator recebe uma **marca de cinza fria e seiva cáustica na testa**, que permanece visível até que cumpra a penitência determinada pelo juiz.
+Aplicada a forasteiros que erram por desconhecer as leis do vale:
+- Todo item inflamável do infrator é confiscado.
+- O infrator recebe na testa uma **marca de cinza fria e seiva cáustica**, visível até o cumprimento da penitência imposta pelo juiz.
 
 ### A Sentença do Esquecimento (Crimes Capitais)
 Aplicada a quem mata, fere, pune ou crema corpos com fogo:
-- O condenado perde o nome e tem sua história apagada dos cantos da tribo.
-- É amarrado a uma estaca na fronteira da lama profunda para ser reclamado pelo brejo — sem direito a rituais fúngicos nem ao descanso no [[Geografia/Jardim Dourado|Jardim Dourado]].
+- O condenado perde o nome e tem a própria história apagada dos cantos da tribo.
+- Vai amarrado a uma estaca na fronteira da lama profunda para o brejo reclamá-lo — sem rituais fúngicos nem descanso no [[Geografia/Jardim Dourado|Jardim Dourado]].
 
 ## Origem e Tradição
-A severidade dessas punições decorre diretamente da memória da **escravidão do fogo** sob os [[Tribos/Povo Dragão|Dragões Vermelhos]]. Para os [[Tribos/Masca-Musgo|Masca-Musgo]], quem traz o fogo como arma ou suplício para dentro da aldeia ameaça repetir a crueldade dos antigos mestres e roubar de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] o ciclo da devolução.
+O rigor dessas penas brota da memória viva da **escravidão do fogo** sob os [[Tribos/Povo Dragão|Dragões Vermelhos]]. Para os [[Tribos/Masca-Musgo|Masca-Musgo]], quem traz a chama como arma ou suplício para dentro da aldeia ameaça repetir a crueldade dos antigos mestres e roubar de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] o ciclo da devolução.
 
 ## Prática e Tabus
-Ao contrário de banimentos que geram [[Exilados/Exilados|Exilados]] errando pelo pântano, a Sentença do Esquecimento visa apagar por completo a memória e a continuidade do infrator dentro do ciclo da tribo.
+Ao contrário dos banimentos que lançam [[Exilados/Exilados|Exilados]] pelo pântano, a Sentença do Esquecimento apaga por inteiro a memória e a continuidade do infrator dentro do ciclo da tribo.
 
 ## O que se Conta pelo Pântano
-- **O Nome Apagado:** Em Raiz-Funda, diz-se que o pior destino não é morrer na lama, mas morrer sem nome, sem canto e sem os leitos do Jardim Dourado para acolher o corpo.
+- **O Nome Apagado:** Em Raiz-Funda, comenta-se ao pé das fogueiras baixas que o pior castigo não é morrer atolado na lama, mas morrer sem nome, sem canto e sem os leitos do Jardim Dourado para acolher os ossos.
 
 ---
 

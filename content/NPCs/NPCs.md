@@ -6,7 +6,11 @@ aliases: ["NPCs", "Personagens"]
 
 # NPCs do Vale da Lama
 
-Diretório de personagens nomeados do vale. Para antigos moradores banidos de Raiz-Funda, veja também [[Exilados/Exilados|Exilados]].
+A autoridade entre os goblins do [[Geografia/Vale da Lama|Vale da Lama]] raramente se sustenta por títulos vazios: nasce do domínio de um ofício vital, da leitura de presságios ou da força para guardar uma fronteira. Do alto clero que regula os esporos no oeste aos xamãs das marés na costa, aos anciãos centenários do sul e às vozes itinerantes do dossel, cada liderança responde diretamente pela sobrevivência de seu povo.
+
+Para antigos moradores que quebraram os tabus da tribo e vivem fora de qualquer proteção comunitária, veja **[[Exilados/Exilados|Exilados]]**.
+
+## Diretório de Figuras Nomeadas
 
 | Nome | Papel / Epíteto | Tribo | Local |
 |------|-----------------|-------|-------|

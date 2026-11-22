@@ -27,29 +27,29 @@ aliases: ["Mael'ra", "Deusa-Fera Aranha", "Fio-Eterno", "Teia Prateada"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Mael'ra**, a **Deusa-Fera Aranha**, é uma entidade espiritual de oito patas que transita entre o etéreo e o físico, adorada pela tribo nômade [[Tribos/Tece-Pele|Tece-Pele]]. Em um pântano dividido por fronteiras e neblina, ela atua como uma **negociadora de favores** que sabe e vê muito mais do que qualquer outro ser do [[Geografia/Vale da Lama|Vale da Lama]], pois mantém agentes inseridos em todo o pântano.
+**Mael'ra**, a **Deusa-Fera Aranha**, tece entre a névoa e o plano etéreo sob o culto da tribo nômade [[Tribos/Tece-Pele|Tece-Pele]]. Em um vale retalhado por águas paradas e fronteiras hostis, ela **negocia favores** — e vê mais longe do que qualquer outro ser do [[Geografia/Vale da Lama|Vale da Lama]] graças aos agentes que espalha por todo o pântano.
 
 ## Aparência
-Representada como uma aranha gigantesca de seda prateada, cujo domínio se estende tanto pelos fios físicos do dossel quanto pelos fios invisíveis que prendem devedores.
+Aranha colossal de seda prateada, cujo domínio se estende tanto pelos fios tensos no dossel quanto pelas linhas invisíveis que atam seus devedores.
 
 ## Personalidade e Maneirismos
-Calculista, paciente e implacável nos acordos: sempre cobra na exata medida da informação ou do favor concedido, sem jamais deixar uma dívida esquecida sem vínculo.
+Calculista e paciente nos acordos, cobra cada palavra e cada dívida na medida exata — sem jamais conceder um favor sem antes prender o vínculo.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-- **Informação por Informação:** Na maioria das vezes, Mael'ra e seus agentes trocam informação por outra informação equivalente, tecendo uma rede contínua de segredos sobre tribos, rotas e ameaças do vale.
-- **Favores e o Fio Espiritual:** Contudo, se alguém pedir um **favor específico**, ela o concede em troca de um **vínculo com a teia**. O solicitante é amarrado por um **fio espiritual** invisível ao plano comum.
-- **A Cobrança da Alma:** Se o preço do favor não for pago em tempo hábil, o fio espiritual se retrai e **puxa a alma do devedor até o covil de Mael'ra**. As almas roubadas são **devoradas** pela Deusa-Fera, enquanto os **[[Criaturas/Aranhas Parasitas e Corpos Vazios|corpos vazios continuam vagando pelo pântano, servindo de berçário para aranhas parasitas]]**.
-- **Suturas em Carne Viva:** Em sua honra, os devotos praticam [[Tribos/Suturas em Carne Viva|suturas em carne viva]] com agulhas de osso fino e seda de aranha para fechar ferimentos em combate, selar uniões rituais ou implantar placas de pele e osso no próprio corpo.
+- **Informação por Informação:** Na maior parte do tempo, Mael'ra e seus agentes trocam um segredo por outro de igual peso, alimentando uma rede contínua sobre rotas, tribos e perigos do vale.
+- **Favores e o Fio Espiritual:** Quem pede um **favor específico** recebe a graça em troca de um **vínculo com a teia** — um **fio espiritual** invisível atado ao solicitante.
+- **A Cobrança da Alma:** Se a dívida vencer sem pagamento, o fio se retrai e **arrasta a alma do devedor até o covil de Mael'ra**, onde é **devorada**. Os **[[Criaturas/Aranhas Parasitas e Corpos Vazios|corpos vazios continuam vagando pelo pântano, servindo de berçário para aranhas parasitas]]**.
+- **Suturas em Carne Viva:** Em sua honra, os devotos praticam [[Tribos/Suturas em Carne Viva|suturas em carne viva]] com agulhas de osso fino e seda de aranha para fechar cortes em combate, selar uniões rituais ou enxertar placas de pele e osso no próprio corpo.
 
 ## Relações e Alianças
-* **[[Tribos/Tece-Pele|Tece-Pele]]:** Seus devotos nômades, que atuam como olhos, ouvidos, cirurgiões e mensageiros de Mael'ra por todo o pântano.
+* **[[Tribos/Tece-Pele|Tece-Pele]]:** Seus devotos nômades, que percorrem o pântano como olhos, ouvidos, cirurgiões e mensageiros de Mael'ra.
 
 ## O que se Conta pelo Pântano
-- **A Teia Prateada:** Seu símbolo máximo é a [[Tribos/Teia Prateada|Teia Prateada]], uma teia física de seda prateada que os [[Tribos/Tece-Pele|Tece-Pele]] erguem em seus acampamentos suspensos. Quem se emaranha nela é considerado marcado por Mael'ra.
-- **Os Devedores Sem Alma:** Todos no vale conhecem o aviso sobre figuras de olhar vazio vagando pelos canais — sinal de que o fio espiritual já cumpriu sua cobrança.
+- **A Teia Prateada:** Nos acampamentos suspensos dos [[Tribos/Tece-Pele|Tece-Pele]], brilha a [[Tribos/Teia Prateada|Teia Prateada]]. Quem encosta naqueles fios e se enrosca já sai dali marcado por Mael'ra, dizem os canoeiros.
+- **Os Devedores Sem Alma:** À noite, vigias das passarelas cochicham sobre vultos de olhar morto andando sem rumo pelos canais — sinal de que o fio espiritual já cobrou o que era devido.
 
 ---
 

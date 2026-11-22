@@ -23,19 +23,19 @@ aliases: ["Aranhas Parasitas", "Corpos Vazios"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-Os **Corpos Vazios** tomados por **Aranhas Parasitas** são o testemunho ambulante do preço cobrado por [[Deuses-Fera/Mael'ra|Mael'ra, a Deusa-Fera Aranha]] contra quem quebra um acordo firmado pelo [[Tribos/Suturas em Carne Viva|Vínculo com a Teia]]. Quando um devedor deixa de pagar o favor no prazo combinado, o fio espiritual puxa sua alma até o covil da deusa para ser devorada — e a casca que resta não encontra descanso na morte.
+Os **Corpos Vazios** tomados por **Aranhas Parasitas** mostram a todo o pântano o preço cobrado por [[Deuses-Fera/Mael'ra|Mael'ra, a Deusa-Fera Aranha]] quando um devedor atrasa o pagamento do [[Tribos/Suturas em Carne Viva|Vínculo com a Teia]]. Vencido o prazo, o fio espiritual arranca a alma até o covil da deusa para ser devorada, deixando para trás uma casca que se recusa a tombar.
 
 ## Aparência e Anatomia
-Um Corpo Vazio mantém a aparência externa da criatura que era antes, mas com o olhar morto e movimentos rígidos e sem rumo, servindo internamente de berçário vivo para ninhadas de aranhas parasitas.
+Por fora, o Corpo Vazio conserva os traços da criatura que foi — pele, roupas ou escamas intactas —, mas o olhar vidrado e os passos travados denunciam a ausência de dono. Por dentro, a carcaça oca abriga ninhadas vivas de aranhas parasitas.
 
 ## Comportamento e Ecologia
-Sem alma para guiá-los, esses corpos continuam vagando pelo pântano sem direção clara, carregando e espalhando as aranhas parasitas que se abrigam em seu interior.
+Sem vontade própria para guiá-los, esses receptáculos erram à toa pelos canais e trilhas de lama, espalhando as ninhadas que carregam sob a pele por onde passam.
 
 ## Uso e Relações com as Tribos
-Para os [[Tribos/Tece-Pele|Tece-Pele]] e para todas as demais tribos do vale, os Corpos Vazios são a prova visível de que nenhum favor pedido a [[Deuses-Fera/Mael'ra|Mael'ra]] fica sem cobrança.
+Entre os [[Tribos/Tece-Pele|Tece-Pele]] e as tribos vizinhas, ninguém toca nem recolhe um Corpo Vazio: servem de lição viva de que nenhuma dívida firmada com [[Deuses-Fera/Mael'ra|Mael'ra]] caduca no brejo.
 
 ## O que se Conta pelo Pântano
-- **Afaste-se em Silêncio:** Caçadores e batedores avisam que, ao cruzar com uma figura vagando sozinha pelos canais com o olhar vazio, o melhor é recuar sem chamar atenção — pois ninguém quer estar por perto quando as aranhas parasitas despertam dentro da casca.
+- **Passos sem Rumo:** Remadores de águas turvas avisam aos novatos para calar o remo e deixar a correnteza afastar a canoa se virem alguém andando em linha torta no manguezal — antes que o peito da casca se abra e o enxame desperte.
 
 ---
 

@@ -6,7 +6,9 @@ aliases: ["Criaturas", "Feras do Vale"]
 
 # Criaturas e Feras
 
-Feras notáveis do [[Geografia/Vale da Lama|Vale da Lama]] e de suas fronteiras. Para entidades espirituais colossais, veja [[Deuses-Fera/Deus-Fera|Deuses-Fera]].
+Fora das passarelas guardadas e dos caldeirões acesos, a fauna do [[Geografia/Vale da Lama|Vale da Lama]] segue o mesmo princípio implacável do pântano: tudo que cresce demais aprende a caçar na névoa, na água opaca ou entre os galhos altos. Muitas dessas feras carregam vínculo direto com os **[[Deuses-Fera/Deus-Fera|Deuses-Fera]]** locais — o que transforma uma caçada descuidada em violação de território sagrado, especialmente perto das enseadas de desova ou do lago central.
+
+## Diretório de Feras e Ameaças
 
 | Criatura | Porte | Habitat | Perigo | Vínculo |
 |----------|-------|---------|--------|---------|

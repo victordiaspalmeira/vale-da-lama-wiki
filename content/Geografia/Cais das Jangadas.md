@@ -23,10 +23,10 @@ aliases: ["Cais das Jangadas", "O Cais das Jangadas e Oficinas", "Oficinas de Ra
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**O Cais das Jangadas e Oficinas** é a faixa mais movimentada de [[Geografia/Raiz-Funda|Raiz-Funda]], onde as passarelas de madeira descem até a lâmina d'água dos canais para receber embarcações, preparar equipamentos de travessia e conduzir o escambo com visitantes neutros. É o domínio prático de [[NPCs/Torg|Torg]] e [[NPCs/Birka|Birka (a Mão-Ácida)]].
+**O Cais das Jangadas e Oficinas** é a faixa mais ruidosa de [[Geografia/Raiz-Funda|Raiz-Funda]]. Ali, as passarelas de madeira descem até a lâmina d'água para receber embarcações, aprontar equipamentos de travessia e conduzir o escambo com visitantes neutros — tudo sob o olho atento de [[NPCs/Torg|Torg]] e [[NPCs/Birka|Birka (a Mão-Ácida)]].
 
 ## Geografia e Ambiente
-O ar no cais mistura o cheiro espesso do piche usado para calafetar jangadas com o odor ácido dos tonéis de fermentação e curtume a frio. Embarcações de fundo chato ficam amarradas às estacas de mangue ao lado de pilhas de madeira impermeabilizada, couros esticados e recipientes de barro.
+No cais, o cheiro espesso do piche usado para calafetar jangadas briga com o azedo dos tonéis de fermentação e curtume. Jangadas de fundo chato rangem amarradas às estacas de mangue encharcadas, cercadas por pilhas de madeira tratada, couros esticados e potes de barro.
 
 ## História
 *A preencher.*
@@ -34,9 +34,9 @@ O ar no cais mistura o cheiro espesso do piche usado para calafetar jangadas com
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-- **Estaleiro de Jangadas:** Onde [[NPCs/Torg|Torg]] constrói e repara jangadas de fundo chato e fabrica botas largas de couro e raquetes de mangue para marchar no lodo profundo.
-- **Tonéis da Mão-Ácida:** Onde [[NPCs/Birka|Birka]] pratica a [[Tribos/Preparacao a Frio|Preparação a Frio]], fermentando antídotos, curtindo peles com taninos vegetais e preparando o couro das [[Cosmologia/Mascara de Ervas Amargas|Máscaras de Ervas Amargas]].
-- **Ponto de Escambo:** É nos limites do cais que mensageiros [[Tribos/Tece-Pele|Tece-Pele]] costumam trocar fios da [[Tribos/Teia Prateada|Teia Prateada]] e informações por peles curtidas e reagentes.
+- **Estaleiro de Jangadas:** [[NPCs/Torg|Torg]] ergue e repara ali jangadas de fundo chato, além de costurar botas largas de couro e raquetes de mangue para marchar sobre o lodo fundo.
+- **Tonéis da Mão-Ácida:** Nos tanques de [[NPCs/Birka|Birka]], a [[Tribos/Preparacao a Frio|Preparação a Frio]] fermenta antídotos, curte peles com taninos vegetais e prepara o couro das [[Cosmologia/Mascara de Ervas Amargas|Máscaras de Ervas Amargas]].
+- **Ponto de Escambo:** Na borda do cais, mensageiros [[Tribos/Tece-Pele|Tece-Pele]] trocam fios da [[Tribos/Teia Prateada|Teia Prateada]] e notícias por peles curtidas e reagentes.
 
 ### NPCs e Criaturas da Região
 - **[[NPCs/Torg|Torg]]:** Construtor de jangadas, palafitas e calçados de brejo.
@@ -46,7 +46,7 @@ O ar no cais mistura o cheiro espesso do piche usado para calafetar jangadas com
 - **Recursos:** Jangadas calafetadas, calçados de brejo, couros curtidos, reagentes alquímicos, antídotos e máscaras de esporos.
 
 ## O que se Conta pelo Pântano
-- **O Termômetro da Aldeia:** Entre os moradores, diz-se que se algo novo aconteceu nas fronteiras do vale, a notícia chega primeiro aos ouvidos de Birka e Torg no cais antes mesmo de subir até a Casa do Ancião.
+- **O Termômetro da Aldeia:** Pelas passarelas de Raiz-Funda, corre a certeza de que se alguém estranho remou perto das fronteiras, Birka e Torg já sabem o nome e a carga antes mesmo da notícia subir até a Casa do Ancião.
 
 ---
 

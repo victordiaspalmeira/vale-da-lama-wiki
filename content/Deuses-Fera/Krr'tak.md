@@ -27,27 +27,27 @@ aliases: ["Krr'tak", "Espadachim", "Espadachi", "A Espadachim"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Krr'tak**, conhecida entre os habitantes do [[Geografia/Vale da Lama|Vale da Lama]] como **a Espadachim**, é uma [[Deuses-Fera/Deus-Fera|Deus-Fera menor]] que habita a faixa de fronteira entre o território dos [[Tribos/Masca-Musgo|Masca-Musgo]] (a oeste) e o dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] (a nordeste). Sem tribo devota nem santuário fixo, ela vaga como uma predadora temida que mantém os dois povos separados pelo medo.
+**Krr'tak**, chamada nos cais do [[Geografia/Vale da Lama|Vale da Lama]] de **a Espadachim**, ronda os juncos e mangues entre os [[Tribos/Masca-Musgo|Masca-Musgo]] (a oeste) e os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] (a nordeste). Sem tribo devota nem santuário fixo, ela patrulha a faixa disputada por puro instinto de caça — e mantém os dois povos apartados pelo medo.
 
 ## Aparência
-Tem a forma de um louva-a-deus colossal, dotada de braços dianteiros em lâmina serrilhada e asas translúcidas que vibram antes do bote.
+Um louva-a-deus colossal de braços dianteiros em lâmina serrilhada e asas translúcidas que zumbem no ar úmido instantes antes do bote.
 
 ## Personalidade e Maneirismos
-É famosa por seu **senso de humor pastelão e extremamente violento**. Sua paciência é curta e seu humor é brutal: mesmo quando poupa goblins à primeira vista, se provocada ou caso julgue necessário, **não hesitará em matar** da maneira mais brusca possível.
+Tem um **senso de humor pastelão e extremamente violento**. A paciência é curta: mesmo quando poupa goblins à primeira vista, qualquer provocação ou inconveniência basta para fazê-la matar da maneira mais brusca possível.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-- **Trânsito Etéreo:** Assim como [[Deuses-Fera/Og'gath|Og'gath]], ela não possui uma tribo dedicada a seu culto, mas transita facilmente entre o plano etéreo e o físico ao longo dessa fronteira.
-- **Dieta Predatória:** Costuma se alimentar de **criaturas descendentes de outros Deuses**, como [[Deuses-Fera/Deus-Fera|Deuses-Fera]] e suas crias — além de devorar qualquer intruso que entre em seu território.
-- **Barreira Natural:** Para os [[Tribos/Masca-Musgo|Masca-Musgo]] e os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]], ela funciona como uma barreira natural imprevisível entre seus territórios disputados.
+- **Trânsito Etéreo:** Como [[Deuses-Fera/Og'gath|Og'gath]], não possui tribo dedicada a seu culto, mas desliza entre o plano etéreo e o físico ao longo dessa fronteira.
+- **Dieta Predatória:** Caça **criaturas descendentes de outros Deuses** — como [[Deuses-Fera/Deus-Fera|Deuses-Fera]] e suas crias — além de devorar qualquer intruso que pise em seu território.
+- **Barreira Natural:** Entre os [[Tribos/Masca-Musgo|Masca-Musgo]] e os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]], sua presença ergue-se como uma fronteira viva e imprevisível.
 
 ## Relações e Alianças
-* **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]:** Embora devore quase qualquer criatura que invada seu domínio, Krr'tak **acha péssimo o gosto de Goblins** e **evita matá-los devido a uma dívida antiga com Nyog'Sothep** — uma trégua frágil que não sobrevive a insultos ou imprudência.
+* **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]:** Embora abata quase tudo o que cruza seu caminho, Krr'tak **acha péssimo o gosto de Goblins** e **evita matá-los por uma dívida antiga com Nyog'Sothep** — uma trégua frágil que não resiste a insultos nem imprudência.
 
 ## O que se Conta pelo Pântano
-- **O Estalo Antes do Golpe:** Batedores relatam que, momentos antes de a Espadachim surgir, os insetos do brejo calam-se de súbito e um estalo seco — semelhante a duas lâminas batendo uma na outra — ecoa entre os troncos.
+- **O Estalo Antes do Golpe:** Batedores da fronteira juram que, momentos antes de a Espadachim aparecer, os insetos do brejo calam-se de súbito e um estalo seco — como duas lâminas batendo uma na outra — corta a névoa entre os troncos.
 
 ---
 

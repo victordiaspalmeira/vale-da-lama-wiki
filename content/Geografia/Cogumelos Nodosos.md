@@ -23,13 +23,13 @@ aliases: ["Cogumelos Nodosos", "Os Cogumelos Nodosos"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-Os **Cogumelos Nodosos** são colossais formações fúngicas que crescem entre as raízes do mangue ancestral de [[Geografia/Raiz-Funda|Raiz-Funda]], no setor oeste do [[Geografia/Vale da Lama|Vale da Lama]]. Mais do que simples vegetação gigante do pântano, eles formam o próprio esqueleto arquitetônico da aldeia dos [[Tribos/Masca-Musgo|Masca-Musgo]]: é no interior de seus caules espessos que são escavadas as habitações principais da tribo.
+Os **Cogumelos Nodosos** erguem-se entre as raízes do mangue de [[Geografia/Raiz-Funda|Raiz-Funda]], no setor oeste do [[Geografia/Vale da Lama|Vale da Lama]]. Mais do que vegetação gigante, seus caules espessos formam a própria ossatura da aldeia: é dentro deles que os [[Tribos/Masca-Musgo|Masca-Musgo]] escavam suas casas.
 
 ## Geografia e Ambiente
-Seus chapéus largos filtram a claridade do céu enevoado e protegem as passarelas abaixo da chuva ácida do brejo, mantendo a penumbra úmida à qual os olhos grandes dos Masca-Musgo são perfeitamente adaptados. Por dentro, a massa escavada dos caules oferece abrigo seco em comparação com os canais de lama logo abaixo.
+Seus chapéus largos filtram a claridade enevoada e aparam a chuva ácida do brejo antes que ela caia nas passarelas, preservando a penumbra úmida a que os olhos grandes dos Masca-Musgo se acostumaram. Por dentro, a massa escavada dos caules oferece abrigo seco acima dos canais de lama.
 
 ## História
-Desde a fundação de [[Geografia/Raiz-Funda|Raiz-Funda]] após a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]], os goblins aprenderam a esculpir moradias dentro dos Cogumelos Nodosos e complementá-las com palafitas de madeira de mangue, recusando muralhas de pedra seca como as das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]].
+Desde a fundação de [[Geografia/Raiz-Funda|Raiz-Funda]] após a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]], os goblins aprenderam a talhar moradias nos Cogumelos Nodosos e ligá-las por palafitas de mangue, recusando muralhas de pedra seca como as das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]].
 
 ## Sociedade e Pontos de Interesse
 
@@ -40,10 +40,10 @@ Desde a fundação de [[Geografia/Raiz-Funda|Raiz-Funda]] após a [[Historia/A G
 - **[[Tribos/Masca-Musgo|Moradores de Raiz-Funda]]:** Quase toda a vida doméstica da tribo se abriga entre os caules escavados e as palafitas vizinhas.
 
 ## Perigos e Recursos
-- **Cuidado com o Fogo:** A natureza orgânica e seca das fibras externas exige o respeito absoluto ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], mantendo a [[Geografia/Forja Periferica de Gnarl|Forja Periférica]] isolada em uma ilhota de pedra cercada por água.
+- **Cuidado com o Fogo:** As fibras secas da casca externa pegam chama depressa. Por isso, a aldeia impõe o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] sem exceções e isola a [[Geografia/Forja Periferica de Gnarl|Forja Periférica]] em uma ilhota de pedra cercada por água.
 
 ## O que se Conta pelo Pântano
-- **Casas Vivas:** Forasteiros costumam se surpreender ao descobrir que as "torres" avistadas na neblina do oeste não são feitas de tijolo nem de barro, mas de cogumelos gigantes escavados por dentro.
+- **Casas Vivas:** Forasteiros que avistam o oeste pela primeira vez costumam jurar que Raiz-Funda tem torres de barro ou pedra — até encostarem a jangada no cais e perceberem que aquelas cúpulas na neblina são fungos gigantes ocos por dentro.
 
 ---
 

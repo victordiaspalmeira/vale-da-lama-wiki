@@ -25,25 +25,25 @@ aliases: ["Ulok", "Ulok, a Grande Javali", "A Grande Javali"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Ulok**, conhecida como **a Grande Javali**, é uma fera colossal e uma das governantes das [[Geografia/Terras Verdejantes|Terras Verdejantes]] — a região florestal saudável situada já fora do [[Geografia/Vale da Lama|Vale da Lama]], logo após as [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]]. Sua fama carrega uma ironia amarga para quem cruza as fronteiras do pântano: embora domine uma terra associada à cura e à harmonia, Ulok é uma das criaturas mais violentas e imprevisíveis da região.
+**Ulok**, chamada de **a Grande Javali**, governa os bosques das [[Geografia/Terras Verdejantes|Terras Verdejantes]], logo após as [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]], já fora do [[Geografia/Vale da Lama|Vale da Lama]]. Carrega um contraste amargo para quem atravessa a fronteira: reina sobre uma terra ligada à cura e à harmonia, mas responde a intrusos com fúria cega.
 
 ## Aparência e Anatomia
 *A preencher.*
 
 ## Personalidade e Maneirismos
-Apesar de ser uma das governantes de uma terra ligada à cura e à harmonia, Ulok é brutal, implacável e extremamente territorial. Defende seus bosques com violência feroz e é temida por atacar intrusos com pouca ou nenhuma provocação, sem dar margem para recuo ou negociação.
+Territorial e brutal, Ulok investe ao menor sinal de invasão, sem recuo nem trégua. Quem cruza suas clareiras raramente recebe um segundo aviso antes da carga.
 
 ## História
 *A preencher.*
 
 ## Comportamento e Ecologia
-Ulok possui **muitos filhos**, que herdam sua natureza agressiva e brigam constantemente entre si pelas matas e ruínas antigas das [[Geografia/Terras Verdejantes|Terras Verdejantes]], tornando o território caótico mesmo longe do brejo ácido de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
+Cria uma ninhada numerosa que espalha sua agressividade pelas matas e ruínas antigas da região, mantendo o território em tumulto constante mesmo longe do brejo ácido de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
 ## Relações e Alianças
-* **[[Criaturas/Filhos de Ulok|Filhos de Ulok]]:** Sua numerosa prole, em conflito contínuo entre si dentro do domínio da mãe.
+* **[[Criaturas/Filhos de Ulok|Filhos de Ulok]]:** Prole numerosa e briguenta que disputa entre si os bosques da mãe.
 
 ## O que se Conta pelo Pântano
-- **O Paradoxo da Floresta Saudável:** Quem ouve falar das [[Geografia/Terras Verdejantes|Terras Verdejantes]] como um refúgio de bosques limpos e cura costuma ser advertido de que a paz daquela floresta termina no instante em que se cruza o rastro de Ulok ou de suas crias briguentas.
+- **Cura com Presas:** Do lado de cá das Pedras Mortas, diz-se que as Terras Verdejantes curam qualquer ferida — desde que o viajante sobreviva ao encontro com Ulok ou com seus filhotes antes de achar onde descansar.
 
 ---
 

@@ -23,10 +23,10 @@ aliases: ["Rio Lodo-Negro", "O Rio Lodo-Negro"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-O **Rio Lodo-Negro** é um dos principais cursos d'água do setor meridional do [[Geografia/Vale da Lama|Vale da Lama]]. Cortando a borda das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]] ao sul, suas águas escuras e carregadas de sedimentos seguem rumo ao leste até se entrelaçarem nos canais mutáveis do [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]] e alcançarem o [[Geografia/Mar das Brumas|Mar das Brumas]].
+O **Rio Lodo-Negro** corta a borda meridional do [[Geografia/Vale da Lama|Vale da Lama]], margeando as [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]. Suas águas carregadas de sedimentos correm para leste até se ramificarem no [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]] e alcançarem o [[Geografia/Mar das Brumas|Mar das Brumas]].
 
 ## Geografia e Ambiente
-Diferente dos brejos estagnados e sem correnteza logo acima dele, o Rio Lodo-Negro mantém um fluxo contínuo que atravessa o sul e o sudeste do vale, arrastando lodo escuro, detritos vegetais e neblina baixa entre margens lamacentas.
+Ao contrário dos brejos estagnados logo acima dele, o rio mantém correnteza contínua. Entre margens baixas de lama escura, o fluxo arrasta detritos vegetais, lodo denso e uma faixa constante de neblina rente à água.
 
 ## História
 *A preencher.*
@@ -34,14 +34,14 @@ Diferente dos brejos estagnados e sem correnteza logo acima dele, o Rio Lodo-Neg
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-- **Limite Sul:** Marca a fronteira líquida logo abaixo das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]], território dominado pelos reclusos [[Tribos/Ventre-Inchado|Ventre-Inchado]].
-- **Ligação com o Delta:** Ao avançar para leste/sudeste, suas águas alimentam o labirinto de ilhotas do [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]].
+- **Limite Sul:** Fronteira líquida logo abaixo do território fechado dos reclusos [[Tribos/Ventre-Inchado|Ventre-Inchado]].
+- **Ligação com o Delta:** No extremo leste, o leito principal se abre no emaranhado de ilhotas do [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]].
 
 ### NPCs e Criaturas da Região
 *A preencher.*
 
 ## Perigos e Recursos
-- **Perigos:** Correntes que conduzem ao labirinto do Delta das Águas Mortas e a proximidade direta com o território hostil e fechado dos [[Tribos/Ventre-Inchado|Ventre-Inchado]].
+- **Perigos:** Correntes turvas que puxam embarcações rumo ao labirinto do delta e a proximidade direta com a borda hostil dos [[Tribos/Ventre-Inchado|Ventre-Inchado]].
 
 ## O que se Conta pelo Pântano
 *A preencher.*

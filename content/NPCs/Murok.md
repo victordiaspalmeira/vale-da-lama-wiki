@@ -26,10 +26,10 @@ aliases: ["Murok", "Ancião Centenário", "O Ancião Centenário"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Murok**, conhecido como o **Ancião Centenário**, é o mais antigo dos anciãos vampíricos da tribo [[Tribos/Ventre-Inchado|Ventre-Inchado]] e a figura mais temida das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]. Enquanto gerações inteiras nas tribos vizinhas nascem e retornam à lama, Murok desafia o tempo há mais de um século, sustentado pelos rituais secretos de sangue dedicados a [[Deuses-Fera/Sss'kar|Sss'kar]].
+**Murok**, o **Ancião Centenário**, é o mais velho dos anciãos vampíricos dos [[Tribos/Ventre-Inchado|Ventre-Inchado]] e a figura mais temida das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]]. Enquanto gerações inteiras nas tribos vizinhas nascem e retornam à lama, desafia o tempo há mais de um século por meio dos rituais secretos de sangue dedicados a [[Deuses-Fera/Sss'kar|Sss'kar]].
 
 ## Aparência
-Com mais de **120 anos de idade**, possui figura esquelética, pele pálida e quase translúcida e olhos vermelhos extremamente sensíveis à luz direta.
+Passou dos **120 anos** reduzido a uma figura esquelética, de pele pálida quase translúcida e olhos vermelhos que não suportam a luz direta.
 
 ## Personalidade e Maneirismos
 *A preencher.*
@@ -38,14 +38,14 @@ Com mais de **120 anos de idade**, possui figura esquelética, pele pálida e qu
 *A preencher.*
 
 ## Função e Ocupação
-Murok raramente deixa sua **câmara semi-submersa escavada sob os bancos de barro** nas profundezas do sul. Como os demais anciãos de sua tribo, prolonga a vida muito além do limite natural de sua espécie consumindo sangue regularmente em rituais dedicados a [[Deuses-Fera/Sss'kar|Sss'kar]], passando semanas inteiras sem ingerir qualquer alimento sólido. É para sustentar esses ritos — e as oferendas ao Deus-Fera sanguessuga — que os Ventre-Inchado criam [[Tribos/Sanguessugas Gigantes|sanguessugas gigantes]] em ânforas de barro e couro úmido.
+Raramente deixa sua **câmara semi-submersa escavada sob os bancos de barro** nas profundezas do sul. Ali, prolonga a vida muito além do limite natural da espécie consumindo sangue em rituais para [[Deuses-Fera/Sss'kar|Sss'kar]], passando semanas sem qualquer alimento sólido. Para sustentar esses ritos — e as oferendas ao Deus-Fera sanguessuga —, os Ventre-Inchado criam [[Tribos/Sanguessugas Gigantes|sanguessugas gigantes]] em ânforas de barro e couro úmido.
 
 ## Relações e Alianças
 * **[[Deuses-Fera/Sss'kar|Sss'kar]]:** Dedica seus rituais secretos de sangue à sanguessuga Deus-Fera colossal do sul.
-* **[[Tribos/Ventre-Inchado|Ventre-Inchado]]:** É o líder mais antigo e reverenciado da tribo reclusa do sul.
+* **[[Tribos/Ventre-Inchado|Ventre-Inchado]]:** Líder mais antigo e reverenciado da tribo reclusa do sul.
 
 ## O que se Conta pelo Pântano
-- **O Vivo que Recusa o Retorno:** Para os [[Tribos/Masca-Musgo|Masca-Musgo]], a existência centenária de Murok é vista como uma afronta silenciosa à morte e ao *Ciclo da Devolução* — e batedores afirmam que ninguém que rema fundo demais nas águas paradas do sul volta para contar o que há sob os bancos de barro.
+- **O Vivo que Recusa o Retorno:** Para os [[Tribos/Masca-Musgo|Masca-Musgo]], a longevidade de Murok afronta a morte e o *Ciclo da Devolução* — e batedores garantem que ninguém que rema fundo demais nas águas paradas do sul volta para contar o que há sob os bancos de barro.
 
 ---
 

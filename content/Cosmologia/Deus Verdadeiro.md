@@ -22,10 +22,10 @@ aliases: ["Deuses Verdadeiros", "Deus Verdadeiro"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Deuses Verdadeiros** são entidades supremas de extremo poder, intrinsecamente ligadas às leis fundamentais da natureza, à lógica, à magia e aos elementos. Diferente de criaturas mortais ou das divindades regionais que patrulham o brejo em carne colossal, um Deus Verdadeiro transcende um corpo único, um trono ou um território limitado.
+**Deuses Verdadeiros** são entidades supremas ligadas às leis da natureza, à lógica, à magia e aos elementos. Ao contrário dos mortais ou das divindades regionais que patrulham o brejo em carne colossal, um Deus Verdadeiro não cabe em um único corpo, trono ou território.
 
 ## Natureza e Funcionamento
-Por sua própria natureza vasta e abstrata, um Deus Verdadeiro **não possui forma física definida** e **não interage de maneira tão direta com o plano físico**. Em vez de caminhar pelo mundo em carne e osso, sua vontade opera através dos ciclos que governa, de relíquias sagradas, de fenômenos naturais e da devoção de seus fiéis — como ocorre com [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] por meio dos esporos, da rede subterrânea de micélio, do [[Cosmologia/Micelio Dourado|Micélio Dourado]] e da [[Historia/A Grande Morte Lenta|Lua Nova]].
+Um Deus Verdadeiro **não tem forma física definida** nem **age de maneira direta no plano físico**. Sua vontade corre pelos ciclos que governa, por relíquias sagradas, por fenômenos naturais e pela devoção dos fiéis — como faz [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] através dos esporos, da rede subterrânea de micélio, do [[Cosmologia/Micelio Dourado|Micélio Dourado]] e da [[Historia/A Grande Morte Lenta|Lua Nova]].
 
 ### Contraste com os Deuses-Fera
 
@@ -36,14 +36,14 @@ Por sua própria natureza vasta e abstrata, um Deus Verdadeiro **não possui for
 | **Plano Físico** | Interação indireta | Transitam facilmente entre o etéreo e o físico |
 
 ## Origem e Tradição
-Para o clero de [[Geografia/Raiz-Funda|Raiz-Funda]], a distância entre um Deus Verdadeiro e um [[Deuses-Fera/Deus-Fera|Deus-Fera]] é evidente: um Deus Verdadeiro não possui corte de avatares nem comanda Deuses-Fera menores para agir em seu nome. Ainda assim, até entidades regionais como [[Deuses-Fera/Krr'tak|Krr'tak]] podem carregar dívidas antigas com um Deus Verdadeiro.
+Para o clero de [[Geografia/Raiz-Funda|Raiz-Funda]], a distância entre um Deus Verdadeiro e um [[Deuses-Fera/Deus-Fera|Deus-Fera]] não deixa dúvida: um Deus Verdadeiro não mantém corte de avatares nem envia Deuses-Fera menores para agir em seu nome. Ainda assim, até entidades regionais como [[Deuses-Fera/Krr'tak|Krr'tak]] carregam dívidas antigas com um Deus Verdadeiro.
 
 ## Prática e Tabus
 ### Deuses Verdadeiros Conhecidos
 - **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]** — Deus Verdadeiro fúngico adorado pelos [[Tribos/Masca-Musgo|Masca-Musgo]], ligado ao ciclo eterno de decomposição, fermentação e renascimento no [[Geografia/Vale da Lama|Vale da Lama]].
 
 ## O que se Conta pelo Pântano
-- **Vasto Demais para um Corpo:** Sacerdotes de [[Geografia/Raiz-Funda|Raiz-Funda]] ensinam que tentar esculpir um rosto único para um Deus Verdadeiro seria tão inútil quanto tentar segurar toda a umidade do vale com as duas mãos.
+- **Vasto Demais para um Corpo:** Sacerdotes de [[Geografia/Raiz-Funda|Raiz-Funda]] costumam dizer que tentar esculpir um rosto único para um Deus Verdadeiro é tão inútil quanto tentar segurar toda a umidade do vale com as duas mãos.
 
 ---
 

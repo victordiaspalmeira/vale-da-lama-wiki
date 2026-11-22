@@ -25,10 +25,10 @@ aliases: ["Korrak Olho-de-Sal", "Korrak", "Olho-de-Sal"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Korrak**, conhecido como **Olho-de-Sal**, é o xamã mais influente entre os **Xamãs das Áreas de Desova** da tribo [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]. Na [[Geografia/Costa Salobra|Costa Salobra]], cabe a ele vigiar o calendário das marés de [[Deuses-Fera/Karkinos|Karkinos]], conduzir os ritos de [[Tribos/Salmoura e Sal Cristalizado|salmoura fervente]] e conceder — ou negar — passagem às [[Geografia/Areas Sagradas de Desova|Áreas Sagradas de Desova]].
+**Korrak**, o **Olho-de-Sal**, é o mais influente entre os **Xamãs das Áreas de Desova** dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]. Na [[Geografia/Costa Salobra|Costa Salobra]], vigia o calendário das marés de [[Deuses-Fera/Karkinos|Karkinos]], conduz os ritos de [[Tribos/Salmoura e Sal Cristalizado|salmoura fervente]] e concede — ou nega — passagem às [[Geografia/Areas Sagradas de Desova|Áreas Sagradas de Desova]].
 
 ## Aparência
-Como todo veterano dos caldeirões da [[Geografia/Costa Salobra|Costa Salobra]], traz os olhos perpetuamente avermelhados pelo vapor salino e a pele marcada por salitre seco, vestindo adornos de carapaças, conchas gigantes e ossos marinhos curados em salmoura.
+Os olhos perpetuamente vermelhos do vapor salino e a pele riscada de salitre seco denunciam uma vida inteira junto aos caldeirões da [[Geografia/Costa Salobra|Costa Salobra]]. Veste adornos de carapaças, conchas gigantes e ossos marinhos curados em salmoura.
 
 ## Personalidade e Maneirismos
 *A preencher.*
@@ -37,14 +37,14 @@ Como todo veterano dos caldeirões da [[Geografia/Costa Salobra|Costa Salobra]],
 *A preencher.*
 
 ## Função e Ocupação
-Como liderança espiritual dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]], Korrak lê os sinais da maré alta e da vazante, preside as oferendas de lua cheia a [[Deuses-Fera/Karkinos|Karkinos]] e decide quem pode se aproximar das enseadas rasas durante a estação de acasalamento.
+Na liderança espiritual dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]], Korrak lê a maré alta e a vazante, preside as oferendas de lua cheia a [[Deuses-Fera/Karkinos|Karkinos]] e regula o acesso às enseadas rasas durante a estação de acasalamento.
 
 ## Relações e Alianças
 * **[[Deuses-Fera/Karkinos|Karkinos]]:** Guia os ritos e protege os berçários do Deus-Caranguejo contra invasores e caçadores ilegais.
 * **[[Tribos/Masca-Musgo|Masca-Musgo]]:** Mantém postura cautelosa e firme nas disputas de fronteira entre o nordeste e o oeste, evitando que conflitos de limite atraiam a ira do mar ou abram brechas junto ao território de [[Deuses-Fera/Krr'tak|Krr'tak]].
 
 ## O que se Conta pelo Pântano
-* **Chave das Enseadas:** Quem precisa atravessar as enseadas rasas da Costa Salobra sabe que não basta pagar em [[Tribos/Escambo no Vale|escambo]]: sem a palavra de Korrak Olho-de-Sal, pisar na água rasa pode significar enfrentar as lanças da tribo e a fúria de Karkinos.
+* **Chave das Enseadas:** Viajantes que cruzam a Costa Salobra sabem que [[Tribos/Escambo no Vale|escambo]] nenhum compra as enseadas rasas sozinho: sem a palavra de Korrak Olho-de-Sal, pisar na água salobra atrai as lanças da tribo — e a fúria de Karkinos.
 
 ---
 **Veja também:** [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] | [[Geografia/Costa Salobra|Costa Salobra]] | [[Geografia/Areas Sagradas de Desova|Áreas Sagradas de Desova]] | [[Deuses-Fera/Karkinos|Karkinos]]

@@ -22,20 +22,20 @@ aliases: ["Primeira Caçada Sagrada", "A Primeira Caçada Sagrada"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-A **Primeira Caçada Sagrada** foi a perseguição implacável movida pelos goblins libertos logo após a [[Historia/Batalha da Lua Nova|Batalha da Lua Nova]], encerrando a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]]. Determinados a não deixar nenhum de seus antigos opressores vivo, os goblins abandonaram seus antigos lares nas [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] para cruzar para o leste e exterminar cada [[Tribos/Povo Dragão|Dragão Vermelho]] que havia fugido.
+A **Primeira Caçada Sagrada** fechou o ciclo da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]]. Em vez de celebrar a vitória nas galerias de pedra, os goblins libertos deixaram as montanhas para trás e avançaram pelo pântano, decididos a não poupar nenhum dos antigos opressores.
 
 ## Antecedentes
-Derrotados nas minas pela combinação de vinte anos de sabotagem com esporos e pelo poder do [[Cosmologia/Micelio Dourado|Micélio Dourado]] potencializado pela Lua Nova, os Dragões Vermelhos sobreviventes da linhagem **Os Filhos de Ashkor** levantaram voo para o leste sobre o [[Geografia/Vale da Lama|Vale da Lama]].
+Derrotados nas minas pela ação lenta dos esporos e pelo [[Cosmologia/Micelio Dourado|Micélio Dourado]] potencializado na [[Historia/Batalha da Lua Nova|Batalha da Lua Nova]], os sobreviventes da linhagem **Os Filhos de Ashkor** bateram asas para o leste sobre o [[Geografia/Vale da Lama|Vale da Lama]].
 
 ## O Decorrer dos Acontecimentos
-Os goblins os seguiram através do pântano e conseguiram alcançar e abater todos os Dragões Vermelhos em retirada. O maior deles — a Matriarca **[[NPCs/Cinderath|Cinderath]]** (*a Grande Tirana*) — tombou dentro do grande lago central do vale, hoje chamado **[[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]**.
+Os goblins cortaram brejos, mangues e águas paradas no rastro dos fugitivos até alcançar e abater todos os [[Tribos/Povo Dragão|Dragões Vermelhos]] em retirada. A maior deles — a Matriarca [[NPCs/Cinderath|Cinderath]] (*a Grande Tirana*) — tombou dentro da grande bacia central do vale, hoje chamada [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 ## Consequências
-- **Fundação de Raiz-Funda:** Livres da escravidão do fogo, os sobreviventes estabeleceram-se no setor oeste do vale, fundando [[Geografia/Raiz-Funda|Raiz-Funda]] e guardando o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] no [[Geografia/Jardim Dourado|Jardim Dourado]].
+- **Fundação de Raiz-Funda:** Livres da escravidão do fogo, os sobreviventes ergueram [[Geografia/Raiz-Funda|Raiz-Funda]] no setor oeste do vale e guardaram o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] no [[Geografia/Jardim Dourado|Jardim Dourado]].
 - **Pacto contra o Fogo Profano:** Instituíram o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] para jamais punir como seus antigos mestres puniam.
 
 ## Legado no Vale
-A perseguição original deu origem ao rito contínuo da **[[Historia/Cacada Sagrada|Caçada Sagrada]]**, pelo qual os [[Tribos/Masca-Musgo|Masca-Musgo]] relembram em memória e em ato a caçada aos Dragões Vermelhos e sacrificam a carne em gratidão a [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
+A perseguição fundadora originou o rito contínuo da [[Historia/Cacada Sagrada|Caçada Sagrada]], pelo qual os [[Tribos/Masca-Musgo|Masca-Musgo]] revivem em ato a caçada aos Dragões Vermelhos e sacrificam a carne em gratidão a [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
 ---
 

@@ -22,10 +22,10 @@ aliases: ["Deuses-Fera", "Deus-Fera", "Deuses-Fera Menores"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-No [[Geografia/Vale da Lama|Vale da Lama]], **Deuses-Fera** são entidades espirituais colossais que habitam regiões específicas do pântano e — em vários casos — recebem culto direto das tribos locais. Embora sejam seres espirituais, **transitam com muito mais facilidade entre o plano etéreo e o plano físico** do que um **[[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]]** como [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], manifestando corpos gigantescos e territórios marcados pela carne, pelo sangue, pelas marés ou pela teia.
+No [[Geografia/Vale da Lama|Vale da Lama]], **Deuses-Fera** são entidades colossais que cruzam com facilidade a fronteira entre o plano etéreo e a lama do pântano. Ao contrário de um **[[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]]** como [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], eles assumem corpos tangíveis — feitos de carapaça, seda, sangue ou betume — e marcam territórios inteiros com sua fome e seu culto.
 
 ## Natureza e Funcionamento
-Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], os Deuses-Fera são entidades menores quando comparados a um Deus Verdadeiro, justamente por sua proximidade com o plano físico e o ciclo biológico. Os [[Tribos/Masca-Musgo|Masca-Musgo]] afirmam que [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] não possui corte de avatares nem comanda Deuses-Fera menores para agir em seu nome. Ainda assim, todas as tribos do pântano reconhecem o poder real dessas entidades e evitam provocar sua fúria ou invadir seus Territórios Sagrados de Desova.
+Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], a própria proximidade com a carne e o ciclo biológico torna os Deuses-Fera divindades menores diante de um Deus Verdadeiro. Os [[Tribos/Masca-Musgo|Masca-Musgo]] ensinam que [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] não mantém corte de avatares nem envia Deuses-Fera para agir em seu nome. Ainda assim, nenhuma tribo do vale subestima essas forças: provocar sua fúria ou pisar em seus Territórios Sagrados de Desova custa caro.
 
 ### Deuses-Fera Conhecidos
 
@@ -49,9 +49,9 @@ Entre os caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]], duas regras distingu
 - **Territórios Sagrados de Desova:** Berçários onde Deuses-Fera e suas crias diretas depositam ovos (como as enseadas de [[Deuses-Fera/Karkinos|Karkinos]] na [[Geografia/Costa Salobra|Costa Salobra]]). A entrada é estritamente proibida fora da estação de acasalamento, e durante ela exige permissão formal dos xamãs da tribo guardiã.
 
 ## O que se Conta pelo Pântano
-- **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]** *(Lago da Grande Tirana / Sul — Perigo Alto)*
-- **[[Deuses-Fera/Krr'tak|Krr'tak (a Espadachim)]]** *(Entre Masca-Musgo e Ferve-Alga — Perigo Alto)*
-- **[[Deuses-Fera/Og'gath|Og'gath (Sapo-Trovão do Lago Central)]]** *(Lago da Grande Tirana — Perigo Extremo)*
+- **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]** *(Lago da Grande Tirana / Sul — Perigo Alto)*: Pescadores que se aproximaram demais das águas paradas do sul juram ter visto a superfície escura inchar como um odre antes de uma sombra imensa deslizar sob a jangada.
+- **[[Deuses-Fera/Krr'tak|Krr'tak (a Espadachim)]]** *(Entre Masca-Musgo e Ferve-Alga — Perigo Alto)*: Batedores da fronteira dizem que, quando os insetos do brejo calam ao mesmo tempo, só resta baixar a arma e rezar para não estar no caminho de duas lâminas serrilhadas.
+- **[[Deuses-Fera/Og'gath|Og'gath (Sapo-Trovão do Lago Central)]]** *(Lago da Grande Tirana — Perigo Extremo)*: Nas noites sem vento, o coaxar grave do centro do lago faz tremer as palafitas de Raiz-Funda — sinal de que o gigante voltou a rondar as ilhotas.
 
 ---
 

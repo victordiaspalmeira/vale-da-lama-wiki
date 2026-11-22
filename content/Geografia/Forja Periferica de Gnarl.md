@@ -23,10 +23,10 @@ aliases: ["Forja Periférica de Gnarl", "A Forja Periférica", "Forja Periféric
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**A Forja Periférica de Gnarl** é uma ilhota de pedra e barro batido na borda externa de [[Geografia/Raiz-Funda|Raiz-Funda]], isolada por canais d'água para separar completamente o calor das brasas das raízes vivas, das palafitas de madeira e dos [[Geografia/Cogumelos Nodosos|Cogumelos Nodosos]] da aldeia. É a oficina de [[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]] e o único lugar da vila onde o fogo arde com regularidade.
+**A Forja Periférica de Gnarl** assenta-se sobre uma ilhota de pedra e barro batido na borda externa de [[Geografia/Raiz-Funda|Raiz-Funda]], cercada por canais d'água para manter o calor das brasas longe das raízes vivas, das palafitas e dos [[Geografia/Cogumelos Nodosos|Cogumelos Nodosos]]. Ali trabalha [[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]] — e ali arde o único fogo contínuo da aldeia.
 
 ## Geografia e Ambiente
-Cercada de água por todos os lados, a ilhota tem chão firme de pedra e barro úmido que impede qualquer faísca de se espalhar. O fogo permanece baixo e contido dentro da forja, servindo exclusivamente como **fogo-ferramenta** — aceito pelo seu caráter transformativo no artesanato segundo o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]].
+Ilhada pela água de todos os lados, a pedra e o barro úmido barram qualquer faísca desgarrada. A brasa permanece baixa, com fuligem contida dentro da forja: é o **fogo-ferramenta** permitido pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] apenas para transformar matéria no ofício.
 
 ## História
 *A preencher.*
@@ -34,16 +34,16 @@ Cercada de água por todos os lados, a ilhota tem chão firme de pedra e barro �
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-- **Bigorna e Bancada a Frio:** Além do trabalho com metal recuperado na forja baixa, Gnarl fabrica ali lanças, anzóis, pontas e escudos de madeira de mangue curada e osso trabalhado segundo a [[Tribos/Preparacao a Frio|Preparação a Frio]].
+- **Bigorna e Bancada a Frio:** Além de reforjar metal na brasa baixa, Gnarl talha ali lanças, anzóis, pontas e escudos de madeira de mangue curada e osso segundo a [[Tribos/Preparacao a Frio|Preparação a Frio]].
 
 ### NPCs e Criaturas da Região
 - **[[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]]:** Ferreiro e armeiro rabugento da aldeia.
 
 ## Perigos e Recursos
-- **Recursos:** Reparo e reforja de sucatas, ferragens antigas vindas de fora do vale ou recuperadas das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]], além de armas cotidianas de madeira e osso.
+- **Recursos:** Reparo e reforja de sucatas, ferragens antigas vindas de fora do vale ou resgatadas das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]], além de armas cotidianas de madeira e osso.
 
 ## O que se Conta pelo Pântano
-- **O Fogo Permitido:** Para visitantes acostumados às grandes fogueiras dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] na costa, a forja baixa e cercada de água de Gnarl mostra exatamente até onde vai a tolerância dos Masca-Musgo com a chama.
+- **O Fogo Permitido:** Quem chega acostumado às fogueiras altas dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] na costa costuma estranhar a brasa rasa e cercada de água de Gnarl — uma medida exata de até onde os Masca-Musgo deixam a chama entrar em sua casa.
 
 ---
 

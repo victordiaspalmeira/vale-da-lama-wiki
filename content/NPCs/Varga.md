@@ -26,28 +26,28 @@ aliases: ["Varga", "Capitã da Guarda"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Varga** é a **Capitã da Guarda** de [[Geografia/Raiz-Funda|Raiz-Funda]], comandante responsável por transformar o mangue ancestral e os canais de lama ao redor da aldeia em uma muralha viva contra invasores, predadores e exilados que tentem retornar.
+**Varga**, a **Capitã da Guarda** de [[Geografia/Raiz-Funda|Raiz-Funda]], transforma o mangue ancestral e os canais de lama ao redor da aldeia em barreira viva contra invasores, predadores e exilados que tentem voltar.
 
 ## Aparência
 *A preencher.*
 
 ## Personalidade e Maneirismos
-É uma comandante pragmática, severa e avessa a concessões quando o assunto envolve a segurança das palafitas e o cumprimento das leis da tribo.
+Pragmática, severa e avessa a concessões quando o assunto envolve a segurança das palafitas e as leis da tribo.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Varga coordena toda a rede de defesa periférica de [[Geografia/Raiz-Funda|Raiz-Funda]]:
-- **Vigias nas Arcadas:** Posiciona batedores e sentinelas no alto das arcadas de mangue, mantendo vigilância constante através de códigos de assobios que imitam aves e anfíbios do pântano.
-- **Trilhas e Armadilhas:** Supervisiona as trilhas submersas marcadas por estacas de osso e as armadilhas de brejo — redes de cipó trançado e estacas ocultas sob a lâmina d'água — que cercam os acessos externos da aldeia.
+Varga comanda a defesa periférica de [[Geografia/Raiz-Funda|Raiz-Funda]]:
+- **Vigias nas Arcadas:** Posiciona batedores e sentinelas no alto das arcadas de mangue, mantendo vigília contínua com códigos de assobios que imitam aves e anfíbios do pântano.
+- **Trilhas e Armadilhas:** Mantém as trilhas submersas marcadas por estacas de osso e as armadilhas de brejo — redes de cipó trançado e estacas ocultas sob a lâmina d'água — ao redor dos acessos externos da aldeia.
 
 ## Relações e Alianças
-* **[[Exilados/Exilados|Exilados]]:** Sob suas ordens, as sentinelas recebem qualquer exilado que tente se reaproximar de Raiz-Funda com flechas de aviso — e têm ordem para matar caso o banido insista em avançar.
-* **[[Tribos/Jardineiros|Os Jardineiros]]:** A autoridade da guarda regular de Varga termina nos limites externos do [[Geografia/Jardim Dourado|Jardim Dourado]], onde a proteção do santuário e do [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] cabe exclusivamente aos Jardineiros, subordinados diretamente ao alto clero.
+* **[[Exilados/Exilados|Exilados]]:** Sob suas ordens, as sentinelas recebem qualquer exilado que tente se reaproximar de Raiz-Funda com flechas de aviso — e atiram para matar se o banido insistir em avançar.
+* **[[Tribos/Jardineiros|Os Jardineiros]]:** A autoridade da guarda regular de Varga termina nos limites externos do [[Geografia/Jardim Dourado|Jardim Dourado]], onde a proteção do santuário e do [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] cabe apenas aos Jardineiros, subordinados ao alto clero.
 
 ## O que se Conta pelo Pântano
-- **O Som antes da Flecha:** Quem se aproxima de Raiz-Funda fora das trilhas conhecidas aprende rápido a distinguir o canto real de uma ave do assobio curto das sentinelas de Varga — e que um segundo aviso raramente é dado sem ponta de osso voando na neblina.
+- **O Som antes da Flecha:** Quem se aproxima de Raiz-Funda fora das trilhas marcadas aprende cedo a distinguir o canto real de uma ave do assobio curto das sentinelas de Varga — e que um segundo aviso raramente vem sem ponta de osso cortando a neblina.
 
 ---
 

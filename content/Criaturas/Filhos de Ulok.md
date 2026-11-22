@@ -23,19 +23,19 @@ aliases: ["Filhos de Ulok"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-Os **Filhos de Ulok** formam a numerosa e violenta prole de [[Criaturas/Ulok|Ulok, a Grande Javali]], espalhada pelos bosques e ruínas antigas das [[Geografia/Terras Verdejantes|Terras Verdejantes]], além das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]].
+Os **Filhos de Ulok** formam a prole numerosa e feroz de [[Criaturas/Ulok|Ulok, a Grande Javali]], espalhada pelas matas e pedras antigas das [[Geografia/Terras Verdejantes|Terras Verdejantes]].
 
 ## Aparência e Anatomia
 *A preencher.*
 
 ## Comportamento e Ecologia
-Herdam o temperamento feroz e territorial da mãe: em vez de formarem um bando coeso e pacífico na floresta associada à cura e à harmonia, brigam constantemente entre si pelo território dos bosques.
+Em vez de dividirem a floresta em paz, herdam a fúria territorial da mãe e disputam cada clareira e trecho de mata aos trancos e investidas uns contra os outros.
 
 ## Uso e Relações com as Tribos
-Tornam a travessia pelas [[Geografia/Terras Verdejantes|Terras Verdejantes]] imprevisível mesmo para quem consegue evitar o caminho direto de [[Criaturas/Ulok|Ulok]].
+Mesmo quem contorna o rastro de [[Criaturas/Ulok|Ulok]] ainda corre risco de esbarrar em sua prole, tornando qualquer travessia pelas [[Geografia/Terras Verdejantes|Terras Verdejantes]] imprevisível.
 
 ## O que se Conta pelo Pântano
-- **Barulho nos Bosques Limpos:** Quem se aproxima das fronteiras além das Pedras Mortas comenta que o contraste daquela floresta saudável é quebrado pelos grunhidos e disputas incessantes da prole de Ulok.
+- **Matagal em Briga:** Batedores que espreitam além das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]] contam que a calmaria enganosa da floresta limpa é rasgada o tempo todo por guinchos, galhos partidos e brigas de javalis que não respeitam nem a própria ninhada.
 
 ---
 

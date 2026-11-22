@@ -25,7 +25,7 @@ aliases: ["Vexar"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Vexar** foi um dragão jovem dos [[Tribos/Povo Dragão|Dragões Vermelhos]] (Os Filhos de Ashkor) nas [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]], cuja doença súbita precipitou o desfecho da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] e desencadeou a [[Historia/Batalha da Lua Nova|Batalha da Lua Nova]].
+**Vexar** foi um dragão jovem dos [[Tribos/Povo Dragão|Dragões Vermelhos]] (Os Filhos de Ashkor) nas [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]]. Sua doença súbita precipitou o fim da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] e desencadeou a [[Historia/Batalha da Lua Nova|Batalha da Lua Nova]].
 
 ## Aparência
 *A preencher.*
@@ -34,7 +34,7 @@ aliases: ["Vexar"]
 *A preencher.*
 
 ## História
-Durante os vinte anos em que os goblins escravizados espalharam esporos de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] pelas minas e câmaras dracônicas, o excesso de sabotagem acabou adoecendo **Vexar** rápido demais por ser jovem. Ao investigarem o adoecimento prematuro de Vexar, os Dragões Vermelhos perceberam o padrão dos esporos antes do previsto e investiram com fúria contra os escravos — dando início imediato à [[Historia/Batalha da Lua Nova|Batalha da Lua Nova]].
+Durante os vinte anos em que os goblins escravizados espalharam esporos de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] pelas minas e câmaras dracônicas, a sabotagem derrubou **Vexar** rápido demais por ser jovem. Ao investigar o adoecimento prematuro, os Dragões Vermelhos perceberam o padrão dos esporos antes da hora e atacaram os escravos em fúria — dando início imediato à [[Historia/Batalha da Lua Nova|Batalha da Lua Nova]].
 
 ## Função e Ocupação
 *A preencher.*
@@ -43,7 +43,7 @@ Durante os vinte anos em que os goblins escravizados espalharam esporos de [[Cos
 * **[[NPCs/Cinderath|Cinderath]]:** Integrava a mesma linhagem dos Filhos de Ashkor ao lado da Matriarca.
 
 ## O que se Conta pelo Pântano
-- **A Fagulha antes da Hora:** Nas histórias preservadas por [[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]], o adoecimento rápido de Vexar é lembrado como o instante em que o segredo de vinte anos veio à tona — obrigando os goblins a vencerem sob a Lua Nova ou perecerem no fogo.
+- **A Fagulha antes da Hora:** Nas histórias guardadas por [[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]], o tombo súbito de Vexar marca o instante em que vinte anos de segredo vieram abaixo — obrigando os goblins a vencer sob a Lua Nova ou morrer no fogo.
 
 ---
 

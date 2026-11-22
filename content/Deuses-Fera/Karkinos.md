@@ -26,10 +26,10 @@ aliases: ["Karkinos", "Deus-Caranguejo"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Karkinos**, o **Deus-Caranguejo**, é o [[Deuses-Fera/Deus-Fera|Deus-Fera]] que domina as águas salobras do nordeste do [[Geografia/Vale da Lama|Vale da Lama]]. Adorado pelos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]], repousa adormecido sob a **[[Geografia/Costa Salobra|Costa Salobra]]** — mas sua presença rege o ritmo das marés, o ciclo das enseadas de desova e a lei severa que separa a coleta comum da profanação fatal.
+**Karkinos**, o **Deus-Caranguejo**, dorme sob os bancos de lodo e salitre da **[[Geografia/Costa Salobra|Costa Salobra]]**, a nordeste do [[Geografia/Vale da Lama|Vale da Lama]]. Mesmo adormecido, sua presença governa o avanço das marés, o ciclo das enseadas de desova e a lei rígida sob a qual vivem os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]].
 
 ## Aparência
-Uma entidade colossal de carapaça vermelha escarlate, olhos vermelhos brilhantes e pinças enormes capazes de partir ossos e cascos com facilidade.
+Um crustáceo descomunal de carapaça escarlate, olhos rubros incandescentes e pinças largas o bastante para partir ossos e cascos de jangada sem esforço.
 
 ## Personalidade e Maneirismos
 *A preencher.*
@@ -38,18 +38,18 @@ Uma entidade colossal de carapaça vermelha escarlate, olhos vermelhos brilhante
 *A preencher.*
 
 ## Função e Ocupação
-Para os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]], toda a vida costeira gira ao redor do sono e da respiração de Karkinos:
-- **Oferendas e Rituais:** Seus devotos oferecem peixes e crustáceos nas águas da Costa Salobra, realizam danças de garra em cerimônias de lua cheia, devolvem seus mortos às marés para alimentar os filhos do deus e bebem [[Tribos/Salmoura e Sal Cristalizado|salmoura fervente]] como prova de devoção e coragem.
-- **Áreas de Desova:** Na Costa Salobra existem enseadas rasas onde Karkinos e seus descendentes depositam ovos. A entrada nesses berçários é estritamente proibida fora da estação de acasalamento (e exige permissão formal dos xamãs da tribo durante a estação).
-- **Ira de Karkinos:** Violar as áreas de desova atrai ataques de caranguejos gigantes, doenças de pele e afogamentos misteriosos em águas rasas.
+Na Costa Salobra, a rotina dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] acompanha a respiração do deus adormecido:
+- **Oferendas e Rituais:** Os devotos lançam peixes e crustáceos nas águas salobras, executam danças de garra sob a lua cheia, devolvem seus mortos à maré para nutrir a prole de Karkinos e bebem [[Tribos/Salmoura e Sal Cristalizado|salmoura fervente]] como prova de fé e coragem.
+- **Áreas de Desova:** Enseadas rasas da costa guardam os ovos de Karkinos e de seus descendentes. Fora da estação de acasalamento, entrar ali é proibido; durante ela, exige permissão formal dos xamãs da tribo.
+- **Ira de Karkinos:** Quem viola esses berçários atrai enxames de caranguejos gigantes, feridas na pele e afogamentos súbitos em águas que mal cobrem o joelho.
 
 ## Relações e Alianças
-* **[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]:** Seus devotos e guardiões ferozes na Costa Salobra.
-* **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]:** Para o clero de [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera como Karkinos são entidades espirituais menores que transitam facilmente entre o etéreo e o físico, em contraste com Nyog'Sothep — um Deus Verdadeiro sem forma física definida e de ação indireta no plano material. Ainda assim, seu poder sobre a Costa Salobra e a proteção dos Olhos-Vermelhos mantêm uma trégua tensa na fronteira nordeste.
+* **[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]:** Guardiões ferozes de suas enseadas e únicos intérpretes de suas marés na costa nordeste.
+* **[[Cosmologia/Nyog'Sothep|Nyog'Sothep]]:** O clero de [[Geografia/Raiz-Funda|Raiz-Funda]] vê em Karkinos um poder preso à matéria e às águas locais, muito aquém de um [[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]]. Ainda assim, a força do Deus-Caranguejo e a vigilância dos Olhos-Vermelhos sustentam uma trégua tensa na fronteira nordeste.
 
 ## O que se Conta pelo Pântano
-- **[[Criaturas/Pinça-de-Sal|Pinça-de-Sal (Cria de Karkinos)]]** *(Costa Salobra — Perigo Médio)*: caranguejo-gigante jovem avistado nas águas da Costa Salobra; caçá-lo sem permissão pode despertar a ira dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] e do próprio Karkinos.
-- **A Respiração sob a Lama:** Pescadores da costa garantem que, quando a maré muda mais rápido do que o esperado, é porque o grande caranguejo escarlate se remexeu sob os bancos de salitre.
+- **[[Criaturas/Pinça-de-Sal|Pinça-de-Sal (Cria de Karkinos)]]** *(Costa Salobra — Perigo Médio)*: Coletores de sal juram que abater um desses caranguejos jovens sem bênção xamânica marca o caçador com o cheiro da costa — e os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] chegam antes da maré seguinte.
+- **A Respiração sob a Lama:** Pescadores da costa garantem que, quando a água recua mais depressa do que o normal, é o grande caranguejo escarlate se ajeitando sob a lama salgada.
 
 ---
 

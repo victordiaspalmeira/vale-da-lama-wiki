@@ -26,30 +26,30 @@ aliases: ["Velho Rói-Raiz", "Juiz das Disputas"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Velho Rói-Raiz** é o **Juiz das Disputas** de [[Geografia/Raiz-Funda|Raiz-Funda]], a voz da lei diante da qual conflitos internos, quebras de reciprocidade e crimes com fogo são decididos perante toda a aldeia reunida. Dividindo a [[Geografia/Raiz-Funda#A Casa do Ancião|Casa do Ancião]] com [[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]], cabe a ele garantir que a coesão dos [[Tribos/Masca-Musgo|Masca-Musgo]] não seja rompida por dentro.
+**Velho Rói-Raiz**, o **Juiz das Disputas** de [[Geografia/Raiz-Funda|Raiz-Funda]], decide conflitos internos, quebras de reciprocidade e crimes com fogo diante da aldeia reunida. Dividindo a [[Geografia/Raiz-Funda#A Casa do Ancião|Casa do Ancião]] com [[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]], impõe os limites que mantêm os [[Tribos/Masca-Musgo|Masca-Musgo]] inteiros por dentro.
 
 ## Aparência
 *A preencher.*
 
 ## Personalidade e Maneirismos
-É uma figura austera, seca e imparcial, que não abranda sentenças por parentesco ou prestígio.
+Austero, seco e imparcial, não abranda sentenças por parentesco ou prestígio.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
 Diante da aldeia reunida junto à [[Geografia/Raiz-Funda#A Casa do Ancião|Casa do Ancião]], Velho Rói-Raiz julga:
-- **Conflitos Internos e Lei da Troca:** Resolve disputas entre moradores e casos de violação à [[Cosmologia/Lei da Troca|Lei da Troca]], trabalhando em complemento à orientação espiritual dada por [[NPCs/Zog|Zog]].
-- **Infrações ao Código de Honra do Fogo:** Aplica as punições previstas pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] — desde o confisco de inflamáveis e a **[[Cosmologia/Sentenca do Esquecimento|Marca de Cinza Fria]]** na testa de forasteiros até a temida **Sentença do Esquecimento** contra quem usa fogo para matar, ferir, punir ou cremar corpos.
-- **Banimentos:** Pronuncia as sentenças de expulsão definitiva que transformam infratores graves em [[Exilados/Exilados|Exilados]] sem direito a retorno.
+- **Conflitos Internos e Lei da Troca:** Resolve disputas entre moradores e quebras à [[Cosmologia/Lei da Troca|Lei da Troca]], completando a orientação espiritual dada por [[NPCs/Zog|Zog]].
+- **Infrações ao Código de Honra do Fogo:** Aplica as penas do [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] — do confisco de inflamáveis e da **[[Cosmologia/Sentenca do Esquecimento|Marca de Cinza Fria]]** na testa de forasteiros até a temida **Sentença do Esquecimento** contra quem usa fogo para matar, ferir, punir ou cremar corpos.
+- **Banimentos:** Pronuncia as expulsões definitivas que transformam infratores graves em [[Exilados/Exilados|Exilados]] sem volta.
 
 ## Relações e Alianças
 * **[[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]]:** Divide a Casa do Ancião com a decana da tribo, unindo a memória oral ao peso do julgamento.
-* **[[NPCs/Zog|Zog]]:** Enquanto Zog interpreta o que foi rompido com o pântano, Rói-Raiz arbitra as consequências humanas dentro da aldeia.
-* **[[Exilados/Exilados|Exilados]]:** Pronunciou os banimentos daqueles que foram expulsos de Raiz-Funda, sentenças que jamais foram revertidas.
+* **[[NPCs/Zog|Zog]]:** Enquanto Zog aponta o que foi rompido com o pântano, Rói-Raiz arbitra as consequências humanas dentro da aldeia.
+* **[[Exilados/Exilados|Exilados]]:** Pronunciou os banimentos de todos os expulsos de Raiz-Funda, sentenças jamais revertidas.
 
 ## O que se Conta pelo Pântano
-- **Sentença Sem Volta:** Forasteiros que chegam à Casa do Ancião aprendem cedo que ninguém negocia com Velho Rói-Raiz: em Raiz-Funda, nunca houve um perdão depois que o juiz declarou o banimento.
+- **Sentença Sem Volta:** Forasteiros que chegam à Casa do Ancião aprendem depressa que não há barganha com Velho Rói-Raiz: em Raiz-Funda, nunca houve perdão depois que o juiz declarou o banimento.
 
 ---
 

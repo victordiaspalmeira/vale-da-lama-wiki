@@ -22,19 +22,19 @@ aliases: ["Ídolo de Nyog'Sothep", "Ídolo de Madeira", "O Ídolo"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-O **Ídolo de Nyog'Sothep** é a relíquia fundadora da fé dos [[Tribos/Masca-Musgo|Masca-Musgo]] e o objeto mais guardado de [[Geografia/Raiz-Funda|Raiz-Funda]]: uma escultura antiga de madeira que desencadeou a libertação dos goblins da escravidão do fogo e que hoje repousa sob vigilância cerrada no coração do [[Geografia/Jardim Dourado|Jardim Dourado]].
+O **Ídolo de Nyog'Sothep** é a relíquia fundadora da fé dos [[Tribos/Masca-Musgo|Masca-Musgo]] e o segredo mais bem guardado de [[Geografia/Raiz-Funda|Raiz-Funda]]: uma escultura antiga de madeira que desencadeou a fuga da escravidão do fogo e hoje repousa sob vigilância cerrada no [[Geografia/Jardim Dourado|Jardim Dourado]].
 
 ## Natureza e Funcionamento
-A peça representa uma **mosca extremamente detalhada**, repousando sobre a **boca aberta de um sapo de madeira menos detalhado**. Mesmo após séculos longe das montanhas onde foi encontrada, a escultura produz continuamente pequenas quantidades de [[Cosmologia/Micelio Dourado|Micélio Dourado]] dentro de si e nos seus arredores.
+A peça mostra uma **mosca entalhada em minúcia**, pousada sobre a **boca aberta de um sapo de madeira mais rústico**. Mesmo séculos depois de deixar as montanhas, a madeira segue brotando pequenas porções de [[Cosmologia/Micelio Dourado|Micélio Dourado]] por dentro e ao redor.
 
 ## Origem e Tradição
-Durante a era de escravidão sob os [[Tribos/Povo Dragão|Dragões Vermelhos]], os goblins descobriram o ídolo em uma câmara escavada dentro das minas das [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]]. Ao mastigarem o Micélio Dourado que brotava da madeira antiga, receberam **intensas visões febris** que revelaram o caminho para se livrarem da escravidão do fogo — dando início aos vinte anos de sabotagem com esporos e à [[Historia/A Grande Morte Lenta|Grande Morte Lenta]].
+Nos tempos de cativeiro sob os [[Tribos/Povo Dragão|Dragões Vermelhos]], os goblins acharam o ídolo numa câmara escavada dentro das minas das [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]]. Ao mascar o Micélio Dourado que nascia da madeira, receberam **visões febris** que apontaram o caminho da revolta — abrindo os vinte anos de sabotagem com esporos e a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]].
 
 ## Prática e Tabus
-Após a fuga das montanhas e a **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**, a relíquia foi trazida para o [[Geografia/Vale da Lama|Vale da Lama]]. Hoje, o Ídolo permanece guardado no interior do **[[Geografia/Jardim Dourado|Jardim Dourado]]** em [[Geografia/Raiz-Funda|Raiz-Funda]], protegido pelos **[[Tribos/Jardineiros|Jardineiros]]** — uma ordem própria de guardas subordinada diretamente ao alto clero (independente da guarda regular de [[NPCs/Varga|Varga]]) — e acessível **apenas a membros do alto clero** (como o [[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]).
+Depois da fuga das montanhas e da **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**, a tribo trouxe a relíquia para o [[Geografia/Vale da Lama|Vale da Lama]]. Hoje o Ídolo repousa no interior do **[[Geografia/Jardim Dourado|Jardim Dourado]]** em [[Geografia/Raiz-Funda|Raiz-Funda]], protegido pelos **[[Tribos/Jardineiros|Jardineiros]]** — guarda própria subordinada ao alto clero e independente das patrulhas de [[NPCs/Varga|Varga]] — e acessível **apenas ao alto clero**, como o [[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]].
 
 ## O que se Conta pelo Pântano
-- **A Relíquia Proibida:** Mesmo entre os moradores antigos de Raiz-Funda, poucos já viram o Ídolo com os próprios olhos; a maioria conhece apenas o seu formato pelas histórias de [[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]] sobre o dia em que a madeira brotou ouro dentro das minas escuras.
+- **A Relíquia Proibida:** Mesmo entre os anciãos de Raiz-Funda, quase ninguém viu o Ídolo com os próprios olhos; a maioria conhece seu feitio pelas histórias de [[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]] sobre o dia em que a madeira brotou ouro na escuridão das minas.
 
 ---
 

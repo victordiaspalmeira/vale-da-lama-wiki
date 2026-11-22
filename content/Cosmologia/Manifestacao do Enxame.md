@@ -23,19 +23,19 @@ aliases: ["Manifestação do Enxame", "A Manifestação do Enxame"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-A **Manifestação do Enxame** é a forma rara e localizada pela qual [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] — normalmente uma consciência difusa espalhada pelo micélio subterrâneo e pelos esporos — condensa sua presença no plano físico do [[Geografia/Vale da Lama|Vale da Lama]].
+Na **Manifestação do Enxame**, [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] — normalmente espalhado pelo micélio subterrâneo e pelos esporos — condensa sua presença em um único ponto do [[Geografia/Vale da Lama|Vale da Lama]].
 
 ## Natureza e Funcionamento
-Em ocasiões excepcionais, durante rituais solenes de condução espiritual ou diante de profanações graves contra o ciclo da decomposição, uma nuvem densa de **moscas negras e dourado-metálicas** parece brotar diretamente da lama úmida e das frestas das cascas de árvore. A nuvem vibra no ar produzindo um zumbido grave que ressoa dentro dos ossos dos presentes.
+Em ocasiões raras, durante rituais solenes ou diante de profanações graves contra o ciclo da decomposição, uma nuvem fechada de **moscas negras e dourado-metálicas** brota da lama úmida e das frestas das cascas. O enxame vibra no ar num zumbido grave que reverbera dentro dos ossos de quem está por perto.
 
 ## Origem e Tradição
-A própria imagem da mosca detalhada sobre a boca aberta de um sapo no [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] ecoa essa ligação ancestral entre o Deus Fúngico e os enxames de moscas do brejo.
+A própria imagem da mosca entalhada sobre a boca aberta de um sapo no [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] ecoa essa ligação antiga entre o Deus Fúngico e os enxames do brejo.
 
 ## Prática e Tabus
-Quando o enxame se ergue em [[Geografia/Raiz-Funda|Raiz-Funda]] ou no [[Geografia/Jardim Dourado|Jardim Dourado]], até os sacerdotes baixam a cabeça em silêncio: para os devotos, ser tocado sem receber picadas pelo enxame é um sinal raríssimo de bênção sacerdotal.
+Quando a nuvem se ergue em [[Geografia/Raiz-Funda|Raiz-Funda]] ou no [[Geografia/Jardim Dourado|Jardim Dourado]], até os sacerdotes abaixam a cabeça em silêncio: para os devotos, ser tocado pelo enxame sem levar picadas é sinal raríssimo de bênção.
 
 ## O que se Conta pelo Pântano
-- **O Zumbido nos Ossos:** Quem já presenciou a Manifestação do Enxame afirma que o som não entra apenas pelos ouvidos, mas faz vibrar cada dente e osso do corpo como aviso de que nada no vale escapa à rede do micélio.
+- **O Zumbido nos Ossos:** Quem já ficou diante da Manifestação do Enxame conta que o som não entra só pelos ouvidos — faz vibrar os dentes e cada junta do corpo, como aviso de que nada no vale escapa à rede do micélio.
 
 ---
 

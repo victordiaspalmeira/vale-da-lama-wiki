@@ -22,21 +22,21 @@ aliases: ["Fio Espiritual", "O Fio Espiritual", "Vínculo Espiritual"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**O Fio Espiritual** é o laço invisível pelo qual [[Deuses-Fera/Mael'ra|Mael'ra, a Deusa-Fera Aranha]] sela acordos quando alguém recorre a ela ou aos [[Tribos/Tece-Pele|Tece-Pele]] para pedir um **favor específico**. Diferente das trocas comuns de informação por informação, o favor da aranha exige uma garantia direta da própria alma do devedor.
+**O Fio Espiritual** sela os acordos de [[Deuses-Fera/Mael'ra|Mael'ra, a Deusa-Fera Aranha]] quando alguém recorre a ela ou aos [[Tribos/Tece-Pele|Tece-Pele]] para pedir um **favor específico**. Trocar informação por informação não cria essa dívida; pedir um favor exige a própria alma como penhor.
 
 ## Natureza e Funcionamento
-Ao conceder um favor específico, Mael'ra estabelece um **[[Tribos/Suturas em Carne Viva|vínculo com a teia]]**: a pessoa é amarrada por um fio espiritual invisível ao plano comum. Enquanto o prazo combinado corre, o devedor permanece ligado à teia da deusa até cumprir o preço acordado.
+Ao conceder o favor, Mael'ra estabelece um **[[Tribos/Suturas em Carne Viva|vínculo com a teia]]**, atando o devedor por um fio invisível ao plano comum. Enquanto o prazo corre, o devedor permanece preso à teia da aranha até quitar o combinado.
 
-Se o pagamento não for entregue em tempo hábil, o fio espiritual se retrai e **puxa a alma do devedor até o covil de Mael'ra**, onde é devorada — deixando para trás os [[Criaturas/Aranhas Parasitas e Corpos Vazios|corpos vazios vagando pelo pântano como berçário para aranhas parasitas]].
+Se o pagamento atrasar ou falhar, o fio se retrai e **arrasta a alma do devedor até o covil de Mael'ra**, onde é devorada — deixando para trás os [[Criaturas/Aranhas Parasitas e Corpos Vazios|corpos vazios vagando pelo pântano como berçário para aranhas parasitas]].
 
 ## Origem e Tradição
 *A preencher.*
 
 ## Prática e Tabus
-Quem se emaranha fisicamente em uma [[Tribos/Teia Prateada|Teia Prateada]] já é considerado marcado por Mael'ra, ficando sob o olhar atento de seus agentes antes mesmo de qualquer acordo ser firmado.
+Quem se enrosca em uma [[Tribos/Teia Prateada|Teia Prateada]] já fica marcado por Mael'ra, sob o olhar de seus agentes antes mesmo de qualquer trato ser fechado.
 
 ## O que se Conta pelo Pântano
-- **A Diferença Entre Notícia e Favor:** Mercadores e batedores experientes repetem que trocar segredos com um Tece-Pele custa apenas outro segredo — mas pedir um favor a Mael'ra é aceitar um fio preso diretamente à própria alma.
+- **A Diferença Entre Notícia e Favor:** Mercadores e batedores do cais repetem que trocar segredos com um Tece-Pele custa apenas outro segredo — mas pedir um favor a Mael'ra é aceitar um fio amarrado direto na própria alma.
 
 ---
 

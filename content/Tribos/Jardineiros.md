@@ -35,19 +35,19 @@ Os **Jardineiros** formam a ordem própria de sentinelas que protege o [[Geograf
 *A preencher.*
 
 ## Organização e Ocupações
-Os Jardineiros **respondem exclusivamente ao alto clero** de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] — como o [[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]] —, mantendo autonomia total em relação à guarda regular da aldeia.
+Os Jardineiros **respondem apenas ao alto clero** de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] — como o [[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]] —, sem dever obediência à guarda regular da aldeia.
 
-Seu dever é manter vigilância contínua sobre as pontes e acessos do [[Geografia/Jardim Dourado|Jardim Dourado]], garantindo que apenas as figuras autorizadas (Malok, os coveiros-sacerdotes [[NPCs/Irmãos Snakk e Drig|Snakk e Drig]], a decana [[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]] e curandeiros autorizados como [[NPCs/Snikk|Snikk]]) cruzem o círculo interno — e que ninguém fora do alto clero se aproxime do [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]].
+Vigiam dia e noite as pontes e os acessos do [[Geografia/Jardim Dourado|Jardim Dourado]]. Só passam para o círculo interno o próprio Malok, os coveiros-sacerdotes [[NPCs/Irmãos Snakk e Drig|Snakk e Drig]], a decana [[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]] e curandeiros autorizados como [[NPCs/Snikk|Snikk]] — e ninguém fora do alto clero chega perto do [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]].
 
-Entre seus integrantes estão os próprios coveiros **[[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]]**, que além de conduzirem o *Ciclo da Devolução* são **combatentes exímios, apesar de meio burros**, defendendo o santuário contra qualquer intruso.
+Entre eles estão os próprios coveiros **[[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]]**, que além de conduzirem o *Ciclo da Devolução* lutam como **combatentes exímios, apesar de meio burros**, barrando qualquer intruso que pise onde não deve.
 
 ## Relações e Alianças
-* **[[NPCs/Sacerdote-Chefe Malok|Alto Clero (Malok)]]:** A única autoridade a quem os Jardineiros prestam contas.
-* **[[NPCs/Varga|Varga]]:** Atuam de maneira separada e independente da Capitã da Guarda; a jurisdição de Varga termina exatamente onde começam os limites do Jardim Dourado.
-* **[[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]]:** Partilham diariamente a vigilância silenciosa sob as arcadas do santuário durante o *Ciclo da Devolução* e a colheita do [[Cosmologia/Micelio Dourado|Micélio Dourado]].
+* **[[NPCs/Sacerdote-Chefe Malok|Alto Clero (Malok)]]:** A única voz a que os Jardineiros respondem.
+* **[[NPCs/Varga|Varga]]:** Não respondem à Capitã da Guarda; a jurisdição de Varga termina na beira das pontes do Jardim Dourado.
+* **[[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]]:** Partilham a vigília silenciosa sob as arcadas do santuário durante o *Ciclo da Devolução* e a colheita do [[Cosmologia/Micelio Dourado|Micélio Dourado]].
 
 ## O que se Conta pelo Pântano
-- **Silêncio sob a Névoa Âmbar:** Moradores comuns de Raiz-Funda raramente veem o interior do círculo guardado pelos Jardineiros; dizem que, diferente das sentinelas de Varga que se comunicam por assobios nas copas, os guardas do Jardim Dourado permanecem imóveis na névoa doce de esporos, barrando a passagem sem precisar erguer a voz.
+- **Quieto na Névoa Âmbar:** Poucos moradores de Raiz-Funda já viram o miolo do Jardim Dourado. Comentam nas passarelas que, enquanto as sentinelas de Varga se chamam por assobios nas copas, os Jardineiros ficam imóveis na névoa doce de esporos e fecham a passagem sem erguer a voz.
 
 ---
 

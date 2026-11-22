@@ -26,18 +26,18 @@ aliases: ["Deus Fúngico", "Nyog'Sothep", "Jardim Dourado", "Ciclo de Devoluçã
 
 <blockquote class="epigraph">"Toda criatura viva carrega apenas um empréstimo temporário de matéria."</blockquote>
 
-**Nyog'Sothep** é o **[[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]]** adorado pelos [[Tribos/Masca-Musgo|Masca-Musgo]], a entidade fúngica primordial do [[Geografia/Vale da Lama|Vale da Lama]] que personifica o ciclo eterno de decomposição, fermentação e renascimento. Para seus devotos, ele é ao mesmo tempo o libertador que derrubou os Dragões Vermelhos e a força implacável que, cedo ou tarde, reclama toda carne de volta ao solo.
+**Nyog'Sothep** é o **[[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]]** dos [[Tribos/Masca-Musgo|Masca-Musgo]], a força fúngica primordial do [[Geografia/Vale da Lama|Vale da Lama]] ligada à decomposição, à fermentação e ao renascimento. Para seus devotos, é ao mesmo tempo o libertador que minou os Dragões Vermelhos e a lei silenciosa que, cedo ou tarde, reclama toda carne de volta ao solo.
 
 ## Aparência
-Como Deus Verdadeiro, ele **não possui forma física definida** e **não interage de maneira tão direta com o plano físico** — diferente dos [[Deuses-Fera/Deus-Fera|Deuses-Fera]], que transitam com muito mais facilidade entre o etéreo e o físico. Ele não possui trono, rosto esculpido ou corte de avatares, tampouco comanda Deuses-Fera menores para agir em seu nome. Para o clero de [[Geografia/Raiz-Funda|Raiz-Funda]], Nyog'Sothep é vasto demais para caber em um único corpo: sua presença opera através da rede subterrânea de micélio, dos esporos e do [[Cosmologia/Micelio Dourado|Micélio Dourado]], desmanchando madeira, osso, pele e escama antiga para devolver sustento ao brejo.
+Como Deus Verdadeiro, **não tem forma física definida** nem **age de maneira direta no plano físico** — ao contrário dos [[Deuses-Fera/Deus-Fera|Deuses-Fera]], que transitam com facilidade entre o etéreo e o físico. Não mantém trono, rosto esculpido nem corte de avatares, tampouco comanda Deuses-Fera menores em seu nome. Para o clero de [[Geografia/Raiz-Funda|Raiz-Funda]], Nyog'Sothep é vasto demais para caber em um corpo: sua presença corre pela rede subterrânea de micélio, pelos esporos e pelo [[Cosmologia/Micelio Dourado|Micélio Dourado]], desmanchando madeira, osso, pele e escama velha para alimentar o brejo.
 
-Em ocasiões excepcionais — durante rituais solenes de condução espiritual ou diante de profanações graves contra o ciclo — o deus condensa sua presença na **Manifestação do Enxame**: uma nuvem densa de moscas negras e dourado-metálicas que parece brotar da própria lama úmida e das frestas das cascas de árvore, formando uma nuvem vibrante cujo zumbido grave ressoa nos ossos dos presentes.
+Em ocasiões raras — durante rituais solenes ou diante de profanações graves — o deus condensa sua presença na **[[Cosmologia/Manifestacao do Enxame|Manifestação do Enxame]]**: uma nuvem fechada de moscas negras e dourado-metálicas que brota da lama úmida e das frestas das cascas, vibrando num zumbido grave que ressoa dentro dos ossos.
 
 ## Personalidade e Maneirismos
-Ele não é um deus da morte estéril, mas da **digestão sagrada**. Na crença do Oeste, toda criatura viva carrega apenas um empréstimo temporário de matéria. Quando um ser morre, Nyog'Sothep reclama o que lhe pertence através do bolor, da larva e do esporo. Cremar um cadáver ou encerrá-lo em pedra seca longe da umidade é considerado roubo cósmico — uma tentativa arrogante de negar ao pântano o alimento que lhe é devido. Por isso, a fé dos Masca-Musgo mistura gratidão profunda por sua libertação com um temor reverente diante de uma entidade que não negocia em termos mortais.
+Não é um deus da morte estéril, mas da **digestão sagrada**. Na fé do Oeste, toda criatura viva carrega apenas um empréstimo temporário de matéria. Quando um corpo morre, Nyog'Sothep cobra o que é seu pelo bolor, pela larva e pelo esporo. Cremar um cadáver ou trancá-lo em pedra seca longe da umidade equivale a roubo cósmico — tentativa arrogante de negar ao pântano o alimento devido. Por isso, a devoção dos Masca-Musgo mistura gratidão pela liberdade conquistada e temor diante de uma entidade que não negocia em termos mortais.
 
 ## História
-Foi nas minas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] que os goblins escravizados encontraram o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] e o primeiro [[Cosmologia/Micelio Dourado|Micélio Dourado]]. Durante os vinte anos da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]], os esporos de Nyog'Sothep minaram os Dragões Vermelhos até a vitória na Batalha da Lua Nova e a consagração do [[Geografia/Jardim Dourado|Jardim Dourado]] em [[Geografia/Raiz-Funda|Raiz-Funda]]. Ainda assim, há limites misteriosos para seu alcance: nas [[Geografia/Terras Verdejantes|Terras Verdejantes]], além das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]], alguma força impede o deus fúngico de expandir o pântano sobre a floresta.
+Nas minas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], goblins escravizados acharam o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] e o primeiro [[Cosmologia/Micelio Dourado|Micélio Dourado]]. Ao longo dos vinte anos da [[Historia/A Grande Morte Lenta|Grande Morte Lenta]], os esporos de Nyog'Sothep corroeram os Dragões Vermelhos até a vitória na Batalha da Lua Nova e a consagração do [[Geografia/Jardim Dourado|Jardim Dourado]], em [[Geografia/Raiz-Funda|Raiz-Funda]]. Ainda assim, seu alcance encontra um limite desconhecido: nas [[Geografia/Terras Verdejantes|Terras Verdejantes]], além das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]], alguma força barra o avanço do pântano sobre a floresta.
 
 ## Função e Ocupação
 
@@ -49,19 +49,19 @@ Foi nas minas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] que os gob
 
 ### O Ciclo da Devolução
 No [[Geografia/Vale da Lama|Vale da Lama]], nada se perde. Quando um membro da tribo falece, o clero conduz o retorno em três estágios no [[Geografia/Jardim Dourado|Jardim Dourado]]:
-1. **O Inchaço (Dias 1 a 3):** O corpo é lavado com água de mangue, privado de metais e couro curtido e deitado sobre um leito de turfa úmida enquanto a carne amolece e o pântano começa a reclamá-lo.
-2. **A Floração (Dias 4 a 12):** Hifas esbranquiçadas e filamentos âmbar perfuram a pele e os pulmões. Os Coveiros-Sacerdotes ([[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]]) observam os padrões do bolor para honrar a memória do falecido.
-3. **O Retorno (Após o 13º dia):** O esqueleto limpo afunda na turfa ou é recolhido para virar ferramenta útil. A consciência do morto dissolve-se na rede micelial de Nyog'Sothep, tornando-se parte da memória silenciosa do pântano.
+1. **O Inchaço (Dias 1 a 3):** O corpo é lavado com água de mangue, despido de metais e couro curtido e deitado na turfa úmida enquanto a carne amolece e o pântano começa a cobrá-lo.
+2. **A Floração (Dias 4 a 12):** Hifas esbranquiçadas e filamentos âmbar rompem a pele e os pulmões. Os Coveiros-Sacerdotes ([[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]]) leem os desenhos do bolor para honrar a memória do morto.
+3. **O Retorno (Após o 13º dia):** O esqueleto limpo afunda na turfa ou é recolhido para virar ferramenta. A consciência se dissolve na rede micelial de Nyog'Sothep, incorporada à memória silenciosa do vale.
 
 ### O Jardim Dourado
 Situado sob as arcadas de mangue no coração de [[Geografia/Raiz-Funda|Raiz-Funda]], o **[[Geografia/Jardim Dourado|Jardim Dourado]]** é o santuário mais sagrado de Nyog'Sothep, protegido pelos [[Tribos/Jardineiros|Jardineiros]] e restrito ao alto clero, decana e curandeiros autorizados.
 
 ## Relações e Alianças
 * **[[Tribos/Masca-Musgo|Masca-Musgo]]:** Seus principais devotos, liderados espiritualmente por [[NPCs/Sacerdote-Chefe Malok|Malok]], [[NPCs/Zog|Zog]] e pelos [[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]].
-* **[[Deuses-Fera/Krr'tak|Krr'tak (a Espadachim)]]:** Possui uma dívida antiga com Nyog'Sothep, motivo pelo qual evita matar goblins.
+* **[[Deuses-Fera/Krr'tak|Krr'tak (a Espadachim)]]:** Carrega uma dívida antiga com Nyog'Sothep, motivo pelo qual evita matar goblins.
 
 ## O que se Conta pelo Pântano
-- **O Toque do Enxame:** Para os devotos, ser tocado sem picadas pela Manifestação do Enxame de moscas negras e dourado-metálicas é um sinal raro de bênção sacerdotal — mas até os mais fiéis baixam a cabeça em silêncio quando o zumbido ecoa nos ossos.
+- **O Toque do Enxame:** Nas passarelas de Raiz-Funda, diz-se que ser tocado pela Manifestação do Enxame sem levar picadas é bênção raríssima — mas até os sacerdotes mais antigos baixam a cabeça em silêncio quando o zumbido começa a vibrar nos dentes.
 
 ---
 

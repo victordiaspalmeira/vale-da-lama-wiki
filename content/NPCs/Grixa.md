@@ -26,26 +26,26 @@ aliases: ["Grixa", "Batedora de Elite"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Grixa** é a **Batedora de Elite** de [[Geografia/Raiz-Funda|Raiz-Funda]], uma das caçadoras mais rápidas e temidas dos [[Tribos/Masca-Musgo|Masca-Musgo]]. Onde outros goblins avançam com cautela pelas rotas antigas, ela lê a inclinação dos juncos, o cheiro da maré e os sinais da neblina para se mover além das fronteiras seguras do oeste.
+**Grixa**, a **Batedora de Elite** dos [[Tribos/Masca-Musgo|Masca-Musgo]], está entre as caçadoras mais rápidas e temidas de [[Geografia/Raiz-Funda|Raiz-Funda]]. Onde outros goblins avançam com cautela pelas rotas antigas, ela lê a inclinação dos juncos, o cheiro da maré e os sinais da neblina para cruzar além das fronteiras seguras do oeste.
 
 ## Aparência
 *A preencher.*
 
 ## Personalidade e Maneirismos
-Rápida, silenciosa e extremamente observadora, Grixa raramente desperdiça movimentos ou palavras. Ao contrário dos veteranos mais conservadores da aldeia, defende **estratégias mais ousadas** diante das ameaças que rondam as fronteiras do [[Geografia/Vale da Lama|Vale da Lama]], acreditando que esperar passivamente atrás das arcadas de mangue apenas dá vantagem aos rivais e predadores.
+Rápida, silenciosa e observadora, Grixa não desperdiça passos nem palavras. Ao contrário dos veteranos mais conservadores da aldeia, defende **estratégias mais ousadas** diante das ameaças que rondam o [[Geografia/Vale da Lama|Vale da Lama]]: para ela, esperar atrás das arcadas de mangue só entrega terreno aos rivais e predadores.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Atua como batedora avançada e guia experiente nas expedições de reconhecimento e na condução de [[Historia/Cacada Sagrada|Caçadas Sagradas]] fora de [[Geografia/Raiz-Funda|Raiz-Funda]]. Conhece bem passagens traiçoeiras até mesmo em regiões labirínticas como o [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]], orientando-se por sinais sutis do terreno onde mapas comuns de nada valem.
+Abre caminho à frente das expedições de reconhecimento e guia [[Historia/Cacada Sagrada|Caçadas Sagradas]] fora de [[Geografia/Raiz-Funda|Raiz-Funda]]. Conhece passagens traiçoeiras até no [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]], lendo sinais sutis do lodo onde mapas de nada servem.
 
 ## Relações e Alianças
-* **[[NPCs/Kruk|Kruk]]:** Rivaliza diretamente com o Mestre dos Caçadores pela posição de liderança das expedições de caça. Enquanto Kruk se apega às rotas tradicionais e à prudência antiga, Grixa pressiona por incursões mais arrojadas e rápidas nas zonas disputadas do pântano.
+* **[[NPCs/Kruk|Kruk]]:** Rivaliza diretamente com o Mestre dos Caçadores pela liderança das expedições. Enquanto Kruk se apega às rotas tradicionais e à prudência antiga, Grixa pressiona por incursões rápidas nas zonas disputadas do pântano.
 
 ## O que se Conta pelo Pântano
-- **Os Passos que Não Afundam:** Caçadores mais jovens comentam que Grixa consegue cruzar canais estreitos e voltar ao cais de Raiz-Funda com notícias das fronteiras antes que o restante do grupo perceba sua ausência.
-- **A Disputa pelo Cais:** Nos arredores do cais e das passarelas, a divisão entre os seguidores da cautela de [[NPCs/Kruk|Kruk]] e os partidários da ousadia de Grixa é um dos assuntos mais comentados entre os jovens que se preparam para a [[Historia/Cacada Sagrada|Caçada Sagrada]].
+- **Os Passos que Não Afundam:** Caçadores mais novos juram que Grixa cruza canais estreitos e volta ao cais de Raiz-Funda com notícias das fronteiras antes que o grupo perceba que ela sumiu na neblina.
+- **A Disputa pelo Cais:** Nas passarelas perto das jangadas, a escolha entre a cautela de [[NPCs/Kruk|Kruk]] e a ousadia de Grixa divide os jovens às vésperas da [[Historia/Cacada Sagrada|Caçada Sagrada]].
 
 ---
 

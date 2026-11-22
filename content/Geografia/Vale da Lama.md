@@ -24,10 +24,10 @@ aliases: ["O Pântano", "Vale da Lama"]
 
 <blockquote class="epigraph">"Tudo o que entra no pântano exige troca; tudo o que cai na lama retorna ao ciclo."</blockquote>
 
-O **Vale da Lama** é uma depressão pantanosa vasta e úmida, cercada por escarpas baixas de rocha erodida que retêm as águas negras e a neblina espessa durante quase todo o ano. Situado a leste das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] e aberto a nordeste para o **[[Geografia/Mar das Brumas|Mar das Brumas]]**, é um mundo fechado por lodo, raízes e fungos gigantes, onde nenhuma estrada pavimentada existe e toda sobrevivência depende de saber ler a água, a maré e os limites invisíveis entre tribos e entidades espirituais.
+O **Vale da Lama** é uma depressão pantanosa extensa a leste das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] e aberta a nordeste para o **[[Geografia/Mar das Brumas|Mar das Brumas]]**. Cercado por escarpas baixas de rocha erodida que retêm as águas e a neblina espessa durante quase todo o ano, é um mundo sem estradas: quem cruza seus canais depende de ler a maré, o lodo e os limites invisíveis entre tribos e entidades espirituais.
 
 ## Geografia e Ambiente
-Não há campos abertos nem caminhos firmes contínuos: a paisagem é um labirinto de canais lodosos, ilhotas de turfa instável, florestas de mangues titânicos e bosques de cogumelos gigantes cujos chapéus filtram a luz do sol. As águas que nascem nas [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] atravessam o vale até convergir no [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], antes de escoarem pelos canais até o mar.
+Não há campos abertos nem caminhos firmes contínuos. O vale se divide em canais lodosos, ilhotas de turfa instável, mangues de raízes altas e bosques de cogumelos gigantes cujos chapéus filtram a luz do sol. As águas que descem das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] atravessam o brejo até convergir no [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], antes de escoarem para o mar.
 
 ![[assets/mapa-vale-da-lama.jpg]]
 
@@ -44,26 +44,26 @@ Não há campos abertos nem caminhos firmes contínuos: a paisagem é um labirin
 | [[Geografia/Terras Verdejantes\|Terras Verdejantes]] | Além das Ruínas (fora do vale) | [[Criaturas/Ulok\|Ulok, a Grande Javali]] | Alto |
 
 ## História
-Eras antes da chegada dos goblins, uma civilização élfica extinta ergueu as estruturas de mármore hoje conhecidas como [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]]. Séculos atrás, após a **[[Historia/A Grande Morte Lenta|Grande Morte Lenta]]** e a **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**, os goblins libertos das minas do oeste perseguiram e exterminaram os [[Tribos/Povo Dragão|Dragões Vermelhos]] em fuga pelo vale — culminando na queda da Matriarca **Cinderath** nas profundezas do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]. A decomposição secular desses corpos tornou as águas ácidas e turvas, criou bolsas de gás sob a lama e fertilizou o solo para o [[Cosmologia/Micelio Dourado|Micélio Dourado]].
+Eras antes dos goblins, uma civilização élfica extinta ergueu os pórticos de mármore hoje conhecidos como [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]]. Séculos atrás, após a **[[Historia/A Grande Morte Lenta|Grande Morte Lenta]]** e a **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**, os goblins libertos das minas do oeste caçaram e exterminaram os [[Tribos/Povo Dragão|Dragões Vermelhos]] em fuga pelo vale — culminando na queda da Matriarca **Cinderath** nas profundezas do lago central. A decomposição secular desses corpos tornou as águas ácidas e turvas, abriu bolsões de gás sob a lama e adubou o solo para o [[Cosmologia/Micelio Dourado|Micélio Dourado]].
 
 ## Sociedade e Pontos de Interesse
-1. **Centro — [[Geografia/Lago da Grande Tirana|O Lago da Grande Tirana]]:** Grande bacia circular de águas negras, fundas e oleosas — ponto de convergência das águas vindas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] — evitada pelos povos do vale por ser palco de lutas entre feras espirituais, bebedouro de predadores e domínio de [[Deuses-Fera/Og'gath|Og'gath]].
-2. **Oeste — [[Geografia/Raiz-Funda|Raiz-Funda]]:** Aldeia feita primariamente de habitações escavadas nos imensos Cogumelos Nodosos e de palafitas, principal assentamento dos [[Tribos/Masca-Musgo|Masca-Musgo]].
-3. **Oeste (Sopé) — [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Os Poços de Turfa e o Brejo do Musgo-Negro]]:** Planície ocre-acinzentada com poços de piche borbulhantes, musgo ácido e lar da serpente de piche [[Deuses-Fera/Suuhr|Suuhr]].
-4. **Noroeste — [[Geografia/Copas da Teia Prateada|As Copas da Teia Prateada]]:** Manguezais altos com dossel contínuo e acampamentos suspensos dos nômades [[Tribos/Tece-Pele|Tece-Pele]].
-5. **Norte-Central e Leste — [[Geografia/Ruinas dos Sem-Nome|As Ruínas dos Sem-Nome]]:** Colunas partidas e arcos ogivais de mármore pálido de uma civilização élfica extinta, evitadas pelos goblins por temor de criaturas de fogo e fumaça.
-6. **Nordeste — [[Geografia/Costa Salobra|A Costa Salobra e Os Caldeirões]]:** Ilhotas de lama, bancos de salitre, caldeirões dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] e áreas de desova de [[Deuses-Fera/Karkinos|Karkinos]].
-7. **Sul — [[Geografia/Aguas Paradas Profundas|As Águas Paradas Profundas]]:** Brejos escuros, abafados e sem correnteza dominados pelos reclusos [[Tribos/Ventre-Inchado|Ventre-Inchado]].
-8. **Leste / Sudeste — [[Geografia/Delta das Aguas Mortas|O Delta das Águas Mortas]]:** Labirinto de dezenas de ilhotas e canais de maré ligando as ruínas e o [[Geografia/Rio Lodo-Negro|Rio Lodo-Negro]] ao [[Geografia/Mar das Brumas|Mar das Brumas]].
+1. **Centro — [[Geografia/Lago da Grande Tirana|O Lago da Grande Tirana]]:** Bacia circular funda e oleosa, evitada pelas tribos por servir de arena a feras espirituais e domínio a [[Deuses-Fera/Og'gath|Og'gath]].
+2. **Oeste — [[Geografia/Raiz-Funda|Raiz-Funda]]:** Aldeia dos [[Tribos/Masca-Musgo|Masca-Musgo]], feita de moradias escavadas nos imensos Cogumelos Nodosos e de palafitas sobre canais escuros.
+3. **Oeste (Sopé) — [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Os Poços de Turfa e o Brejo do Musgo-Negro]]:** Planície ocre-acinzentada de betume borbulhante e musgo corrosivo, lar de [[Deuses-Fera/Suuhr|Suuhr]].
+4. **Noroeste — [[Geografia/Copas da Teia Prateada|As Copas da Teia Prateada]]:** Manguezais altos de dossel contínuo onde os nômades [[Tribos/Tece-Pele|Tece-Pele]] estendem acampamentos suspensos.
+5. **Norte-Central e Leste — [[Geografia/Ruinas dos Sem-Nome|As Ruínas dos Sem-Nome]]:** Colunas partidas e arcos ogivais de mármore pálido, temidos e evitados pelos goblins.
+6. **Nordeste — [[Geografia/Costa Salobra|A Costa Salobra e Os Caldeirões]]:** Ilhotas de lama e crostas de salitre onde os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] fervem salmoura perto das áreas de desova de [[Deuses-Fera/Karkinos|Karkinos]].
+7. **Sul — [[Geografia/Aguas Paradas Profundas|As Águas Paradas Profundas]]:** Brejos abafados e sem correnteza controlados pelos reclusos [[Tribos/Ventre-Inchado|Ventre-Inchado]].
+8. **Leste / Sudeste — [[Geografia/Delta das Aguas Mortas|O Delta das Águas Mortas]]:** Emaranhado de ilhotas e canais de maré que escoa o [[Geografia/Rio Lodo-Negro|Rio Lodo-Negro]] para o [[Geografia/Mar das Brumas|Mar das Brumas]].
 
 ## Perigos e Recursos
-- **Comércio e Fronteiras:** Todo comércio entre os povos do vale ocorre inteiramente por **escambo**. A principal tensão cotidiana é o desrespeito frequente às fronteiras entre os [[Tribos/Masca-Musgo|Masca-Musgo]] e os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]], enquanto os [[Tribos/Ventre-Inchado|Ventre-Inchado]] raramente interagem com o resto do vale.
-- **Leis Espirituais:** A [[Cosmologia/Lei da Troca|Lei da Troca]] e o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] governam o comportamento de quem viaja pelo setor oeste e suas redondezas.
+- **Comércio e Fronteiras:** Toda troca entre os povos do vale acontece por **escambo**. O atrito mais frequente nasce das invasões de fronteira entre os [[Tribos/Masca-Musgo|Masca-Musgo]] e os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]], enquanto os [[Tribos/Ventre-Inchado|Ventre-Inchado]] se mantêm isolados ao sul.
+- **Leis Espirituais:** A [[Cosmologia/Lei da Troca|Lei da Troca]] e o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] regem quem circula pelo setor oeste e arredores.
 
 ## O que se Conta pelo Pântano
-- **[[Deuses-Fera/Og'gath|Sapo-Trovão do Lago Central]]** *(Lago da Grande Tirana — Perigo Extremo)*: anfíbio colossal cujo coaxar grave faz o solo tremer ao redor do lago e que patrulha suas margens como se procurasse por algo.
-- **[[Deuses-Fera/Krr'tak|Krr'tak (a Espadachim)]]** *(Entre Masca-Musgo e Ferve-Alga — Perigo Alto)*: louva-a-deus colossal de humor brutal e violento que evita matar goblins por uma dívida antiga com [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
-- **[[Criaturas/Ulok|Ulok, a Grande Javali]]** *([[Geografia/Terras Verdejantes|Terras Verdejantes]], além das [[Geografia/Ruinas dos Sem-Nome|Ruínas dos Sem-Nome]])*: grande javali que governa com violência a floresta saudável fora do vale.
+- **O Sapo-Trovão do Lago:** Batedores dizem que o coaxar grave de [[Deuses-Fera/Og'gath|Og'gath]] faz tremer as raízes na borda do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], e que ele ronda as margens como quem procura algo perdido na lama.
+- **A Espadachim entre Fronteiras:** Nas trilhas disputadas entre Masca-Musgo e Ferve-Alga, viajantes rezam para não cruzar o caminho de [[Deuses-Fera/Krr'tak|Krr'tak]]; seu humor brutal só poupa goblins por uma dívida antiga com [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] — e nem sempre a dívida segura a lâmina.
+- **A Fúria Além das Pedras Mortas:** Poucos goblins atravessaram as ruínas até as [[Geografia/Terras Verdejantes|Terras Verdejantes]], mas todos repetem que a mata limpa de lá pertence às investidas imprevisíveis de [[Criaturas/Ulok|Ulok, a Grande Javali]].
 
 ---
 

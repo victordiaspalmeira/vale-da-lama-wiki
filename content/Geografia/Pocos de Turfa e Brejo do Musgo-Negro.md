@@ -23,10 +23,10 @@ aliases: ["Os Poços de Turfa e o Brejo do Musgo-Negro", "Poços de Turfa", "Bre
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-Os **Poços de Turfa e o Brejo do Musgo-Negro** formam uma zona de transição seca-lodosa no extremo oeste do [[Geografia/Vale da Lama|Vale da Lama]], encostada diretamente no sopé árido das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]. É uma paisagem hostil de manchas negras borbulhantes e vapores inflamáveis, indispensável para os artesãos de [[Geografia/Raiz-Funda|Raiz-Funda]] — mas governada pela presença preguiçosa e líquida de [[Deuses-Fera/Suuhr|Suuhr]].
+Os **Poços de Turfa e o Brejo do Musgo-Negro** estendem-se na borda oeste do [[Geografia/Vale da Lama|Vale da Lama]], encostados ao sopé árido das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]. Essa faixa seca-lodosa fornece o piche indispensável para os artesãos de [[Geografia/Raiz-Funda|Raiz-Funda]], mas exige respeito absoluto à presença preguiçosa e líquida de [[Deuses-Fera/Suuhr|Suuhr]].
 
 ## Geografia e Ambiente
-Onde o escoamento das montanhas encontra o pântano, a planície ocre-acinzentada torna-se instável e perfurada por poços profundos de piche e turfa espessa. Bolhas fétidas sobem e estouram na superfície betuminosa, liberando gases inflamáveis sobre um solo cercado por crostas de musgo-negro ácido e cogumelos corrosivos.
+Onde o escoamento das montanhas encontra o vale, a planície ocre-acinzentada cede em poços profundos de turfa e betume espesso. Crostas de musgo-negro e cogumelos corrosivos cercam as bordas instáveis, enquanto o ar cheira a enxofre, barro seco e óleo quente.
 
 ## História
 *A preencher.*
@@ -34,18 +34,18 @@ Onde o escoamento das montanhas encontra o pântano, a planície ocre-acinzentad
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-- **Extração de Piche:** Trabalhadores ligados a [[NPCs/Torg|Torg]] vêm até os poços com varas longas e baldes de madeira tratada para recolher piche espesso — sempre respeitando a [[Cosmologia/Lei da Troca|Lei da Troca]], evitando pisar nas crostas finas ao redor das bordas e levando caça fresca para apaziguar [[Deuses-Fera/Suuhr|Suuhr]].
+- **Extração de Piche:** Trabalhadores ligados a [[NPCs/Torg|Torg]] alcançam os poços com varas longas e baldes de madeira tratada, mantendo distância das crostas finas ao redor das bordas e cumprindo a [[Cosmologia/Lei da Troca|Lei da Troca]] antes de mergulhar a primeira vara.
 
 ### NPCs e Criaturas da Região
 - **[[Deuses-Fera/Suuhr|Suuhr]]:** Deus-Fera menor cobra feita do próprio piche líquido dos poços; gorda e preguiçosa, aceita oferendas de caça fresca, especialmente sapos e coelhos.
 
 ## Perigos e Recursos
-- **Recursos:** Piche natural usado por [[NPCs/Torg|Torg]] para calafetar jangadas e impermeabilizar madeira das palafitas de [[Geografia/Raiz-Funda|Raiz-Funda]].
-- **Musgo-Negro e Fungos Corrosivos:** Ao contrário do [[Cosmologia/Micelio Dourado|Micélio Dourado]], o musgo-negro que cresce nas bordas dos poços corrói couro comum e madeira sem tratamento após exposição prolongada.
-- **Bolsões de Gás Inflamável:** As bolhas que estouram na superfície da turfa exalam vapores fétidos e altamente inflamáveis. Qualquer faísca ou chama aberta nas proximidades — já proibidas pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] — pode provocar explosões súbitas no chão, exigindo [[Cosmologia/Mascara de Ervas Amargas|Máscara de Ervas Amargas]] em áreas saturadas.
+- **Recursos:** Piche natural usado por [[NPCs/Torg|Torg]] para calafetar jangadas e impermeabilizar a madeira das palafitas.
+- **Musgo-Negro e Fungos Corrosivos:** Diferente do [[Cosmologia/Micelio Dourado|Micélio Dourado]], o musgo-negro das bordas corrói couro comum e madeira sem tratamento após contato prolongado.
+- **Bolsões de Gás Inflamável:** Bolhas fétidas estouram na superfície betuminosa liberando vapores altamente inflamáveis. Qualquer faísca ou chama aberta — já proibidas pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] — pode incendiar o chão de súbito, e as áreas saturadas exigem [[Cosmologia/Mascara de Ervas Amargas|Máscara de Ervas Amargas]].
 
 ## O que se Conta pelo Pântano
-- **Oferenda antes da Vara:** Coletores experientes repetem que o piche do Brejo do Musgo-Negro pertence a [[Deuses-Fera/Suuhr|Suuhr]] — e quem entra nos poços sem um sapo ou coelho fresco na bolsa corre o risco de ver o próprio betume se erguer em forma de serpente.
+- **Oferenda antes da Vara:** No cais de Raiz-Funda, nenhum coletor embarca para o oeste sem conferir a bolsa: dizem que quem tenta tirar piche sem deixar um sapo ou coelho fresco na borda vê o próprio betume se erguer em anéis atrás de si.
 
 ---
 

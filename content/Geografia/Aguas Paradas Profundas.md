@@ -23,10 +23,10 @@ aliases: ["As Águas Paradas Profundas", "Águas Paradas Profundas", "Sul Profun
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-As **Águas Paradas Profundas** ocupam os brejos escuros, fechados e labirínticos logo ao sul do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], estendendo-se entre a floresta fechada e o **[[Geografia/Rio Lodo-Negro|Rio Lodo-Negro]]** no extremo sul do [[Geografia/Vale da Lama|Vale da Lama]]. É a região mais abafada, silenciosa e estagnada de todo o vale — um território onde a luz do dia quase não toca a superfície da água e onde poucos forasteiros ousam remar.
+As **Águas Paradas Profundas** estendem-se ao sul do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], entre a mata fechada e o **[[Geografia/Rio Lodo-Negro|Rio Lodo-Negro]]**. É o trecho mais abafado e silencioso do [[Geografia/Vale da Lama|Vale da Lama]]: a água não corre, a luz mal rompe o dossel e poucos forasteiros ousam meter o remo ali.
 
 ## Geografia e Ambiente
-Diferente das ilhotas varridas pelo vento marinho da [[Geografia/Costa Salobra|Costa Salobra]] ou dos mangues altos do noroeste, aqui as copas fechadas de árvores retorcidas e cortinas espessas de cipós formam um teto contínuo que bloqueia quase toda a luz solar. Abaixo dele estendem-se canais sem correnteza, águas negras imóveis e ilhotas de lodo traiçoeiro onde o ar permanece quente, pesado e imóvel.
+Longe dos ventos da [[Geografia/Costa Salobra|Costa Salobra]] e das copas altas do noroeste, árvores retorcidas e cortinas cerradas de cipós fecham o céu em um teto contínuo. Embaixo, o ar pesa, quente e imóvel, sobre canais sem correnteza, espelhos de água negra e ilhotas de lodo mole que cedem sob qualquer passo apressado.
 
 ## História
 *A preencher.*
@@ -34,20 +34,20 @@ Diferente das ilhotas varridas pelo vento marinho da [[Geografia/Costa Salobra|C
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-- **Câmaras Semi-Submersas:** Sob os bancos de barro das profundezas, os [[Tribos/Ventre-Inchado|Ventre-Inchado]] escavam abrigos ocultos da luz direta, onde mantêm reservatórios de fermentação e ânforas de barro e couro úmido repletas de [[Tribos/Sanguessugas Gigantes|sanguessugas gigantes]].
-- **Domínio Recluso:** A tribo evita contato com o restante dos povos do vale — especialmente com os [[Tribos/Masca-Musgo|Masca-Musgo]] —, mantendo seus ritos de sangue a [[Deuses-Fera/Sss'kar|Sss'kar]] longe de olhares estranhos.
+- **Câmaras Semi-Submersas:** Sob os bancos de barro das profundezas, os [[Tribos/Ventre-Inchado|Ventre-Inchado]] escavam abrigos longe da luz direta, onde guardam reservatórios de fermentação e ânforas de barro e couro úmido cheias de [[Tribos/Sanguessugas Gigantes|sanguessugas gigantes]].
+- **Domínio Recluso:** A tribo evita o restante do vale — sobretudo os [[Tribos/Masca-Musgo|Masca-Musgo]] — e conduz seus ritos de sangue a [[Deuses-Fera/Sss'kar|Sss'kar]] longe de olhos estranhos.
 
 ### NPCs e Criaturas da Região
-- **[[NPCs/Murok|Murok, o Ancião Centenário]]:** O mais antigo dos anciãos vampíricos (+120 anos), que raramente deixa sua câmara semi-submersa sob os bancos de barro.
-- **[[Deuses-Fera/Sss'kar|Sss'kar]]:** A sanguessuga Deus-Fera colossal que habita as águas paradas e escuras do sul.
-- **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]:** Fera colossal associada ao culto de Sss'kar, cujo habitat natural fica nestes brejos.
+- **[[NPCs/Murok|Murok, o Ancião Centenário]]:** O mais velho dos anciãos vampíricos (+120 anos), que raramente deixa sua câmara semi-submersa sob o barro.
+- **[[Deuses-Fera/Sss'kar|Sss'kar]]:** A sanguessuga Deus-Fera colossal que habita as águas negras do sul.
+- **[[Criaturas/Rainha-Sanguessuga de Águas Paradas|Rainha-Sanguessuga de Águas Paradas]]:** Fera colossal ligada ao culto de Sss'kar, criada nestes brejos.
 
 ## Perigos e Recursos
-- **Doenças, Parasitas e Emboscadas:** Águas estagnadas favorecem infecções, parasitas aquáticos e emboscadas em canais sem saída.
+- **Água Morta e Tocaia:** A estagnação alimenta infecções e parasitas aquáticos, enquanto os canais sem saída favorecem emboscadas contra quem não conhece os desvios do lodo.
 - **Sanguessugas Gigantes:** Criadas em ânforas pelos Ventre-Inchado para sangrias e oferendas de sangue.
 
 ## O que se Conta pelo Pântano
-- **O Silêncio do Sul:** Caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]] evitam o sul profundo; dizem que, diferente das fronteiras do nordeste onde há disputas abertas com os Ferve-Alga, nas Águas Paradas Profundas o perigo não avisa com fumaça nem assobios — apenas espera sob o barro e a água parada.
+- **O Silêncio do Sul:** Caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]] evitam descer além do lago; dizem nos cais que, ao contrário das fronteiras do nordeste — onde a fumaça e os assobios denunciam os Ferve-Alga —, nas Águas Paradas Profundas nada avisa antes do bote. O perigo apenas espera sob o barro e a água morta.
 
 ---
 

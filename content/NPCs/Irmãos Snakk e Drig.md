@@ -26,28 +26,30 @@ aliases: ["Irmãos Snakk e Drig", "Snakk e Drig", "Snakk", "Drig"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-Os **Irmãos Snakk e Drig** são os **Coveiros-Sacerdotes** do [[Geografia/Jardim Dourado|Jardim Dourado]] e integrantes dos **[[Tribos/Jardineiros|Jardineiros]]**, no coração de [[Geografia/Raiz-Funda|Raiz-Funda]]. Passando quase toda a vida sob a penumbra abobadada do santuário e entre os esporos densos da necrópole, são os responsáveis por garantir que nenhum morto da tribo [[Tribos/Masca-Musgo|Masca-Musgo]] seja roubado ao pântano e que o círculo interno permaneça protegido — sendo **combatentes exímios, apesar de meio burros**.
+Os **Irmãos Snakk e Drig** são os **Coveiros-Sacerdotes** do [[Geografia/Jardim Dourado|Jardim Dourado]] e integrantes da ordem dos **[[Tribos/Jardineiros|Jardineiros]]**, no centro de [[Geografia/Raiz-Funda|Raiz-Funda]]. Criados sob as arcadas úmidas da necrópole e longe da luz direta do sol, enterram os mortos dos [[Tribos/Masca-Musgo|Masca-Musgo]], colhem o [[Cosmologia/Micelio Dourado|Micélio Dourado]] e guardam as pontes do círculo interno contra qualquer intruso.
 
 ## Aparência
-São gêmeos pálidos de olhos leitosos, marcados pela permanência constante longe do sol e dentro da névoa âmbar do santuário.
+São gêmeos de pele pálida e olhos leitosos, desbotados por anos inteiros dentro da penumbra âmbar e da névoa doce de esporos do santuário.
 
 ## Personalidade e Maneirismos
-São meio burros e pouco dados a sutilezas fora de seus deveres rituais, compensando a falta de esperteza com obediência direta ao alto clero e uma ferocidade impressionante quando precisam defender o santuário.
+Snakk e Drig têm pouca malícia fora de seus ritos — são meio burros, lentos para argumentos retorcidos e indiferentes às intrigas do cais. Em compensação, seguem sem hesitar as ordens do alto clero e lutam com uma precisão brutal quando alguém tenta violar os canteiros sagrados, revelando-se combatentes exímios diante de qualquer ameaça.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-- **O Ciclo da Devolução:** Conduzem os corpos dos falecidos pelos três estágios do [[Cosmologia/Nyog'Sothep#O Ciclo da Devolução|Ciclo da Devolução]] nos leitos de turfa do Jardim Dourado — lavando o corpo com água de mangue e retirando metais e couros em *O Inchaço* (dias 1 a 3), lendo os padrões do bolor em *A Floração* (dias 4 a 12) para honrar a memória do morto, e recolhendo os ossos limpos ou deixando-os afundar em *O Retorno* (após o 13º dia).
-- **Cultivo e Colheita do Micélio Dourado:** Cuidam dos canteiros bioluminescentes ao redor do monte central e realizam a colheita controlada de [[Cosmologia/Micelio Dourado|Micélio Dourado]] sob a [[Cosmologia/Lei da Troca|Lei da Troca]].
+- **O Ciclo da Devolução:** Conduzem cada corpo pelos três estágios do [[Cosmologia/Ciclo da Devolucao|Ciclo da Devolução]] nos leitos de turfa do Jardim Dourado. Em *O Inchaço* (dias 1 a 3), lavam o cadáver com água de mangue e retiram metais e couros; em *A Floração* (dias 4 a 12), leem os desenhos do bolor sobre a pele para honrar a memória do falecido; após o 13º dia (*O Retorno*), recolhem os ossos limpos ou deixam que afundem na lama fértil.
+- **Cultivo do Micélio Dourado:** Zelam pelos canteiros bioluminescentes ao redor do monte central e colhem o [[Cosmologia/Micelio Dourado|Micélio Dourado]] na medida exata exigida pela [[Cosmologia/Lei da Troca|Lei da Troca]].
 
 ## Relações e Alianças
-* **[[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]:** Atuam sob a supervisão do líder espiritual de Raiz-Funda nos ritos do Jardim Dourado.
-* **[[NPCs/Snikk|Snikk]]:** Fornecem ao Curandeiro-Chefe o [[Cosmologia/Micelio Dourado|Micélio Dourado]] puro necessário para tratar ferimentos graves na aldeia.
+* **[[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]:** Obedecem diretamente ao líder espiritual de Raiz-Funda, que supervisiona os ritos do santuário.
+* **[[Tribos/Jardineiros|Jardineiros]]:** Dividem a vigília silenciosa nas passagens do círculo interno, onde a guarda regular de [[NPCs/Varga|Varga]] não tem autoridade.
+* **[[NPCs/Snikk|Snikk]]:** Entregam ao Curandeiro-Chefe as porções puras de [[Cosmologia/Micelio Dourado|Micélio Dourado]] usadas no tratamento de ferimentos graves.
 
 ## O que se Conta pelo Pântano
-- **Olhos que Leem o Bolor:** Moradores que jamais cruzaram as pontes do círculo interno dizem que Snakk e Drig reconhecem a vida inteira de um goblin apenas pela cor e pelo desenho das hifas que brotam durante a *Floração*.
+- **Olhos que Leem o Bolor:** Quem nunca pisou além das pontes internas garante que Snakk e Drig conseguem narrar a vida inteira de um goblin só pela cor e pelo traçado das hifas que brotam durante *A Floração*.
+- **Pás que Não Erram:** Nas fogueiras fora do santuário, caçadores mais ousados costumam rir da lentidão dos gêmeos para entender uma piada — mas ninguém se atreve a testar o alcance deles perto dos canteiros dourados.
 
 ---
 
-**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Geografia/Jardim Dourado|Jardim Dourado]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]] | [[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]
+**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Geografia/Jardim Dourado|Jardim Dourado]] | [[Tribos/Jardineiros|Jardineiros]] | [[Cosmologia/Ciclo da Devolucao|Ciclo da Devolução]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]] | [[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]

@@ -26,25 +26,25 @@ aliases: ["Kruk", "Mestre dos Caçadores"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Kruk** é o **Mestre dos Caçadores** de [[Geografia/Raiz-Funda|Raiz-Funda]], figura central na condução das [[Historia/Cacada Sagrada|Caçadas Sagradas]] e guardião prático das leis antigas que mantêm os caçadores [[Tribos/Masca-Musgo|Masca-Musgo]] vivos em meio aos Deuses-Fera e às fronteiras hostis do [[Geografia/Vale da Lama|Vale da Lama]].
+**Kruk**, o **Mestre dos Caçadores** de [[Geografia/Raiz-Funda|Raiz-Funda]], conduz as [[Historia/Cacada Sagrada|Caçadas Sagradas]] e sustenta na prática as leis antigas que mantêm os [[Tribos/Masca-Musgo|Masca-Musgo]] vivos entre Deuses-Fera e fronteiras hostis.
 
 ## Aparência
-Um veterano marcado por cicatrizes antigas de uma vida inteira patrulhando os canais e o lodo profundo do pântano.
+Veterano marcado por cicatrizes antigas de uma vida inteira patrulhando canais e lodo profundo.
 
 ## Personalidade e Maneirismos
-Tradicionalista, metódico e cauteloso, Kruk acredita que a sobrevivência da tribo depende de não provocar forças maiores do que se pode abater. Defende o respeito rigoroso à [[Cosmologia/Lei da Troca|Lei da Troca]], ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] e às [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|regras de ninhadas e territórios sagrados de desova]].
+Tradicionalista, metódico e cauteloso, Kruk acredita que a tribo só sobrevive quando não provoca forças maiores do que pode abater. Segue à risca a [[Cosmologia/Lei da Troca|Lei da Troca]], o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] e as [[Deuses-Fera/Deus-Fera#Regras de Caçada Ninhadas vs. Territórios Sagrados de Desova|regras de ninhadas e territórios sagrados de desova]].
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Como líder tradicional das [[Historia/Cacada Sagrada|Caçadas Sagradas]], Kruk conhece cada canal, banco de lodo e sinal de passagem do [[Geografia/Vale da Lama|Vale da Lama]] — inclusive rotas traiçoeiras até o [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]]. É ele quem orienta os jovens iniciados durante a provação que os torna adultos perante [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], garantindo que o sacrifício da carne e o retorno ao ciclo sejam cumpridos sem erro.
+À frente das [[Historia/Cacada Sagrada|Caçadas Sagradas]], Kruk conhece cada canal, banco de lodo e rastro do [[Geografia/Vale da Lama|Vale da Lama]] — inclusive passagens traiçoeiras até o [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]]. Orienta os jovens iniciados na provação que os torna adultos perante [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], exigindo que o sacrifício da carne e o retorno ao ciclo se cumpram sem erro.
 
 ## Relações e Alianças
-* **[[NPCs/Grixa|Grixa]]:** Sua liderança tradicional é diretamente contestada pela batedora de elite Grixa, que defende estratégias mais ousadas e arriscadas nas fronteiras do vale.
+* **[[NPCs/Grixa|Grixa]]:** Sua liderança tradicional enfrenta oposição direta da batedora de elite Grixa, que defende incursões mais ousadas e arriscadas nas fronteiras do vale.
 
 ## O que se Conta pelo Pântano
-- **O Peso das Cicatrizes:** Entre os mais velhos da aldeia, diz-se que cada cicatriz no corpo de Kruk marca uma lição sobre por que não se invade enseadas de desova nem se provoca entidades como [[Deuses-Fera/Krr'tak|Krr'tak]] sem necessidade.
+- **O Peso das Cicatrizes:** Nas fogueiras de Raiz-Funda, os mais velhos apontam cada cicatriz no corpo de Kruk como lição viva sobre por que não se invade enseada de desova nem se provoca [[Deuses-Fera/Krr'tak|Krr'tak]] sem necessidade.
 
 ---
 

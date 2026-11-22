@@ -23,19 +23,19 @@ aliases: ["Aranhas Gigantes do Dossel", "Aranhas Gigantes"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-As **Aranhas Gigantes do Dossel** são predadoras arborícolas que habitam os galhos altos e entrelaçados das [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]], no setor noroeste do [[Geografia/Vale da Lama|Vale da Lama]]. Apesar do risco mortal que representam para qualquer intruso, são a principal fonte da resistente seda prateada usada pelos [[Tribos/Tece-Pele|Tece-Pele]].
+As **Aranhas Gigantes do Dossel** caçam no teto vivo formado pelos galhos entrelaçados das [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]]. Embora matem qualquer intruso sem aviso, sustentam com seus fios a economia e a sobrevivência dos [[Tribos/Tece-Pele|Tece-Pele]].
 
 ## Aparência e Anatomia
 *A preencher.*
 
 ## Comportamento e Ecologia
-Vivem no segundo andar contínuo formado pelas copas dos manguezais altos, acima da neblina dos canais inferiores. Tecem fios de seda prateada extremamente resistentes à umidade do brejo e de decomposição lenta.
+Acima da neblina espessa que afoga os canais inferiores, essas predadoras dominam o segundo andar contínuo dos manguezais altos. Suas glândulas produzem uma seda prateada de decomposição lenta, que resiste à umidade podre do brejo sem perder firmeza.
 
 ## Uso e Relações com as Tribos
-São perigosas para qualquer um que suba nas copas sem conhecer os sinais de território dos [[Tribos/Tece-Pele|Tece-Pele]]. Os devotos de [[Deuses-Fera/Mael'ra|Mael'ra]] colhem a seda dessas aranhas para erguer a [[Tribos/Teia Prateada|Teia Prateada]], suspender seus acampamentos temporários no dossel, praticar [[Tribos/Suturas em Carne Viva|Suturas em Carne Viva]] e negociar em escambo com [[NPCs/Birka|Birka]] em [[Geografia/Raiz-Funda|Raiz-Funda]].
+Subir às copas sem reconhecer as marcas territoriais dos [[Tribos/Tece-Pele|Tece-Pele]] equivale a entrar em teia armada. Os devotos de [[Deuses-Fera/Mael'ra|Mael'ra]] colhem essa seda para suspender os acampamentos da [[Tribos/Teia Prateada|Teia Prateada]], fechar feridas com [[Tribos/Suturas em Carne Viva|Suturas em Carne Viva]] e trocá-la em [[Geografia/Raiz-Funda|Raiz-Funda]] com [[NPCs/Birka|Birka]].
 
 ## O que se Conta pelo Pântano
-- **Seda que Não Apodrece:** Batedores dizem que o mesmo fio capaz de sustentar uma passarela inteira no dossel pode ser visto brilhando na neblina antes que uma aranha do dossel desça sobre quem subiu sem permissão.
+- **Brilho na Neblina:** Nas passarelas de Raiz-Funda, batedores juram que o último aviso antes de uma emboscada no alto das árvores é o lampejo frio de um fio prateado cortando o vapor dos galhos — a mesma seda que, dias depois, segura pontes inteiras sobre o lodo.
 
 ---
 

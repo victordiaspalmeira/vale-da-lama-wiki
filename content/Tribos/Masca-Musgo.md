@@ -61,9 +61,9 @@ Nascido da memória da tirania do [[Tribos/Povo Dragão|Povo Dragão]], o [[Cosm
 Os Masca-Musgo reconhecem e aceitam o caráter transformativo do fogo na alquimia, no artesanato e no preparo de alimentos. Ainda assim, seu uso não é uma prática tão enraizada no cotidiano da tribo quanto a [[Tribos/Preparacao a Frio|Preparação a Frio]]: seja pela umidade constante sob os mangues e Cogumelos Nodosos, seja pela cautela herdada de manter a chama sempre contida e subordinada à ferramenta, como ocorre na [[Geografia/Raiz-Funda#A Forja Periférica de Gnarl|Forja Periférica de Gnarl]]. Fermentação em ácidos naturais, curtume com taninos, elixires frios e trabalho em osso e madeira formam a espinha dorsal do cotidiano da aldeia.
 
 ### Orgulho, Pertencimento e o Peso do Exílio
-Entre os Masca-Musgo, o senso de pertencimento nasce da memória compartilhada de quem sobreviveu unido. Eles carregam um orgulho silencioso por não terem copiado a crueldade de seus antigos mestres: recusam o fogo como arma de suplício, dividem a proteção das passarelas e mantêm viva a história dos que tombaram para que a tribo chegasse ao oeste. Pertencer a Raiz-Funda significa ter lugar entre os Cogumelos Nodosos em vida e ter o corpo devolvido com honra no Jardim Dourado após a morte.
+Entre os Masca-Musgo, pertencer à tribo nasce da memória compartilhada de quem sobreviveu unido. Carregam um orgulho quieto por não terem copiado a crueldade de seus antigos senhores: recusam o fogo como arma de suplício, dividem a vigília das passarelas e guardam nos cantos o nome dos que tombaram até a chegada ao oeste. Ter lugar em Raiz-Funda significa morar entre os Cogumelos Nodosos em vida e voltar com honra à turfa do Jardim Dourado após a morte.
 
-Justamente porque a coesão interna garante a sobrevivência no pântano, romper esse pacto corta o laço de forma irreversível. Infrações menores de forasteiros recebem de [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] a **[[Cosmologia/Sentenca do Esquecimento|Marca de Cinza Fria]]** e o confisco de inflamáveis; crimes capitais com fogo levam à **Sentença do Esquecimento**, apagando o nome do culpado dos cantos da aldeia. Aqueles que são expulsos passam a formar os [[Exilados/Exilados|Exilados]]: nunca houve um caso de perdão ou retorno. Quem tenta se reaproximar de [[Geografia/Raiz-Funda|Raiz-Funda]] é recebido por flechas de aviso das sentinelas de [[NPCs/Varga|Varga]] — e morto se der um passo além do aviso.
+No brejo, sobreviver depende de andar junto; por isso, quem rompe esse pacto corta o laço para sempre. Infrações menores de forasteiros recebem de [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] a **[[Cosmologia/Sentenca do Esquecimento|Marca de Cinza Fria]]** e o confisco de inflamáveis; crimes capitais com fogo levam à **Sentença do Esquecimento**, apagando o nome do culpado dos cantos da aldeia. Os expulsos passam a formar os [[Exilados/Exilados|Exilados]]: nunca houve perdão nem retorno. Quem tenta voltar a [[Geografia/Raiz-Funda|Raiz-Funda]] encontra primeiro as flechas de aviso das sentinelas de [[NPCs/Varga|Varga]] — e morre se der um passo além do aviso.
 
 ## História
 O nome **Masca-Musgo** precede a própria descoberta do [[Cosmologia/Micelio Dourado|Micélio Dourado]]. Durante a era da escravidão do fogo e da escassez nas [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] e em seus arredores, os goblins não tinham muita escolha do que comer, e o musgo comum raspado das pedras úmidas era uma de suas principais fontes de alimento. Longe de ser motivo de vergonha, o antigo apelido foi preservado com orgulho como lembrança de quem eram quando nada possuíam além da própria teimosia em continuar vivos.
@@ -77,14 +77,14 @@ A sociedade Masca-Musgo se organiza em [[Geografia/Raiz-Funda|Raiz-Funda]], alde
 2. **[[NPCs/Zog|Zog (Voz-de-Esporo)]]** — xamã animista, intérprete dos sinais do pântano e conselheiro da [[Cosmologia/Lei da Troca|Lei da Troca]].
 3. **[[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]]** — Coveiros-Sacerdotes que conduzem o Ciclo da Devolução e colhem o [[Cosmologia/Micelio Dourado|Micélio Dourado]].
 4. **[[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]]** — Decana da aldeia e guardiã da memória oral na Casa do Ancião.
-5. **[[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]]** — Juiz das Disputas, responsável pelas sentenças e banimentos.
+5. **[[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]]** — Juiz das Disputas, que profere sentenças e banimentos.
 6. **[[NPCs/Varga|Varga]]** — Capitã da Guarda, comandante dos vigias nas arcadas e das defesas periféricas.
 7. **[[NPCs/Kruk|Kruk]]** — Mestre dos Caçadores, defensor das regras tradicionais de caçada.
 8. **[[NPCs/Grixa|Grixa]]** — Batedora de Elite, rival direta de Kruk pela liderança das expedições.
 9. **[[NPCs/Snikk|Snikk]]** — Curandeiro-Chefe, autorizado a entrar no Jardim Dourado para tratar ferimentos e doenças.
 10. **[[NPCs/Birka|Birka (a Mão-Ácida)]]** — alquimista, curtidora a frio e principal ponte comercial da tribo.
 11. **[[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]]** — ferreiro da Forja Periférica, especialista em metal recuperado, madeira e osso.
-12. **[[NPCs/Torg|Torg]]** — construtor responsável por palafitas, pontes, jangadas calafetadas e calçados de brejo.
+12. **[[NPCs/Torg|Torg]]** — construtor de palafitas, pontes, jangadas calafetadas e calçados de brejo.
 
 ## Relações e Diplomacia
 Todo comércio no vale funciona inteiramente por **escambo**, sem qualquer moeda comum:

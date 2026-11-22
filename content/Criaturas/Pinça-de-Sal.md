@@ -23,19 +23,19 @@ aliases: ["Pinça-de-Sal", "Cria de Karkinos"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Pinça-de-Sal** é um caranguejo-gigante jovem de carapaça vermelha brilhante, avistado recentemente nas águas rasas e nos canais de maré da [[Geografia/Costa Salobra|Costa Salobra]]. Mais do que uma fera comum da costa, é considerado uma cria ligada diretamente a [[Deuses-Fera/Karkinos|Karkinos, o Deus-Caranguejo]], o que torna qualquer encontro com ele um risco tanto físico quanto político no nordeste do vale.
+**Pinça-de-Sal** é uma cria jovem ligada a [[Deuses-Fera/Karkinos|Karkinos, o Deus-Caranguejo]], avistada recentemente na [[Geografia/Costa Salobra|Costa Salobra]]. Encostar nele ou em seu território não atrai apenas garras e pinças: acende um conflito imediato com os senhores do nordeste do vale.
 
 ## Aparência e Anatomia
-Caranguejo-gigante jovem dotado de carapaça vermelha brilhante — ecoando a cor escarlate de Karkinos — e pinças fortes adaptadas a quebrar conchas e defender as enseadas rasas da costa.
+Caranguejo-gigante ainda jovem, de carapaça vermelha brilhante — da mesma cor escarlate de Karkinos — e pinças pesadas, feitas para partir conchas e defender o raso da maré.
 
 ## Comportamento e Ecologia
-Habita os canais de maré e as enseadas rasas da [[Geografia/Costa Salobra|Costa Salobra]], permanecendo próximo às áreas onde os crustáceos ligados a Karkinos depositam seus ovos.
+Ronda os canais de maré e as enseadas rasas da costa, sempre perto dos pontos onde os crustáceos de Karkinos enterram seus ovos.
 
 ## Uso e Relações com as Tribos
-Possui vínculo direto com o culto dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] a [[Deuses-Fera/Karkinos|Karkinos]]. Suas ninhadas e áreas de desova na Costa Salobra são severamente protegidas pela tribo e por seus xamãs, sob a lei que proíbe a entrada nesses berçários fora da estação de acasalamento (e exige permissão formal durante ela).
+Os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] veneram [[Deuses-Fera/Karkinos|Karkinos]] e vigiam com rigor os berçários da Costa Salobra. Por lei da tribo, ninguém entra nas áreas de desova fora da estação de acasalamento — e mesmo nela, só com aval dos xamãs.
 
 ## O que se Conta pelo Pântano
-- **Caça Proibida:** Batedores avisam que caçar Pinça-de-Sal sem permissão dos xamãs da costa pode despertar não só a hostilidade imediata dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]], mas também a própria ira de [[Deuses-Fera/Karkinos|Karkinos]] — trazendo ataques de caranguejos gigantes, doenças de pele e afogamentos misteriosos em águas rasas.
+- **Casco Proibido:** Pescadores da costa cochicham que erguer lança contra Pinça-de-Sal sem bênção dos xamãs chama primeiro as lanças dos Ferve-Alga e depois a maré de Karkinos: pinças na canela, pele em chagas e afogamento em água que não passa do joelho.
 
 ---
 
