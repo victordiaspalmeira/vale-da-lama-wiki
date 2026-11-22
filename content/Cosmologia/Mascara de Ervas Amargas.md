@@ -30,7 +30,7 @@ A **Máscara de Ervas Amargas** é um respirador rústico feito de couro curtido
 *A preencher.*
 
 ## Prática e Tabus
-- **No Jardim Dourado:** No [[Geografia/Jardim Dourado|Jardim Dourado]], o ar é quente, espesso e carregado pelos esporos do [[Cosmologia/Musgo Dourado|Musgo Dourado]] e da decomposição contínua do [[Cosmologia/Nyog'Sothep#O Ciclo da Devolução|Ciclo da Devolução]]. Forasteiros ou visitantes autorizados que se aproximam sem máscara sentem tonturas e náuseas imediatas.
+- **No Jardim Dourado:** No [[Geografia/Jardim Dourado|Jardim Dourado]], o ar é quente, espesso e carregado pelos esporos do [[Cosmologia/Micelio Dourado|Micélio Dourado]] e da decomposição contínua do [[Cosmologia/Nyog'Sothep#O Ciclo da Devolução|Ciclo da Devolução]]. Forasteiros ou visitantes autorizados que se aproximam sem máscara sentem tonturas e náuseas imediatas.
 - **Em Áreas Tóxicas:** Batedores também a utilizam perto dos bolsões de gás dos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]] e nas margens do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] quando bolhas fétidas estouram na superfície.
 
 ## O que se Conta pelo Pântano
@@ -38,4 +38,4 @@ A **Máscara de Ervas Amargas** é um respirador rústico feito de couro curtido
 
 ---
 
-**Veja também:** [[Geografia/Jardim Dourado|Jardim Dourado]] | [[Cosmologia/Musgo Dourado|Musgo Dourado]] | [[NPCs/Birka|Birka]] | [[NPCs/Snikk|Snikk]] | [[Tribos/Preparacao a Frio|Preparação a Frio]]
+**Veja também:** [[Geografia/Jardim Dourado|Jardim Dourado]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]] | [[NPCs/Birka|Birka]] | [[NPCs/Snikk|Snikk]] | [[Tribos/Preparacao a Frio|Preparação a Frio]]

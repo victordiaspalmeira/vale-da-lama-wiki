@@ -22,6 +22,8 @@ aliases: ["Aldeia de Raiz-Funda", "Raiz-Funda"]
 
 # Raiz-Funda
 
+<blockquote class="epigraph">"Entre os Cogumelos Nodosos e sobre a lama que engole os desavisados, a tribo sobrevive sem fogo profano."</blockquote>
+
 **Raiz-Funda** é a aldeia principal dos [[Tribos/Masca-Musgo|Masca-Musgo]], erguida no coração do setor oeste do [[Geografia/Vale da Lama|Vale da Lama]].
 
 ## Geografia e Ambiente
@@ -71,4 +73,4 @@ Onde [[NPCs/Torg|Torg]] constrói e repara jangadas de fundo chato e [[NPCs/Birk
 
 ---
 
-**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Musgo Dourado|Musgo Dourado]] | [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] | [[Tribos/Masca-Musgo|Masca-Musgo]] | [[Geografia/Jardim Dourado|Jardim Dourado]] | [[Exilados/Exilados|Exilados]] | [[Geografia/Vale da Lama|Vale da Lama]]
+**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]] | [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] | [[Tribos/Masca-Musgo|Masca-Musgo]] | [[Geografia/Jardim Dourado|Jardim Dourado]] | [[Exilados/Exilados|Exilados]] | [[Geografia/Vale da Lama|Vale da Lama]]

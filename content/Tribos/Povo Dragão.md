@@ -30,8 +30,8 @@ O **Povo Dragão** refere-se aos **Dragões Vermelhos** da linhagem **Os Filhos 
 *A preencher.*
 
 ## História
-- **Vinte Anos de Veneno:** Após os Goblins descobrirem o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]] nas minas e receberem visões febris do [[Cosmologia/Musgo Dourado|Musgo Dourado]], os Dragões Vermelhos foram envenenados pouco a pouco por esporos finos espalhados em atos de sabotagem ao longo de vinte anos (a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]]).
-- **Batalha da Lua Nova e Fuga:** O excesso de sabotagem acabou adoecendo rápido demais o dragão jovem **Vexar**, revelando o padrão dos esporos. Os Dragões combateram os Goblins, mas a intervenção de Nyog'Sothep através da **Lua Nova** potencializou o Musgo Dourado e os impediu de se defender contra a horda. Após uma noite de batalha incansável, abandonaram seus domínios nas montanhas e voaram para o **leste**, em fuga.
+- **Vinte Anos de Veneno:** Após os Goblins descobrirem o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]] nas minas e receberem visões febris do [[Cosmologia/Micelio Dourado|Micélio Dourado]], os Dragões Vermelhos foram envenenados pouco a pouco por esporos finos espalhados em atos de sabotagem ao longo de vinte anos (a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]]).
+- **Batalha da Lua Nova e Fuga:** O excesso de sabotagem acabou adoecendo rápido demais o dragão jovem **Vexar**, revelando o padrão dos esporos. Os Dragões combateram os Goblins, mas a intervenção de Nyog'Sothep através da **Lua Nova** potencializou o Micélio Dourado e os impediu de se defender contra a horda. Após uma noite de batalha incansável, abandonaram seus domínios nas montanhas e voaram para o **leste**, em fuga.
 - **Primeira Caçada Sagrada:** Perseguidos pelos Goblins através do vale a leste, todos os Dragões fugitivos foram exterminados. A maior deles — a Matriarca **Cinderath** — caiu dentro do grande lago central, hoje chamado [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 ## Organização e Ocupações

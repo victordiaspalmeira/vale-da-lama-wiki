@@ -20,12 +20,14 @@ aliases: ["Grande Morte Lenta", "Primeira Caçada Sagrada", "Ídolo de Nyog'Soth
 
 # A Grande Morte Lenta
 
+<blockquote class="epigraph">"Vinte anos de esporos em silêncio derrubaram o que séculos de correntes não puderam quebrar."</blockquote>
+
 A **Grande Morte Lenta** foi o processo de vinte anos — culminando na Batalha da Lua Nova e na **Primeira Caçada Sagrada** — pelo qual os Goblins se libertaram da escravidão eterna sob os [[Tribos/Povo Dragão|Dragões Vermelhos]] nas [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]] e tomaram o [[Geografia/Vale da Lama|Vale da Lama]] a leste.
 
 ## Antecedentes
 Antes de habitarem o [[Geografia/Vale da Lama|Vale da Lama]], os Goblins eram escravizados por uma linhagem de **[[Tribos/Povo Dragão|Dragões Vermelhos]]** conhecida como **Os Filhos de Ashkor**, forçados a trabalhar sem descanso nas minas escavadas dentro das [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]].
 
-A mudança começou com a descoberta de um **[[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]]** dentro de uma das câmaras das minas: uma **mosca de madeira extremamente detalhada**, repousando sobre a **boca aberta de um sapo de madeira menos detalhado**. Esse ídolo produzia pequenas quantidades de [[Cosmologia/Musgo Dourado|Musgo Dourado]] dentro de si e nos seus arredores. Quando mastigado, o Musgo Dourado provocava nos Goblins **intensas visões febris**, que mostraram o que seria necessário para se livrarem da escravidão eterna.
+A mudança começou com a descoberta de um **[[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]]** dentro de uma das câmaras das minas: uma **mosca de madeira extremamente detalhada**, repousando sobre a **boca aberta de um sapo de madeira menos detalhado**. Esse ídolo produzia pequenas quantidades de [[Cosmologia/Micelio Dourado|Micélio Dourado]] dentro de si e nos seus arredores. Quando mastigado, o Micélio Dourado provocava nos Goblins **intensas visões febris**, que mostraram o que seria necessário para se livrarem da escravidão eterna.
 
 ## O Decorrer dos Acontecimentos
 
@@ -33,7 +35,7 @@ A mudança começou com a descoberta de um **[[Cosmologia/Idolo de Nyog'Sothep|�
 Nos vinte anos seguintes à descoberta do ídolo, sob a devoção silenciosa dos Goblins, [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] envenenou pouco a pouco os corpos milenares dos Dragões Vermelhos através de seus finos esporos — espalhados gradualmente por atos secretos de sabotagem de seus novos fiéis dentro das minas e câmaras dracônicas.
 
 ### A Batalha da Lua Nova
-Após duas décadas de envenenamento lento, o excesso de sabotagem acabou adoecendo rápido demais o dragão jovem **Vexar** — revelando o padrão dos esporos aos antigos senhores antes da hora. Furiosos ao ligar os pontos, os Dragões investiram contra os Goblins para esmagar a rebelião. Contudo, a intervenção de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] através da **Lua Nova** potencializou os efeitos de seu [[Cosmologia/Musgo Dourado|Musgo Dourado]], impedindo que os antigos governantes conseguissem se defender contra a horda Goblin.
+Após duas décadas de envenenamento lento, o excesso de sabotagem acabou adoecendo rápido demais o dragão jovem **Vexar** — revelando o padrão dos esporos aos antigos senhores antes da hora. Furiosos ao ligar os pontos, os Dragões investiram contra os Goblins para esmagar a rebelião. Contudo, a intervenção de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] através da **Lua Nova** potencializou os efeitos de seu [[Cosmologia/Micelio Dourado|Micélio Dourado]], impedindo que os antigos governantes conseguissem se defender contra a horda Goblin.
 
 Após uma noite de batalha incansável, os Dragões sobreviventes se viram obrigados a abandonar seus domínios nas montanhas e voar para o **leste**, em fuga.
 
@@ -51,4 +53,4 @@ A memória da Grande Morte Lenta é preservada pela decana [[NPCs/Vó Mofo-Velho
 
 ---
 
-**Veja também:** [[Tribos/Povo Dragão|Povo Dragão]] | [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] | [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Musgo Dourado|Musgo Dourado]] | [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]
+**Veja também:** [[Tribos/Povo Dragão|Povo Dragão]] | [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] | [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]] | [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]

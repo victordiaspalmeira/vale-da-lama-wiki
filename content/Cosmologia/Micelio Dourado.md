@@ -1,13 +1,13 @@
 ---
-title: Musgo Dourado
-tags: [cosmologia, musgo-dourado, nyog-sothep, cura, visao]
-aliases: ["Musgo Dourado", "Aurumycota sothepi", "Ascensão"]
+title: Micélio Dourado
+tags: [cosmologia, micelio-dourado, nyog-sothep, cura, visao]
+aliases: ["Micélio Dourado", "Aurumycota sothepi", "Ascensão"]
 ---
 
 <div class="infobox">
-  <div class="infobox-title">Musgo Dourado</div>
+  <div class="infobox-title">Micélio Dourado</div>
   <div class="infobox-image">
-    <div class="infobox-placeholder">[ Ilustração: Musgo Dourado ]</div>
+    <div class="infobox-placeholder">[ Ilustração: Micélio Dourado ]</div>
   </div>
   <table>
     <tr><td><b>Tipo</b></td><td>Recurso sagrado e fungo simbiótico</td></tr>
@@ -18,9 +18,9 @@ aliases: ["Musgo Dourado", "Aurumycota sothepi", "Ascensão"]
   </table>
 </div>
 
-# Musgo Dourado
+# Micélio Dourado
 
-O **Musgo Dourado** (*Aurumycota sothepi*) é uma variedade rara de musgo-fungo simbiótico que brota onde a presença de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] é mais forte.
+O **Micélio Dourado** (*Aurumycota sothepi*) é uma variedade rara de micélio fúngico simbiótico que brota onde a presença de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] é mais forte.
 
 ## Natureza e Funcionamento
 
@@ -34,11 +34,11 @@ Na história dos [[Tribos/Masca-Musgo|Masca-Musgo]], suas primeiras porções fo
 Hoje, é especialmente potente quando colhido nos canteiros bioluminescentes do [[Geografia/Jardim Dourado|Jardim Dourado]] ou nas margens do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 ## Prática e Tabus
-Para os [[Tribos/Masca-Musgo|Masca-Musgo]], colher o Musgo Dourado exige respeito absoluto à [[Cosmologia/Lei da Troca|Lei da Troca]].
+Para os [[Tribos/Masca-Musgo|Masca-Musgo]], colher o Micélio Dourado exige respeito absoluto à [[Cosmologia/Lei da Troca|Lei da Troca]].
 
 ### Risco da Ascensão
 > [!warning] Consumo Excessivo
-> O consumo excessivo de Musgo Dourado (mais de uma dose por semana) provoca a brotação de filamentos dourados sob a pele e nas unhas (**Drenado 1**).
+> O consumo excessivo de Micélio Dourado (mais de uma dose por semana) provoca a brotação de filamentos dourados sob a pele e nas unhas (**Drenado 1**).
 
 Os [[Tribos/Masca-Musgo|Masca-Musgo]] não encaram o estágio final desse processo como doença, mas como uma **Ascensão** voluntária: o portador abandona a fala e caminha sozinho até o [[Geografia/Jardim Dourado|Jardim Dourado]] para se deitar entre as raízes e se unir à rede micelial de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 

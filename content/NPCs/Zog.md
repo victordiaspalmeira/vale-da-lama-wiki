@@ -37,14 +37,14 @@ Anda coberto de amuletos de dentes, conchas e ossos que tilintam a cada passo.
 
 ## Função e Ocupação
 - **Lei da Troca:** Conhece profundamente a [[Cosmologia/Lei da Troca|Lei da Troca]] e orienta caçadores e viajantes sobre como pedir passagem, oferendar ao pântano e reparar quebras de reciprocidade.
-- **Visões de Musgo:** Conduz rituais em que pequenas lascas de [[Cosmologia/Musgo Dourado|Musgo Dourado]] são mascadas para sentir as correntes vivas do micélio subterrâneo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
+- **Visões de Musgo:** Conduz rituais em que pequenas lascas de [[Cosmologia/Micelio Dourado|Micélio Dourado]] são mascadas para sentir as correntes vivas do micélio subterrâneo de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
 ## Relações e Alianças
-* **[[Exilados/Skrit|Skrit, o Sem-Troca]]:** Foi Zog quem descobriu as violações de Skrit à Lei da Troca, levando ao seu exílio.
+*A preencher.*
 
 ## O que se Conta pelo Pântano
 *A preencher.*
 
 ---
 
-**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Animismo|Animismo]] | [[Cosmologia/Lei da Troca|Lei da Troca]] | [[Cosmologia/Musgo Dourado|Musgo Dourado]]
+**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Animismo|Animismo]] | [[Cosmologia/Lei da Troca|Lei da Troca]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]]

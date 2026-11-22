@@ -1,6 +1,6 @@
 ---
 title: Snikk
-tags: [npc, curandeiro, masca-musgo, raiz-funda, musgo-dourado]
+tags: [npc, curandeiro, masca-musgo, raiz-funda, micelio-dourado]
 aliases: ["Snikk", "Curandeiro-Chefe"]
 ---
 
@@ -36,7 +36,7 @@ aliases: ["Snikk", "Curandeiro-Chefe"]
 *A preencher.*
 
 ## Função e Ocupação
-Utiliza cataplasmas de [[Cosmologia/Musgo Dourado|Musgo Dourado]] puro e ervas do mangue para tratar ferimentos e infecções pantanosas. Por sua função, é um dos curandeiros autorizados a entrar no [[Geografia/Jardim Dourado|Jardim Dourado]].
+Utiliza cataplasmas de [[Cosmologia/Micelio Dourado|Micélio Dourado]] puro e ervas do mangue para tratar ferimentos e infecções pantanosas. Por sua função, é um dos curandeiros autorizados a entrar no [[Geografia/Jardim Dourado|Jardim Dourado]].
 
 ## Relações e Alianças
 *A preencher.*
@@ -46,4 +46,4 @@ Utiliza cataplasmas de [[Cosmologia/Musgo Dourado|Musgo Dourado]] puro e ervas d
 
 ---
 
-**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Musgo Dourado|Musgo Dourado]] | [[Geografia/Jardim Dourado|Jardim Dourado]]
+**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]] | [[Geografia/Jardim Dourado|Jardim Dourado]]

@@ -44,4 +44,4 @@ Quando um habitante ou visitante precisa reparar uma quebra da Lei da Troca, rec
 
 ---
 
-**Veja também:** [[Cosmologia/Animismo|Animismo]] | [[Cosmologia/Musgo Dourado|Musgo Dourado]] | [[NPCs/Zog|Zog]] | [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] | [[Historia/Cacada Sagrada|A Caçada Sagrada]]
+**Veja também:** [[Cosmologia/Animismo|Animismo]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]] | [[NPCs/Zog|Zog]] | [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] | [[Historia/Cacada Sagrada|A Caçada Sagrada]]

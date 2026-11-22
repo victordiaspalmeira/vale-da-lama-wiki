@@ -33,7 +33,7 @@ São goblins de pele esverdeada-acinzentada, frequentemente manchada por líquen
 - **Fogo como Ferramenta:** Uso estritamente controlado do fogo em forjas isoladas e fogareiros baixos, com proibição absoluta de queimar corpos ou usar chamas em combate (veja [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]).
 
 ## História
-*A preencher.*
+O nome **Masca-Musgo** precede a própria descoberta do [[Cosmologia/Micelio Dourado|Micélio Dourado]]: durante a era nas [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] e em seus arredores, os goblins não tinham muita escolha do que comer, e o musgo comum era uma de suas principais fontes de alimento. Mesmo após a libertação na [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] e a adoção do Micélio Dourado como substância sagrada de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], o antigo nome da tribo persistiu.
 
 ## Organização e Ocupações
 A tribo é organizada hierarquicamente (veja também [[Geografia/Raiz-Funda#Moradores e Líderes|Moradores de Raiz-Funda]]):
@@ -47,11 +47,11 @@ A tribo é organizada hierarquicamente (veja também [[Geografia/Raiz-Funda#Mora
 7. **[[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]]** — Juiz das Disputas
 
 ## Relações e Diplomacia
-Mantêm trocas regulares de peles, seda e reagentes alquímicos com os nômades [[Tribos/Tece-Pele|Tece-Pele]], enquanto preservam uma trégua tensa com os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]] e evitam contato direto com os [[Tribos/Ventre-Inchado|Ventre-Inchado]].
+Todo comércio no vale funciona inteiramente por **escambo**. Os Masca-Musgo mantêm trocas regulares de peles, seda e reagentes alquímicos com os nômades [[Tribos/Tece-Pele|Tece-Pele]]. Com os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]], há uma trégua tensa marcada por atritos frequentes na manutenção das fronteiras entre os territórios — muitas vezes desrespeitadas de ambos os lados, mas difíceis de punir. Já os [[Tribos/Ventre-Inchado|Ventre-Inchado]] raramente interagem com o restante dos povos do vale, sendo evitados pelos Masca-Musgo.
 
 ## O que se Conta pelo Pântano
 *A preencher.*
 
 ---
 
-**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Musgo Dourado|Musgo Dourado]] | [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Animismo|Animismo]] | [[Cosmologia/Lei da Troca|Lei da Troca]] | [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]
+**Veja também:** [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]] | [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Cosmologia/Animismo|Animismo]] | [[Cosmologia/Lei da Troca|Lei da Troca]] | [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]]

@@ -43,7 +43,7 @@ Não queimam seus mortos — devolvem-nos às marés para alimentar os filhos de
 Os Ferve-Alga vivem em aldeias fortificadas com paliçadas de conchas e ossos de crustáceos gigantes. Mantêm grandes fogueiras sob caldeirões de barro grosso para ferver água salgada da Costa Salobra, produzindo sal cristalizado e [[Tribos/Salmoura e Sal Cristalizado|salmoura concentrada]] usada para conservar alimentos, purificar ferimentos e testar a coragem dos iniciados em rituais de beber salmoura quente.
 
 ## Relações e Diplomacia
-* **[[Tribos/Masca-Musgo|Masca-Musgo]]:** Mantêm uma trégua tensa. O tamanho e o número das fogueiras dos Ferve-Alga geram atrito religioso constante com os Masca-Musgo pelo [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]].
+* **[[Tribos/Masca-Musgo|Masca-Musgo]]:** Mantêm uma trégua tensa. Além do atrito religioso causado pelo tamanho e número das fogueiras dos Ferve-Alga frente ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]], a principal fonte de tensão é a manutenção das fronteiras entre os territórios, desrespeitadas com frequência, mas difíceis de punir. Quando há trocas entre grupos, todo o comércio ocorre por **escambo**.
 
 ## O que se Conta pelo Pântano
 *A preencher.*

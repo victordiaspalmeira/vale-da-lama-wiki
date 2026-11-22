@@ -13,7 +13,7 @@ aliases: ["O Delta das Águas Mortas", "Delta das Águas Mortas"]
     <tr><td><b>Tipo</b></td><td>Labirinto de ilhotas e canais de maré</td></tr>
     <tr><td><b>Região</b></td><td>Leste / Sudeste do <a href="../Geografia/Vale-da-Lama" class="internal">Vale da Lama</a></td></tr>
     <tr><td><b>Status</b></td><td>Ativo (fronteira sem lei)</td></tr>
-    <tr><td><b>Facção</b></td><td>Nenhuma (frequentado por <a href="../Exilados/Skrit" class="internal">Skrit</a> e contrabandistas)</td></tr>
+    <tr><td><b>Facção</b></td><td>Nenhuma</td></tr>
     <tr><td><b>Devoção</b></td><td>Nenhuma dominante</td></tr>
     <tr><td><b>Perigo</b></td><td>Alto (desorientação, lodo e correntes)</td></tr>
   </table>
@@ -33,7 +33,6 @@ Não há terra firme contínua — apenas bancos de lodo, raízes expostas, vege
 
 ## Sociedade e Pontos de Interesse
 - **Sinais de Passagem:** Navegadores experientes (e batedores como [[NPCs/Kruk|Kruk]] ou [[NPCs/Grixa|Grixa]]) orientam-se pela inclinação dos juncos, pelo cheiro salobro da água e por eventuais estacas de osso cravadas em bifurcações antigas.
-- **Guias Clandestinos:** Exilados como [[Exilados/Skrit|Skrit, o Sem-Troca]] conhecem as correntes mutáveis da região e atuam como contrabandistas de sal e destroços.
 
 ## Perigos e Recursos
 - **Correntes Traiçoeiras:** Canais enganosos podem puxar jangadas para o Mar das Brumas aberto ou desviá-las para as águas estagnadas das [[Geografia/Aguas Paradas Profundas|Águas Paradas Profundas]] ao sul.

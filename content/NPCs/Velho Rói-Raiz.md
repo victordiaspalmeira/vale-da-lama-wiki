@@ -40,8 +40,7 @@ Julga conflitos internos da tribo, quebras da [[Cosmologia/Lei da Troca|Lei da T
 
 ## Relações e Alianças
 * **[[NPCs/Vó Mofo-Velho|Vó Mofo-Velho]]:** Divide a Casa do Ancião com a decana da tribo.
-* **[[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]:** Atua em conjunto nos julgamentos que envolvem violações sagradas, como o exílio de [[Exilados/Nokk|Nokk]].
-* **[[Exilados/Exilados|Exilados]]:** Pronunciou os banimentos de [[Exilados/Brask|Brask]], [[Exilados/Nokk|Nokk]] e [[Exilados/Skrit|Skrit]].
+* **[[Exilados/Exilados|Exilados]]:** Pronunciou os banimentos de exilados da aldeia.
 
 ## O que se Conta pelo Pântano
 *A preencher.*

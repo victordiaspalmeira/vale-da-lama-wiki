@@ -37,7 +37,7 @@ São gêmeos pálidos de olhos leitosos.
 
 ## Função e Ocupação
 - **Ciclo da Devolução:** Conduzem os corpos dos falecidos pelos três estágios do [[Cosmologia/Nyog'Sothep#O Ciclo da Devolução|Ciclo da Devolução]], observando os padrões do bolor durante a *Floração* para honrar a memória do morto.
-- **Musgo Dourado:** Cuidam dos canteiros bioluminescentes e realizam a colheita controlada de [[Cosmologia/Musgo Dourado|Musgo Dourado]].
+- **Micélio Dourado:** Cuidam dos canteiros bioluminescentes e realizam a colheita controlada de [[Cosmologia/Micelio Dourado|Micélio Dourado]].
 
 ## Relações e Alianças
 * **[[NPCs/Sacerdote-Chefe Malok|Sacerdote-Chefe Malok]]:** Atuam sob a autoridade do clero de [[Geografia/Raiz-Funda|Raiz-Funda]] no cuidado do Jardim Dourado.
@@ -47,4 +47,4 @@ São gêmeos pálidos de olhos leitosos.
 
 ---
 
-**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Geografia/Jardim Dourado|Jardim Dourado]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Musgo Dourado|Musgo Dourado]]
+**Veja também:** [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Geografia/Jardim Dourado|Jardim Dourado]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]]

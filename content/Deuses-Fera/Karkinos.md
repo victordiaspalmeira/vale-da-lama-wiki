@@ -49,4 +49,4 @@ Uma entidade colossal de carapaça vermelha escarlate, olhos vermelhos brilhante
 
 ---
 
-**Veja também:** [[Deuses-Fera/Deus-Fera|Deus-Fera]] | [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] | [[Geografia/Vale da Lama|Vale da Lama]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Musgo Dourado|Musgo Dourado]]
+**Veja também:** [[Deuses-Fera/Deus-Fera|Deus-Fera]] | [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] | [[Geografia/Vale da Lama|Vale da Lama]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]]

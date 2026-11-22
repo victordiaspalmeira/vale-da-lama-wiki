@@ -20,19 +20,21 @@ aliases: ["Exilados", "Os Exilados", "Exilados de Raiz-Funda"]
 
 # Exilados
 
+<blockquote class="epigraph">"Quem volta depois da sentença é recebido pelas flechas das sentinelas — primeiro por aviso, depois para matar."</blockquote>
+
 ## Descrição
 
 Os **Exilados** são antigos moradores de [[Geografia/Raiz-Funda|Raiz-Funda]] expulsos da tribo [[Tribos/Masca-Musgo|Masca-Musgo]] após julgamento de [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] por violarem as normas da aldeia, a honra das caçadas, a [[Cosmologia/Lei da Troca|Lei da Troca]] ou os tabus religiosos de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
-Sem proteção das arcadas de mangue e sem direito ao retorno no [[Geografia/Jardim Dourado|Jardim Dourado]], sobrevivem errando pelas regiões neutras ou hostis do [[Geografia/Vale da Lama|Vale da Lama]].
+Sem proteção das arcadas de mangue e sem direito ao retorno no [[Geografia/Jardim Dourado|Jardim Dourado]], sobrevivem errando pelas regiões neutras ou hostis do [[Geografia/Vale da Lama|Vale da Lama]]. Nunca houve um caso de perdão ou retorno após o exílio: qualquer exilado que tente se reaproximar de Raiz-Funda é recebido com flechas de aviso disparadas pelas sentinelas — e, caso insista em avançar, é morto no local.
 
 ## Exilados Conhecidos
 
 | Exilado | Motivo do Exílio | Paradeiro / Notas |
 |---------|------------------|-------------------|
-| [[Exilados/Brask\|Brask, o Cinza-Quente]] | Violação ao [[Cosmologia/Codigo de Honra do Fogo\|Código de Honra do Fogo]] | Fronteiras ocidentais / [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro\|Poços de Turfa]] |
-| [[Exilados/Skrit\|Skrit, o Sem-Troca]] | Quebra da [[Cosmologia/Lei da Troca\|Lei da Troca]] e contrabando | [[Geografia/Delta das Aguas Mortas\|Delta das Águas Mortas]] / [[Geografia/Costa Salobra\|Costa Salobra]] |
-| [[Exilados/Nokk\|Nokk, o Profano]] | Invasão ao [[Geografia/Jardim Dourado\|Jardim Dourado]] | Arredores das [[Geografia/Ruinas dos Sem-Nome\|Ruínas dos Sem-Nome]] |
+| [[Exilados/Brask\|Brask]] | *A preencher* | *A preencher* |
+| [[Exilados/Skrit\|Skrit]] | *A preencher* | *A preencher* |
+| [[Exilados/Nokk\|Nokk]] | *A preencher* | *A preencher* |
 
 ---
 

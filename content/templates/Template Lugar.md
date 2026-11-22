@@ -30,7 +30,12 @@ Descrição física do terreno, clima, águas, vegetação, construções ou ru�
 Origem do local, eventos marcantes do passado e mudanças ao longo das eras.
 
 ## Sociedade e Pontos de Interesse
-Quem habita ou frequenta o lugar, costumes locais, leis de acesso e pontos de interesse internos.
+
+### Pontos de Interesse
+* **Local Interno:** Descrição curta.
+
+### NPCs e Criaturas da Região
+* **[[NPCs/Nome|Nome]]:** Papel ou presença conhecida no local.
 
 ## Perigos e Recursos
 Ameaças naturais ou espirituais, criaturas da área e recursos coletáveis ou negociáveis.

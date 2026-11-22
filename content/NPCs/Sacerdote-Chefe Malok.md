@@ -40,7 +40,6 @@ Malok pondera cada palavra e zela pela harmonia da aldeia.
 
 ## Relações e Alianças
 * **[[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]]:** Supervisiona os coveiros-sacerdotes do Jardim Dourado.
-* **[[Exilados/Nokk|Nokk, o Profano]]:** Ordenou o banimento de Nokk junto a [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] após a tentativa de invasão ao Jardim Dourado.
 
 ## O que se Conta pelo Pântano
 *A preencher.*

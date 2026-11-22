@@ -14,7 +14,7 @@ aliases: ["As Ruínas dos Sem-Nome", "Ruínas dos Sem-Nome", "As Pedras Mortas"]
     <tr><td><b>Tipo</b></td><td>Ruínas antigas semi-submersas</td></tr>
     <tr><td><b>Região</b></td><td>Península norte-central e margens leste do <a href="../Geografia/Lago-da-Grande-Tirana" class="internal">lago central</a></td></tr>
     <tr><td><b>Status</b></td><td>Abandonado (evitado pelos goblins)</td></tr>
-    <tr><td><b>Facção</b></td><td>Nenhuma (rondadas por <a href="../Exilados/Nokk" class="internal">Nokk, o Profano</a>)</td></tr>
+    <tr><td><b>Facção</b></td><td>Nenhuma (evitada pelos <a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a>)</td></tr>
     <tr><td><b>Devoção</b></td><td>Desconhecida (civilização élfica extinta)</td></tr>
     <tr><td><b>Perigo</b></td><td>Alto (masmorra semi-submersa)</td></tr>
   </table>
@@ -34,14 +34,14 @@ São conjuntos de estruturas arquitetônicas esguias e refinadas: colunas estria
 As ruínas foram erguidas por uma civilização élfica extinta eras antes da chegada dos dragões ao [[Geografia/Vale da Lama|Vale da Lama]]. Os goblins atuais desconhecem completamente quem as construiu.
 
 ## Sociedade e Pontos de Interesse
-Como a pedra trabalhada e fria resiste à decomposição, o musgo e os fungos de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] crescem de forma lenta e doentia sobre as colunas. Por esse motivo, os [[Tribos/Masca-Musgo|Masca-Musgo]] evitam o lugar, considerando-o "estéril" ou amaldiçoado — um ponto morto onde a rede do pântano parece recuar. O exilado [[Exilados/Nokk|Nokk, o Profano]] ronda suas bordas em busca de abrigo.
+Como a pedra trabalhada e fria resiste à decomposição, o musgo e os fungos de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] crescem de forma lenta e doentia sobre as colunas. Por esse motivo, os [[Tribos/Masca-Musgo|Masca-Musgo]] evitam o lugar, considerando-o "estéril" ou amaldiçoado — um ponto morto onde a rede do pântano parece recuar.
 
 ## Perigos e Recursos
 - **Perigos:** Estruturas instáveis e câmaras seladas de uma era desconhecida.
 - **Recursos:** Ferragens antigas e peças recuperadas ocasionalmente aproveitadas por artesãos como [[NPCs/Gnarl Martelo-Torto|Gnarl Martelo-Torto]].
 
 ## O que se Conta pelo Pântano
-*A preencher.*
+Os goblins nunca exploraram a região por medo e superstição: corre o rumor de que criaturas de fogo e fumaça patrulham os túneis ocultos sob as ruínas.
 
 ---
 

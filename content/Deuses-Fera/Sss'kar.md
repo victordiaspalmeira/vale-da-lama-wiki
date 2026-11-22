@@ -49,4 +49,4 @@ Uma sanguessuga colossal adaptada às águas turvas e paradas do sul do pântano
 
 ---
 
-**Veja também:** [[Deuses-Fera/Deus-Fera|Deus-Fera]] | [[Tribos/Ventre-Inchado|Ventre-Inchado]] | [[Geografia/Vale da Lama|Vale da Lama]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Musgo Dourado|Musgo Dourado]]
+**Veja também:** [[Deuses-Fera/Deus-Fera|Deus-Fera]] | [[Tribos/Ventre-Inchado|Ventre-Inchado]] | [[Geografia/Vale da Lama|Vale da Lama]] | [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] | [[Cosmologia/Micelio Dourado|Micélio Dourado]]

@@ -22,6 +22,8 @@ aliases: ["O Pântano", "Vale da Lama"]
 
 # Vale da Lama
 
+<blockquote class="epigraph">"Tudo o que entra no pântano exige troca; tudo o que cai na lama retorna ao ciclo."</blockquote>
+
 O **Vale da Lama** é uma depressão pantanosa vasta e úmida, cercada por escarpas baixas de rocha erodida que retêm as águas negras e a neblina espessa durante quase todo o ano.
 
 ## Geografia e Ambiente
@@ -29,8 +31,20 @@ Não há estradas pavimentadas nem campos abertos: a paisagem é um labirinto de
 
 ![[assets/mapa-vale-da-lama.jpg]]
 
+| Região | Direção | Quem Domina | Nível de Perigo |
+|--------|---------|-------------|-----------------|
+| [[Geografia/Lago da Grande Tirana\|Lago da Grande Tirana]] | Centro | Disputado / Evitado ([[Deuses-Fera/Og'gath\|Og'gath]]) | Alto a Extremo |
+| [[Geografia/Raiz-Funda\|Raiz-Funda]] | Oeste | [[Tribos/Masca-Musgo\|Masca-Musgo]] | Médio para forasteiros |
+| [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro\|Poços de Turfa e Brejo do Musgo-Negro]] | Oeste (Sopé) | [[Deuses-Fera/Suuhr\|Suuhr]] (bordas com exilados) | Alto |
+| [[Geografia/Copas da Teia Prateada\|Copas da Teia Prateada]] | Noroeste | [[Tribos/Tece-Pele\|Tece-Pele]] | Médio a Alto |
+| [[Geografia/Ruinas dos Sem-Nome\|Ruínas dos Sem-Nome]] | Norte-Central e Leste | Nenhuma tribo (evitado) | Alto |
+| [[Geografia/Costa Salobra\|Costa Salobra e Os Caldeirões]] | Nordeste | [[Tribos/Ferve-Alga (Olhos-Vermelhos)\|Ferve-Alga]] ([[Deuses-Fera/Karkinos\|Karkinos]]) | Alto |
+| [[Geografia/Aguas Paradas Profundas\|Águas Paradas Profundas]] | Sul | [[Tribos/Ventre-Inchado\|Ventre-Inchado]] ([[Deuses-Fera/Sss'kar\|Sss'kar]]) | Alto |
+| [[Geografia/Delta das Aguas Mortas\|Delta das Águas Mortas]] | Leste / Sudeste | Nenhuma tribo (contrabando) | Alto |
+| [[Geografia/Terras Verdejantes\|Terras Verdejantes]] | Além das Ruínas (fora do vale) | [[Criaturas/Ulok\|Ulok, a Grande Javali]] | Alto |
+
 ## História
-Séculos atrás, o vale era dominado por dragões antigos, derrubados por [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] durante a **[[Historia/A Grande Morte Lenta|Grande Morte Lenta]]**. A decomposição secular desses corpos tornou as águas ácidas e turvas, criou bolsas de gás sob a lama, fertilizou o solo para o [[Cosmologia/Musgo Dourado|Musgo Dourado]] e deixou os restos titânicos da Grande Tirana submersos no fundo do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
+Séculos atrás, o vale era dominado por dragões antigos, derrubados por [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] durante a **[[Historia/A Grande Morte Lenta|Grande Morte Lenta]]**. A decomposição secular desses corpos tornou as águas ácidas e turvas, criou bolsas de gás sob a lama, fertilizou o solo para o [[Cosmologia/Micelio Dourado|Micélio Dourado]] e deixou os restos titânicos da Grande Tirana submersos no fundo do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 ## Sociedade e Pontos de Interesse
 1. **Centro — [[Geografia/Lago da Grande Tirana|O Lago da Grande Tirana]]:** Grande bacia circular de águas negras, fundas e oleosas — ponto de convergência das águas vindas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] — onde caiu a Matriarca Cinderath ao final da [[Historia/Cacada Sagrada|Primeira Caçada Sagrada]].

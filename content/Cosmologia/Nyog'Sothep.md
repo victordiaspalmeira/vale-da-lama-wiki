@@ -16,7 +16,7 @@ aliases: ["Deus Fúngico", "Nyog'Sothep", "Jardim Dourado", "Ciclo de Devoluçã
     <tr><td><b>Domínio</b></td><td>Decomposição, Fermentação, Esporos</td></tr>
     <tr><td><b>Manifestação</b></td><td>Enxame de moscas negras e verde-metálicas</td></tr>
     <tr><td><b>Santuário</b></td><td><a href="../Geografia/Jardim-Dourado" class="internal">Jardim Dourado</a></td></tr>
-    <tr><td><b>Símbolo</b></td><td><a href="../Cosmologia/Musgo-Dourado" class="internal">Musgo Dourado</a></td></tr>
+    <tr><td><b>Símbolo</b></td><td><a href="../Cosmologia/Micelio-Dourado" class="internal">Micélio Dourado</a></td></tr>
     <tr><td><b>Adoradores</b></td><td><a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
     <tr><td><b>Clero</b></td><td><a href="../NPCs/Sacerdote-Chefe-Malok" class="internal">Malok</a>, <a href="../NPCs/Zog" class="internal">Zog</a>, <a href="../NPCs/Irmãos-Snakk-e-Drig" class="internal">Snakk e Drig</a></td></tr>
   </table>
@@ -24,10 +24,12 @@ aliases: ["Deus Fúngico", "Nyog'Sothep", "Jardim Dourado", "Ciclo de Devoluçã
 
 # Nyog'Sothep
 
+<blockquote class="epigraph">"Toda criatura viva carrega apenas um empréstimo temporário de matéria."</blockquote>
+
 **Nyog'Sothep** é um **[[Cosmologia/Deus Verdadeiro|Deus Verdadeiro]]** adorado pelos [[Tribos/Masca-Musgo|Masca-Musgo]], a entidade fúngica primordial do [[Geografia/Vale da Lama|Vale da Lama]] que personifica o ciclo eterno de decomposição, fermentação e renascimento.
 
 ## Aparência
-Como Deus Verdadeiro, ele **não possui forma física definida** e **não interage de maneira tão direta com o plano físico** — diferente dos [[Deuses-Fera/Deus-Fera|Deuses-Fera]], que transitam com muito mais facilidade entre o etéreo e o físico. Ele não possui trono, rosto esculpido ou corte de avatares, tampouco comanda Deuses-Fera menores para agir em seu nome. Para o clero de [[Geografia/Raiz-Funda|Raiz-Funda]], Nyog'Sothep é vasto demais para caber em um único corpo: sua presença opera através da rede subterrânea de micélio, dos esporos e do [[Cosmologia/Musgo Dourado|Musgo Dourado]], desmanchando madeira, osso, pele e escama antiga para devolver sustento ao brejo.
+Como Deus Verdadeiro, ele **não possui forma física definida** e **não interage de maneira tão direta com o plano físico** — diferente dos [[Deuses-Fera/Deus-Fera|Deuses-Fera]], que transitam com muito mais facilidade entre o etéreo e o físico. Ele não possui trono, rosto esculpido ou corte de avatares, tampouco comanda Deuses-Fera menores para agir em seu nome. Para o clero de [[Geografia/Raiz-Funda|Raiz-Funda]], Nyog'Sothep é vasto demais para caber em um único corpo: sua presença opera através da rede subterrânea de micélio, dos esporos e do [[Cosmologia/Micelio Dourado|Micélio Dourado]], desmanchando madeira, osso, pele e escama antiga para devolver sustento ao brejo.
 
 Em ocasiões excepcionais — durante rituais solenes de condução espiritual ou diante de profanações graves contra o ciclo — o deus condensa sua presença em um enxame denso de moscas negras e verde-metálicas. O enxame parece brotar da própria lama úmida e das frestas das cascas de árvore, formando uma nuvem vibrante cujo zumbido grave ressoa nos ossos dos presentes.
 
@@ -53,7 +55,7 @@ No [[Geografia/Vale da Lama|Vale da Lama]], nada se perde. Quando um membro da t
 3. **O Retorno (Após o 13º dia):** O esqueleto limpo afunda na turfa ou é recolhido para virar ferramenta útil. A consciência do morto dissolve-se na rede micelial de Nyog'Sothep, tornando-se parte da memória silenciosa do pântano.
 
 ### O Jardim Dourado
-Situado sob as arcadas de mangue no coração de [[Geografia/Raiz-Funda|Raiz-Funda]], o **[[Geografia/Jardim Dourado|Jardim Dourado]]** é o santuário mais sagrado de Nyog'Sothep, onde ocorrem os rituais do Ciclo da Devolução, repousa o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] e brota com mais força o [[Cosmologia/Musgo Dourado|Musgo Dourado]]. Acesso restrito ao clero, decana e curandeiros autorizados.
+Situado sob as arcadas de mangue no coração de [[Geografia/Raiz-Funda|Raiz-Funda]], o **[[Geografia/Jardim Dourado|Jardim Dourado]]** é o santuário mais sagrado de Nyog'Sothep, onde ocorrem os rituais do Ciclo da Devolução, repousa o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de Nyog'Sothep]] e brota com mais força o [[Cosmologia/Micelio Dourado|Micélio Dourado]]. Acesso restrito ao clero, decana e curandeiros autorizados.
 
 ## Relações e Alianças
 * **[[Tribos/Masca-Musgo|Masca-Musgo]]:** Seus principais devotos, liderados espiritualmente por [[NPCs/Sacerdote-Chefe Malok|Malok]], [[NPCs/Zog|Zog]] e pelos [[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]].
@@ -64,4 +66,4 @@ Para os devotos, ser tocado sem picadas pela Manifestação do Enxame é um sina
 
 ---
 
-**Veja também:** [[Cosmologia/Musgo Dourado|Musgo Dourado]] | [[Cosmologia/Animismo|Animismo]] | [[Cosmologia/Lei da Troca|Lei da Troca]] | [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] | [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Tribos/Masca-Musgo|Masca-Musgo]]
+**Veja também:** [[Cosmologia/Micelio Dourado|Micélio Dourado]] | [[Cosmologia/Animismo|Animismo]] | [[Cosmologia/Lei da Troca|Lei da Troca]] | [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] | [[Geografia/Raiz-Funda|Raiz-Funda]] | [[Tribos/Masca-Musgo|Masca-Musgo]]

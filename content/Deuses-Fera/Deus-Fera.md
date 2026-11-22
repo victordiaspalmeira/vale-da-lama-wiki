@@ -37,7 +37,7 @@ Para os sacerdotes e xamãs de [[Geografia/Raiz-Funda|Raiz-Funda]], Deuses-Fera 
 | [[Deuses-Fera/Mael'ra\|Mael'ra (Deusa-Fera Aranha)]] | Aranha gigantesca de seda prateada | Fio-Eterno, dívidas e destino (Todo o Vale) | [[Tribos/Tece-Pele\|Tece-Pele]] |
 | [[Deuses-Fera/Og'gath\|Og'gath (Sapo-Trovão)]] | Anfíbio colossal | Ilhotas do [[Geografia/Lago da Grande Tirana\|Lago da Grande Tirana]] (Centro) | Nenhuma conhecida |
 | [[Deuses-Fera/Krr'tak\|Krr'tak (a Espadachim)]] | Louva-a-deus colossal | Entre [[Tribos/Masca-Musgo\|Masca-Musgo]] e [[Tribos/Ferve-Alga (Olhos-Vermelhos)\|Ferve-Alga]] | Nenhuma conhecida |
-| [[Deuses-Fera/Cobra do Brejo do Musgo-Negro\|Cobra do Brejo do Musgo-Negro]] | Cobra colossal | [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro\|Brejo do Musgo-Negro]] (Oeste) | Nenhuma conhecida |
+| [[Deuses-Fera/Suuhr\|Suuhr]] | Cobra de piche líquido | [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro\|Brejo do Musgo-Negro]] (Oeste) | Oferendas de caça fresca |
 
 ## Regras de Caçada: Ninhadas vs. Territórios Sagrados de Desova
 
@@ -55,4 +55,4 @@ Entre os caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]], duas regras distingu
 
 ---
 
-**Veja também:** [[Deuses-Fera/Karkinos|Karkinos]], [[Deuses-Fera/Sss'kar|Sss'kar]], [[Deuses-Fera/Mael'ra|Deusa-Fera Aranha]], [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Musgo Dourado|Musgo Dourado]], [[Geografia/Vale da Lama|Vale da Lama]]
+**Veja também:** [[Deuses-Fera/Karkinos|Karkinos]], [[Deuses-Fera/Sss'kar|Sss'kar]], [[Deuses-Fera/Mael'ra|Deusa-Fera Aranha]], [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], [[Cosmologia/Micelio Dourado|Micélio Dourado]], [[Geografia/Vale da Lama|Vale da Lama]]

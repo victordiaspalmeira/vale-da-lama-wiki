@@ -23,7 +23,7 @@ aliases: ["Deuses Verdadeiros", "Deus Verdadeiro"]
 **Deuses Verdadeiros** são entidades supremas de extremo poder, intrinsecamente ligadas às leis fundamentais da natureza, à lógica, à magia e aos elementos. Diferente de criaturas mortais ou de entidades regionais, um Deus Verdadeiro transcende um corpo único ou um território limitado.
 
 ## Natureza e Funcionamento
-Por sua própria natureza vasta e abstrata, um Deus Verdadeiro **não possui forma física definida** e **não interage de maneira tão direta com o plano físico**. Em vez de caminhar pelo mundo em carne e osso, sua vontade manifesta-se através dos ciclos que governa, de relíquias sagradas, de fenômenos naturais e da devoção de seus fiéis — como ocorre com [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] por meio dos esporos, da rede de micélio, do [[Cosmologia/Musgo Dourado|Musgo Dourado]] e da [[Historia/A Grande Morte Lenta#A Batalha da Lua Nova|Lua Nova]].
+Por sua própria natureza vasta e abstrata, um Deus Verdadeiro **não possui forma física definida** e **não interage de maneira tão direta com o plano físico**. Em vez de caminhar pelo mundo em carne e osso, sua vontade manifesta-se através dos ciclos que governa, de relíquias sagradas, de fenômenos naturais e da devoção de seus fiéis — como ocorre com [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] por meio dos esporos, da rede de micélio, do [[Cosmologia/Micelio Dourado|Micélio Dourado]] e da [[Historia/A Grande Morte Lenta#A Batalha da Lua Nova|Lua Nova]].
 
 ### Contraste com os Deuses-Fera
 

@@ -39,7 +39,7 @@ aliases: ["Varga", "Capitã da Guarda"]
 Coordena os batedores posicionados no alto das arcadas de mangue — que se comunicam por assobios que imitam aves e anfíbios do pântano — e supervisiona as trilhas submersas e as armadilhas de brejo que protegem os acessos da aldeia.
 
 ## Relações e Alianças
-* **[[Exilados/Brask|Brask, o Cinza-Quente]]:** Suas patrulhas mantêm vigilância sobre as redondezas para impedir o retorno de [[Exilados/Exilados|exilados]] como Brask.
+* **[[Exilados/Exilados|Exilados]]:** Suas sentinelas recebem qualquer exilado que tente se reaproximar de Raiz-Funda com flechas de aviso — e os matam caso insistam.
 
 ## O que se Conta pelo Pântano
 *A preencher.*

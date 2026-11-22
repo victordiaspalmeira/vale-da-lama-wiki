@@ -27,7 +27,7 @@ As **Montanhas do Oeste** (ou **Montanhas do Extremo Oeste**) formam a cordilhei
 Cordilheira árida além do pântano, de onde se originam as águas que descem e convergem no [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]]. Em seu interior ficam as antigas minas escavadas na rocha.
 
 ## História
-Dentro das montanhas ficavam as minas onde os Goblins eram forçados a trabalhar pelos Dragões Vermelhos. Foi em uma das câmaras dessas minas que os escravizados descobriram o **[[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]]** — uma mosca detalhada sobre a boca aberta de um sapo menos detalhado — junto ao primeiro [[Cosmologia/Musgo Dourado|Musgo Dourado]].
+Dentro das montanhas ficavam as minas onde os Goblins eram forçados a trabalhar pelos Dragões Vermelhos. Foi em uma das câmaras dessas minas que os escravizados descobriram o **[[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]]** — uma mosca detalhada sobre a boca aberta de um sapo menos detalhado — junto ao primeiro [[Cosmologia/Micelio Dourado|Micélio Dourado]].
 
 Após vinte anos de sabotagem com esporos e a derrota na **Batalha da Lua Nova**, os Dragões abandonaram seus domínios nas montanhas e voaram para o leste, seguidos pelos Goblins na **[[Historia/A Grande Morte Lenta|Primeira Caçada Sagrada]]**.
 
