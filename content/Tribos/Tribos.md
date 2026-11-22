@@ -6,13 +6,14 @@ aliases: ["Tribos", "Tribos do Vale da Lama"]
 
 # Tribos, Povos e Práticas
 
-No [[Geografia/Vale da Lama|Vale da Lama]], nenhuma comunidade goblin sobrevive sozinha por acaso. Cada **tribo** nasce de um pacto prático com o ambiente que ocupa — seja a lama fértil do oeste, o sal fervente da costa nordeste, os brejos parados do sul ou os galhos altos do dossel — e da devoção à entidade que governa aquele pedaço de pântano.
+No [[Geografia/Vale da Lama|Vale da Lama]], nenhuma comunidade goblin sobrevive sozinha por acaso. Cada **tribo** nasce de um pacto duro com o pedaço de brejo que ocupa — seja a lama fértil sob os cogumelos do oeste, o sal fervente da costa nordeste, as valas paradas do sul ou os galhos altos do dossel — e da devoção à entidade que governa aquelas águas. Quem perde a proteção do próprio povo descobre depressa que o pântano não perdoa passos solitários.
 
 ## Como Funcionam as Tribos do Vale
-Apesar das rixas constantes de fronteira, os povos do vale partilham traços comuns:
-- **Sem Moeda Comum:** Todo comércio entre grupos ou viajantes ocorre por **[[Tribos/Escambo no Vale|escambo]]** — trocam-se peles curtidas a frio, sal cristalizado, seda prateada, reagentes e informações.
-- **Território e Tabus:** Cada tribo fixa limites rígidos para caça, colheita e circulação. Desrespeitar uma enseada sagrada ou cruzar raízes guardadas sem permissão costuma resultar em emboscada ou cobrança imediata.
-- **Convívio Tenso:** Os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] habitam o pântano desde tempos imemoriais; os [[Tribos/Masca-Musgo|Masca-Musgo]] desceram das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] após derrubar o [[Tribos/Povo Dragão|Povo Dragão]]; os [[Tribos/Ventre-Inchado|Ventre-Inchado]] isolam-se ao sul; e os nômades [[Tribos/Tece-Pele|Tece-Pele]] cruzam as fronteiras como mensageiros e cirurgiões neutros. Quem quebra os tabus da própria aldeia perde o direito à tribo e passa a viver à margem entre os [[Exilados/Exilados|Exilados]].
+Apesar das rixas antigas e da desconfiança que ronda cada fronteira de canal, os povos do vale partilham regras tácitas que mantêm o pântano em movimento:
+
+Nenhuma tribo cunha ou aceita moeda: todo comércio entre grupos ou viajantes corre por **[[Tribos/Escambo no Vale|escambo]]**, medido na hora em peles curtidas a frio, sal cristalizado, seda prateada, reagentes e notícias de valor equivalente. Em um lugar onde o ferro enferruja antes da lua virar, só circula o que sustenta a vida.
+
+Cada povo fixa limites rígidos para caça, colheita e passagem. Desrespeitar uma enseada de desova ou cruzar raízes guardadas sem licença costuma terminar em emboscada ou cobrança imediata. Ainda assim, as histórias se cruzam no lodo: os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] habitam a costa desde tempos imemoriais; os [[Tribos/Masca-Musgo|Masca-Musgo]] desceram das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] após derrubar o [[Tribos/Povo Dragão|Povo Dragão]]; os [[Tribos/Ventre-Inchado|Ventre-Inchado]] fecham-se ao sul; e os nômades [[Tribos/Tece-Pele|Tece-Pele]] cruzam as fronteiras como mensageiros e cirurgiões neutros. Quem rompe os tabus da própria aldeia perde o nome e o abrigo da tribo, passando a vagar à margem entre os [[Exilados/Exilados|Exilados]].
 
 ## Tribos e Povos
 

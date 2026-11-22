@@ -25,7 +25,9 @@ aliases: ["Nokk"]
 
 # Nokk
 
-**Nokk** é um antigo morador de [[Geografia/Raiz-Funda|Raiz-Funda]] que vive hoje como [[Exilados/Exilados|exilado]] pelo pântano.
+**Nokk** é um antigo habitante de [[Geografia/Raiz-Funda|Raiz-Funda]] lançado fora da tribo [[Tribos/Masca-Musgo|Masca-Musgo]] para errar como [[Exilados/Exilados|exilado]] pelo [[Geografia/Vale da Lama|Vale da Lama]]. Longe da proteção das estivas de madeira e do abrigo dos [[Geografia/Cogumelos Nodosos|Cogumelos Nodosos]], sua sobrevivência se resume ao que consegue arrancar da lama fria e das bordas esquecidas do brejo, onde nenhuma aldeia oferece teto, troca justa ou abrigo contra a névoa de esporos.
+
+Sobre ele pesa a mesma sentença irrevogável ditada por [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] a todos os expulsos: a perda de lugar entre os vivos e da devolução aos leitos de turfa do [[Geografia/Jardim Dourado|Jardim Dourado]]. Caso ouse testar a vigilância de Raiz-Funda, encontrará apenas o aviso seco das flechas de [[NPCs/Varga|Varga]] antes do segundo passo.
 
 ## Aparência
 *A preencher.*
@@ -47,4 +49,4 @@ aliases: ["Nokk"]
 
 ---
 
-**Veja também:** [[Exilados/Exilados|Exilados]] | [[Geografia/Raiz-Funda|Raiz-Funda]]
+**Veja também:** [[Exilados/Exilados|Exilados]] | [[Geografia/Raiz-Funda|Raiz-Funda]] | [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] | [[Geografia/Jardim Dourado|Jardim Dourado]]

@@ -23,10 +23,12 @@ aliases: ["Áreas Sagradas de Desova", "Territórios Sagrados de Desova", "Área
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-As **Áreas Sagradas de Desova** recortam a [[Geografia/Costa Salobra|Costa Salobra]] em enseadas rasas onde [[Deuses-Fera/Karkinos|Karkinos]] e suas crias depositam seus ovos. Mais do que simples berçários, são chãos intocados: os xamãs dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] vigiam suas margens de perto, e até caçadores rivais de [[Geografia/Raiz-Funda|Raiz-Funda]] baixam as lanças antes de cruzar essas águas.
+As **Áreas Sagradas de Desova** recortam a [[Geografia/Costa Salobra|Costa Salobra]] em enseadas rasas onde [[Deuses-Fera/Karkinos|Karkinos]] e suas crias depositam seus ovos. Não são reservas comuns nem pesqueiros disputados: são chãos interditados onde o passo errado pesa mais que qualquer rivalidade tribal. Os xamãs dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] vigiam suas margens sem descanso, e até caçadores de [[Geografia/Raiz-Funda|Raiz-Funda]] baixam as lanças antes de cruzar essas águas.
 
 ## Geografia e Ambiente
-Manguezais baixos, crostas brancas de salitre e bancos de lodo cercam as enseadas rasas, abrigando-as das correntes mais violentas do [[Geografia/Mar das Brumas|Mar das Brumas]]. A água ali é morna e salobra, entrecortada por estalos de carapaças na lama.
+Manguezais baixos, retorcidos pela ventania salgada, cercam as enseadas rasas e as protegem da arrebentação mais bruta do [[Geografia/Mar das Brumas|Mar das Brumas]]. Entre os troncos esbranquiçados, crostas espessas de salitre secam sobre bancos de lodo cinzento que racham ao sol breve e logo amolecem na subida da maré.
+
+A água ali é morna, turva e salobra, rasgada apenas por sulcos lentos na lama e pelo estalo seco de carapaças se arrastando sob a superfície. O ar cheira a sal, lodo revolvido e casca de crustáceo — um cheiro que avisa ao batedor atento que entrou em território de vigília.
 
 ## História
 *A preencher.*
@@ -34,18 +36,19 @@ Manguezais baixos, crostas brancas de salitre e bancos de lodo cercam as enseada
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-- **Lei de Acesso:** Ninguém pisa nessas enseadas fora da estação de acasalamento. Mesmo no período permitido, a entrada exige licença formal dos **Xamãs das Áreas de Desova** dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]].
-- **Distinção das Ninhadas:** Até entre os [[Tribos/Masca-Musgo|Masca-Musgo]], a [[Historia/Cacada Sagrada|Caçada Sagrada]] separa as *ninhadas* comuns — onde se caça poupando a prole — dos *Territórios Sagrados de Desova*, onde toda caça é proibida.
+A **Lei de Acesso** não admite desconhecimento nem pressa: ninguém pisa nessas enseadas fora da estação de acasalamento. Mesmo durante o período permitido, qualquer passagem ou coleta exige licença formal dos **Xamãs das Áreas de Desova** dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]], que marcam os limites da água rasa e acompanham quem entra.
+
+Esse interdito ecoa além da costa. Até entre os [[Tribos/Masca-Musgo|Masca-Musgo]], a [[Historia/Cacada Sagrada|Caçada Sagrada]] mantém uma **Distinção das Ninhadas** rigorosa: separa as *ninhadas* comuns — onde se abate o adulto poupando a prole — dos *Territórios Sagrados de Desova*, onde toda lança fica seca e nenhuma criatura pode ser tocada.
 
 ### NPCs e Criaturas da Região
 - **[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Xamãs das Áreas de Desova]]:** Guardiões religiosos e fiscais da costa.
 - **[[Criaturas/Pinça-de-Sal|Pinça-de-Sal]]:** Cria de Karkinos avistada nas águas rasas da região.
 
 ## Perigos e Recursos
-- **A Ira de Karkinos:** Violar os berçários provoca ataques de caranguejos gigantes, doenças de pele e afogamentos inexplicáveis em água rasa — além da resposta imediata dos Ferve-Alga.
+Não há recurso legítimo a se extrair dessas enseadas fora da palavra dos xamãs, e tentar colher ovos ou carne às escondidas equivale a assinar a própria sentença. Violar os berçários desperta a **Ira de Karkinos**: caranguejos gigantes emergem do lodo sem aviso, feridas salgadas e doenças de pele brotam em quem pisa na água proibida, e até nadadores experientes sofrem afogamentos inexplicáveis em menos de um palmo de fundo — isso se as patrulhas dos Ferve-Alga não alcançarem o intruso antes.
 
 ## O que se Conta pelo Pântano
-- **Respeito Acima das Fronteiras:** Nas fogueiras de fronteira, veteranos como [[NPCs/Kruk|Kruk]] costumam cortar qualquer bravata de novato com um aviso curto: brigar com os Ferve-Alga por sal ou canal é coisa do pântano, mas meter o pé numa enseada de desova acorda uma fúria que nenhum escambo paga.
+Nas fogueiras de fronteira, veteranos como [[NPCs/Kruk|Kruk]] costumam cortar qualquer bravata de novato com um aviso curto e seco. Disputar sal, canal ou passagem com os Ferve-Alga faz parte da vida dura do vale, dizem eles; mas meter o pé numa enseada de desova acorda uma fúria que nenhum escambo paga, e nem os próprios Olhos-Vermelhos vão livrar a pele de quem fez o fundo da água se mexer.
 
 ---
 

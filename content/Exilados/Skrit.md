@@ -25,7 +25,9 @@ aliases: ["Skrit"]
 
 # Skrit
 
-**Skrit** é um antigo morador de [[Geografia/Raiz-Funda|Raiz-Funda]] que vive hoje como [[Exilados/Exilados|exilado]] pelo pântano.
+**Skrit** pertence ao rol dos [[Exilados/Exilados|exilados]] que um dia chamaram [[Geografia/Raiz-Funda|Raiz-Funda]] de lar e hoje vagam pelas franjas do [[Geografia/Vale da Lama|Vale da Lama]]. Expulso dos [[Tribos/Masca-Musgo|Masca-Musgo]] pela palavra de [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]], perdeu o amparo das caçadas em grupo, das passarelas vigiadas e do cheiro conhecido da fuligem baixa que sustenta a vida na aldeia.
+
+No pântano, o banimento não termina com a travessia da fronteira: ele nega ao condenado o descanso no [[Geografia/Jardim Dourado|Jardim Dourado]] e o retorno à rede de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] pelo [[Cosmologia/Ciclo da Devolucao|Ciclo da Devolução]]. Para Skrit, a antiga morada permanece fechada pela vigília constante das sentinelas de [[NPCs/Varga|Varga]], prontas para responder a qualquer aproximação com flechas de aviso e morte certa se insistir.
 
 ## Aparência
 *A preencher.*
@@ -47,4 +49,4 @@ aliases: ["Skrit"]
 
 ---
 
-**Veja também:** [[Exilados/Exilados|Exilados]] | [[Geografia/Raiz-Funda|Raiz-Funda]]
+**Veja também:** [[Exilados/Exilados|Exilados]] | [[Geografia/Raiz-Funda|Raiz-Funda]] | [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] | [[Geografia/Jardim Dourado|Jardim Dourado]]

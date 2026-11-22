@@ -22,21 +22,22 @@ aliases: ["Fio Espiritual", "O Fio Espiritual", "Vínculo Espiritual"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**O Fio Espiritual** sela os acordos de [[Deuses-Fera/Mael'ra|Mael'ra, a Deusa-Fera Aranha]] quando alguém recorre a ela ou aos [[Tribos/Tece-Pele|Tece-Pele]] para pedir um **favor específico**. Trocar informação por informação não cria essa dívida; pedir um favor exige a própria alma como penhor.
+**O Fio Espiritual** sela os acordos de [[Deuses-Fera/Mael'ra|Mael'ra, a Deusa-Fera Aranha]] quando alguém recorre a ela ou aos [[Tribos/Tece-Pele|Tece-Pele]] para pedir um **favor específico**. No comércio cotidiano de segredos, trocar informação por informação basta e não cria dívida duradoura; pedir um favor concreto, porém, exige entregar a própria alma como penhor até que a conta seja quitada.
 
 ## Natureza e Funcionamento
-Ao conceder o favor, Mael'ra estabelece um **[[Tribos/Suturas em Carne Viva|vínculo com a teia]]**, atando o devedor por um fio invisível ao plano comum. Enquanto o prazo corre, o devedor permanece preso à teia da aranha até quitar o combinado.
+No instante em que concede o favor pedido, Mael'ra estabelece um **[[Tribos/Suturas em Carne Viva|vínculo com a teia]]**, atando o devedor por um fio invisível ao plano comum. Nenhum olho mortal enxerga essa amarra e nenhuma lâmina de ferro ou osso consegue cortá-la. Enquanto o prazo combinado corre, o devedor segue andando, caçando e respirando normalmente, mas permanece preso à teia da aranha sob contagem silenciosa.
 
-Se o pagamento atrasar ou falhar, o fio se retrai e **arrasta a alma do devedor até o covil de Mael'ra**, onde é devorada — deixando para trás os [[Criaturas/Aranhas Parasitas e Corpos Vazios|corpos vazios vagando pelo pântano como berçário para aranhas parasitas]].
+Se o pagamento atrasa, falha ou tenta escapar por artimanha, a cobrança é implacável: o fio se retrai de golpe e **arrasta a alma do devedor até o covil de Mael'ra**, onde é devorada. O que resta para trás não morre de imediato nem descansa no brejo — torna-se um dos [[Criaturas/Aranhas Parasitas e Corpos Vazios|corpos vazios vagando pelo pântano como berçário para aranhas parasitas]], casca oca conduzida por fome alheia entre os mangues.
 
 ## Origem e Tradição
 *A preencher.*
 
 ## Prática e Tabus
-Quem se enrosca em uma [[Tribos/Teia Prateada|Teia Prateada]] já fica marcado por Mael'ra, sob o olhar de seus agentes antes mesmo de qualquer trato ser fechado.
+Não é preciso sentar-se diante de um altar para cair sob os olhos da teia. Quem se enrosca em uma [[Tribos/Teia Prateada|Teia Prateada]] espalhada pelas trilhas já fica marcado por Mael'ra e passa a caminhar sob a vigilância de seus agentes antes mesmo de qualquer trato ser fechado — aviso mudo de que o pântano inteiro tem ouvidos quando a aranha estende seus fios.
 
 ## O que se Conta pelo Pântano
-- **A Diferença Entre Notícia e Favor:** Mercadores e batedores do cais repetem que trocar segredos com um Tece-Pele custa apenas outro segredo — mas pedir um favor a Mael'ra é aceitar um fio amarrado direto na própria alma.
+- **A Diferença Entre Notícia e Favor:** Mercadores e batedores do cais repetem que trocar segredos com um Tece-Pele custa apenas outro segredo — mas pedir um favor a Mael'ra é aceitar um fio amarrado direto na própria alma, cujo puxão nunca erra o endereço.
+- **Casca sem Olhar:** Vigias noturnos dizem reconhecer de longe quem perdeu a alma na cobrança: o passo continua firme sobre a lama, mas o corpo não desvia de espinhos, não pisca na fumaça e carrega um tremor estranho sob a pele do ventre.
 
 ---
 

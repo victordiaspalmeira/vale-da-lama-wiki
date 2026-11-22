@@ -23,9 +23,11 @@ Procedimento para elevar a qualidade literária, a clareza e a imersão *in-univ
    - Elimine repetições entre a `.infobox`, a introdução e as seções internas.
    - Troque construções genéricas de ficha de RPG (*"é responsável por"*, *"atua como"*, *"desempenha o papel de"*, *"garante a coesão"*) por verbos diretos e concretos.
    - Evite repetir adjetivos e clichês no mesmo parágrafo (ex.: *"sombrio"*, *"misterioso"*, *"ancestral"*, *"implacável"* em excesso).
-3. **Dar textura sensorial e voz do pântano:**
+3. **Dar volume, textura sensorial, tom OSR e voz mística/sombria:**
+   - Nunca deixe páginas rasas ou esquemáticas: expanda as seções existentes com **corpo de texto substancial** (parágrafos bem desenvolvidos, atmosfera densa, consequências práticas de sobrevivência e peso mítico), mantendo o foco no que já é canônico.
+   - Nunca copie rascunhos ou sugestões literais do usuário palavra por palavra: transponha a ideia para uma **prosa OSR, mística e sombria**, digna de um cenário de RPG de sobrevivência e horror folclórico.
    - Ancore descrições em elementos físicos do Vale da Lama: cheiro de salitre e turfa, madeira encharcada, névoa doce de esporos, estalos de mangue, fuligem contida, silêncio de água parada.
-   - Varie o ritmo das frases: alterne períodos curtos de impacto com frases descritivas mais longas.
+   - Varie o ritmo das frases: alterne períodos curtos de impacto com frases descritivas mais longas, mantendo peso mítico e reverência diante do sagrado.
    - Em **O que se Conta pelo Pântano**, escreva como rumor ouvido no cais, na fogueira ou nas passarelas — específico, vivido e sem repetir o texto enciclopédico acima.
 4. **Conferir formatação Quartz v4:**
    - Dentro de `<table>` HTML (`.infobox`), use sempre `<a href="../Pasta/Slug-da-Pagina" class="internal">Rótulo</a>`.

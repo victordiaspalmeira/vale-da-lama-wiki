@@ -22,13 +22,16 @@ aliases: ["Teia Prateada", "Seda de Aranha Gigante", "A Teia Prateada"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-A **Teia Prateada** é o símbolo máximo de [[Deuses-Fera/Mael'ra|Mael'ra (a Deusa-Fera Aranha)]] e a matéria-prima mais valiosa carregada pelos nômades [[Tribos/Tece-Pele|Tece-Pele]]. Fiada com seda real das aranhas gigantes das [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]], sustenta abrigos acima da lama, fecha carne rasgada e marca quem cruza o caminho da deusa.
+A **Teia Prateada** é o símbolo máximo de [[Deuses-Fera/Mael'ra|Mael'ra (a Deusa-Fera Aranha)]] e a matéria-prima mais valiosa carregada pelos nômades [[Tribos/Tece-Pele|Tece-Pele]]. Fiada com seda real das aranhas gigantes que caçam nas [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]], sustenta abrigos suspensos acima da lama, fecha carne rasgada e marca quem cruza o caminho da deusa na neblina.
 
 ## Natureza e Funcionamento
-A seda prateada aguenta a umidade do brejo e apodrece devagar, servindo a três usos constantes pelo vale:
-- **Acampamentos Suspensos:** Sempre que os [[Tribos/Tece-Pele|Tece-Pele]] montam pouso temporário nas copas baixas e raízes aéreas, estendem a Teia Prateada e prendem redes, tendas de couro curtido e passarelas suspensas com fios de seda.
-- **Suturas em Carne Viva:** Fios finos correm em agulhas de osso para as [[Tribos/Suturas em Carne Viva|Suturas em Carne Viva]] — fechando ferimentos graves em combate, selando rituais de união ou prendendo placas de pele e osso ao corpo.
-- **Escambo com Raiz-Funda:** Carretéis da Teia Prateada mudam de mão regularmente por escambo entre os Tece-Pele e [[NPCs/Birka|Birka (a Mão-Ácida)]] no cais de [[Geografia/Raiz-Funda|Raiz-Funda]].
+Ao contrário das fibras vegetais comuns, que mofam e arrebentam em poucas chuvas, a seda prateada aguenta a umidade pesada do brejo e apodrece devagar. Por isso, sustenta três usos constantes em todo o vale:
+
+Sempre que os [[Tribos/Tece-Pele|Tece-Pele]] montam pouso temporário nas copas baixas e raízes aéreas, estendem a Teia Prateada entre os troncos e prendem redes, tendas de couro curtido e passarelas suspensas com fios de seda esticados acima das águas paradas.
+
+Em agulhas finas de osso, os fios mais delgados correm para as [[Tribos/Suturas em Carne Viva|Suturas em Carne Viva]] — fechando ferimentos graves em pleno combate, selando rituais de união entre aliados ou prendendo placas de pele e osso ao corpo.
+
+Carretéis inteiros da Teia Prateada também alimentam o comércio: mudam de mão regularmente por escambo entre os Tece-Pele e [[NPCs/Birka|Birka (a Mão-Ácida)]] no cais de [[Geografia/Raiz-Funda|Raiz-Funda]], trocados por peles curtidas e reagentes preparados a frio.
 
 ## Origem e Tradição
 *A preencher.*
@@ -36,10 +39,10 @@ A seda prateada aguenta a umidade do brejo e apodrece devagar, servindo a três 
 ## Prática e Tabus
 
 ### O Rito da Marcação
-Para quem vive no pântano, a Teia Prateada nunca é só corda ou obstáculo. Quem se enrosca em uma teia estendida pelos [[Tribos/Tece-Pele|Tece-Pele]] fica **marcado por [[Deuses-Fera/Mael'ra|Mael'ra]]** — sob a vigília de seus agentes espalhados pelo vale e sujeito aos termos da teia se vier a contrair um [[Tribos/Suturas em Carne Viva|vínculo espiritual]].
+Para quem vive no pântano, a Teia Prateada nunca é apenas corda ou obstáculo no caminho. Quem se enrosca em uma teia estendida pelos [[Tribos/Tece-Pele|Tece-Pele]] fica **marcado por [[Deuses-Fera/Mael'ra|Mael'ra]]** — entra sob a vigília silenciosa de seus agentes espalhados pelo vale e permanece sujeito aos termos da teia caso venha a contrair um [[Tribos/Suturas em Carne Viva|vínculo espiritual]].
 
 ## O que se Conta pelo Pântano
-- **Fio Claro na Neblina:** Batedores dizem que um reflexo prateado entre os galhos altos é o único aviso antes de pisar em um pouso Tece-Pele — e quem arranca um fio daqueles sem licença raramente escapa dos olhos da aranha.
+- **Fio Claro na Neblina:** Batedores dizem que um reflexo prateado entre os galhos altos é o único aviso antes de pisar em um pouso Tece-Pele — e quem arranca ou corta um fio daqueles sem licença raramente escapa dos olhos da aranha.
 
 ---
 

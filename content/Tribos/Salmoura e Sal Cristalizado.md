@@ -22,22 +22,23 @@ aliases: ["Salmoura Fervente", "Sal Cristalizado", "Salmoura"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-A **salmoura fervente** e o **sal cristalizado** sustentam a mesa, a fé e o escambo dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] na [[Geografia/Costa Salobra|Costa Salobra]]. Fervidos em grandes caldeirões de ferro e barro grosso sobre fogueiras incessantes nas ilhotas mais secas do nordeste, impregnam o ar da costa com vapor salgado — e dão aos habitantes os olhos vermelhos que os distinguem no brejo.
+A **salmoura fervente** e o **sal cristalizado** sustentam a mesa, a fé e o escambo dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] na [[Geografia/Costa Salobra|Costa Salobra]]. Fervidos em grandes caldeirões de ferro e barro grosso sobre fogueiras incessantes nas ilhotas mais secas do nordeste, impregnam o ar da costa com vapor salgado e fumaça espessa — dando aos habitantes as pálpebras ardidas e os olhos vermelhos que os distinguem em todo o brejo.
 
 ## Natureza e Funcionamento
-Nos **Caldeirões** da Costa Salobra, algas e água salobra das marés fervem por horas até a salmoura engrossar e soltar cristais de sal:
-- **Conservação e Escambo:** Na umidade pesada do [[Geografia/Vale da Lama|Vale da Lama]], onde carne e couro apodrecem em dias, o sal cristalizado vale ouro para conservar mantimentos e peles, puxando as trocas por escambo na faixa costeira.
-- **Purificação de Ferimentos:** Em doses medidas, a salmoura limpa cortes e impede que as infecções do pântano tomem a carne.
+Nos **Caldeirões** da Costa Salobra, algas colhidas na vazante e água salobra das marés fervem por horas sem trégua até o caldo engrossar, espumar e soltar crostas de sal branco nas bordas do ferro.
+
+Na umidade sufocante do [[Geografia/Vale da Lama|Vale da Lama]], onde carne fresca cria larvas e couro apodrece em poucos dias, esse **sal cristalizado** vale mais do que qualquer metal: conserva provisões para marchas longas, seca peles e puxa o escambo ao longo da faixa costeira. Já a **salmoura**, aplicada em doses medidas sobre cortes abertos, limpa a ferida com ardor brutal e impede que as infecções do pântano tomem a carne.
 
 ## Origem e Tradição
 *A preencher.*
 
 ## Prática e Tabus
-- **Ritos de Coragem:** Diante dos xamãs de [[Deuses-Fera/Karkinos|Karkinos]], jovens iniciados bebem goles de salmoura fervente para provar coragem e aguentar o ardor sem pestanejar.
-- **Atrito Religioso com o Oeste:** O porte e a quantidade das fogueiras acesas dia e noite sob os caldeirões — e a fumaça espessa que sobe da costa — mantêm um atrito religioso constante com os [[Tribos/Masca-Musgo|Masca-Musgo]], fiéis ao [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]].
+Mais do que ofício, a fervura marca a fé da tribo diante de [[Deuses-Fera/Karkinos|Karkinos]]. Nos ritos de passagem conduzidos pelos xamãs, jovens iniciados erguem conchas de salmoura ainda fervente e bebem goles pequenos sem desviar o olhar — provando na carne da garganta que suportam o ardor do sal e o bafo das fornalhas sem recuar.
+
+Essa mesma devoção alimenta o atrito mais fundo com o oeste. O porte e a quantidade das fogueiras acesas dia e noite sob os caldeirões — junto à fumaça pesada que se espalha pela neblina — ferem diretamente o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] dos [[Tribos/Masca-Musgo|Masca-Musgo]], mantendo uma tensão religiosa constante entre as duas margens do vale.
 
 ## O que se Conta pelo Pântano
-- **Ardor nos Olhos:** Batedores que já se aproximaram da costa contam nas passarelas que basta uma estação ao lado daqueles caldeirões para entender por que nenhum Ferve-Alga consegue esconder o vermelho das pálpebras na neblina.
+- **Ardor nos Olhos:** Batedores que já se aproximaram da costa contam nas passarelas que basta uma estação trabalhando ao lado daqueles caldeirões para entender por que nenhum Ferve-Alga consegue esconder o vermelho das pálpebras na neblina — e por que tantos carregam cicatrizes brancas de respingo nos braços.
 
 ---
 

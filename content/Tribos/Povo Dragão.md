@@ -23,7 +23,7 @@ aliases: ["Povo Dragão", "Dragões Vermelhos", "Os Filhos de Ashkor", "Cinderat
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-O **Povo Dragão** designa os **Dragões Vermelhos** da linhagem **Os Filhos de Ashkor**, antigos senhores que habitaram as [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]] — nunca o [[Geografia/Vale da Lama|Vale da Lama]]. Por eras, mantiveram os goblins sob a **escravidão do fogo** nas galerias secas da serra, usando o sopro ígneo e a punição pelas chamas para quebrar qualquer revolta.
+O **Povo Dragão** designa os **Dragões Vermelhos** da linhagem **Os Filhos de Ashkor**, antigos senhores que habitaram as galerias secas das [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]] — nunca as águas baixas do [[Geografia/Vale da Lama|Vale da Lama]]. Por eras incontáveis, mantiveram os goblins dobrados sob a **escravidão do fogo**, usando o sopro ígneo e o castigo pelas chamas para esmagar qualquer sombra de revolta na pedra.
 
 ## Aparência e Traços
 *A preencher.*
@@ -32,19 +32,22 @@ O **Povo Dragão** designa os **Dragões Vermelhos** da linhagem **Os Filhos de 
 *A preencher.*
 
 ## História
-- **A Escravidão do Fogo:** Por gerações incontáveis nas [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], os Filhos de Ashkor dobraram os goblins ao trabalho forçado nas minas subterrâneas, castigando qualquer falha pelo terror do fogo.
-- **Vinte Anos de Esporos:** A queda começou quando os cativos acharam o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]] em uma das câmaras das minas e receberam as visões febris do [[Cosmologia/Micelio Dourado|Micélio Dourado]]. Durante vinte anos — a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] —, os goblins sopraram e espalharam esporos finos em sabotagem silenciosa, minando por dentro os corpos milenares dos Dragões Vermelhos.
-- **O Erro de Vexar e a Batalha da Lua Nova:** A sabotagem pesou rápido demais sobre o dragão jovem **Vexar**, expondo o veneno fúngico aos senhores. Furiosos, os Dragões avançaram para esmagar a rebelião, mas [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] interveio através da **Lua Nova**, potencializou o Micélio Dourado e os impediu de resistir à horda. Depois de uma noite inteira de luta, abandonaram as fortalezas da serra e fugiram em revoada para o **leste**.
-- **Extermínio na Primeira Caçada Sagrada:** Perseguidos pelo vale na **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**, todos os fugitivos tombaram. A maior deles — a Matriarca **Cinderath** (a *Grande Tirana*) — caiu nas águas negras do lago central, hoje chamado [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
+Por gerações incontáveis nas entranhas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]], os Filhos de Ashkor acorrentaram os goblins ao trabalho forçado nas minas subterrâneas. Ali, longe da chuva e do lodo, a obediência era cobrada pelo terror do fogo: qualquer falha na escavação ou na entrega do minério pagava-se com carne queimada e cinza seca.
+
+A ruína dos tiranos começou em silêncio, quando os cativos acharam o [[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]] em uma das câmaras fundas das minas e receberam as visões febris do [[Cosmologia/Micelio Dourado|Micélio Dourado]]. Durante vinte anos — a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] —, os escravizados sopraram e espalharam esporos finos em sabotagem paciente, minando por dentro os pulmões e os corpos milenares dos Dragões Vermelhos sem que os senhores percebessem o veneno que respiravam.
+
+A sabotagem pesou depressa demais sobre o dragão jovem **Vexar**, expondo o mal fúngico antes da hora. Furiosos, os Dragões avançaram para esmagar a rebelião pelo fogo, mas [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] interveio através da **Lua Nova**, potencializou o Micélio Dourado na carne dos opressores e os impediu de resistir à horda que se levantava das galerias. Depois de uma noite inteira de combate sob a pedra e o céu escuro, os sobreviventes abandonaram suas fortalezas na serra e fugiram em revoada para o **leste**.
+
+A fuga terminou na lama. Perseguidos pelo vale inteiro na **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**, todos os fugitivos tombaram sob lanças de osso, venenos e número. A maior deles — a Matriarca **Cinderath** (a *Grande Tirana*) — caiu pesadamente nas águas negras do lago central que já existia no vale, hoje chamado [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 ## Organização e Ocupações
 *A preencher.*
 
 ## Relações e Diplomacia
-Nos éditos de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], servir aos dragões antigos é anátema absoluto. Para os [[Tribos/Masca-Musgo|Masca-Musgo]], a tirania dos Filhos de Ashkor permanece como o avesso de todas as suas leis — da recusa ao fogo como arma no [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] ao rito anual da [[Historia/Cacada Sagrada|Caçada Sagrada]].
+Nos éditos de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]], servir aos dragões antigos é anátema absoluto, sem perdão nem retorno. Para os [[Tribos/Masca-Musgo|Masca-Musgo]], a tirania dos Filhos de Ashkor permanece como o avesso de todas as suas leis — da recusa ao fogo como arma no [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] ao rito anual da [[Historia/Cacada Sagrada|Caçada Sagrada]], em que a aldeia inteira relembra que até os senhores do fogo podem sangrar e afundar no lodo.
 
 ## O que se Conta pelo Pântano
-- **Sombras no Fundo Negro:** Remadores que atravessam o [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] em dias de água parada dizem que a carcaça colossal de **Cinderath** ainda jaz lá embaixo, visível só como um vulto escuro nas profundezas.
+- **Sombras no Fundo Negro:** Remadores que atravessam o [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]] em dias de água parada dizem que a carcaça colossal de **Cinderath** ainda jaz lá embaixo, visível só como um vulto escuro e imóvel nas profundezas onde ninguém ousa mergulhar.
 
 ---
 

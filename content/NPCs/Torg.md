@@ -26,7 +26,7 @@ aliases: ["Torg"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Torg** ergue e sustenta as palafitas, passarelas de tábuas e pontes de corda que mantêm [[Geografia/Raiz-Funda|Raiz-Funda]] acima da lama entre os Cogumelos Nodosos e as raízes do mangue. Sem seu trabalho contínuo contra a umidade que tudo amolece, a aldeia inteira cederia ao brejo em poucas estações.
+**Torg** ergue e sustenta as palafitas, as passarelas de tábuas e as pontes de corda que mantêm [[Geografia/Raiz-Funda|Raiz-Funda]] suspensa acima da lama, entre os imensos Cogumelos Nodosos e as raízes retorcidas do mangue. Em um brejo onde a umidade constante amolece vigas e apodrece amarras, seu trabalho contínuo é o que impede a aldeia inteira de afundar na turfa em poucas estações.
 
 ## Aparência
 *A preencher.*
@@ -38,18 +38,17 @@ aliases: ["Torg"]
 *A preencher.*
 
 ## Função e Ocupação
-Junto ao [[Geografia/Raiz-Funda#O Cais das Jangadas e Oficinas|Cais das Jangadas e Oficinas]], Torg trabalha segundo a [[Tribos/Preparacao a Frio|Preparação a Frio]] e a [[Cosmologia/Lei da Troca|Lei da Troca]]:
-- **Palafitas e Passarelas:** Troca tábuas podres, impermeabiliza madeira de mangue com resina e trança cordas para manter as rotas elevadas firmes sobre os canais de lama.
-- **Jangadas e Piche:** Constrói e repara jangadas de fundo chato para navegar pelas águas paradas, calafetando a madeira a frio com piche natural extraído com varas longas nos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]].
-- **Calçados de Brejo:** Faz botas largas de couro e madeira e raquetes de mangue para distribuir o peso e poupar força nas marchas sobre a lama profunda do [[Geografia/Vale da Lama|Vale da Lama]].
+Junto ao [[Geografia/Raiz-Funda#O Cais das Jangadas e Oficinas|Cais das Jangadas e Oficinas]], Torg trabalha segundo a [[Tribos/Preparacao a Frio|Preparação a Frio]] e a [[Cosmologia/Lei da Troca|Lei da Troca]]. Nas estruturas da aldeia, substitui tábuas podres, impermeabiliza madeira de mangue com resina e trança cordas resistentes para manter as rotas elevadas firmes sobre os canais de lodo.
+
+Na água, constrói e repara jangadas de fundo chato próprias para deslizar pelas águas paradas, calafetando cada fresta a frio com piche natural arrancado com varas longas nos [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa]]. Também confecciona botas largas de couro e madeira e raquetes de mangue que distribuem o peso do corpo e poupam forças nas marchas sobre a lama profunda do [[Geografia/Vale da Lama|Vale da Lama]].
 
 ## Relações e Alianças
-* **[[NPCs/Birka|Birka (a Mão-Ácida)]]:** Divide o cais das oficinas, usando couros curtidos por Birka em botas e amarrações.
-* **[[NPCs/Zog|Zog]]:** Como toda madeira cortada e toda jangada lançada às águas carrega a memória do brejo pelo [[Cosmologia/Animismo|Animismo]], Torg cumpre a [[Cosmologia/Lei da Troca|Lei da Troca]] em suas coletas — e chama Zog quando algum material dá sinais de rejeição.
-* **[[Deuses-Fera/Suuhr|Suuhr]]:** Quem parte para extrair piche no Brejo do Musgo-Negro leva oferendas de caça fresca — sobretudo sapos e coelhos — para apaziguar a cobra de piche líquido.
+* **[[NPCs/Birka|Birka (a Mão-Ácida)]]:** Divide o cais das oficinas com a curtidora, empregando os couros tratados por ela nas botas de brejo e nas amarrações das jangadas.
+* **[[NPCs/Zog|Zog]]:** Como toda madeira cortada e toda embarcação lançada às águas carrega a memória do brejo pelo [[Cosmologia/Animismo|Animismo]], Torg cumpre a [[Cosmologia/Lei da Troca|Lei da Troca]] em suas coletas — e chama o xamã quando algum material dá sinais de rejeição.
+* **[[Deuses-Fera/Suuhr|Suuhr]]:** Quem parte para extrair piche no Brejo do Musgo-Negro leva oferendas de caça fresca — sobretudo sapos e coelhos — para apaziguar a cobra de piche líquido antes de mergulhar as varas.
 
 ## O que se Conta pelo Pântano
-- **Madeira com Memória:** No cais, diz-se que Torg reconhece pelo som seco do martelo quando uma tábua foi cortada sem cumprir a Lei da Troca — e se recusa a pregá-la em qualquer passarela de Raiz-Funda.
+* **Madeira com Memória:** No cais, diz-se que Torg reconhece pelo som seco da batida do martelo quando uma tábua foi cortada sem cumprir a Lei da Troca — e se recusa a pregá-la em qualquer passarela de Raiz-Funda, por mais urgente que seja o reparo.
 
 ---
 

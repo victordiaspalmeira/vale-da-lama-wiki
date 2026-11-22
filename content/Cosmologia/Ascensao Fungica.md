@@ -22,19 +22,24 @@ aliases: ["Ascensão", "Ascensão Fúngica", "A Ascensão"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-A **Ascensão** (ou **Ascensão Fúngica**) marca o ponto sem volta para quem abusa do [[Cosmologia/Micelio Dourado|Micélio Dourado]] no [[Geografia/Vale da Lama|Vale da Lama]]. O que forasteiros chamariam de praga ou maldição, os [[Tribos/Masca-Musgo|Masca-Musgo]] veneram como entrega voluntária à rede subterrânea de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
+A **Ascensão** (ou **Ascensão Fúngica**) marca o limiar sem volta para quem abusa do [[Cosmologia/Micelio Dourado|Micélio Dourado]] no [[Geografia/Vale da Lama|Vale da Lama]]. O que forasteiros tomariam por praga, envenenamento lento ou maldição da carne, os [[Tribos/Masca-Musgo|Masca-Musgo]] veneram como entrega definitiva e voluntária à rede subterrânea de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
 ## Natureza e Funcionamento
-Passar de uma dose semanal do fungo faz filamentos dourados romperem sob a pele e pelas unhas. Com o avanço do processo, o portador cala a voz de vez, atravessa sozinho as pontes do [[Geografia/Jardim Dourado|Jardim Dourado]] e se deita entre as raízes até o corpo se fundir ao micélio do deus.
+O corpo mortal suporta apenas uma medida estreita da dádiva dourada. Quando um goblin ultrapassa uma dose semanal do fungo, a simbiose rompe o equilíbrio e passa a tomar o hospedeiro de dentro para fora: filamentos âmbar e dourados irrompem sob a pele esticada, contornam as juntas e despontam por baixo das unhas como raízes finas procurando solo úmido. A febre cede lugar a um torpor frio e atento, enquanto o portador perde o interesse pela fala, pela caça e pelo fogo baixo das fogueiras.
+
+Com o avanço do processo, a voz se apaga por completo. Sem olhar para trás nem aceitar auxílio, o goblin atravessa sozinho as passarelas e pontes do [[Geografia/Jardim Dourado|Jardim Dourado]], guiado apenas pelo pulsar quente dos esporos no ar. Ali, sob as arcadas úmidas, deita-se entre as raízes profundas e permanece imóvel até que a pele se abra de vez e o corpo se funda ao micélio vivo do deus.
 
 ## Origem e Tradição
 *A preencher.*
 
 ## Prática e Tabus
-Por temerem esse limiar, o Curandeiro-Chefe [[NPCs/Snikk|Snikk]] e o xamã [[NPCs/Zog|Zog]] medem com rigor cada cataplasma e cada lasca mascada nos rituais de visão.
+Justamente por conhecerem a força desse chamado, o Curandeiro-Chefe [[NPCs/Snikk|Snikk]] e o xamã [[NPCs/Zog|Zog]] medem com rigor cada cataplasma aplicado em feridas graves e cada lasca mascada nos rituais de visão. O [[Cosmologia/Micelio Dourado|Micélio Dourado]] salva a carne da podridão e abre os olhos para as correntes ocultas do brejo, mas não perdoa a pressa nem a ganância de quem pede demais em pouco tempo.
+
+Quando os primeiros fios dourados despontam sob a pele de alguém, a tribo não trata o caso como crime nem como vergonha. Apenas afasta o portador das doses seguintes — ou, se o silêncio já tomou sua garganta, abre caminho para que cumpra o trajeto até o santuário sem perturbação.
 
 ## O que se Conta pelo Pântano
-- **O Silêncio Antes das Pontes:** Nas passarelas de [[Geografia/Raiz-Funda|Raiz-Funda]], ninguém tenta segurar quem emudece e toma o rumo do Jardim Dourado — pois ali o goblin já escuta apenas o chamado de Nyog'Sothep.
+- **O Silêncio Antes das Pontes:** Nas passarelas de [[Geografia/Raiz-Funda|Raiz-Funda]], ninguém ousa segurar pelo braço quem emudece de repente e toma o rumo do Jardim Dourado. Os mais velhos dizem que, nesse ponto, os ouvidos daquele goblin já não escutam língua mortal — apenas o sussurro lento de Nyog'Sothep sob a turfa.
+- **Raízes sob as Unhas:** Batedores que dependem de cataplasmas após emboscadas no brejo costumam examinar os próprios dedos à luz fraca da manhã, temendo o primeiro brilho âmbar sob o leito da unha.
 
 ---
 

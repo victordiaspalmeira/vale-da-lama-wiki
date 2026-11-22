@@ -25,10 +25,12 @@ aliases: ["Krakka Agulha-Fria", "Krakka", "Agulha-Fria"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Krakka**, conhecida pelo epíteto **Agulha-Fria**, é uma porta-voz e cirurgiã-mestra entre os nômades [[Tribos/Tece-Pele|Tece-Pele]]. Devota de [[Deuses-Fera/Mael'ra|Mael'ra]], conduz negociações de alto risco, realiza [[Tribos/Suturas em Carne Viva|Suturas em Carne Viva]] e intermedia acordos ligados ao [[Cosmologia/Fio Espiritual|Fio Espiritual]] pelos acampamentos suspensos do vale.
+**Krakka**, conhecida entre as copas e o cais como **Agulha-Fria**, é porta-voz e cirurgiã-mestra entre os nômades [[Tribos/Tece-Pele|Tece-Pele]]. Devota de [[Deuses-Fera/Mael'ra|Mael'ra]], transita entre o dossel alto e os acampamentos suspensos do vale onde a vida se fecha com linha de seda e qualquer favor mal calculado cobra a própria alma.
+
+Com a mesma firmeza com que costura feridas abertas nas [[Tribos/Suturas em Carne Viva|Suturas em Carne Viva]], Krakka conduz negociações de alto risco e intermedia acordos ligados ao [[Cosmologia/Fio Espiritual|Fio Espiritual]].
 
 ## Aparência
-Como outros veteranos dos [[Tribos/Tece-Pele|Tece-Pele]], carrega agulhas finas de osso, carretéis de seda colhida nas [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]] e marcas simétricas de [[Tribos/Suturas em Carne Viva|Suturas em Carne Viva]] na própria pele.
+Como outros veteranos dos [[Tribos/Tece-Pele|Tece-Pele]], Krakka carrega à vista agulhas finas de osso polido e carretéis de seda colhida nas [[Geografia/Copas-da-Teia-Prateada|Copas da Teia Prateada]]. Sua própria pele exibe o mapa simétrico de antigas [[Tribos/Suturas em Carne Viva|Suturas em Carne Viva]], testemunho silencioso de um ofício em que o corpo e a linha se confundem.
 
 ## Personalidade e Maneirismos
 *A preencher.*
@@ -37,14 +39,14 @@ Como outros veteranos dos [[Tribos/Tece-Pele|Tece-Pele]], carrega agulhas finas 
 *A preencher.*
 
 ## Função e Ocupação
-Percorre os acampamentos suspensos dos [[Tribos/Tece-Pele|Tece-Pele]] como voz de comando e negociadora, coordenando a troca de informações equivalentes, a coleta de seda da [[Tribos/Teia Prateada|Teia Prateada]] e os termos dos favores concedidos em nome de [[Deuses-Fera/Mael'ra|Mael'ra]].
+Krakka percorre os acampamentos suspensos dos [[Tribos/Tece-Pele|Tece-Pele]] como voz de comando, cirurgiã e negociadora. Coordena a troca de informações equivalentes, organiza a coleta da seda da [[Tribos/Teia Prateada|Teia Prateada]] e firma os termos exatos dos favores concedidos em nome de [[Deuses-Fera/Mael'ra|Mael'ra]] — onde cada prazo e cada vínculo tem peso de sentença.
 
 ## Relações e Alianças
-* **[[Deuses-Fera/Mael'ra|Mael'ra]]:** Interpreta e executa os termos de troca e os vínculos espirituais da Deusa-Fera Aranha.
-* **[[NPCs/Birka|Birka (a Mão-Ácida)]]:** Mantém contato direto ou indireto nas trocas regulares de seda e reagentes junto ao [[Geografia/Cais das Jangadas|Cais das Jangadas]] em [[Geografia/Raiz-Funda|Raiz-Funda]].
+* **[[Deuses-Fera/Mael'ra|Mael'ra]]:** Interpreta e executa os termos de troca e os vínculos espirituais da Deusa-Fera Aranha, assegurando que ninguém receba um favor da teia sem compreender o preço do fio que o prende.
+* **[[NPCs/Birka|Birka (a Mão-Ácida)]]:** Mantém contato regular nas trocas de seda e reagentes junto ao [[Geografia/Cais das Jangadas|Cais das Jangadas]] em [[Geografia/Raiz-Funda|Raiz-Funda]], ligando o comércio das copas às cubas frias dos Masca-Musgo.
 
 ## O que se Conta pelo Pântano
-* **Mão Firme na Carne:** Batedores socorridos nas copas do noroeste contam que Krakka fecha um rasgo fundo com agulha de osso e seda prateada sem piscar — mas nunca sem cobrar o preço exato depois.
+* **Mão Firme na Carne:** Batedores socorridos nas copas do noroeste contam que Krakka fecha um rasgo fundo com agulha de osso e seda prateada sem piscar um só olho — mas nunca sem cobrar o preço exato da linha depois que o sangue estanca.
 
 ---
 **Veja também:** [[Tribos/Tece-Pele|Tece-Pele]] | [[Deuses-Fera/Mael'ra|Mael'ra]] | [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]] | [[Tribos/Suturas em Carne Viva|Suturas em Carne Viva]] | [[Cosmologia/Fio Espiritual|Fio Espiritual]]

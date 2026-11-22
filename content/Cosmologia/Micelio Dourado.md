@@ -22,30 +22,32 @@ aliases: ["Micélio Dourado", "Aurumycota sothepi", "Ascensão"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-O **Micélio Dourado** (*Aurumycota sothepi*) brota onde a presença de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] pulsa mais forte. Substância sagrada dos [[Tribos/Masca-Musgo|Masca-Musgo]], acende a penumbra do [[Geografia/Jardim Dourado|Jardim Dourado]] com um brilho âmbar vivo, fecha feridas graves e abre visões do mundo subterrâneo — mas cobra o retorno ao solo de quem abusa do seu poder.
+O **Micélio Dourado** (*Aurumycota sothepi*) brota onde a presença de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] pulsa mais forte. Substância sagrada dos [[Tribos/Masca-Musgo|Masca-Musgo]], acende a penumbra úmida do [[Geografia/Jardim Dourado|Jardim Dourado]] com um brilho âmbar vivo que parece respirar devagar sobre a turfa. Nas mãos certas, fecha feridas profundas e abre visões do mundo subterrâneo; nas mãos erradas ou apressadas, cobra o retorno ao solo de quem abusa do seu poder.
 
 ## Natureza e Funcionamento
+Fresco, o fungo exala um cheiro terroso e adocicado, soltando pó fino entre os dedos como cinza morna que brilha no escuro. Sua força serve tanto para sustentar a carne quanto para abrir frestas na mente mortal.
 
 ### Propriedades e Regras (Pathfinder 2e Remaster)
-- **Cura:** Aplicado puro em ferimentos por curandeiros como [[NPCs/Snikk|Snikk]], acelera a regeneração tecidual e combate infecções pantanosas (**+2 de bônus de item** em Medicina para Tratar Ferimentos ou Doenças no vale).
-- **Visão:** Mascado em pequenas lascas durante rituais conduzidos por [[NPCs/Zog|Zog]], permite sentir as correntes vivas do micélio subterrâneo e ter visões do ciclo de decomposição por 1 hora, deixando o usuário levemente desorientado (**Estupefato 1**).
+- **Cura:** Aplicado puro sobre ferimentos abertos por curandeiros experientes como [[NPCs/Snikk|Snikk]], o micélio se agarra às bordas da carne, estanca o sangue e combate infecções pantanosas, acelerando a regeneração tecidual (**+2 de bônus de item** em Medicina para Tratar Ferimentos ou Doenças no vale).
+- **Visão:** Mascado em pequenas lascas durante rituais conduzidos por [[NPCs/Zog|Zog]], deixa gosto metálico e amargo na boca enquanto permite sentir as correntes vivas do micélio subterrâneo e ter visões do ciclo de decomposição por 1 hora — cobrando em troca uma névoa pesada nos pensamentos (**Estupefato 1**).
 
 ## Origem e Tradição
-Os primeiros filamentos apareceram dentro e ao redor do **[[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]]**, nas minas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]. As visões febris provocadas pelo fungo deram início à [[Historia/A Grande Morte Lenta|Grande Morte Lenta]], e seu poder atingiu o auge sob a **Lua Nova** na noite da libertação.
+Os primeiros filamentos apareceram dentro e ao redor do **[[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]]**, numa câmara funda das minas das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]]. As visões febris provocadas pelo fungo deram início à [[Historia/A Grande Morte Lenta|Grande Morte Lenta]], e seu poder atingiu o auge sob a **Lua Nova** na noite da libertação contra os Dragões Vermelhos.
 
-Mesmo depois de o Micélio Dourado se tornar o centro espiritual da tribo, o nome **Masca-Musgo** permaneceu porque é mais antigo: nas montanhas e arredores, o musgo comum matava a fome dos goblins quando não podiam escolher o que comer. Hoje, o Micélio Dourado cresce com mais vigor nos canteiros bioluminescentes do [[Geografia/Jardim Dourado|Jardim Dourado]] e nas margens do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
+Mesmo depois de o Micélio Dourado se tornar o coração espiritual da tribo, o nome **Masca-Musgo** permaneceu porque é mais antigo que a descoberta do fungo: nas montanhas e arredores, quando os escravos não podiam escolher o que comer, era o musgo comum raspado das pedras que matava a fome. Hoje, o Micélio Dourado cresce com mais vigor nos canteiros bioluminescentes do [[Geografia/Jardim Dourado|Jardim Dourado]] e ao longo das margens lodosas do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 ## Prática e Tabus
-Colher o Micélio Dourado exige obediência estrita à [[Cosmologia/Lei da Troca|Lei da Troca]], tarefa conduzida nos canteiros do santuário pelos [[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]].
+Colher o Micélio Dourado exige obediência estrita à [[Cosmologia/Lei da Troca|Lei da Troca]] e silêncio respeitoso diante dos canteiros — tarefa conduzida dentro do santuário pelos [[NPCs/Irmãos Snakk e Drig|Irmãos Snakk e Drig]], que sabem quanto se pode retirar sem ferir a raiz maior.
 
 ### Risco da Ascensão
 > [!warning] Consumo Excessivo
 > O consumo excessivo de Micélio Dourado (mais de uma dose por semana) provoca a brotação de filamentos dourados sob a pele e nas unhas (**Drenado 1**).
 
-Os [[Tribos/Masca-Musgo|Masca-Musgo]] não veem o estágio final desse processo como doença, mas como **Ascensão**: o portador cala a voz e caminha sozinho pelas pontes do [[Geografia/Jardim Dourado|Jardim Dourado]] para se deitar entre as raízes e se unir à rede micelial de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
+Os [[Tribos/Masca-Musgo|Masca-Musgo]] não encaram o estágio final desse processo como doença ou castigo, mas como **[[Cosmologia/Ascensao Fungica|Ascensão]]**: quando o ouro vivo toma o corpo por dentro, o portador cala a voz de vez e caminha sozinho pelas pontes do [[Geografia/Jardim Dourado|Jardim Dourado]] para se deitar entre as raízes e se unir para sempre à rede micelial de [[Cosmologia/Nyog'Sothep|Nyog'Sothep]].
 
 ## O que se Conta pelo Pântano
-- **O Ouro que Cresce no Escuro:** Em [[Geografia/Raiz-Funda|Raiz-Funda]], quando o ar do santuário esquenta e a luz âmbar pulsa mais forte, até os caçadores mais céticos lembram que o mesmo ouro que derrubou os dragões ainda cobra respeito a cada dose.
+- **O Ouro que Cresce no Escuro:** Em [[Geografia/Raiz-Funda|Raiz-Funda]], quando o ar do santuário esquenta e a luz âmbar pulsa mais forte sob as arcadas, até os caçadores mais céticos lembram que o mesmo ouro que derrubou os dragões ainda cobra respeito e medida a cada dose.
+- **Luz Sem Fogo:** Viajantes de fora do vale costumam se espantar ao ver o brilho dourado sob a névoa sem cheiro de fumaça — e aprendem rápido que ali não se acende tocha para enxergar melhor.
 
 ---
 

@@ -23,10 +23,12 @@ aliases: ["Mar das Brumas", "O Mar das Brumas"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-O **Mar das Brumas** é a vasta extensão de águas salgadas e neblina espessa que fecha o horizonte a norte, nordeste e leste do [[Geografia/Vale da Lama|Vale da Lama]]. Para ele escoam o [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]] e o [[Geografia/Rio Lodo-Negro|Rio Lodo-Negro]]; dele vêm os ventos carregados de salitre que varrem as [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]] e as marés que alimentam a [[Geografia/Costa Salobra|Costa Salobra]].
+O **Mar das Brumas** é a vasta extensão de águas salgadas e neblina espessa que fecha o horizonte a norte, nordeste e leste do [[Geografia/Vale da Lama|Vale da Lama]]. Para ele escoam o [[Geografia/Delta das Aguas Mortas|Delta das Águas Mortas]] e o [[Geografia/Rio Lodo-Negro|Rio Lodo-Negro]], levando consigo o lodo e os restos do pântano; dele vêm os ventos carregados de salitre que varrem as [[Geografia/Copas da Teia Prateada|Copas da Teia Prateada]] e as marés que enchem os caldeirões da [[Geografia/Costa Salobra|Costa Salobra]].
 
 ## Geografia e Ambiente
-Onde a água turva do pântano encontra o mar aberto, o chão se estilhaça em ilhotas de lama, bancos de areia e crostas brancas de salitre. Uma neblina salgada permanente apaga o horizonte, escondendo qualquer referência visual além das paliçadas de conchas da Costa Salobra.
+Onde a água turva do brejo encontra o mar aberto, a terra firme simplesmente se desfaz. O chão se estilhaça em ilhotas de lama instável, bancos de areia movediça e crostas brancas de salitre que rangem sob os pés. Uma neblina salgada permanente apaga qualquer linha de horizonte, engolindo sons e referências visuais logo após as paliçadas de conchas da Costa Salobra.
+
+Aqui não há teto de cogumelos nem raízes altas para abrigar quem caminha. O vento sopra sem obstáculo, umedecendo peles e roupas com uma maresia fria que arde nos olhos e resseca a garganta, enquanto o bater contínuo das ondas lembra a todo instante que o chão sob as botas pertence mais à maré do que à terra.
 
 ## História
 *A preencher.*
@@ -34,18 +36,16 @@ Onde a água turva do pântano encontra o mar aberto, o chão se estilhaça em i
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-- **Encontro com a Costa Salobra:** Faixa onde a maré cheia enche os caldeirões de [[Tribos/Salmoura e Sal Cristalizado|salmoura e sal cristalizado]] dos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]].
-- **Foz do Delta das Águas Mortas:** Canais mutáveis onde a água salgada invade o brejo na cheia e recua deixando valas de lama exposta na vazante.
+Na faixa de encontro com a **Costa Salobra**, a maré cheia avança sobre a borda costeira e abastece os caldeirões de [[Tribos/Salmoura e Sal Cristalizado|salmoura e sal cristalizado]] mantidos pelos [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]. Mais abaixo, na **Foz do Delta das Águas Mortas**, o mapa muda a cada ciclo de água: canais estreitos se abrem quando o mar invade o brejo e recuam na vazante, expondo valas de lama escorregadia e bancos de conchas quebradas onde jangadas mal guiadas encalham até a próxima cheia.
 
 ### NPCs e Criaturas da Região
-- **[[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]]:** Mantêm aldeias e caldeirões voltados para a arrebentação na Costa Salobra.
+Os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga (Olhos-Vermelhos)]] são os únicos povos do vale que encaram a arrebentação de frente, erguendo aldeias e caldeirões voltados para o vento salgado da Costa Salobra.
 
 ## Perigos e Recursos
-- **Recursos:** Água salgada para os caldeirões de sal e salmoura; ventos que secam e arejam o dossel do noroeste.
-- **Perigos:** Correntes traiçoeiras que arrastam jangadas do delta para mar aberto, somadas à neblina que desorienta qualquer navegador.
+O mar dá ao vale o que o brejo doce não produz: água salgada para os caldeirões de sal e salmoura, além das correntes de ar que secam e arejam o dossel do noroeste. Em troca, cobra caro de quem se aventura além da linha das paliçadas. Correntes traiçoeiras puxam jangadas despreparadas da boca do delta para o mar aberto em questão de minutos, onde a neblina espessa engole qualquer noção de norte ou retorno.
 
 ## O que se Conta pelo Pântano
-- **O Horizonte Branco:** Para quem cresceu sob o teto fechado dos mangues e dos Cogumelos Nodosos de [[Geografia/Raiz-Funda|Raiz-Funda]], o Mar das Brumas soa quase mentira — um lugar sem raiz onde se agarrar, com água que nunca para de se mexer e cheira a ferida aberta.
+- **O Horizonte Branco:** Para quem cresceu sob o teto fechado dos mangues e dos Cogumelos Nodosos de [[Geografia/Raiz-Funda|Raiz-Funda]], o Mar das Brumas soa quase mentira — um lugar sem raiz onde se agarrar, com água que nunca para de se mexer e cheira a ferida aberta. Quem volta de lá conta que o barulho das ondas fica nos ouvidos por dias, como um bicho grande respirando no escuro.
 
 ---
 

@@ -25,7 +25,9 @@ aliases: ["Brask"]
 
 # Brask
 
-**Brask** é um antigo morador de [[Geografia/Raiz-Funda|Raiz-Funda]] que vive hoje como [[Exilados/Exilados|exilado]] pelo pântano.
+**Brask** é um antigo morador de [[Geografia/Raiz-Funda|Raiz-Funda]] que hoje sobrevive como [[Exilados/Exilados|exilado]] pelas margens do [[Geografia/Vale da Lama|Vale da Lama]]. Afastado dos [[Tribos/Masca-Musgo|Masca-Musgo]] por sentença de [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]], carrega o fardo de viver fora das passarelas e das habitações escavadas nos [[Geografia/Cogumelos Nodosos|Cogumelos Nodosos]], sem fogueira tribal para aquecer a noite nem direito às trilhas seguras da aldeia.
+
+Como todo banido, Brask teve cortado não apenas o convívio com o clã, mas também o direito de repousar nos leitos úmidos do [[Geografia/Jardim Dourado|Jardim Dourado]] quando a morte vier cobrá-lo. Para ele, não existe retorno: aproximar-se dos limites vigiados de Raiz-Funda significa encarar o silêncio das arcadas de mangue e as flechas das sentinelas de [[NPCs/Varga|Varga]] — a primeira para avisar, a segunda para matar.
 
 ## Aparência
 *A preencher.*
@@ -47,4 +49,4 @@ aliases: ["Brask"]
 
 ---
 
-**Veja também:** [[Exilados/Exilados|Exilados]] | [[Geografia/Raiz-Funda|Raiz-Funda]]
+**Veja também:** [[Exilados/Exilados|Exilados]] | [[Geografia/Raiz-Funda|Raiz-Funda]] | [[NPCs/Velho Rói-Raiz|Velho Rói-Raiz]] | [[Geografia/Jardim Dourado|Jardim Dourado]]

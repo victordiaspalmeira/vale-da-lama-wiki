@@ -26,25 +26,25 @@ aliases: ["Og'gath", "Sapo-Trovão", "Sapo-Trovão do Lago Central"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-**Og'gath**, o **Sapo-Trovão do Lago Central** para os moradores de [[Geografia/Raiz-Funda|Raiz-Funda]], domina as ilhotas do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], no coração do [[Geografia/Vale da Lama|Vale da Lama]]. Nenhuma tribo lhe ergue altares, mas seu coaxar grave atravessa o brejo e mantém canoas e batedores longe daquelas águas.
+**Og'gath**, conhecido entre os moradores de [[Geografia/Raiz-Funda|Raiz-Funda]] como o **Sapo-Trovão do Lago Central**, reina sobre as ilhotas do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], no coração do [[Geografia/Vale da Lama|Vale da Lama]]. Nenhuma tribo lhe ergue altares ou entoa cânticos em sua honra, mas seu coaxar grave atravessa o brejo inteiro e mantém canoas, pescadores e batedores bem longe daquelas águas.
 
 ## Aparência
-Um anfíbio colossal cuja massa pesada faz a lama e as margens das ilhotas centrais estremecerem a cada movimento.
+Og'gath é um anfíbio colossal cuja massa pesada faz o lodo e as margens das ilhotas centrais estremecerem a cada movimento. Quando se arrasta para fora da água ou muda de posição entre os juncos, o próprio chão encharcado responde com um tremor surdo.
 
 ## Personalidade e Maneirismos
-Não sai à caça por capricho, mas não tolera intrusos: esmaga com fúria extrema qualquer criatura que se aproxime demais de seu território.
+O Sapo-Trovão não sai à caça por capricho nem persegue presas pelos canais do vale, mas não tolera intrusos em seu domínio: esmaga com fúria extrema qualquer criatura que ouse se aproximar demais das ilhotas centrais.
 
 ## História
 *A preencher.*
 
 ## Função e Ocupação
-Sem descanso, Og'gath patrulha as margens do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], como se procurasse algo perdido sob a água turva. Seu coaxar ecoa a quilômetros de distância e faz vibrar a terra e a superfície do lago central.
+Sem descanso aparente, Og'gath patrulha as margens do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], rondando os baixios e as beiradas de pedra e lodo como se procurasse algo perdido sob a água turva. De tempos em tempos, seu coaxar grave ecoa por quilômetros de distância, fazendo vibrar a terra úmida e a superfície escura do lago central até as passarelas mais distantes.
 
 ## Relações e Alianças
-* **Povos do Vale:** Os goblins do vale evitam a qualquer custo suas ilhotas e as águas do lago central — já marcadas por embates entre feras espirituais e grandes predadores.
+* **Povos do Vale:** Os goblins do vale evitam a qualquer custo suas ilhotas e as águas centrais do lago — uma região já marcada por embates violentos entre feras espirituais e grandes predadores.
 
 ## O que se Conta pelo Pântano
-- **A Busca sem Fim:** Ao redor das fogueiras de Raiz-Funda, ninguém sabe dizer o que o Sapo-Trovão procura nas margens do Lago da Grande Tirana — nem se essa vigília sem fim tem alguma relação com as profundezas onde jaz a carcaça de Cinderath.
+- **A Busca sem Fim:** Ao redor das fogueiras de Raiz-Funda, ninguém sabe dizer o que o Sapo-Trovão procura com tanta insistência nas margens do Lago da Grande Tirana — nem se essa vigília sem fim guarda alguma ligação com as profundezas escuras onde jaz a carcaça de Cinderath.
 
 ---
 

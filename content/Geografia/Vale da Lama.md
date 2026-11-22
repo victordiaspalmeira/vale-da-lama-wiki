@@ -27,7 +27,7 @@ aliases: ["O Pântano", "Vale da Lama"]
 O **Vale da Lama** é uma depressão pantanosa extensa a leste das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] e aberta a nordeste para o **[[Geografia/Mar das Brumas|Mar das Brumas]]**. Cercado por escarpas baixas de rocha erodida que retêm as águas e a neblina espessa durante quase todo o ano, é um mundo sem estradas: quem cruza seus canais depende de ler a maré, o lodo e os limites invisíveis entre tribos e entidades espirituais.
 
 ## Geografia e Ambiente
-Não há campos abertos nem caminhos firmes contínuos. O vale se divide em canais lodosos, ilhotas de turfa instável, mangues de raízes altas e bosques de cogumelos gigantes cujos chapéus filtram a luz do sol. As águas que descem das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] atravessam o brejo até convergir no [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], antes de escoarem para o mar.
+Não há campos abertos nem caminhos firmes contínuos. O vale se divide em canais lodosos, ilhotas de turfa instável, mangues de raízes altas e bosques de cogumelos gigantes cujos chapéus filtram a luz do sol, mergulhando o chão em penumbra úmida. As águas que descem das [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] atravessam o brejo carregando barro e restos orgânicos até convergir no [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], antes de escoarem por canais estreitos para o mar. Aqui, cada passo fora das estacas de osso ou das raízes firmes arrisca entregar a bota — e o corpo — à lama que não devolve o que engole.
 
 ![[assets/mapa-vale-da-lama.jpg]]
 
@@ -57,12 +57,13 @@ Eras antes dos goblins, uma civilização élfica extinta ergueu os pórticos de
 8. **Leste / Sudeste — [[Geografia/Delta das Aguas Mortas|O Delta das Águas Mortas]]:** Emaranhado de ilhotas e canais de maré que escoa o [[Geografia/Rio Lodo-Negro|Rio Lodo-Negro]] para o [[Geografia/Mar das Brumas|Mar das Brumas]].
 
 ## Perigos e Recursos
-- **Comércio e Fronteiras:** Toda troca entre os povos do vale acontece por **escambo**. O atrito mais frequente nasce das invasões de fronteira entre os [[Tribos/Masca-Musgo|Masca-Musgo]] e os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]], enquanto os [[Tribos/Ventre-Inchado|Ventre-Inchado]] se mantêm isolados ao sul.
-- **Leis Espirituais:** A [[Cosmologia/Lei da Troca|Lei da Troca]] e o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] regem quem circula pelo setor oeste e arredores.
+No Vale da Lama, ninguém compra passagem ou abrigo com ouro: toda troca entre os povos acontece por **escambo**, pesando sal, peles, esporos e favores. O atrito mais frequente nasce das invasões de fronteira entre os [[Tribos/Masca-Musgo|Masca-Musgo]] e os [[Tribos/Ferve-Alga (Olhos-Vermelhos)|Ferve-Alga]], enquanto os [[Tribos/Ventre-Inchado|Ventre-Inchado]] se mantêm fechados ao sul e os [[Tribos/Tece-Pele|Tece-Pele]] cruzam as copas levando notícias e segredos.
+
+Acima das disputas entre tribos, quem circula pelo setor oeste e arredores responde a leis espirituais mais antigas que qualquer fronteira: a [[Cosmologia/Lei da Troca|Lei da Troca]] e o [[Cosmologia/Codigo de Honra do Fogo|Código de Honra do Fogo]] cobram respeito de todo viajante antes que ele mergulhe uma vara no brejo ou acenda uma brasa contida.
 
 ## O que se Conta pelo Pântano
-- **O Sapo-Trovão do Lago:** Batedores dizem que o coaxar grave de [[Deuses-Fera/Og'gath|Og'gath]] faz tremer as raízes na borda do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], e que ele ronda as margens como quem procura algo perdido na lama.
-- **A Espadachim entre Fronteiras:** Nas trilhas disputadas entre Masca-Musgo e Ferve-Alga, viajantes rezam para não cruzar o caminho de [[Deuses-Fera/Krr'tak|Krr'tak]]; seu humor brutal só poupa goblins por uma dívida antiga com [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] — e nem sempre a dívida segura a lâmina.
+- **O Sapo-Trovão do Lago:** Batedores dizem que o coaxar grave de [[Deuses-Fera/Og'gath|Og'gath]] faz tremer as raízes na borda do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]], e que ele ronda as margens como quem procura algo perdido na lama há tempo demais.
+- **A Espadachim entre Fronteiras:** Nas trilhas disputadas entre Masca-Musgo e Ferve-Alga, viajantes rezam baixo para não cruzar o caminho de [[Deuses-Fera/Krr'tak|Krr'tak]]; seu humor brutal e pastelão só poupa goblins por uma dívida antiga com [[Cosmologia/Nyog'Sothep|Nyog'Sothep]] — e nem sempre a dívida segura a lâmina.
 - **A Fúria Além das Pedras Mortas:** Poucos goblins atravessaram as ruínas até as [[Geografia/Terras Verdejantes|Terras Verdejantes]], mas todos repetem que a mata limpa de lá pertence às investidas imprevisíveis de [[Criaturas/Ulok|Ulok, a Grande Javali]].
 
 ---

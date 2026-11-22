@@ -23,20 +23,20 @@ aliases: ["Montanhas do Oeste", "Extremo Oeste", "Montanhas do Extremo Oeste"]
 
 <blockquote class="epigraph">*A preencher.*</blockquote>
 
-As **Montanhas do Oeste** (ou **Montanhas do Extremo Oeste**) erguem-se além da borda ocidental do [[Geografia/Vale da Lama|Vale da Lama]], logo após os [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa e Brejo do Musgo-Negro]]. Foi ali que os goblins suportaram a escravidão sob o fogo dos [[Tribos/Povo Dragão|Dragões Vermelhos]] antes de romper suas correntes e conquistar o leste.
+As **Montanhas do Oeste** (ou **Montanhas do Extremo Oeste**) erguem-se além da borda ocidental do [[Geografia/Vale da Lama|Vale da Lama]], logo após os [[Geografia/Pocos de Turfa e Brejo do Musgo-Negro|Poços de Turfa e Brejo do Musgo-Negro]]. Foi naquela pedra seca e sob o calor sufocante das forjas que os goblins suportaram a escravidão imposta pelo [[Tribos/Povo Dragão|Povo Dragão]], antes de romper suas correntes e conquistar a liberdade no leste.
 
 ## Geografia e Ambiente
-Fora da bacia pantanosa, o terreno seca em escarpas pedregosas rasgadas por antigas galerias de mineração. Das vertentes dessas encostas nascem os cursos d'água que descem pelo oeste, atravessam o brejo e convergem no [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
+Fora da bacia pantanosa, a umidade cede lugar a escarpas pedregosas, vales estreitos e paredões rasgados por antigas galerias de mineração. O chão range com cascalho solto e poeira seca; não há lama para amortecer o passo nem dossel de cogumelos para filtrar a claridade crua. Ainda assim, é dessas encostas áridas que brotam os cursos d'água que descem pelo oeste, atravessam o brejo de piche e convergem no [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].
 
 ## História
-Durante eras, as entranhas da cordilheira abrigaram as minas onde os Filhos de Ashkor escravizavam os goblins. Na escassez das rochas úmidas, os cativos raspavam musgo comum para matar a fome — hábito que originou o nome [[Tribos/Masca-Musgo|Masca-Musgo]].
+Durante eras, as entranhas da cordilheira abrigaram as minas onde os Filhos de Ashkor escravizavam os goblins. Na escassez das rochas úmidas, longe de qualquer lavoura ou caça livre, os cativos raspavam musgo comum das frestas para matar a fome — hábito de sobrevivência que deu origem ao nome [[Tribos/Masca-Musgo|Masca-Musgo]].
 
-Em uma dessas câmaras profundas, os escravizados encontraram o **[[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]]** junto ao primeiro [[Cosmologia/Micelio Dourado|Micélio Dourado]]. Após vinte anos de sabotagem com esporos — a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]] — e a derrota dracônica na **Batalha da Lua Nova**, os Dragões abandonaram as montanhas e fugiram para o leste, perseguidos na **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**.
+Em uma dessas câmaras profundas, longe dos olhos dos feitores, os escravizados encontraram o **[[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]]** junto ao primeiro [[Cosmologia/Micelio Dourado|Micélio Dourado]]. Ali começou a [[Historia/A Grande Morte Lenta|Grande Morte Lenta]]: vinte anos de sabotagem silenciosa com esporos que minaram o domínio dracônico por dentro, culminando na derrota dos senhores alados na **Batalha da Lua Nova**. Enfraquecidos e acuados, os Dragões abandonaram as montanhas e fugiram para o leste, perseguidos sem trégua na **[[Historia/Cacada Sagrada|Primeira Caçada Sagrada]]**.
 
 ## Sociedade e Pontos de Interesse
 
 ### Pontos de Interesse
-- **Antigas Minas:** Galerias cavadas na rocha viva onde os goblins trabalharam sob o calor das forjas dracônicas e onde repousava o Ídolo de Nyog'Sothep antes da fuga para o vale.
+As **Antigas Minas** permanecem abertas na rocha viva como feridas vazias na encosta. Nesses túneis escuros os goblins trabalharam sob o calor das forjas dracônicas, e numa de suas câmaras mais fundas repousava o Ídolo de Nyog'Sothep antes da marcha para o vale. Hoje, nenhum povo do pântano reivindica aquelas galerias.
 
 ### NPCs e Criaturas da Região
 *A preencher.*
@@ -45,7 +45,7 @@ Em uma dessas câmaras profundas, os escravizados encontraram o **[[Cosmologia/I
 *A preencher.*
 
 ## O que se Conta pelo Pântano
-- **A Terra que Ninguém Quer Rever:** O nome [[Tribos/Masca-Musgo|Masca-Musgo]] ainda guarda a lembrança da fome nas pedras, mas ninguém em [[Geografia/Raiz-Funda|Raiz-Funda]] olha para o oeste com saudade — para eles, aquelas encostas secas cheiram apenas a ferro, fumaça e correntes.
+- **A Terra que Ninguém Quer Rever:** O nome [[Tribos/Masca-Musgo|Masca-Musgo]] ainda guarda a lembrança da fome nas pedras, mas ninguém em [[Geografia/Raiz-Funda|Raiz-Funda]] olha para o oeste com saudade. Para os mais velhos, aquelas encostas secas cheiram apenas a ferro, fumaça e correntes — e quem precisa atravessar o sopé apressa o passo para não ter de encarar as bocas vazias das minas.
 
 ---
 
