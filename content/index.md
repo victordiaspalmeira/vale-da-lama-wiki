@@ -52,25 +52,13 @@ O **[[Geografia/Vale da Lama|Vale da Lama]]** é uma bacia pantanosa vasta, úmi
   </div>
 
   <div class="hub-card">
-    <div class="hub-card-title"><a href="./NPCs/NPCs" class="internal">NPCs</a></div>
+    <div class="hub-card-title"><a href="./NPCs/NPCs" class="internal">NPCs &amp; Criaturas</a></div>
     <div class="hub-card-image"><img src="./assets/malok.jpg" alt="Sacerdote-Chefe Malok" /></div>
     <p>Goblins de renome, figuras infames e outras criaturas notáveis do pântano.</p>
     <ul>
-      <li><a href="./NPCs/NPCs" class="internal">Diretório Completo de NPCs</a></li>
-      <li><a href="./Geografia/Raiz-Funda#moradores-e-líderes" class="internal">Moradores de Raiz-Funda</a></li>
-      <li><a href="./NPCs/Murok" class="internal">Murok, o Ancião Centenário</a></li>
+      <li><a href="./NPCs/NPCs" class="internal">Diretório de NPCs</a> &amp; <a href="./Geografia/Raiz-Funda#moradores-e-líderes" class="internal">Moradores de Raiz-Funda</a></li>
       <li><a href="./Exilados/Exilados" class="internal">Exilados</a>: <a href="./Exilados/Brask" class="internal">Brask</a>, <a href="./Exilados/Nokk" class="internal">Nokk</a> &amp; <a href="./Exilados/Skrit" class="internal">Skrit</a></li>
-    </ul>
-  </div>
-
-  <div class="hub-card">
-    <div class="hub-card-title"><a href="./Criaturas/Criaturas" class="internal">Criaturas &amp; Feras</a></div>
-    <div class="hub-card-image"><img src="./assets/ulok.jpg" alt="Ulok, a Grande Javali" /></div>
-    <p>Feras colossais, crias de Deuses-Fera e perigos fora dos limites.</p>
-    <ul>
-      <li><a href="./Criaturas/Pinça-de-Sal" class="internal">Pinça-de-Sal (Cria de Karkinos)</a></li>
-      <li><a href="./Criaturas/Rainha-Sanguessuga-de-Águas-Paradas" class="internal">Rainha-Sanguessuga de Águas Paradas</a></li>
-      <li><a href="./Criaturas/Ulok" class="internal">Ulok, a Grande Javali</a></li>
+      <li><a href="./Criaturas/Criaturas" class="internal">Criaturas &amp; Feras</a>: <a href="./Criaturas/Ulok" class="internal">Ulok</a>, <a href="./Criaturas/Pinça-de-Sal" class="internal">Pinça-de-Sal</a> &amp; <a href="./Criaturas/Rainha-Sanguessuga-de-Águas-Paradas" class="internal">Rainha-Sanguessuga</a></li>
     </ul>
   </div>
 

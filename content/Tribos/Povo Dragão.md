@@ -21,7 +21,7 @@ aliases: ["Povo Dragão", "Dragões Vermelhos", "Os Filhos de Ashkor", "Cinderat
 
 # Povo Dragão
 
-O **Povo Dragão** refere-se aos **Dragões Vermelhos** da linhagem **Os Filhos de Ashkor**, que habitavam as [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]] — e não o [[Geografia/Vale da Lama|Vale da Lama]]. Durante eras, mantiveram os Goblins sob escravidão eterna nas minas escavadas dentro das montanhas.
+O **Povo Dragão** refere-se aos **Dragões Vermelhos** da linhagem **Os Filhos de Ashkor**, que habitavam as [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]] — e não o [[Geografia/Vale da Lama|Vale da Lama]]. Durante eras, mantiveram os Goblins sob escravidão do fogo nas minas escavadas dentro das montanhas.
 
 ## Aparência e Traços
 *A preencher.*

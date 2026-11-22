@@ -350,6 +350,10 @@ article img {
   box-sizing: border-box;
 }
 
+.hub-card:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+}
+
 .hub-card-title {
   background: var(--vale-accent);
   color: var(--vale-accent-text) !important;

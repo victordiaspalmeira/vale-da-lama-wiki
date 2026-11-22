@@ -20,7 +20,7 @@ aliases: ["Caçada Sagrada", "Primeira Caçada Sagrada", "Caçadas Sagradas"]
 
 # A Caçada Sagrada
 
-A **Caçada Sagrada** é o rito tradicional de provação e coleta dos [[Tribos/Masca-Musgo|Masca-Musgo]] no [[Geografia/Vale da Lama|Vale da Lama]]. Para jovens iniciados, completar uma caçada honrada marca sua passagem definitiva para a vida adulta dentro de [[Geografia/Raiz-Funda|Raiz-Funda]].
+A **Caçada Sagrada** é o rito tradicional de provação, memória e agradecimento dos [[Tribos/Masca-Musgo|Masca-Musgo]] no [[Geografia/Vale da Lama|Vale da Lama]]. É nela que os goblins relembram, **em memória e em ato**, a caçada aos [[Tribos/Povo Dragão|Dragões Vermelhos]] — seus antigos inimigos e opressores — e sacrificam a carne em gratidão pelo que foi conquistado e pelo que ainda há de ser feito. Ao completar a Caçada Sagrada, todo jovem entra na vida adulta já reconhecido por [[Cosmologia/Nyog'Sothep|seu Deus]] como valente, honrado e grato pelo que tem.
 
 ## Antecedentes
 A tradição nasceu ao final da **[[Historia/A Grande Morte Lenta|Grande Morte Lenta]]**. Após derrotarem os [[Tribos/Povo Dragão|Dragões Vermelhos]] na Batalha da Lua Nova, os Goblins abandonaram seus antigos lares nas [[Geografia/Montanhas do Oeste|Montanhas do Oeste]] para perseguir e exterminar cada Dragão que havia fugido para o leste — culminando na queda da Matriarca nas águas do [[Geografia/Lago da Grande Tirana|Lago da Grande Tirana]].

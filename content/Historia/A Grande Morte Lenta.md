@@ -22,12 +22,12 @@ aliases: ["Grande Morte Lenta", "Primeira Caçada Sagrada", "Ídolo de Nyog'Soth
 
 <blockquote class="epigraph">"Vinte anos de esporos em silêncio derrubaram o que séculos de correntes não puderam quebrar."</blockquote>
 
-A **Grande Morte Lenta** foi o processo de vinte anos — culminando na Batalha da Lua Nova e na **Primeira Caçada Sagrada** — pelo qual os Goblins se libertaram da escravidão eterna sob os [[Tribos/Povo Dragão|Dragões Vermelhos]] nas [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]] e tomaram o [[Geografia/Vale da Lama|Vale da Lama]] a leste.
+A **Grande Morte Lenta** foi o processo de vinte anos — culminando na Batalha da Lua Nova e na **Primeira Caçada Sagrada** — pelo qual os Goblins se libertaram da escravidão do fogo sob os [[Tribos/Povo Dragão|Dragões Vermelhos]] nas [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]] e tomaram o [[Geografia/Vale da Lama|Vale da Lama]] a leste.
 
 ## Antecedentes
 Antes de habitarem o [[Geografia/Vale da Lama|Vale da Lama]], os Goblins eram escravizados por uma linhagem de **[[Tribos/Povo Dragão|Dragões Vermelhos]]** conhecida como **Os Filhos de Ashkor**, forçados a trabalhar sem descanso nas minas escavadas dentro das [[Geografia/Montanhas do Oeste|Montanhas do Extremo Oeste]].
 
-A mudança começou com a descoberta de um **[[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]]** dentro de uma das câmaras das minas: uma **mosca de madeira extremamente detalhada**, repousando sobre a **boca aberta de um sapo de madeira menos detalhado**. Esse ídolo produzia pequenas quantidades de [[Cosmologia/Micelio Dourado|Micélio Dourado]] dentro de si e nos seus arredores. Quando mastigado, o Micélio Dourado provocava nos Goblins **intensas visões febris**, que mostraram o que seria necessário para se livrarem da escravidão eterna.
+A mudança começou com a descoberta de um **[[Cosmologia/Idolo de Nyog'Sothep|Ídolo de madeira de Nyog'Sothep]]** dentro de uma das câmaras das minas: uma **mosca de madeira extremamente detalhada**, repousando sobre a **boca aberta de um sapo de madeira menos detalhado**. Esse ídolo produzia pequenas quantidades de [[Cosmologia/Micelio Dourado|Micélio Dourado]] dentro de si e nos seus arredores. Quando mastigado, o Micélio Dourado provocava nos Goblins **intensas visões febris**, que mostraram o que seria necessário para se livrarem da escravidão do fogo.
 
 ## O Decorrer dos Acontecimentos
 

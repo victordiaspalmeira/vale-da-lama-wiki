@@ -14,7 +14,7 @@ aliases: ["Deus Fúngico", "Nyog'Sothep", "Jardim Dourado", "Ciclo de Devoluçã
     <tr><td><b>Tipo</b></td><td><a href="../Cosmologia/Deus-Verdadeiro" class="internal">Deus Verdadeiro</a> (Fúngico)</td></tr>
     <tr><td><b>Epíteto</b></td><td>Deus Fúngico</td></tr>
     <tr><td><b>Domínio</b></td><td>Decomposição, Fermentação, Esporos</td></tr>
-    <tr><td><b>Manifestação</b></td><td>Enxame de moscas negras e verde-metálicas</td></tr>
+    <tr><td><b>Manifestação</b></td><td>Enxame de moscas negras e dourado-metálicas</td></tr>
     <tr><td><b>Santuário</b></td><td><a href="../Geografia/Jardim-Dourado" class="internal">Jardim Dourado</a></td></tr>
     <tr><td><b>Símbolo</b></td><td><a href="../Cosmologia/Micelio-Dourado" class="internal">Micélio Dourado</a></td></tr>
     <tr><td><b>Adoradores</b></td><td><a href="../Tribos/Masca-Musgo" class="internal">Masca-Musgo</a></td></tr>
@@ -31,7 +31,7 @@ aliases: ["Deus Fúngico", "Nyog'Sothep", "Jardim Dourado", "Ciclo de Devoluçã
 ## Aparência
 Como Deus Verdadeiro, ele **não possui forma física definida** e **não interage de maneira tão direta com o plano físico** — diferente dos [[Deuses-Fera/Deus-Fera|Deuses-Fera]], que transitam com muito mais facilidade entre o etéreo e o físico. Ele não possui trono, rosto esculpido ou corte de avatares, tampouco comanda Deuses-Fera menores para agir em seu nome. Para o clero de [[Geografia/Raiz-Funda|Raiz-Funda]], Nyog'Sothep é vasto demais para caber em um único corpo: sua presença opera através da rede subterrânea de micélio, dos esporos e do [[Cosmologia/Micelio Dourado|Micélio Dourado]], desmanchando madeira, osso, pele e escama antiga para devolver sustento ao brejo.
 
-Em ocasiões excepcionais — durante rituais solenes de condução espiritual ou diante de profanações graves contra o ciclo — o deus condensa sua presença em um enxame denso de moscas negras e verde-metálicas. O enxame parece brotar da própria lama úmida e das frestas das cascas de árvore, formando uma nuvem vibrante cujo zumbido grave ressoa nos ossos dos presentes.
+Em ocasiões excepcionais — durante rituais solenes de condução espiritual ou diante de profanações graves contra o ciclo — o deus condensa sua presença em um enxame denso de moscas negras e dourado-metálicas. O enxame parece brotar da própria lama úmida e das frestas das cascas de árvore, formando uma nuvem vibrante cujo zumbido grave ressoa nos ossos dos presentes.
 
 ## Personalidade e Maneirismos
 Ele não é um deus da morte estéril, mas da digestão sagrada. Na crença do Oeste, toda criatura viva carrega apenas um empréstimo temporário de matéria. Quando um ser morre, Nyog'Sothep reclama o que lhe pertence através do bolor, da larva e do esporo. Cremar um cadáver ou encerrá-lo em pedra seca longe da umidade é considerado roubo cósmico — uma tentativa arrogante de negar ao pântano o alimento que lhe é devido.
